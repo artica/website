@@ -1,0 +1,22 @@
+---
+layout: post
+date: 2011-03-17 18:11:49 UTC
+title: "CCDR-LVT"
+categories: blog
+excerpt: "Today we\'re gonna enter in the time machine and show you our first work."
+longexcerpt: "Today we\'re gonna enter in the time machine and show you our first work.Leonel Moura, robot artist, designed the \"Stand Lisboa e Vale do Tejo\" for the Feira de Portugal Tecnológico at FIL, and through IDMind invited us to create interactive content to a huge led wall."
+---
+
+Today we're gonna enter in the time machine and show you our first work.
+
+<a href="http://www.leonelmoura.com/">Leonel Moura</a>, robot artist, designed the "Stand Lisboa e Vale do Tejo" for the Feira de Portugal Tecnológico at FIL, and through <a href="http://www.idmind.pt/">IDMind</a> invited us to create interactive content to a huge led wall.
+
+We were inspired by Leonel's painter robots and created a program with a computer vision detection system that analysis people movements and sends that information to a painting agent based particle system.
+
+To do this, and due to the lack of time, we decided to do it with OpenFrameworks and invited <a href="http://s373.net/sier/">André Sier</a> to join us in this project.
+
+André Sier is a great creative developer, with his knowledge in OpenFrameworks and agent based particle systems this work was a piece of cake, letting us in Artica improve our skills and deliver a high quality project with a great interaction.
+
+<div class="video-container"><iframe src="http://player.vimeo.com/video/17426901" frameborder="0" allowfullscreen></iframe></div><p>
+
+Each particle have a live cycle, it appears near the people that are passing by, and is always trying to reach the people because they only survive if there is a person near by. When it moves, each particle leaves a colored trail creating a big abstract painting on the led wall, as you can see in the video above.

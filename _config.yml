@@ -1,0 +1,13 @@
+name: Artica Website
+markdown: redcarpet
+pygments: true
+paginate: 5
+paginate_path: "blog/page/:num"
+timezone: Europe/Lisbon
+redcarpet:
+  extensions:
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_blocks

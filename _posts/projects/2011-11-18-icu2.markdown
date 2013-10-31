@@ -1,0 +1,28 @@
+---
+layout: post
+date: 2011-11-18 19:27:11
+title: "ICU2"
+categories: projects customrobotics
+excerpt: "I SEE YOU TOO, is the 2nd version of the original ICU"
+thumbnail: /assets/thumbs/2011-11-18-icu2-1.jpg
+---
+
+<img class="postimage" src="/assets/images/2011-11-18-icu2-1.jpg"/>
+
+I SEE YOU TOO, is the 2nd version of the original <a href="http://lab.guilhermemartins.net/2010/07/20/icu/">ICU</a>
+
+<img class="postimage" src="/assets/images/2011-11-18-icu2-2.jpg"/>
+
+This version gained an upgrade in both hardware and software.
+
+The hardware is mostly based on <a href="http://servocity.com">servocity.com</a> pan and tilt systems.
+
+<img class="postimage" src="/assets/images/2011-11-18-icu2-3.jpg"/>
+
+<img class="postimage" src="/assets/images/2011-11-18-icu2-4.jpg"/>
+
+This is a work in progress, until now what is implemented is Face Detect with the openCV library for Processing.
+Next stage is to implement a more robust face and emotions detection and this will run on top of an inverse kinematics algorithm. What we want the most is ICU2 to be a living organism, with a complex behavior tree system.
+
+<div class="video-container"><iframe src="http://www.youtube.com/embed/rmqp3KA0PeM" frameborder="0" allowfullscreen></iframe></div>
+ 

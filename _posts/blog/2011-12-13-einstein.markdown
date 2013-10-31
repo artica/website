@@ -1,0 +1,48 @@
+---
+layout: post
+date: 2011-12-13 12:06:34 UTC
+title: "EINSTEIN"
+categories: blog
+excerpt: "We\'re very pleased to announce the launch of our new open source video player!"
+longexcerpt: "We\'re very pleased to announce the launch of our new open source video player!Einstein VideoPlayer is a project initiated by Guilherme Martins during a dance performance entitled “Einstein Dreams” created by Rui Horta. All this took place at Göteborg Opera in Sweden, September of 2010."
+thumbnail: /assets/thumbs/2011-12-13-einstein-1.jpg
+frontimage: /assets/images/2011-12-13-einstein-1.jpg
+---
+
+We're very pleased to announce the launch of our new open source video player!
+
+Einstein VideoPlayer is a project initiated by <a href="http://lab.guilhermemartins.net/">Guilherme Martins</a> during a dance performance entitled <a href="http://en.opera.se/forestallningar/einstein-and-the-guest-house-2010-2011/">“Einstein Dreams”</a> created by <a href="http://www.oespacodotempo.pt/pt/esp_tem.php?idpan=rui">Rui Horta</a>. All this took place at <a href="http://en.opera.se/">Göteborg Opera</a> in Sweden, September of 2010.
+
+<div class="video-container"><iframe src="http://player.vimeo.com/video/14922453?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" allowfullscreen></iframe></div>
+
+Einstein is not just a tool to play videos, it allows anyone to play a list of videos, cross fading between them, with the possibility to adjust the video output to many kinds of surfaces.
+
+“Content is king”, we believe that this tool is an ice breaker to anyone that intends to playback videos in thousands of different manners.
+
+This is the first public release, however this will always be a work in progress project, and being open source we intend that you use, modify, hack and share this tool.
+
+<img class="postimage" src="/assets/images/2011-12-13-einstein-1.jpg"/>
+
+<strong>List of features available ATM:</strong>
+
+- playlist with file names;
+- parametric crossfade between videos;
+- parametric fade in and out to black and/or white;
+- keystone / corner-pin adjustment;
+- record and load custom presets.
+
+Future versions will include:
+
+- mask overlay with a PNG with transparency;
+- independent multiplayer system (optional);
+- one player as Master and the other player as Slave (optional);
+- customization for several outputs;
+- edge-blend;
+- subtitle overlay;
+- Improve modularity for fast prototyping and custom projects;
+- Improve performance;
+- Create the same GUI paradigm to control audio and light;
+- Cue list to control everything;
+- MIDI, DMX and OSC protocol to control Einstein, and to be controlled by Einstein.
+
+To know more about how the project started and to DOWNLOAD EINSTEIN go to <a href="www.artica.cc/einstein">www.artica.cc/einstein</a>

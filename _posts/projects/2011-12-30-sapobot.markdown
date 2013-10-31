@@ -1,0 +1,32 @@
+---
+layout: post
+date: 2011-12-30 12:05:37
+title: "SapoBot"
+categories: projects customrobotics
+excerpt: "SapoBot is a robot that wonders through spaces avoiding obstacles detects holes on the ground, follow walls and follow lines, to change between behaviors you only need to press the shell, and when he detects a collision gives a frog sound. This project was comissioned by Sapo, means frog in portuguese."
+thumbnail: /assets/thumbs/2011-12-30-sapobot-1.jpg
+---
+
+SapoBot is a robot that wonders through spaces avoiding obstacles detects holes on the ground, follow walls and follow lines, to change between behaviors you only need to press the shell, and when he detects a collision gives a frog sound. This project was comissioned by <a href="http://sapo.pt">Sapo</a>, means frog in portuguese.
+
+<div class="video-container"><iframe src="http://www.youtube.com/embed/ZhATUkaM5oI" frameborder="0" allowfullscreen></iframe></div>
+
+This bots were made with a <a href="http://guibot.pt/farrusco">Farrusco</a> chassis and <a href="http://guibot.pt/motoruino">Motoruino</a> and once again with the great <a href="http://idmind.pt">IDMind</a> hardware and electronics skills, all the credits for the eyes mechanics and all the rest of the hardware upgrade goes to them.
+
+<img class="postimage" src="/assets/images/2011-12-30-sapobot-1.jpg"/>
+The shell was made by Fernando and Margarida Antunes, don't forget to check their amazing art work at <a href="http://margaridantunes.weebly.com">http://margaridantunes.weebly.com</a>.
+
+<img class="postimage" src="/assets/images/2011-12-30-sapobot-2.jpg"/>
+This is a Farrusco on steroids!! Only the pins 0 and 1 for serial communication are free, all the other pins are taken for a considerable amount of sensors and actuators: 3 infrared sensors to measure distances on the front, 3 infra red sensors facing the ground, a speaker, 1 RGB LED, 1 servo motor, 2 dc motors and 2 bumper micro-switches to detect collisions.
+
+<img class="postimage" src="/assets/images/2011-12-30-sapobot-3.jpg"/>
+The eyes are meant to give some human expression to the bot, they turn organically to both sides according the direction that the robot takes.
+
+<img class="postimage" src="/assets/images/2011-12-30-sapobot-4.jpg"/>
+We coded an application in Processing to check all the sensors and actuators, allowing to save settings on the microcontroller EEPROM. This code will be available on <a href="http://github.com/artica">Artica's github</a> soon.
+
+<img class="postimage" src="/assets/images/2011-12-30-sapobot-5.jpg"/>
+Time to drink some juice :]
+
+<img class="postimage" src="/assets/images/2011-12-30-sapobot-6.jpg"/>
+And the result is a happy family!

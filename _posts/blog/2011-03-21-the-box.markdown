@@ -1,0 +1,26 @@
+---
+layout: post
+date: 2011-03-21 16:46:36 UTC
+title: "The Box"
+categories: blog
+excerpt: "There\'s a new robot in town!!"
+longexcerpt: "There\'s a new robot in town!!The Box is a robot created by our prodigy friend Francisco Dias."
+thumbnail: /assets/thumbs/2011-03-21-the-box-1.jpg
+frontimage: /assets/images/2011-03-21-the-box-1.jpg
+---
+
+There's a new robot in town!!
+
+<a href="http://www.franciscodias.net/robots/the-box">The Box</a> is a robot created by our prodigy friend <a href="http://www.franciscodias.net/">Francisco Dias. </a>
+
+<a href="/assets/images/2011-03-21-the-box-1.jpg"><img class="postimage" src="/assets/images/2011-03-21-the-box-1.jpg"/></a>
+
+Follow colors, react to human faces, detect flames, drive around avoiding walls, be remote controlled through the internet or using a wiimote, this is all possible with this platform for notebooks. The list is almost endless because you can always put an extra on your notebook and work with it (cameras, sound system, robotic arms, GPS, you name it...).
+
+<a href="/assets/images/2011-03-21-the-box-2.jpg"><img class="postimage" src="/assets/images/2011-03-21-the-box-2.jpg"/></a>
+
+Francisco used a <a href="http://www.guibot.pt/motoruino/"> Guibot's Motoruino</a> to simplify this setup and to be prepared for future upgrades.
+
+<div class="video-container"><iframe src="http://www.youtube.com/embed/MlxJLtR8JJg" frameborder="0" allowfullscreen></iframe></div>
+
+The Box is participating in a robot contest at <a href="http://www.instructables.com/">Instructables</a> so we've got to help Francisco win. See more and vote <a href="http://www.instructables.com/contest/robot/?show=ENTRIES">here</a>.

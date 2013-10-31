@@ -1,0 +1,68 @@
+---
+layout: contacts
+title: Artica Robotics
+---
+
+<div class="column-group gutters">
+
+    <div class="large-66 small-100 medium-66">
+      <p>
+        We're located in the occidental coast of the Peninsula of Setúbal, in the beautiful <a href="http://www.flickr.com/search/?q=costa%20da%20caparica">Caparica</a>, surrounded by long breathtaking beaches and the Tagus river. On the other side just 10 kms away is Lisbon, Portugal's capital city.
+      </p>
+      <p>
+        Feel free to contact us if you have questions regarding our projects, plataforms or business. At the end of the page you can also find links to our social media spots and our code repositories. Our address, telephones and email are on the right.
+      </p>
+    </div>
+
+    <div class="large-33 small-100 medium-33">
+        <address>
+        <h6>ARTICACC, LDA</h6>
+        <p>Madan Parque, Rua dos Inventores, Lote 4</p>
+        <p>2825-189 Caparica</p>
+        <p><i class="icon-envelope"></i> info@artica.cc</p>
+        <p><i class="icon-phone"></i> +351 212 947 828 | Main number</p>
+        <p><i class="icon-phone"></i> +351 912 227 682 | André Almeida</p>
+        <p><i class="icon-phone"></i> +351 918 154 947 | Guilherme Martins</p>
+        </address>
+    </div>
+
+</div>
+
+<div class="column-group">
+  <div id="map_canvas" class="large-100" style="width:100%;height:500px;margin-right:20px;"></div>
+</div>
+
+<div class="column-group gutters">
+
+    <div class="large-100 medium-100 small-100 shadows">
+
+
+    </div>
+
+</div>
+
+<script>
+var lat=38.660733;
+var lon=-9.203067;
+var center_lat=38.681624;
+var center_lon=-9.198475;
+var map_zoom=13;
+
+var map=$('#map_canvas').gmap({
+    'center': center_lat + ',' + center_lon,
+    'zoom': map_zoom,
+    'scrollwheel': false
+}).bind('init', function() {
+
+    $('#map_canvas').gmap('option', 'mapTypeId', google.maps.MapTypeId.SATELLITE);
+
+    var latlng = new google.maps.LatLng(lat,lon);
+
+    $('#map_canvas').gmap('addMarker', {
+        'position': lat + ',' + lon,
+        'bounds': false,
+        'draggable': true
+    });
+});
+
+</script>

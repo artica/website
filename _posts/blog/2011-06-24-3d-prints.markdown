@@ -1,0 +1,40 @@
+---
+layout: post
+date: 2011-06-24 13:05:04 UTC
+title: "3D Prints"
+categories: blog
+excerpt: "Our 3D printer is the best ally for this new (and still very secret) project!"
+longexcerpt: "Our 3D printer is the best ally for this new (and still very secret) project!We needed supports for two speakers, led boxes and wind tunnels."
+thumbnail: /assets/thumbs/2011-06-24-3d-prints-1.jpg
+frontimage: /assets/images/2011-06-24-3d-prints-1.jpg
+---
+
+Our 3D printer is the best ally for this new (and still very secret) project!
+
+We needed supports for two speakers, led boxes and wind tunnels.
+
+Take a look ate the result:
+
+<a href="/assets/images/2011-06-24-3d-prints-1.jpg"><img class="postimage" src="/assets/images/2011-06-24-3d-prints-1.jpg"/></a>
+
+The speakers with the two supports.
+
+<a href="/assets/images/2011-06-24-3d-prints-2.jpg"><img class="postimage" src="/assets/images/2011-06-24-3d-prints-2.jpg"/></a>
+
+Light and wind support:
+
+<a href="/assets/images/2011-06-24-3d-prints-3.jpg"><img class="postimage" src="/assets/images/2011-06-24-3d-prints-3.jpg"/></a>
+
+And finally the support for the motor:
+
+<a href="/assets/images/2011-06-24-3d-prints-4.jpg"><img class="postimage" src="/assets/images/2011-06-24-3d-prints-4.jpg"/></a>
+
+<a href="/assets/images/2011-06-24-3d-prints-5.jpg"><img class="postimage" src="/assets/images/2011-06-24-3d-prints-5.jpg"/></a>
+
+All the pieces we're designed by our good friend Eric Costa.
+
+Don't forget, you can print your own prototypes here at Artica.
+
+Give us a call!
+
+&nbsp;
