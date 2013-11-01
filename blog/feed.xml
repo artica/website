@@ -2,20 +2,17 @@
 layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>{{ site.name }}</title>
         <description>{{ site.description }}</description>
-        <link>{{ site.url }}</link>
-        <atom:link href="{{ site.url }}/blog/feed.xml" rel="self" type="application/rss+xml" />
-        {% for post in site.posts limit:10 %}
+        <link>{{ site.url }}</link>{% for post in site.posts limit:10 %}{% for category in post.categories %}{% if category == "blog" %}
             <item>
-                <title>{{ post.title }}</title>
+                <title>{{ post.title | xml_escape}}</title>
                 <description>{{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-            </item>
-        {% endfor %}
+            </item>{% endif %}{% endfor %}{% endfor %}
     </channel>
 </rss>

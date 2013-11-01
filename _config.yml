@@ -1,4 +1,6 @@
 name: Artica Website
+url: "http://artica.cc/"
+description: "We aim to transform emerging technologies and art into impactful human experiences. Artica digs electronics, education, robots, digital fabrication, prototyping, and all things creative."
 markdown: redcarpet
 pygments: true
 paginate: 5
