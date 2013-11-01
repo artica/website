@@ -133,7 +133,7 @@ Notes:
  * Thumbnail images should be hosted at [assets/thumbs/](assets/thumbs/)
  * In images and local assets, always use relative links starting with / (ie: /assets/images/post.png), never absolute.
 
-Here a [boilerplate](_templates/2013-10-31-template-post.markdown) to start a new post.
+Here's a [boilerplate](_templates/2013-10-31-template-post.markdown) to start a new post.
 
 [back to main](README.md)
 

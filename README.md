@@ -15,7 +15,7 @@ Now that you're done with git, start by cloning this repository in a local folde
 
 ```
 cd ~/Documents
-git clone git@github.com:celso/articacc.git
+git clone git@github.com:Artica/website.git
 cd articacc
 ```
 
