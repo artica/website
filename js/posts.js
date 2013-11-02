@@ -4,7 +4,7 @@ title: List of Posts in Javascript
 
 var posts=[];
 {% for post in site.posts %}{% for category in post.categories %}{% if category == "blog" and post.excerpt != "" %}
-posts.push({url: '{{ post.url }}',thumbnail: '{{ post.thumbnail }}',title: '{{ post.title | escape }}',excerpt: '{{ post.excerpt | escape }}'});
+posts.push({url: "{{ post.url }}",thumbnail: "{{ post.thumbnail }}",title: "{{ post.title | escape }}",excerpt: "{{ post.excerpt | escape }}"});
 {% endif %}{% endfor %}{% endfor %} 
 
 var index = lunr(function () {
