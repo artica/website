@@ -24,54 +24,31 @@ if($post=@file_get_contents($argv[1])) {
 		exit;
 	}
 
-	// 1. fix photos with <a>, making them local
-    preg_match_all("/<a href=\"(.*)\"(.*)?><img(.*)src=\"(.*)\"(.*)?><\/a>/U",$post,$images);
-    for($i=0;$i<sizeof($images[0]);$i++) {
-    	$link=$images[1][$i];
-    	$src=$images[4][$i];
+    // 1. fix photos, making them local
+    preg_match_all("/<img(.*)src=\"http:\/\/(.*)\"(.*)?>/U",$post,$images);
 
-    	// find extension
-    	$exts=preg_split("/\./",$src);
+    for($i=0;$i<sizeof($images[0]);$i++) {
+        $src="http://".$images[2][$i];
+
+        // find extension
+        $exts=preg_split("/\./",$src);
         $iext=strtolower($exts[sizeof($exts)-1]);
         if(!preg_match("/(png|jpg|jpeg|gif|bmp)/i", $iext)) $iext="jpg";
-    	$local=$date."-".$perma."-".($i+1).".".$iext;
-    	$local_path=$images_path."images/".$local;
+        $local=$date."-".$perma."-".($i+1).".".$iext;
+        $local_path=$images_path."images/".$local;
 
-    	// fint title and alt
-    	preg_match_all("/title=\"(.*)\"/U",$images[0][$i],$metas);
-    	$alt='';
-    	$title='';
-        if(sizeof($metas[0])) {
-        	$title=$metas[1][0];
-        }
+        // fint alt
+        $alt='';
         preg_match_all("/alt=\"(.*)\"/U",$images[0][$i],$metas);
         if(sizeof($metas[0])) {
-        	$alt=$metas[1][0];
+            $alt=$metas[1][0];
         }
         // download photos, make them local
         // if it is a flick url, lets make it's the "b" (1024) size
 
-        if(!@file_exists($local_path)) {
+        download_photo($src,$local_path);
 
-            echo "Downloading ".$src."\n";
-
-        	$gi=false;
-	        if(strstr($src,"staticflickr.com")) {
-	        	$src_b=preg_replace("/(.*)staticflickr\.com\/(.*)_(.*).jpg/","$1staticflickr.com/$2_b.jpg",$src);
-	        	// try the 1024 image
-	        	if($data=http_get_contents($src_b)) {
-	        		file_put_contents($local_path,$data);
-	        		$gi=true;
-	        	}
-	        }
-
-        	if($gi==false && $data=http_get_contents($src)) {
-        		file_put_contents($local_path,$data);
-        	}
-
-    	}
-
-    	$post=str_replace($images[0][$i],'<a href="'.$link.'" title="'.$title.'"><img src="/assets/images/'.$local.'" alt="'.$alt.'"></a>',$post);
+        $post=str_replace($images[0][$i],'<img src="/assets/images/'.$local.'" alt="'.$alt.'">',$post);
 
         // set frontimage and thumbnail
         if($i==0) {
@@ -79,17 +56,18 @@ if($post=@file_get_contents($argv[1])) {
             $post=preg_replace("/thumbnail: (.*)/","thumbnail: /assets/thumbs/".$local,$post);
         }
 
-    	/*
-	    echo "title: ".$title."\n";
-	    echo "alt: ".$alt."\n";
-	    echo "link: ".$link."\n";
-	    echo "src: ".$src."\n";
-	    echo "local: ".$local."\n";
-	    echo "local_path: ".$local_path."\n";
-	    echo "\n";
-	    */
+        /*
+        echo "title: ".$title."\n";
+        echo "alt: ".$alt."\n";
+        echo "src: ".$src."\n";
+        echo "local: ".$local."\n";
+        echo "local_path: ".$local_path."\n";
+        echo "\n";
+        */
 
     }
+
+
 
     file_put_contents($argv[1],$post);
 
@@ -105,6 +83,31 @@ else
 	exit;
 }
 
+function download_photo($src,$local_path) {
+    // download photos, make them local
+    // if it is a flick url, lets make it's the "b" (1024) size
+
+    if(!@file_exists($local_path)) {
+
+        echo "Downloading ".$src."\n";
+
+        $gi=false;
+        if(strstr($src,"staticflickr.com")) {
+            $src_b=preg_replace("/(.*)staticflickr\.com\/(.*)_(.*).jpg/","$1staticflickr.com/$2_b.jpg",$src);
+            // try the 1024 image
+            if($data=http_get_contents($src_b)) {
+                file_put_contents($local_path,$data);
+                $gi=true;
+            }
+        }
+
+        if($gi==false && $data=http_get_contents($src)) {
+            file_put_contents($local_path,$data);
+        }
+
+    }
+
+}
 
 function generate_user_permalink($str){
 	setlocale(LC_ALL, 'en_US.UTF8');
