@@ -129,8 +129,9 @@ Notes:
 
  * Do not use any other custom classes on your HTML, just pure non styled HTML.
  * Images should be local. Do not reference images from flickr or external services.
- * Normal post images should be hosted at [assets/images/](assets/images/)
- * Thumbnail images should be hosted at [assets/thumbs/](assets/thumbs/)
+ * Do not specify the height and width of an image. Just use <img src="...">
+ * Normal post images should be hosted at [assets/images/](assets/images/) with width 1024px
+ * Thumbnail images should be hosted at [assets/thumbs/](assets/thumbs/) width width 270px
  * In images and local assets, always use relative links starting with / (ie: /assets/images/post.png), never absolute.
 
 Here's a [boilerplate](_templates/2013-10-31-template-post.markdown) to start a new post.
