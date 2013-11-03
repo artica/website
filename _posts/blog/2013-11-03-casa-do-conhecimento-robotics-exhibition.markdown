@@ -65,5 +65,4 @@ Visit of the Mayor António Vilela.
 <a href="http://www.casadoconhecimento.pt/2013/10/mostra-interativa-de-robotica-criativa_31.html" title="Mostra Interativa de Robótica Criativa"><img src="/assets/images/2013-11-03-casa-do-conhecimento-robotics-exhibition-14.jpg" alt="Mostra Interativa de Robótica Criativa"></a>
 ICU is a tireless robot, always seeking to interact and play!!
 
-Please take a visit to the flickr set of photos <a href="http://www.flickr.com/photos/guibot/sets/72157637242818964/">here</a>.
-
+<a href="http://www.flickr.com/photos/guibot/sets/72157637242818964/"><i class="icon-flickr"></i> Flickr set of photos here.</a>
