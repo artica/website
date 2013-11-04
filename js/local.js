@@ -8,7 +8,7 @@ function printRandomPosts(posts,num) {
 		if(!prs.contains(pid)) {
 			var post=posts[pid];
 			if(post.thumbnail.length && post.title.search(/workshop/i)==-1) {
-				html+='<li class="column-group gutters"><div class="large-100"><b><a href="'+post.url+'">'+post.title+'</b></h4><a href="'+post.url+'"><img class="bw" src="'+post.thumbnail+'"><small>'+post.excerpt+'</small></a></div></li>';
+				html+='<li class="column-group gutters bweffect"><div class="large-100"><b><a href="'+post.url+'">'+post.title+'</b></h4><a href="'+post.url+'"><img class="bw" src="'+post.thumbnail+'"><small>'+post.excerpt+'</small></a></div></li>';
 				prs.push(pid);
 				pc++;
 				if(pc>=num) break;
@@ -80,9 +80,9 @@ function search(elmid) {
             for(var i=0;i<results.length && i<8;i++) {
                 var id=results[i].ref;
                 var post=posts[id];
-                html+='<li class="column-group gutters"><div class="large-100"><b><a href="'+post.url+'">'+post.title+'</b></h4><a href="'+post.url+'">';
+                html+='<li class="column-group gutters bweffect"><div class="large-100"><b><a href="'+post.url+'">'+post.title+'</b></h4><a href="'+post.url+'">';
                 if(post.thumbnail) {
-                    html+='<img class="bw" src="'+post.thumbnail+'">';
+                    html+='<img src="'+post.thumbnail+'">';
                 }
                 else
                 {

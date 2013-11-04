@@ -257,12 +257,23 @@ button#toggleVisibility {
   visibility:hidden;
 }
 
-.bw {
+.bweffect img {
   -webkit-filter: grayscale(0.8);
   -webkit-filter: grayscale(80%);
   -moz-filter: grayscale(80%);
   filter: gray; filter: grayscale(80%);
-  filter: url(/css/desaturate.svg#greyscale);
+  filter: url(/css/filters.svg#desaturate); 
+}
+
+.bweffect:hover img {
+  -webkit-transition: 1s all ease-in; -o-transition: 1s all ease-in;
+  -moz-transition: 1s all ease-in; transition: 1s all ease-in;
+  transition: 1s all ease-in; transition: 1s all ease-in;
+  -webkit-filter: grayscale(0);
+  -webkit-filter: grayscale(0%);
+  -moz-filter: grayscale(0%);
+  filter: gray; filter: grayscale(0%);
+  filter: url(/css/filters.svg#color); 
 }
 
 .motto {
