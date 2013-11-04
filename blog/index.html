@@ -61,13 +61,13 @@ title: Artica Blog
 
 			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 			<small>{{ post.date | date_to_long_string }}</small>
-			{% if post.thumbnail %}
+			{% if post.frontimage %}
 			<p class="shadows vspace">
 				<img src="{{ post.frontimage }}">
 			</p>
 			<p>
 				{{ post.longexcerpt | replace: "\'", "'" }}
-			<p>
+			</p>
 			{% else %}
 			<p class="shadows vspace">
 				{{ post.content | | replace: "\'", "'" }}
