@@ -60,7 +60,7 @@ title: Artica Creative Computing
         {% assign pcount=1 %}
         {% for post in site.posts %}
         {% for category in post.categories %}
-        {% if category == "blog" and post.url != pid and pcount <= 3 and post.frontimage %}
+        {% if category == "blog" and post.url != pid and pcount <= 3 and post.thumbnail %}
 
         <div class="column-group gutters">
 
@@ -74,7 +74,7 @@ title: Artica Creative Computing
             </div>
 
             <div class="large-30 medium-30 small-100 shadows">
-                <a href="{{ post.url }}"><img class="bw" src="{{ post.frontimage }}"></a>
+                <a href="{{ post.url }}"><img class="bw" src="{{ post.thumbnail }}"></a>
             </div>
 
         </div>
