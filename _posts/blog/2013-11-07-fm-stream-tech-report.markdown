@@ -84,9 +84,9 @@ root@radio1:/boot/radio# cat command
 modem="/dev/ttyAMA0"
 
 stty -F "$modem" 9600 -echo -icanon min 0 time 1
-exec 5<>"$modem"
+exec 5&lt;&gt;"$modem"
 
-echo -n $(cat <&5 & echo $1 >&5)
+echo -n $(cat &lt;&5 & echo $1 &gt;&5)
 
 wait $!
 
@@ -110,14 +110,14 @@ HOSTNAME="radio${POSITION}"
 IP="${PREIP}${POSITION}"
 
 hostname $HOSTNAME
-echo $HOSTNAME > /boot/radio/hostname
+echo $HOSTNAME &gt; /boot/radio/hostname
 sed -i "s/127.0.1.1.*\$/127.0.1.1\t${HOSTNAME}/g" /boot/radio/hosts
 
 ifconfig eth0 $IP netmask 255.255.255.0
 
 route add default gw $GATEWAY
 
-echo "nameserver $GATEWAY" > /boot/radio/resolv.conf
+echo "nameserver $GATEWAY" &gt; /boot/radio/resolv.conf
 
 exit 0
 </pre>
@@ -140,7 +140,7 @@ ip=$5
 
 path=/etc/icecast2
 
-echo -e "$(date +"%Y-%m-%d %T")\t$ip\t$6\tCONNECTED" >> $path/pptp.log
+echo -e "$(date +"%Y-%m-%d %T")\t$ip\t$6\tCONNECTED" &gt;&gt; $path/pptp.log
 
 devices=$path/devices
 auth=$path/authorized_devices
@@ -153,7 +153,7 @@ if [ ! -z $mac ]
 then
     [ -f $devices ] && sed -i "/$mac/d" $devices
 
-    echo -e "$mac\t$ip" >> $devices
+    echo -e "$mac\t$ip" &gt;&gt; $devices
 fi
 
 $path/rebuild
@@ -169,58 +169,58 @@ The rebuild goes through the list of active devices and verifies if they are rea
 
 <pre>
 foo@sgt-radios:/etc/icecast2$ cat authorized_devices
-#<MAC Address>        <Mount>        <Modules>
+#&lt;MAC Address&gt;        &lt;Mount&gt;        &lt;Modules&gt;
 A0:F3:C1:97:29:E5    AO        18
 F8:1A:67:3F:D0:57    PT        18
 </pre>
 
 <pre>
 foo@sgt-radios:/etc/icecast2$ cat header             
-<limits>
-<clients>2500</clients>
-<sources>2500</sources>
-<header-timeout>15</header-timeout>
-<source-timeout>10</source-timeout>
-</limits>
-<authentication>
-<source-password>sapo</source-password>
-<relay-password>sapo</relay-password>
-<admin-user>support</admin-user>
-<admin-password>sapo</admin-password>
-</authentication>
-<hostname>localhost</hostname>
-<listen-socket>
-<port>80</port>
-</listen-socket>
-<fileserve>0</fileserve>
-<paths>
-<basedir>/usr/share/icecast2</basedir>
-<logdir>/dev</logdir>
-<webroot>/usr/share/icecast2/web</webroot>
-<adminroot>/usr/share/icecast2/admin</adminroot>
-</paths>
-<logging>
-<accesslog>null</accesslog>
-<errorlog>null</errorlog>
-<loglevel>0</loglevel>
-<logsize>0</logsize>
-</logging>
-<security>
-<chroot>0</chroot>
-<changeowner>
-<user>nobody</user>
-<group>nogroup</group>
-</changeowner>
-</security>foo@sgt-radios:/etc/icecast2$ cat rebuild
+&lt;limits&gt;
+&lt;clients&gt;2500&lt;/clients&gt;
+&lt;sources&gt;2500&lt;/sources&gt;
+&lt;header-timeout&gt;15&lt;/header-timeout&gt;
+&lt;source-timeout&gt;10&lt;/source-timeout&gt;
+&lt;/limits&gt;
+&lt;authentication&gt;
+&lt;source-password&gt;sapo&lt;/source-password&gt;
+&lt;relay-password&gt;sapo&lt;/relay-password&gt;
+&lt;admin-user&gt;support&lt;/admin-user&gt;
+&lt;admin-password&gt;sapo&lt;/admin-password&gt;
+&lt;/authentication&gt;
+&lt;hostname&gt;localhost&lt;/hostname&gt;
+&lt;listen-socket&gt;
+&lt;port&gt;80&lt;/port&gt;
+&lt;/listen-socket&gt;
+&lt;fileserve&gt;0&lt;/fileserve&gt;
+&lt;paths&gt;
+&lt;basedir&gt;/usr/share/icecast2&lt;/basedir&gt;
+&lt;logdir&gt;/dev&lt;/logdir&gt;
+&lt;webroot&gt;/usr/share/icecast2/web&lt;/webroot&gt;
+&lt;adminroot&gt;/usr/share/icecast2/admin&lt;/adminroot&gt;
+&lt;/paths&gt;
+&lt;logging&gt;
+&lt;accesslog&gt;null&lt;/accesslog&gt;
+&lt;errorlog&gt;null&lt;/errorlog&gt;
+&lt;loglevel&gt;0&lt;/loglevel&gt;
+&lt;logsize&gt;0&lt;/logsize&gt;
+&lt;/logging&gt;
+&lt;security&gt;
+&lt;chroot&gt;0&lt;/chroot&gt;
+&lt;changeowner&gt;
+&lt;user&gt;nobody&lt;/user&gt;
+&lt;group&gt;nogroup&lt;/group&gt;
+&lt;/changeowner&gt;
+&lt;/security&gt;foo@sgt-radios:/etc/icecast2$ cat rebuild
 #!/bin/bash
 
 config=/etc/icecast2/icecast.xml
 devices=/etc/icecast2/devices
 auth=/etc/icecast2/authorized_devices
 
-echo "<icecast>" > $config
+echo "&lt;icecast&gt;" &gt; $config
 
-cat /etc/icecast2/header >> $config
+cat /etc/icecast2/header &gt;&gt; $config
 
 while read devices_line
 do
@@ -234,15 +234,15 @@ do
 
     [ -z $modules ] && continue
 
-    for (( i = 1 ; i <= $modules ; i++ ))
+    for (( i = 1 ; i &lt;= $modules ; i++ ))
     do
         device="radio$i.mp3"
 
-        echo "<relay><server>$ip</server><port>8000</port><mount>/$device</mount><local-mount>/$mount/$device</local-mount></relay>" >> $config
+        echo "&lt;relay&gt;&lt;server&gt;$ip&lt;/server&gt;&lt;port&gt;8000&lt;/port&gt;&lt;mount&gt;/$device&lt;/mount&gt;&lt;local-mount&gt;/$mount/$device&lt;/local-mount&gt;&lt;/relay&gt;" &gt;&gt; $config
     done
-done < $devices
+done &lt; $devices
 
-echo "</icecast>" >> $config
+echo "&lt;/icecast&gt;" &gt;&gt; $config
 
 /etc/init.d/icecast2 reload
 
