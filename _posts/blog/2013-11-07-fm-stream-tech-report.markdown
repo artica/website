@@ -228,8 +228,9 @@ F8:1A:67:3F:D0:57    PT        18
 &lt;/security&gt;
 </pre>
 
+/etc/icecast2/rebuild file:
+
 <pre class="prettyprint">
-foo@sgt-radios:/etc/icecast2$ cat rebuild
 #!/bin/bash
 
 config=/etc/icecast2/icecast.xml
