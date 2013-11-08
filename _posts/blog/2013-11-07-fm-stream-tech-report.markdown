@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2013-11-07-fm-stream-tech-report-1.jpg
 frontimage: /assets/images/2013-11-07-fm-stream-tech-report-1.jpg
 ---
 
-<i>AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminum case and lots of passion.</i>
+<i>AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminium case and lots of passion.</i>
 
 <a href="http://www.sapo.pt">SAPO</a>, the biggest Internet portal in Portugal, needed a robust system to tune FM radios in countries like Angola, Cabo Verde, Mozambique and East Timor, where classic broadcast stations are still very popular and in strong demand, even if you're using the Web. So they came to Artica for help.
 
