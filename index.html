@@ -42,7 +42,11 @@ title: Artica Creative Computing
                 <a href="{{ post.url }}"><img src="{{ post.frontimage }}"></a>
             </p>
             <p>
+            {% if post.longexcerpt %}
                 {{ post.longexcerpt | replace: "\'", "'" }}
+            {% else %}
+                {{ post.excerpt | replace: "\'", "'" }}
+                {% endif %}
             </p>
             <small>{{ post.date | date_to_long_string }}</small>
 
