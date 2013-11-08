@@ -8,7 +8,11 @@ thumbnail: /assets/thumbs/2013-11-07-fm-stream-tech-report-1.jpg
 frontimage: /assets/images/2013-11-07-fm-stream-tech-report-1.jpg
 ---
 
-We have been working in partnership with <a href="http://www.sapo.pt">SAPO</a>, <a href="http://www.idmind.pt/">IdMind</a> and André Gonçalves from <a href="http://www.addacsystem.com/">ADDAC System</a> on a 6U rack solution to broadcast radio signals to the internet. The concept was to have a unit that could be easily installed by non tech people, and placed anywhere on the world to get their local radios automatically broadcasting to the internet. To get it working all you need is 3 cords: a standard 220v power supply cable, an ethernet cable connecting the unit to the internet and a BNC cable connected to a radio antenna.
+<i>AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminum case and lots of passion.</i>
+
+<a href="http://www.sapo.pt">SAPO</a>, the biggest Internet portal in Portugal, needed a robust system to tune FM radios in countries like Angola, Cabo Verde, Mozambique and East Timor, where classic broadcast stations are still very popular and in strong demand, even if you're using the Web. So they came to Artica for help.
+
+Since then, we have been working in partnership with SAPO, <a href="http://www.idmind.pt/">IdMind</a> and André Gonçalves from <a href="http://www.addacsystem.com/">ADDAC System</a> on a 6U rack solution to broadcast radio signals to the internet. The concept was to have a unit that could be easily installed by non tech people, and placed anywhere on the world to get their local radios automatically broadcasting to the internet. To get it working all you need is 3 cords: a standard 220v power supply cable, an ethernet cable connecting the unit to the internet and a BNC cable connected to a radio antenna.
 
 <img src="/assets/images/2013-11-07-fm-stream-tech-report-1.jpg"/>
 
