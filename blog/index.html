@@ -63,7 +63,7 @@ title: Artica Blog
 			<small>{{ post.date | date_to_long_string }}</small>
 			{% if post.frontimage %}
 			<p class="shadows vspace">
-				<img src="{{ post.frontimage }}">
+				<a href="{{ post.url }}"><img src="{{ post.frontimage }}"></a>
 			</p>
 			<p>
 			{% if post.longexcerpt %}
