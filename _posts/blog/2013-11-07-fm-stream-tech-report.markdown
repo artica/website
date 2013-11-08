@@ -5,7 +5,7 @@ title: "FM Stream Tech Report"
 categories: blog
 excerpt: "We have been working in partnership with Sapo, IdMind and André Gonçalves of ADDAC System on a 6U rack solution to broadcast radio signals to the internet. The concept was to have a unit that could be easily installed by non tech people, and placed, anywhere on the world, getting local radios easily broadcasting to the internet."
 thumbnail: /assets/thumbs/2013-11-07-fm-stream-tech-report-1.jpg
-frontimage: /assets/images/2013-11-07-fm-stream-tech-report-1.jpg
+frontimage: /assets/images/2013-11-07-fm-stream-tech-report-2.jpg
 ---
 
 <i>AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminium case and lots of passion.</i>
