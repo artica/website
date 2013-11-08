@@ -74,7 +74,6 @@ Writing a blog post, or changing any section of the website can be complicated a
 So let's get busy. Here's your recipes:
 
  * Writing a [blog post](BLOGPOST.md)
- * Changing the [homepage](HOMEPAGE.md)
 
   [1]: http://pages.github.com/                                        "Github Pages"
   [2]: https://help.github.com/articles/set-up-git                     "Set Up Git"
