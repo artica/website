@@ -296,3 +296,7 @@ button#toggleVisibility {
 .footer-logos a {
   margin-right: 20px;
 }
+
+pre.prettyprint{
+  padding:20px !important;
+}

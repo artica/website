@@ -8,11 +8,13 @@ thumbnail: /assets/thumbs/2013-11-07-fm-stream-tech-report-1.jpg
 frontimage: /assets/images/2013-11-07-fm-stream-tech-report-1.jpg
 ---
 
-We have been working in partnership with <a href="http://www.sapo.pt">Sapo</a>, <a href="http://www.idmind.pt/">IdMind</a> and André Gonçalves from <a href="http://www.addacsystem.com/">ADDAC System</a> on a 6U rack solution to broadcast radio signals to the internet. The concept was to have a unit that could be easily installed by non tech people, and placed anywhere on the world to get their local radios automatically broadcasting to the internet. To get it working all you need is 3 cords: a standard 220v power supply cable, an ethernet cable connecting the unit to the internet and a BNC cable connected to a radio antenna.
+We have been working in partnership with <a href="http://www.sapo.pt">SAPO</a>, <a href="http://www.idmind.pt/">IdMind</a> and André Gonçalves from <a href="http://www.addacsystem.com/">ADDAC System</a> on a 6U rack solution to broadcast radio signals to the internet. The concept was to have a unit that could be easily installed by non tech people, and placed anywhere on the world to get their local radios automatically broadcasting to the internet. To get it working all you need is 3 cords: a standard 220v power supply cable, an ethernet cable connecting the unit to the internet and a BNC cable connected to a radio antenna.
 
 <img src="/assets/images/2013-11-07-fm-stream-tech-report-1.jpg"/>
 
-The rack is composed of 18 hot-swappable modules. 18 for radio signal streaming and 2 fixed for power management. Each radio module has a <a href="http://www.raspberrypi.org/">Raspberry Pi (Revision b)</a> and an <a href="http://arduino.cc/en/Main/ArduinoBoardNano">Arduino Nano AtMega 328</a>. The Arduino is powered at 3.3V through the Raspberry Pi and communicates with it via GPIO serial port.
+The rack is composed of 18 hot-swappable modules. 18 for radio signal streaming and 2 fixed for power management.
+
+Each radio module has a <a href="http://www.raspberrypi.org/">Raspberry Pi (Revision b)</a> and an <a href="http://arduino.cc/en/Main/ArduinoBoardNano">Arduino Nano AtMega 328</a>. The Arduino is powered at 3.3V through the Raspberry Pi and communicates with it via GPIO serial port.
 
 <img src="/assets/images/2013-11-07-fm-stream-tech-report-2.jpg"/>
 
@@ -20,7 +22,7 @@ Each module has a <a href="http://www.silabs.com/products/audiovideo/fmreceivers
 
 <img src="/assets/images/2013-11-07-fm-stream-tech-report-3.jpg"/>
 
-The Arduino library to work with these radio chips will soon be Open Sourced. We have a couple breakout boards of the chip leftover, if anyone is interested in getting their hands in one, feel free to get in touch.
+The Arduino library to work with these radio chips will soon be Open Sourced. We have a couple breakout boards of the chip leftover, if anyone is interested in getting their hands in one, feel free to <a href="http://artica.cc/contacts/">get in touch</a>.
 
 To allow the Raspberry Pi to capture the audio from the radio signal we designed a circuit, in partnership with André Gonçalves, for the <a href="http://www.ti.com/product/pcm2900&lpos=Middle_Container&lid=Alternative_Devices">Texas Intruments PCM2900C USB Audio Capture</a> chip.
 
@@ -61,8 +63,9 @@ All the modules are identical, the only difference between them is the service c
 
 To know the position of the module we use a script that talks with the arduino.
 
-<pre>
-root@radio1:/boot/radio# cat position
+/boot/radio/position file:
+
+<pre class="prettyprint">
 #!/bin/bash
 
 response=$(/boot/radio/command p)
@@ -77,8 +80,9 @@ fi
 exit 0
 </pre>
 
-<pre>
-root@radio1:/boot/radio# cat command
+/boot/radio/command file:
+
+<pre class="prettyprint">
 #!/bin/bash
 
 modem="/dev/ttyAMA0"
@@ -97,8 +101,9 @@ This script establishes an stty connection and returns a number between 1 and 18
 
 When the module starts the /etc/network/if-pre-up.d/array script is started, which, with the current position, configures the module’s IP and hostname.
 
-<pre>
-root@radio1:/boot/radio/network# cat /etc/network/if-pre-up.d/array
+/etc/network/if-pre-up.d/array file:
+
+<pre class="prettyprint">
 #!/bin/bash
 
 POSITION=$(/usr/bin/position)
@@ -130,8 +135,9 @@ The server is composed of two important programs. OpenVPN, which receives the co
 
 When a connection is established, the /etc/ppp/ip-up.d /0001icecast script is invoked to establish an SSH connection to the assigned IP with the “ifconfig eth0 | head -1 | awk '/HWaddr/ {print $5}'” command to be able to obtain the radio machine router’s MAC Address. This MAC Address is stored in a file to indicate the machine is operational and the rebuild script is invoked to rebuild the icecast configuration file.
 
-<pre>
-foo@sgt-radios:/etc/ppp/ip-up.d$ cat 0001icecast
+/etc/ppp/ip-up.d/0001icecast file:
+
+<pre class="prettyprint">
 #!/bin/bash
 
 ip=$5
@@ -160,22 +166,26 @@ $path/rebuild
 
 exit 0
 </pre>
-<pre>
-foo@sgt-radios:/etc/icecast2$ cat devices
+
+/etc/icecast2/devices file:
+
+<pre class="prettyprint">
 A0:F3:C1:97:29:E5    192.168.20.1
 </pre>
 
 The rebuild goes through the list of active devices and verifies if they are really authorized to relay and which mount point is associated. In the end it adds the header, creates the mount points list for each radio machine, writes everything in the icecast2.xml configuration file and calls a “etc/init.d/icecast2 reload” to update the configurations without restarting the service.
 
-<pre>
-foo@sgt-radios:/etc/icecast2$ cat authorized_devices
+/etc/icecast2/authorized_devices file:
+
+<pre class="prettyprint">
 #&lt;MAC Address&gt;        &lt;Mount&gt;        &lt;Modules&gt;
 A0:F3:C1:97:29:E5    AO        18
 F8:1A:67:3F:D0:57    PT        18
 </pre>
 
-<pre>
-foo@sgt-radios:/etc/icecast2$ cat header             
+/etc/icecast2/header file:
+
+<pre class="prettyprint">
 &lt;limits&gt;
 &lt;clients&gt;2500&lt;/clients&gt;
 &lt;sources&gt;2500&lt;/sources&gt;
@@ -211,7 +221,11 @@ foo@sgt-radios:/etc/icecast2$ cat header
 &lt;user&gt;nobody&lt;/user&gt;
 &lt;group&gt;nogroup&lt;/group&gt;
 &lt;/changeowner&gt;
-&lt;/security&gt;foo@sgt-radios:/etc/icecast2$ cat rebuild
+&lt;/security&gt;
+</pre>
+
+<pre class="prettyprint">
+foo@sgt-radios:/etc/icecast2$ cat rebuild
 #!/bin/bash
 
 config=/etc/icecast2/icecast.xml
@@ -253,3 +267,4 @@ In the end, when a machine connection ends, the “/etc/ppp/ip-down.d/0001icecas
 
 The server has the same RSA key than the client so that the SSH connection can be made silently.
 
+Listen to <a href="http://radios.vpn.sapo.pt/AO/radio1.mp3">one of the streams here</a> <i class="icon-music"></i> (live from a popular FM radio in <a href="http://en.wikipedia.org/wiki/Luanda">Luanda, Angola</a>, captured and encoded from one of SAPO's racks of FM Streamers in the country).

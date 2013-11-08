@@ -42,6 +42,8 @@ function NavbarSelect() {
 }
 
 function OnLoadTasks() {
+    // Prettifyer
+    prettyPrint();
     // Fadein all the "fadein" classes
     var fades = document.getElementsByClassName("fadein");
     for (var i = fades.length - 1; i >= 0; i--) fade(fades[i]);
