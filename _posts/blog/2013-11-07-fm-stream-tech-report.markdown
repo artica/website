@@ -34,7 +34,7 @@ LEDs in the front panel indicate if the module is powered and can also be re-ass
 
 <img src="/assets/images/2013-11-07-fm-stream-tech-report-4.jpg"/>
 
-The frontpanel was designed by André Gonçalves. The design of the modules allows for hot swapping, which was not a trivial matter. IdMind played a crucial role finding the best components for this, we ended up using the fct electronics din connectors. The connectors required to transfer radio signal (requiring shielding and isolation), network (8 pins RJ45), an analogue pin for the power module to notify the other modules that it's shutting them down, and another analogue pin to indicate which slot each module is connected to. Each slot has a unique voltage divider to the 5V connection, allowing the Arduino to read distinct voltage and thus know which module itself should be and enabling the Raspberry Pi to have an unique IP address depending on the slot to which it's connected.
+The frontpanel was designed by André Gonçalves. The design of the modules allows for hot swapping, which was not a trivial matter. We ended up using the fct electronics din connectors. The connectors required to transfer radio signal (requiring shielding and isolation), network (8 pins RJ45), an analogue pin for the power module to notify the other modules that it's shutting them down, and another analogue pin to indicate which slot each module is connected to. Each slot has a unique voltage divider to the 5V connection, allowing the Arduino to read distinct voltage and thus know which module itself should be and enabling the Raspberry Pi to have an unique IP address depending on the slot to which it's connected.
 
 <img src="/assets/images/2013-11-07-fm-stream-tech-report-5.jpg"/>
 
