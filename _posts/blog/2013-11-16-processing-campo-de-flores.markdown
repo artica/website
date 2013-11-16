@@ -12,6 +12,6 @@ We have been giving a workshop at Colégio Campo de Flores, Caparica. Using the 
 
 <img src="/assets/images/2013-11-16-processing-campo-de-flores-1.jpg"/>
 
-We been getting some great results from the students. To give you an example, some of them already managed to get their own version of pong up and running after just 2 classes and having no prior programming knowledge!
+We been getting some great results from the students. To give you an example, some of them already managed to get their own version of pong up and running after just 2 classes and having no prior programming knowledge! We are very proud of them and look forward to seeing their final works at the end of the month.
 
-The teachers from Campo de Flores even wrote <a href="http://campodeflores.com/blog/2013/11/05/inovar-com-processing/">a post on their news blog</a> (in Portuguese) about it.
+The teachers from Campo de Flores also wrote <a href="http://campodeflores.com/blog/2013/11/05/inovar-com-processing/">a post on their news blog</a> (in Portuguese) about the workshop.
