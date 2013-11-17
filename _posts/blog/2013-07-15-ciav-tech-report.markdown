@@ -19,8 +19,8 @@ Most of our interaction on the project was made with the following people: Ana R
 
 This post is about the technological decisions we had to make building CIAV. It describes the problems, what were our alternatives, why we opted for our solution and what lessons we learned during the development process. It focuses on the interaction technology side of things, not the building of the space.
 
-The source code for all the different software elements should be <a href="https://bitbucket.org/artica/ciav/">available at bitbucket</a> soon.
-<!--more-->
+The source code for all the different software elements is <a href="https://bitbucket.org/artica/ciav/">available at bitbucket</a>.
+
 <strong>The space</strong>
 
 CIAV is a very old building, dating back to the 15th century, having been rebuilt and repurposed several times. It used to be known as Ermida do Espírito Santo operating as a church, eventually rebuilt as a community and recreational space.
@@ -79,7 +79,7 @@ A custom made wood and iron frame was designed, built, placed and painted undern
 
 <a href="/assets/images/2013-07-15-ciav-tech-report-5.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-5.jpg"/></a>
 
-<strong>Main mall light &amp; magic</strong>
+<strong>Main hall light &amp; magic</strong>
 
 The main hall is where most of the technological light &amp; magic takes place.
 
