@@ -12,8 +12,8 @@ Meanwhile, somewhere in Moçambique, one of our <a href="http://artica.cc/blog/2
 
 We have photos to prove it:
 
-<img src="/assets/images/2013-11-17-mocambique-1.jpg"/>
+<img src="/assets/images/2013-11-17-fm-stream-mocambique-1.jpg"/>
 
-<img src="/assets/images/2013-11-17-mocambique-2.jpg"/>
+<img src="/assets/images/2013-11-17-fm-stream-mocambique-2.jpg"/>
 
-<img src="/assets/images/2013-11-17-mocambique-3.jpg"/>
+<img src="/assets/images/2013-11-17-fm-stream-mocambique-3.jpg"/>
