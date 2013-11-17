@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2013-11-17-mocambique-2.jpg
 frontimage: /assets/images/2013-11-17-mocambique-2.jpg
 ---
 
-Meanwhile, somewhere in Moçambique, one of our FM Stream rack boxes is now up and running!
+Meanwhile, somewhere in Moçambique, one of our <a href="http://artica.cc/blog/2013/11/07/fm-stream-tech-report.html">FM Stream rack boxes</a> is now up and running!
 
 We have photos to prove it:
 
