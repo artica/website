@@ -26,7 +26,7 @@ Each module has a <a href="http://www.silabs.com/products/audiovideo/fmreceivers
 
 <img src="/assets/images/2013-11-07-fm-stream-tech-report-3.jpg"/>
 
-The Arduino library to work with these radio chips will soon be Open Sourced. We have a couple breakout boards of the chip leftover, if anyone is interested in getting their hands in one, feel free to <a href="http://artica.cc/contacts/">get in touch</a>.
+The Arduino library to work with these radio chips will soon be Open Sourced. <s>We have a couple breakout boards of the chip leftover</s> We are ordering more breakout boards from our China supplier, if anyone is interested in getting their hands in one (might take a couple of months) feel free to <a href="http://artica.cc/contacts/">get in touch</a>.
 
 To allow the Raspberry Pi to capture the audio from the radio signal we designed a circuit, in partnership with André Gonçalves, for the <a href="http://www.ti.com/product/pcm2900&lpos=Middle_Container&lid=Alternative_Devices">Texas Intruments PCM2900C USB Audio Capture</a> chip.
 
