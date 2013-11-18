@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-18 15:00:00 UTC
+date: 2013-11-17 17:10:00 UTC
 title: "FM Stream @ Moçambique"
 categories: blog
 excerpt: "Meanwhile, somewhere in Moçambique, one of our FM Stream rack boxes is now up and running!"
