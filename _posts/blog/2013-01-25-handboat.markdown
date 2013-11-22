@@ -3,8 +3,8 @@ layout: post
 date: 2013-01-25 09:48:33 UTC
 title: "Handboat"
 categories: blog
-excerpt: "A couple of time ago we tried to materialize a painting to offer to a friends, the author is Alfredo Luz, he does this very original surrealistic paintings!!"
-longexcerpt: "A couple of time ago we tried to materialize a painting to offer to a friends, the author is Alfredo Luz, he does this very original surrealistic paintings!!This is what came out, STL file is available at Thingiverse!"
+excerpt: "Some time ago we tried to materialize a painting to offer to a friend, the author is Alfredo Luz, he does this very original surrealistic paintings!!"
+longexcerpt: "Some time ago we tried to materialize a painting to offer to a friend, the author is Alfredo Luz, he does this very original surrealistic paintings!! This is the result. The STL file is available at Thingiverse!"
 thumbnail: /assets/thumbs/2013-01-25-handboat-1.jpg
 frontimage: /assets/images/2013-01-25-handboat-1.jpg
 ---

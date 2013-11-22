@@ -1,0 +1,40 @@
+---
+layout: post
+date: 2013-11-22 18:00:00 UTC
+title: "Project E-Duca"
+categories: blog
+excerpt: "E-DUCA is a research and development project approved and co-financed by QREN for 2 years. It consists of developing an integrated technological platform applied to education. The platform specification englobes components of hardware (computer projection system and mobile robots) and software (applications of educational and monitoring)."
+longexcerpt: "E-DUCA is a research and development project approved and co-financed by QREN for 2 years. It consists of developing an integrated technological platform applied to education. The platform specification englobes components of hardware (computer projection system and mobile robots) and software (applications of educational and monitoring)."
+thumbnail: /assets/thumbs/2013-11-22-educa-1.jpg
+frontimage: /assets/images/2013-11-22-educa-1.jpg
+---
+
+We have been working for a few months on project <a href="http://e-duca.cc">E-DUCA (Evolving Education)</a> and we can now share a little more details about it with you.
+
+E-DUCA is a research and development project approved and co-financed by QREN for 2 years. It consists of developing an integrated technological platform applied to education. The platform specification englobes components of hardware (computer projection system and mobile robots) and software (applications of educational and monitoring).
+
+Technology is taking an important role in education, and requires the creation of solutions which explore new learning possibilities. We aim to develop and explore learning environments at three levels:
+- Content learning development, with special attention to the characteristics of the students stimulating the process learning by doing;
+- Diversifying different used technologies to create learning dynamics in an immersive and interactive environment with different multi sensorial stimulae;
+- Integrating monitorization and evaluation tools that enable teachers and parents to measure the learning curve from students in certain applications and subjects.
+ 
+Developed with open source software, E-DUCA is designed to be adaptable to different spaces - classrooms, libraries and media rooms, auditoriums, etc... Being a modular system, it aims to give the possibility to any educator / teacher to insert their own content on the platform in a simple and intuitive way.
+ 
+To help us put together and test this pilot platform, we have the support of our partners at <a href="http://www.cesarioverde-ensino.pt/">Cesário Verde</a> School, where we have been working since the beggining of this academic year with a group of 5th grade students and other steering groups, allowing us to test contents for all the years of the 1st, 2nd and 3rd cycles.
+
+In these sessions with the students, we initially worked on basic concepts of programming and introduction to robotics, enabling them to develop skills such as logical thinking and abstraction - essential for learning mathematics and geometry. It also aimed to promote the technological autonomy of the students: to use the computer as a tool for solving problems creatively, make it an educational resource that can be applied in teaching practices in the various curriculum components to supplement the lessons.
+
+<a href="/assets/images/2013-11-22-educa-2.jpg"><img class="postimage" src="/assets/images/2013-11-22-educa-2.jpg"/></a>
+
+<a href="/assets/images/2013-11-22-educa-3.jpg"><img class="postimage" src="/assets/images/2013-11-22-educa-3.jpg"/></a>
+
+In a second phase we are testing the interactive room with diversified content that explores the space, time, and communication, through group activities and learning games that exercise the motor and intellectual functions of the students, group dynamics, rules recognition, etc... These contents are intended to be complementary to the curriculum, aiding the learning processes by the ease with which information is captured by the students.
+
+<a href="/assets/images/2013-11-22-educa-1.jpg"><img class="postimage" src="/assets/images/2013-11-22-educa-1.jpg"/></a>
+
+The team of Cesário Verde has had a key role the pedagogic and didactic approach, through the creation of a working group and follow-up monitoring of the sessions.
+ 
+The development of such innovative solutions depends on their applicability in the real world. In the case of E-DUCA, we are involved with Cesário Verde school, testing immediately all developments of the project at its most embryonic stage, ensuring its usefulness and applicability in a real setting. The team of Cesário Verde has a key role on the pedagogic and didactic approach of the platform, through the creation of a working group and follow-up monitoring of the sessions.
+
+<img src="http://e-duca.cc/imgs/logos_qren_a.jpg"/>
+
