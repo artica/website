@@ -1,0 +1,45 @@
+---
+layout: post
+date: 2013-12-06 19:00:00 UTC
+title: "USORA Project"
+categories: blog
+excerpt: "We are very pleased to annouce our most recent educational project: USORA (Unified Solution of Remote Access in Practical Vocational Engineering Education). A project of innovation transfer under the Leonardo Da Vinci Life Learning Programme."
+longexcerpt: "We are very pleased to annouce our most recent educational project: USORA (Unified Solution of Remote Access in Practical Vocational Engineering Education). A project of innovation transfer under the Leonardo Da Vinci Life Learning Programme."
+thumbnail: /assets/thumbs/2013-12-06-usora-1.jpg
+frontimage: /assets/images/2013-12-06-usora-1.jpg
+---
+
+<img src="/assets/images/2013-12-06-usora-1.jpg"/>
+
+We are very pleased to annouce our most recent educational project: <a href="http://usora.cc/">USORA</a> (Unified Solution of Remote Access in Practical Vocational Engineering Education). A project of innovation transfer under the Leonardo Da Vinci Life Learning Programme.
+
+We had the kick-off meeting at the end of last October. Present at this meeting were representatives from our project partners from Estonia, Germany and Portugal:
+
+- <a href="http://www.ittgroup.ee/">ITT Group</a>, an estonian company whose main areas of activity are ICT development, consulting and custom mechatronic and robotics designs.
+- <a href="http://it-matters.eu/">it:matters</a>, a german spin off founded in 2010, whose main focus of work is on internet technology. Development of Web 2.0 based content, IT consulting, IT development, Media, IT knowledge transfer / IT teaching, IT project management, programing and product development.
+- <a href="http://www.vkhk.ee/">VKHK</a> (Võrumaa Kutsehariduskeskus), an estonian vocational training center focused on creating a contemporary study environment and a professional higher education study programme that includes IT Systems, Computers and Networks.
+- <a href="http://www.hochschule-bochum.de/en/">HBO</a> (Hochuschule Bochum), german Bochum University of Applied Sciences who possess three centers of competence: Construction, Business and Engineering which include basic studies in electrical engineering, mechatronics and computer sciences. Their main research activities focus on the two master studies: Mechatronics and IT-Automotive and Internet Technologies.
+- <a href="http://www.isr.ist.utl.pt">IST-ID</a> (Association of Instituto Superior Técnico for Research and Development), a portuguese non-for-profit institution, which primarily aims at carrying out science and technology activities, fostering knowledge transfer and promoting the involvement of national and foreign researchers, internally and externally, in research and development projects in their areas of expertise.
+- <a href="http://www.inete.pt/">INETE</a> (Institute of Technical Education), a portuguese technical and vocational school dedicated to the initial qualification of young people and the continuous training of active professionals, promoting school education and vocational training for youngsters and adults.
+
+<img src="/assets/images/2013-12-06-usora-2.jpg"/>
+
+The sectors of engineering and robotics are constantly faced with the need to integrate different technologies such as internet, electronics and software. Yet the design and development methods are still very new. There is an important need for education, especially in lifelong learning programs, many of the workers in these sectors are not yet prepared for these changes. The aim of the <a href="http://usora.cc">USORA</a> project is to contribute in raising the level of vocational education students and the continuous education of professional workers in the engineering domain, specially in ICT and robotics, by transferring to Portugal the technologies behind the innovative remote lab concept, namely the <a href="http://home.roboticlab.eu/">DistanceLab</a> and VirtualLab solutions developed in Estonia and Germany. Adapting it to the Portuguese needs and bringing it online.
+
+The <a href="http://home.roboticlab.eu/">DistanceLab</a> system will also be integrated with <a href="http://magabot.cc/">Magabot</a>, a novel robotic platform developed in Portugal. The integration of this new device adds multi-transfer dimension to the project and increases the quality of the existing system in Estonia and Germany. 
+
+Several studies in Europe point out that the engineering fields are not the first choice of young people, however the engineering skills and robotic field itself are one of the key knowledge of European economy growth in a long perspective. Project <a href="http://usora.cc">USORA</a> focuses on the fact that there is a lack of skilled worker force in ICT and robotic sector due to it's rapid growth. There is growing gap between the industry need and available skilled workforce, especially due to the rise of Asian manufacturers and engineers and competition with Europe.
+
+The aim of the <a href="http://usora.cc">USORA</a> project for it's 2 years of development is to carry out the following activities:
+
+- Perform a deep analysis of the current industrial and educational situation, study methods and student behavior in the target sector.
+- Adapting the DistanceLab and VirtualLab systems according to the acquired knowledge.
+- Establishing the Remote Lab prototype system in Portugal.
+- Integrating the robotic platform developed in Portugal with a new e-environment.
+- Piloting the solution in Portugal, Germany and Estonia.
+
+The partnership has strong competence in the main project fields. Theoretical and practical aspects of system design are the main strength of the Estonian and Portuguese partners. The ICT and embedded system experience and tight connections with the industry is the focus of our German partners.
+
+We hope that in the long term this project will contribute in increasing the competence of new and practicing engineers and contemporary learning tools.
+
+<img src="http://usora.cc/imgs/lifelong_learning_programme.jpg"/>

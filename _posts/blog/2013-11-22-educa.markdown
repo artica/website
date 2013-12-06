@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-11-22 18:00:00 UTC
-title: "Project E-Duca"
+title: "E-Duca Project"
 categories: blog
 excerpt: "E-DUCA is a research and development project approved and co-financed by QREN for 2 years. It consists of developing an integrated technological platform applied to education. The platform specification englobes components of hardware (computer projection system and mobile robots) and software (applications of educational and monitoring)."
 longexcerpt: "E-DUCA is a research and development project approved and co-financed by QREN for 2 years. It consists of developing an integrated technological platform applied to education. The platform specification englobes components of hardware (computer projection system and mobile robots) and software (applications of educational and monitoring)."
@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2013-11-22-educa-1.jpg
 frontimage: /assets/images/2013-11-22-educa-1.jpg
 ---
 
-We have been working for a few months on project <a href="http://e-duca.cc">E-DUCA (Evolving Education)</a> and we can now share a little more details about it with you.
+We have been working for a few months on our new educational project named <a href="http://e-duca.cc">E-DUCA (Evolving Education)</a> and we can now share a little more details about it with you.
 
 E-DUCA is a research and development project approved and co-financed by QREN for 2 years. It consists of developing an integrated technological platform applied to education. The platform specification englobes components of hardware (computer projection system and mobile robots) and software (applications of educational and monitoring).
 
