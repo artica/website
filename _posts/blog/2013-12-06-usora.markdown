@@ -28,9 +28,9 @@ The sectors of engineering and robotics are constantly faced with the need to in
 
 The <a href="http://home.roboticlab.eu/">DistanceLab</a> system will also be integrated with <a href="http://magabot.cc/">Magabot</a>, a novel robotic platform developed in Portugal. The integration of this new device adds multi-transfer dimension to the project and increases the quality of the existing system in Estonia and Germany. 
 
-Several studies in Europe point out that the engineering fields are not the first choice of young people, however the engineering skills and robotic field itself are one of the key knowledge of European economy growth in a long perspective. Project <a href="http://usora.cc">USORA</a> focuses on the fact that there is a lack of skilled worker force in ICT and robotic sector due to it's rapid growth. There is growing gap between the industry need and available skilled workforce, especially due to the rise of Asian manufacturers and engineers and competition with Europe.
+Several studies in Europe point out that the engineering fields are not the first choice of young people, however the engineering skills and robotic field itself are one of the key knowledge of European economy growth in a long perspective. Project <a href="http://usora.cc">USORA</a> focuses on the fact that there is a lack of skilled worker force in ICT and robotic sector due to its rapid growth. There is growing gap between the industry need and available skilled workforce, especially due to the rise of Asian manufacturers and engineers and competition with Europe.
 
-The aim of the <a href="http://usora.cc">USORA</a> project for it's 2 years of development is to carry out the following activities:
+The aim of the <a href="http://usora.cc">USORA</a> project for its 2 years of development is to carry out the following activities:
 
 - Perform a deep analysis of the current industrial and educational situation, study methods and student behavior in the target sector.
 - Adapting the DistanceLab and VirtualLab systems according to the acquired knowledge.
