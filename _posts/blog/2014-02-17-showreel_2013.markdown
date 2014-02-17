@@ -3,14 +3,20 @@ layout: post
 date: 2014-02-17 19:00:00 UTC
 title: "Showreel 2013"
 categories: blog
-excerpt: "Finally we gathered the most relevant 2013 projects on a short video"
-longexcerpt: "Finally we gathered the most relevant 2013 projects on a short video"
+excerpt: "Finally we gathered the most relevant 2013 projects on a short video!"
+longexcerpt: "Finally we gathered the most relevant 2013 projects on a short video!"
 
 thumbnail: /assets/thumbs/2014-02-17_showreel2013.jpg
 frontimage: /assets/images/2014-02-17_showreel2013.jpg
 ---
 
-It took a while but we managed it! On the video below you will be able to see our most relevant 2013 projects. We hope you enjoy, and feel free to leave any comments! 
+It took a while but we managed it! 
+
+On the video below you will be able to see our most relevant 2013 projects. 
+
+We hope you enjoy, and feel free to leave any comments.
+
+Cheers!
 
 <iframe width="853" height="480" src="//www.youtube.com/embed/jGofvKQYqjo" frameborder="0" allowfullscreen></iframe>
 
