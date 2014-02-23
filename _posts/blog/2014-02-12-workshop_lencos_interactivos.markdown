@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2014-02-13 19:00:00 UTC
-title: "Interactive Hanky Workshop"
+title: "Valentine's Interactive Hanky"
 categories: blog
-excerpt: "Interactive Hanky Workshop @ Casa do Conhecimento, Vila Verde"
-longexcerpt: "Interactive Hanky Workshop @ Casa do Conhecimento, Vila Verde"
+excerpt: "Valentine's Interactive Hanky @ Casa do Conhecimento, Vila Verde."
+longexcerpt: "Valentine's Interactive Hanky @ Casa do Conhecimento, Vila Verde"
 
 thumbnail: /assets/thumbs/2014-02-12-lenconamorados.jpg
 frontimage: /assets/images/2014-02-12-lenconamorados.jpg
@@ -14,18 +14,17 @@ frontimage: /assets/images/2014-02-12-lenconamorados.jpg
 
 It all started with the idea of creating a workshop around the theme of paper circuits, with great inspiration from the work and research of <a href="http://vimeo.com/user1892233">Jie Qui</a>, <a href="http://lizastark.com/portfolio/paper-circuits/">Liza Stark</a> and others. Above all the main idea was transmitting to the team at <a href="http://www.casadoconhecimento.pt/">Casa do Conhecimento</a> how easy it is to create things that are both beautiful and can have a great impact. We had this idea but we were still lacking a concept on the same level to the technology. The workshop was planned for February, which coincided with the <a href="http://www.namorarportugal.pt/">Namorar Portugal</a> (Flirting Portugal) event, and being Vila Verde the capital of this event we decided to combine the paper circuits workshop with the famous and acclaimed Lenço dos Namorados (Valentine's handkerchief).
 
-And so it was born the idea of transforming a tradicional handkerchief into an interactive object, using different sensors, SMD color leds, arduinos and copper duct tape.
+And so it was born the idea of transforming a tradicional Valentine's handkerchief into an interactive object, using different sensors, SMD color leds, arduinos and copper tape.
 
 The handkerchief we used was replicated using volume inks to avoid using the original cloth handkerchief.
 
 <img src="/assets/images/2014-02-12-lenconamorados_1.jpg"/>
 
-The circuit was created with 1:1 photocopy.
-
+The circuit was created with a 1:1 printed version.
 
 <img src="/assets/images/2014-02-12-lenconamorados_2.jpg"/>
 
-As it evolved it became work that resembled the craftsmanship of jewelry and <a href="http://en.wikipedia.org/wiki/Filigree">filigree</a>, an old reknown Portuguese craft.
+As it evolved it became a kind of work that resembled the craftsmanship of jewelry and <a href="http://en.wikipedia.org/wiki/Filigree">filigree</a>, an old reknown Portuguese craft.
 
 <img src="/assets/images/2014-02-12-lenconamorados_3.jpg"/>
 
