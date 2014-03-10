@@ -4,6 +4,9 @@ date: 2011-03-17 18:11:49
 title: "CCDR-LVT"
 categories: projects interactive
 excerpt: "Today we\'re gonna enter in the time machine and show you our first work."
+longexcerpt: "Today we\'re gonna enter in the time machine and show you our first work."
+thumbnail: /assets/thumbs/2011-03-17-ccdr-lvt.jpg
+frontimage: /assets/images/2011-03-17-ccdr-lvt.jpg
 ---
 
 Today we're gonna enter in the time machine and show you our first work.

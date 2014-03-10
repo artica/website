@@ -4,7 +4,7 @@ date: 2012-11-21 01:24:29
 title: "Sega Rally Championship @ Codebits VI"
 categories: projects interactive
 excerpt: "Codebits as you might know is the most geekest event in Portugal and surroundings!"
-thumbnail: /assets/thumbs/2012-11-21-sega-rally-championship-codebits-vi-1.jpeg
+thumbnail: /assets/thumbs/2012-11-21-sega-rally-championship-codebits-vi-1.jpg
 ---
 
 <a href="http://codebits.eu">Codebits</a> as you might know is the most geekest event in Portugal and surroundings!
