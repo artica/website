@@ -11,7 +11,7 @@ thumbnail: /assets/thumbs/2014-09-18-farrusco_1.png
 
  
 
-<img class="postimage" alt="Audience Pong" src="/assets/images/2014-03-18-farrusco_2.jpg"/></a>
+<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farrusco_2.jpg"/></a>
 
 Farrusco is a small robot based on the Arduino platform, in this case it’s using a Motoruino wich is an Arduino clone with a couple of enhancements – dc motor dual controller, servo and sensor plugs, possibility to select 5v or external power source for motors and PWM pins.
 
@@ -29,7 +29,7 @@ With Farrusco you will be able to make it avoid obstacles, follow walls, enter i
 - someone who just wants a new geeky toy.
 
 
-In case you are interested in purchasing one, please drop us an <a href="http://artica.cc/contacts/"> email </a>
+In case you are interested in purchasing one, please drop us an <a href="http://artica.cc/contacts/"> email </a>	
  
 
 <img class="postimage" alt="Audience Pong" src="/assets/images/2014-03-18-farrusco_3.jpg"/></a>
