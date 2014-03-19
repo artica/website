@@ -11,7 +11,7 @@ thumbnail: /assets/thumbs/2014-03-19-motoruino.png
 
  The Motoruino is a board based on the Arduino platform, it is designed to work with motors, servos and sensors.
 
-<a><img class="postimage" alt="Motoruino" src="/assets/images/2014-03-19-motoruino.jpg"/></a>
+<a><img class="postimage" alt="Motoruino" src="/assets/images/motoruino.jpg"/></a>
 
 Motoruino most important features:
 
@@ -24,6 +24,8 @@ Motoruino most important features:
 - motors have 3 different connectors, screw terminals, male headers, JST connectors
 - servos and sensors can be easily plugged in due to dedicated power and ground headers on each pin
 - two possible FTDI/USB connections available:USB / TTL convertor, there are some choices on the market for this one, you can have it in the form of a cable, or in the form of a <a href="https://www.sparkfun.com/products/9716">small pcb</a> or using a <a href="http://www.ftdichip.com/FTProducts.htm">USB adaptor with the FTDI chip embedded</a>
+
+In case you are interested in purchasing one, please drop us an <a href="http://artica.cc/contacts/"> email </a>	
 
 
 All other specifications are similar to the <a href="http://arduino.cc/en/Main/ArduinoBoardDiecimila#.UymNEa1_sUc">Arduino Diecimila</a> boards, and you may use both ATmega 168 or 328 chips
