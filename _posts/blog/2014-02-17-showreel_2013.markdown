@@ -18,7 +18,4 @@ We hope you enjoy, and feel free to leave any comments.
 
 Cheers!
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/jGofvKQYqjo" frameborder="0" allowfullscreen></iframe>
-
-
-
+<div class="video-container"><iframe src="http://www.youtube.com/embed/jGofvKQYqjo" frameborder="0" allowfullscreen></iframe></div>
