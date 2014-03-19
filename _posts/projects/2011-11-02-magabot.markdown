@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-12-02 14:31:57
+date: 2013-12	-02 14:31:57
 title: "MAGABOT"
 categories: projects education
 excerpt: "We\'d like to present you our newest robot:"
