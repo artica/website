@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2014-03-19-motoruino.png
 
 ---
 
- The Motoruino is a board based on the Arduino platform, it is designed to work with motors, servos and sensors.
+High resolution fotos are available <a href="http://www.flickr.com/photos/guibot/sets/72157624010953149/">here</a>	 or you can click the images.
 
 <a><img class="postimage" alt="Motoruino" src="/assets/images/motoruino.jpg"/></a>
 
@@ -41,3 +41,6 @@ All other specifications are similar to the <a href="http://arduino.cc/en/Main/A
 <div class="large-50 push-left">
 <a href="/assets/docs/Motoruino.zip">Motoruino PCB source files</a>
 </div>
+
+<a href="/assets/docs/Motoruino_assembly.pdf">Instructions to assembly Motoruino</a>
+

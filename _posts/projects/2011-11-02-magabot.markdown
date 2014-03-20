@@ -3,7 +3,7 @@ layout: post
 date: 2013-12-02 14:31:57
 title: "MAGABOT"
 categories: projects education
-excerpt: "We\'d like to present you our newest robot:"
+excerpt: "Magabot is a low cost open hardware and software robot platform, designed to give mobility to any laptop and to stimulate creative minds."
 thumbnail: /assets/thumbs/2011-11-02-magabot-1.jpg
 ---
 
