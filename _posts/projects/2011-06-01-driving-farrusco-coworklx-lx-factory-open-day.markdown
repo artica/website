@@ -4,7 +4,7 @@ date: 2011-06-01 20:43:23
 title: "Driving Farrusco @ CoworkLX @ LX Factory ‘open day’"
 categories: projects customrobotics
 excerpt: "Driving Farrusco came from a Guilherme\'s ideia called SWARS (see what a robot sees), since that time we all knew that this idea could go A LOT further, but having Farrusco on a remote terrace, where you could only have access by climbing an outside ladder.. we confess, such idea never cross our minds, until... our friend Fernando Mendes (Cowork_LX mentor) came to us with this crazy idea!"
-thumbnail: /assets/thumbs/2011-06-01-driving-farrusco-coworklx-lx-factory-open-day-1.jpg
+thumbnail: /assets/thumbs/2011-06-01-driving-farrusco-coworklx-lx-factory-open-day-3.jpg
 ---
 
 Driving Farrusco came from a Guilherme's ideia called <a href="http://lab.guilhermemartins.net/2010/04/11/swars/">SWARS</a> (see what a robot sees), since that time we all knew that this idea could go A LOT further, but having Farrusco on a remote terrace, where you could only have access by climbing an outside ladder.. we confess, such idea never cross our minds, until... our friend <a href="http://www.coworklisboa.pt/">Fernando Mendes (Cowork_LX mentor)</a> came to us with this crazy idea! 
