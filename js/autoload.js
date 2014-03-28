@@ -1,89 +1,76 @@
-( function(){
-    var autoload = {
+Ink.createModule('Ink.Autoload', 1, ['Ink.Dom.Selector_1', 'Ink.Dom.Loaded_1', 'Ink.UI.SmoothScroller_1', 'Ink.UI.Close_1'], function( Selector, Loaded, Scroller, Close ){
+    'use strict';
 
-        /***************************
-         * DatePicker - Default CSS selector is .ink-datepicker
-         ***************************/
-        'DatePicker_1': '.ink-datepicker',
+    var Autoload = {
+        selectors: {
+            /* Match module names to element classes (or more complex selectors)
+             * which get the UI modules instantiated automatically. */
+            'Animate_1'     : '.ink-animate',
+            'Carousel_1'    : '.ink-carousel',
+            'DatePicker_1'  : '.ink-datepicker',
+            'Gallery_1'     : 'ul.ink-gallery-source',
+            'Modal_1'       : '.ink-modal',
+            'ProgressBar_1' : '.ink-progress-bar',
+            'SortableList_1': '.ink-sortable-list',
+            'Spy_1'         : '[data-spy="true"]',
+            'Stacker_1'     : '.ink-stacker',
+            'Sticky_1'      : '.ink-sticky, .sticky',
+            'Table_1'       : '.ink-table',
+            'Tabs_1'        : '.ink-tabs',
+            'Toggle_1'      : '.ink-toggle, .toggle',
+            'Tooltip_1'     : '.ink-tooltip, .tooltip',
+            'TreeView_1'    : '.ink-tree-view'
+        },
+        defaultOptions: {},
+        run: function (parentEl, options){
+            options = options || {};
 
-        /***************************
-         * Gallery - Default CSS selector is ul.ink-gallery-source
-         ***************************/
-        'Gallery_1': 'ul.ink-gallery-source',
+            if (options.waitForDOMLoaded) {
+                Loaded.run(autoload);
+            } else {
+                autoload();
+            }
 
-        /***************************
-         * Modal - Default CSS selector is .ink-modal
-         ***************************/
-         'Modal_1': '.ink-modal',
-
-        /***************************
-         * ProgressBar - Default CSS selector is .ink-progress-bar
-         ***************************/
-         'ProgressBar_1': '.ink-progress-bar',
-
-        /***************************
-         * SortableList - Default CSS selector is .ink-sortable-list
-         ***************************/
-         'SortableList_1': '.ink-sortable-list',
-
-        /***************************
-         * Spy - Default CSS selector is *[data-spy="true"]
-         ***************************/
-         'Spy_1': '*[data-spy="true"]',
-
-        /***************************
-         * Sticky - Default CSS selector is .ink-navigation.sticky
-         ***************************/
-         'Sticky_1': '.ink-navigation.sticky',
-
-        /***************************
-         * Table - Default CSS selector is .ink-table
-         ***************************/
-         'Table_1': '.ink-table',
-
-        /***************************
-         * Tabs - Default CSS selector is .ink-tabs
-         ***************************/
-         'Tabs_1': '.ink-tabs',
-
-        /***************************
-         * TreeView - Default CSS selector is .ink-tree-view
-         ***************************/
-         'TreeView_1': '.ink-tree-view',
-
-        /***************************
-         * Toggle - Default CSS selector is .toggle
-         ***************************/
-         'Toggle_1': '.toggle',
-
-        /***************************
-         * Tooltip - Default CSS selector is .tooltip
-         ***************************/
-         'Tooltip_1': '.tooltip'
-    };
-
-    Ink.requireModules(['Ink.Dom.Selector_1', 'Ink.Dom.Loaded_1', 'Ink.Util.Array_1', 'Ink.UI.SmoothScroller_1', 'Ink.UI.Close_1'],
-        function( Selector, Loaded, InkArray, Scroller, Close ){
-
-        var elements;
-        var fn = function( Component ) {
-            InkArray.each(elements, function( element ){
-                new Component(element);
-            });
-        };
-
-        Loaded.run(function(){
-            for( var mod in autoload ){
-                if( !autoload.hasOwnProperty(mod) ){
-                    continue;
+            function autoload() {
+                for(var mod in Autoload.selectors) if (Autoload.selectors.hasOwnProperty(mod)) {
+                    // `elements` need to be in a closure because requireModules is async.
+                    findElements(mod);
                 }
-                elements = Selector.select( autoload[mod] );
-                if( elements.length ){
-                    Ink.requireModules( ['Ink.UI.' + mod ], fn);
+                if (options.createClose) {
+                    new Close();
+                }
+                if (options.createSmoothScroller) {
+                    Scroller.init();
                 }
             }
-            Scroller.init();
-            new Close();
+
+            function findElements(mod) {
+                var modName = 'Ink.UI.' + mod;
+                var elements = Selector.select( Autoload.selectors[mod], parentEl );
+                if( elements.length ){
+                    Ink.requireModules( [modName], function( Component ) {
+                        for (var i = 0, len = elements.length; i < len; i++) {
+                            new Component(elements[i], Autoload.defaultOptions[modName]);
+                        }
+                    });
+                }
+            }
+        }
+    };
+
+    for (var k in Autoload.selectors) if (Autoload.selectors.hasOwnProperty(k)) {
+        Autoload.defaultOptions[k] = {};
+    }
+
+    if (!window.INK_NO_AUTO_LOAD) {
+        Autoload.run(document, {
+            waitForDOMLoaded: true,
+            createSmoothScroller: true,
+            createClose: true
         });
-    });
-})();
+        Autoload.firstRunDone = true;
+    }
+
+    return Autoload;
+});
+
