@@ -3,7 +3,7 @@ layout: post
 date: 2014-03-18 18:11:00 UTC
 title: "MOTORUINO"
 categories: projects education
-excerpt: "The Motoruino is a board based on the Arduino platform, it is designed to work with motors, servos and sensors. "
+excerpt: "The Motoruino is a board based on the Arduino platform, it is designed to work with motors, servos and sensors."
 
 thumbnail: /assets/thumbs/2014-03-19-motoruino.png
 
