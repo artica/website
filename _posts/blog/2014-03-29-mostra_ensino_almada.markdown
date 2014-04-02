@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-04-01 19:00:00 UTC
-title: "Mostra de ensino de Almada"
+title: "Mostra de ensino Secundário e Superior de Almada"
 categories: blog
 excerpt: "Today we were at the public showcase of Secondary Scholls and Universities of Almada's municipally showing our educational robots Farrusco and Magabot."
 longexcerpt: "Today we were at the public showcase of Secondary Scholls and Universities of Almada's municipally showing our educational robots Farrusco and Magabot."
