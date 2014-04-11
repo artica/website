@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">    
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>CIAV Tech Report</title>
+    <meta name="description" content="">
+    <meta name="author" content="ink, cookbook, recipes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+    <link rel="alternate" type="application/rss+xml" title="Artica Blog Posts" href="http://artica.cc//blog/feed.xml" />
+    <!--
+    <link rel="apple-touch-icon-precomposed" href="../img/touch-icon.57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/touch-icon.72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/touch-icon.114.png">
+    <link rel="apple-touch-startup-image" href="/img/splash.320x460.png"
+    media="screen and (min-device-width: 200px) and (max-device-width: 320px) and (orientation:portrait)">
+    <link rel="apple-touch-startup-image" href="/img/splash.768x1004.png"
+    media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+    <link rel="apple-touch-startup-image" href="/img/splash.1024x748.png"
+    media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
+    -->
+    <link rel="stylesheet" type="text/css" href="/css/ink.css">
+    <link rel="stylesheet" type="text/css" href="/css/local.css">
+    <link href="/js/prettify/prettify.css" rel="stylesheet">
+    <link href="/js/prettify/desert.css" rel="stylesheet">
+
+    <!--[if IE 7 ]>
+        <link rel="stylesheet" href="../css/ink-ie7.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <![endif]-->
+    
+    <script type="text/javascript" src="/js/lunr.min.js"></script>
+    <script type="text/javascript" src="/js/holder.js"></script>
+    <script type="text/javascript" src="/js/ink.min.js"></script>
+    <script type="text/javascript" src="/js/ink.carousel.js"></script>
+    <script type="text/javascript" src="/js/ink-ui.min.js"></script>
+    <script type="text/javascript" src="/js/autoload.js"></script>
+    <script type="text/javascript" src="/js/html5shiv.js"></script>
+    <script type="text/javascript" src="/js/posts.js"></script>
+    <script type="text/javascript" src="/js/local.js"></script>
+    <script type="text/javascript" src="/js/prettify/prettify.js"></script>
+    
+    
+    
+
+
+</head>
+
+    <body>
+        <div class="ink-grid">
+          <header>
+    <div>
+    <h1 class="pull-left">
+        <a href="/"><img src="/img/artica_small_bw.png"></a>
+        <small class="hide-medium hide-small">creative computing</small>
+    </h1>
+
+    <nav class="ink-navigation pull-right hide-small" style="padding-left:255px;">
+        <ul class="menu horizontal black rounded shadowed">
+            <li id="nav_team"><a href="/team/">about</a></li>
+            <li id="nav_projects"><a href="/projects/">projects</a></li>
+            <li id="nav_robotics"><a href="/robotics/">robotics</a></li>
+            <li id="nav_einstein"><a href="/einstein/">einstein</a></li>
+            <li id="nav_blog"><a href="/blog/">blog</a></li>
+            <li id="nav_contacts"><a href="/contacts/">contacts</a></li>
+        </ul>
+    </nav>
+
+    <nav class="ink-navigation pull-right ink-grid hide-all show-small">
+        <ul class="menu vertical flat nav_button">
+            <li>
+                <button class="toggle black" data-target="#topbar_menu" id="toggleVisibility">
+                    <i class="icon-reorder"></i>
+                </button>
+            </li>
+        </ul>
+        <div class="vspace">
+            <ul class="menu horizontal shadowed grey hide-all" id="topbar_menu">
+                <li id="nav_team"><a href="/team/">about</a></li>
+                <li id="nav_projects"><a href="/projects/">projects</a></li>
+                <li id="nav_robotics"><a href="/robotics/">robotics</a></li>
+                <li id="nav_einstein"><a href="/einstein/">einstein</a></li>
+                <li id="nav_blog"><a href="/blog/">blog</a></li>
+                <li id="nav_contacts"><a href="/contacts/">contacts</a></li>
+            </ul>
+        </div>
+    </nav>
+
+<script type="text/javascript">
+    NavbarSelect();
+</script>
+</div>
+</header>
+
+
+			<section class="column-group gutters article">
+
+			    <div class="large-25 medium-25 hide-small fadein">
+			        <h2>More stories</h2>
+
+					<form action="#" id="search-form" onsubmit="return(false);" onchange="search('relatedposts');" class="ink-form">
+					    <fieldset>
+				            <div class="control">
+								<span class="search icon-search"></span>
+				                <input type="text" autocomplete="off" id="searchterm">
+				            </div>
+					    </fieldset>
+					</form>
+
+			        <div class="vspace related">
+						<nav class="ink-navigation">
+					        <ul id="relatedposts">
+					        </ul>
+					    </nav>
+			    	</div>
+			    </div>
+
+			    <div class="large-75 medium-75 small-100">
+			        <article class="shadows">
+							<h1>CIAV Tech Report</h1>
+							<p>Published in <time pubdate="pubdate">15 Jul 2013</time></p>
+
+						<p>
+							<p><a href="/assets/images/2013-07-15-ciav-tech-report-1.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-1.jpg"/></a></p>
+
+<p>In early 2013 Artica and RPAR got a proposal approved to help build CIAV - Centro de Interpretação de Almada Velha, a sort of interactive museum of the cities&#39; historic legacy. The project was developed amongst a large number of partnerships. Artica was responsible for the interaction design of the space and all of it&#39;s electronic and software development. The opening was on the 29th of June.</p>
+
+<p>Most of our interaction on the project was made with the following people: Ana Robalo and Rui Pinto from <a href="http://rpar.pt/">RPAR</a> (space architecture), Eric Costa (technical director), Angela Luzia, Ana Costa, Margarida Nunes and Telmo António from city hall (contents), Aldina Semedo e Gabriela Miranda (confection), Leonel &amp; Bicho (construction), António Lobo (graphic design), André Nascimento (sound design). Big thanks go out to them. Others were also involved in the process, just not as directly with Artica.</p>
+
+<div class="video-container"><iframe src="//www.youtube.com/embed/urG9LNcyugM" frameborder="0" allowfullscreen></iframe></div>
+
+<p>This post is about the technological decisions we had to make building CIAV. It describes the problems, what were our alternatives, why we opted for our solution and what lessons we learned during the development process. It focuses on the interaction technology side of things, not the building of the space.</p>
+
+<p>The source code for all the different software elements should be <a href="https://bitbucket.org/artica/ciav/">available at bitbucket</a> soon.<br>
+&lt;!--more--&gt;<br>
+<strong>The space</strong></p>
+
+<p>CIAV is a very old building, dating back to the 15th century, having been rebuilt and repurposed several times. It used to be known as Ermida do Espírito Santo operating as a church, eventually rebuilt as a community and recreational space.</p>
+
+<p><a href="/assets/images/2013-07-15-ciav-tech-report-2.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-2.jpg"/></a></p>
+
+<p>The space had been recently recovered by other architects, but the project proposal required some alterations.</p>
+
+<p>CIAV has 4 areas accessible to the public:<br>
+* The entrance lobby<br>
+* The main hall (including a stage)<br>
+* The activities hall<br>
+* The exit hallway.</p>
+
+<p><strong>Building the entrance</strong></p>
+
+<p>On the entrance itself a small ramp was built to comply with handicap access regulation.</p>
+
+<p>The entrance lobby walls had to be repainted dark brown. A yellow entrance stand was added. Large glass doors were fitted and painted, separating the lobby from the main hall and an LCD screen was mounted on one of the walls.</p>
+
+<p><a href="/assets/images/2013-07-15-ciav-tech-report-3.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-3.jpg"/></a></p>
+
+<p>The entrance is relatively tech free, the exception is the large LCD screen coupled to a low end machine which displays the cities cultural news, the application requires internet access and parses the city hall&#39;s rss feed (via google reader) every 3 hours. The application was developed entirely on html5/css and javascript.</p>
+
+<p><strong>Building the main hall</strong></p>
+
+<p>The main hall was the most complex area to build.</p>
+
+<p>Where the walls meet the ceiling we had to build a rack to hang long drapes, all around the area. The remaining visible walls / ceiling had to be painted in matching color.</p>
+
+<p>A custom made suspension rig was designed, welded, transported and built, made out of metal, it had to hold a machine and two projectors up in the ceiling, being lowered up and down by a lever system.</p>
+
+<p><a href="/assets/images/2013-07-15-ciav-tech-report-4.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-4.jpg"/></a></p>
+
+<p>A custom made table of 2 by 5 meters was also designed, welded, transported and built, made out of metal, wood and sand, it had to be assembled on location and covered with the sand concrete material. This table served as a projection screen for the suspended projectors.</p>
+
+<p>Attached to the table four metal stands were also custom made to fit the table and hold the interaction tablets.</p>
+
+<p>Three large glass cabinets were also custom designed, welded, transported to the building and assembled in the main hall. They were made of metal and wood. Then lined with the same fabric as the drapes, to give it a seamless look. Some parts of the cabinets had to be removable, to allow access the electrical system inside. Custom screws were made to hold the plexiglass cover. Inside each cabinet a custom lights system was installed, more info on them further down in this document.</p>
+
+<p>Next to the cabinets we had to wall mount an LCD screen. The windows on the main hall also required a special wooden structure that was lined with the same fabric as the drapes.</p>
+
+<p>Stairs were made to cover the access path below the stage. On the ceiling of the stage three projectors were attached upside down. They display a looping movie that was recorded and prepared for multi-view. There is also a machine on the roof running a max patch that plays the video and sends the signal to a Matrox triplehead2go which splits it to the 3 projectors.</p>
+
+<p><strong>Building the activities hall</strong></p>
+
+<p>The activities hall didn&#39;t require much intervention. Just a few beanbags placed on the floor.</p>
+
+<p>This location was heavily used during construction phase for stashing the equipment and setting up several painting, cutting, stapling and welding work stands, as required for construction on other sections of the building.</p>
+
+<p><strong>Building the exit hallway</strong></p>
+
+<p>The exit hallway is a corridor with pictures, newspaper clips and small objects reminiscent of the history of the city.</p>
+
+<p>A custom made wood and iron frame was designed, built, placed and painted underneath the stairs, stretching all the way to the back of the hallway. On this scruture was installed electrical system to light the objects behind glass and power three digital photo frames embedded in the structure. Large vinyl prints were then applied to the surface containing additional content information.</p>
+
+<p><a href="/assets/images/2013-07-15-ciav-tech-report-5.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-5.jpg"/></a></p>
+
+<p><strong>Main mall light &amp; magic</strong></p>
+
+<p>The main hall is where most of the technological light &amp; magic takes place.</p>
+
+<p>As previously mentioned, there are 2 projectors suspended on the roof. They are projecting down with edge blending technology an animated map of the city where streets and buildings are highlighted. The canvas is a table made of cemented sand with 2 meters of width, 5 of length and half a meter height. Four android tablets are used as interface to select and control the content projected on the table. Surrounding the table are led strips with 250 LEDs and an <a href="http://www.arduino.cc/">Arduino</a> controlling them.</p>
+
+<p><strong>Edge blending from hell</strong></p>
+
+<p>After a few initial tests with the projectors where everything seemed nice and dandy the projector configuration pixies from hell started playing a few games with us. The projectors were pretty good but at some point one of them was refusing to fullscreen under it&#39;s native resolution. This was bad since we needed both of them at exactly the same resolution and screen coverage, for the edge blending to work. After a few puzzled days of reinstalling drivers, replacing cables, switching entrance slots and going through all the settings menus in the projectors half a dozen times, we finally figured it out, there are more then one dvi input modes, one of the projectors was preferring type 1 while the other was enjoying it&#39;s existance under type 2.</p>
+
+<p>Our setup was 1 high end machine with a GeForce GTX 580 and 2 Panasonic DW 640L. This was poor planning on our side, this specific GeForce model doesn&#39;t have driver support for edge blending a single high resolution screen display to multiple monitors. The Quadro&#39;s apparently do, so we should have either bought one of those or a cheaper, low-end, graphics card with an external Matrox signal splitting hardware solution. Ofcourse this wouldn&#39;t be an issue if Panasonic supported proper Edge Blending, like for example some models of NEC do. But now we were stuck with this hardware and no way to do edge blending on the hardware side.</p>
+
+<p>Trying to save some euros from our, already delivered, hardware budget, we decided to try and resolve the issue with a custom made glsl shader that takes part of the rendered input and partially stretches it on both projector outputs, with some hotkeys to alter the ratio and better match it pixel perfect. This was implemented in a day but still not working as intended. Our application was being developed in html5 + css + javascript, so, to now render it to a texture we had to embed it in a <a href="http://libcinder.org/">libcinder</a> app (<a href="https://github.com/paulhoux/Cinder-Awesomium">with awesomium</a>). This in itself worked fine. But by stretching the rendered image on the edge blending shader, the text would lose some of the sharpness, so we had to &quot;cheat&quot; a little: since we knew the most text intensive elements were never going to cross the edge blending zone, we split them into a separately rendered layer with transparency and only blended after, with the edge blending FBO done.</p>
+
+<p>Another small headache was making sure the suspended projectors platform was in fact completely perpendicular to the table. If it was not, some pixel misalignment would show on one of the vertical edges of the edge blending zone, destroying the intended effect. Luckily for us we had a skilled and patient hardware guy who managed to yo-yo tune the suspended platform.</p>
+
+<p><a href="/assets/images/2013-07-15-ciav-tech-report-6.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-6.jpg"/></a></p>
+
+<p><strong>Android tablets are not iPads</strong></p>
+
+<p>To control the displayed content on the map/table application we have 4 android bq Edison tablets in fixed structures surrounding the table. The tablets run a custom application developed using <a href="http://phonegap.com/">phonegap/cordova</a>, so it&#39;s actually completely made using html, css and javascript. The choice for Android and the bq Edison in specific was made balancing the price and hardware quality. They are not iPad&#39;s.</p>
+
+<p>Initial tests with another Android device on a Mac were made to determine if such an interface solution could work in terms of framerate. It was fairly acceptable. But there was another pending issue, the native Android browser does not support WebSockets, our plan for communicating amongst the elements was using websockets. A few folks had implemented phonegap plugins to cover that missing feature, but most of them were deprecated, abandoned or had major performance instability issues, eventually we ended up using <a href="https://github.com/ziadloo/PhoneGap-Java-WebSocket">ziadloo&#39;s version</a> that did a great job.</p>
+
+<p>Another silly stress developing for the Android tablet was migrating the deployment environment to windows. We discovered the target device was not recognized by the android sdk. Searching the internet for answers we finally digged up that some devices do not get automatically recognized for development and that the only solution is connecting it to a Mac, checking the usb properties of the connected device to note down the vendor id and then saving it into a hidden configuration file.</p>
+
+<p>Sadly, this was still not enough to get phonegap cli working properly on Windows, seems the cli interface is still quite beta, especially under windows. We eventually decided to just use a Mac instead and quickly managed to start deploying our application to the tablet. Once the software development platform was stable the development itself was rather smooth.</p>
+
+<p>We were left only with hardware problems. Android tablets are not iPads, leaving one of them connected to the electricity after it&#39;s already charged quickly screwed with the battery sensors, the tablet started shutting itself down despite still having battery life left.</p>
+
+<p>Another hardware problem we ran into during the installation was the built up static electricity, which screws with the touch sensitivity of the screen, eventually crashing the tablet. We suspect it&#39;s being caused by the power supply from the small audio speakers that amplify the sound of the tablet. We suspected this due to a shared symptom of static whistling sounds when the audio jack is connected. Wrong electrical wiring? Crappy tablets? We replaced the audio adaptors, grounded all electric supplies, cut some metal out of the structure and replaced the isolation material that separates the tablets from the frame structure. Hopefully it&#39;s enough to ensure the problem doesn&#39;t re-occur.</p>
+
+<p><strong>WebSockets are the future</strong></p>
+
+<p>As previously mentioned already we decided to use WebSockets to handle the communication between the different elements. Besides the map and the tablets we had another machine to handle computer vision (via <a href="http://opentsps.com/">OpenTSPS</a>) and replay environment sound to the space. This machine became the sockets server running <a href="https://npmjs.org/package/websocket.io">websocket.io</a> on <a href="http://nodejs.org/">node</a>.</p>
+
+<p>Our sockets server had 3 main purposes:<br>
+1) Relay synchronism messages between the map and tablets.<br>
+2) Parse TSPS information, to send additional messages.<br>
+3) Sync a gradual color change between the map application and the 4 arduinos, each connected to LED strips.</p>
+
+<p>The LED strips were distributed amongst 3 exhibit stands and around the map table itself. The map table in particular required to receive 490 RGB data values several times per second. After a few tests we quickly realized this Arduino didn&#39;t have enough memory to handle this. There are websockets libraries for Arduino, but all of them limit you below the number of bytes we required to pass along. So we decided to use tcp connections instead of websockets, we run them in parallel, also using node. After a few headaches with javascript string to byte conversions it ended up working just fine.</p>
+
+<p><strong>All other things arduino</strong></p>
+
+<p>In the side of the main hall there is an LCD screen with Arduino proximity sensors that trigger video interaction. These videos feature the local population sharing their memories of the city. An Arduino with proximity sensors detects hand motion signals in front of the LCD, by waving your hands you can go back or skip to the next video. The Arduino communicates by usb with a computer running a customized Python script that handles the logic and forwards requests to vlc via telnet.</p>
+
+<p>Next to the LCD screen, 3 exhibit stands are also coupled with Arduino proximity sensors that alter it&#39;s lighting via LED strips. By default the exhibition stands glow colors in sync with the table, when someone stands in front of them, the lighting changes and we activate a handful of hand soldered LED spotlight projectors pointing to the different objects inside the stands. Each exhibition stand operates independently of each other.</p>
+
+<p><a href="/assets/images/2013-07-15-ciav-tech-report-7.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-7.jpg"/></a></p>
+
+<p><strong>Network me beautiful</strong></p>
+
+<p>Initially we wanted to have 1 wifi router with internet and an ethernet switch distributing the network to all our elements. The loose end on this plan was the decision to build a suspended platform for the projectors and the machine displaying the map. We needed an ethernet cable that could handle the strain of being pulled up and down through the rig, we didn&#39;t want to risk with a standard ethernet cable and the budget for a professional one was disturbingly high. We had to make a decision if we wanted a wifi card on the map machine, or a wifi router bridging the connections.</p>
+
+<p>Considering we also wanted network access to the suspended projectors, since it&#39;s handy to be able to access stats and turn them on and off remotely, we decided to go for the wifi bridge solution and bought another good old TP-Link DR941ND. We also considered that having another wifi router in a privileged location in the ceiling of the main hall would help the tablets not lose network access on a whim.</p>
+
+<p>We configured the wifi routers to bridge with each other, gave all the fixed machines fixed IPs and everything was fine. After a few days of usage we started noticing network connection problems. Pings of 200ms between routers, no gateway connections, lost packets, the usual headaches. We eventually decided to flash <a href="http://www.dd-wrt.com/site/index">dd-wrt</a> and try again. The lost connections in the bridges subsided, but the map machine still had a few gateway resolve issues and would eventually need to be manually rebooted every once in a while, we&#39;re talking of the machine that is suspended in the ceiling here, not very accessible.</p>
+
+<p>Websocket server connection overload? Connections not timming out? Wifi channel conflict? Bad <a href="http://www.wampserver.com/en/">WAMP</a> config? Bad network config? We are still not 100% sure what was wrong with it exactly, but we tried optimizing the number of connections and reconfiguring some things, until it eventually stabilized. The tablets still lose wifi connection now and again but manage to gracefully recover. The suspended machine hasn&#39;t had any critical connection loss anymore. Let&#39;s hope it stays that way.</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>CIAV was a great project to work on. It involved lots of elements with distinct technologies, both on hardware and software. We learned a lot and still managed to deliver something cool, we hope the visitors will enjoy it as much as we did.</p>
+
+						</p>
+
+			        </article>
+
+			        <h2>Comments</h2>
+
+				    <div id="disqus_thread"></div>
+				    <script type="text/javascript">
+						printRandomPosts(posts,5);
+
+				        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+				        var disqus_shortname = 'artica'; // required: replace example with your forum shortname
+
+				        /* * * DON'T EDIT BELOW THIS LINE * * */
+				        (function() {
+				            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+				            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				        })();
+				    </script>
+				    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+				    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>    
+				    </div>
+
+			</section>
+        </div>
+    <footer>
+<div class="ink-grid">
+    <div class="column-group">
+        <nav class="large-50 medium-50 small-100 ink-navigation push-left">
+            <ul class="menu horizontal">
+                <li class="active"><a href="https://twitter.com/artica_pt"><span class="icon-twitter"></span></a></li>
+                <li><a href="https://www.facebook.com/pages/ArticaCc/196701617031031"><span class="icon-facebook"></span></a></li>
+                <li><a href="https://www.youtube.com/user/articacc"><span class="icon-youtube"></span></a></li>
+                <li><a href="https://github.com/artica"><span class="icon-github-alt"></span></a></li>
+                <li><a href="/blog/feed.xml"><span class="icon-rss"></span></a></li>
+                <li><a href="/contacts/"><span class="icon-envelope"></span></a></li>
+            </ul>
+        </nav>
+        <div class="large-50 medium-50 hide-small footer-logos">
+            <a class="push-right" href="http://ink.sapo.pt/">
+                <img src="/assets/images/poweredbyink.png">
+            </a>
+            <a class="push-right" href="/blog/2013/02/06/artica-joined-the-mindshaker-universe.html">
+                <img src="/assets/images/mindshaker_logo.png">
+            </a>
+        </div>
+    </div>
+</div>
+</footer>
+
+<script type="text/javascript">
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-45360427-1', 'artica.cc');
+ga('send', 'pageview');
+
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'artica'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+    </body>
+</html>

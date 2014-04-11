@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">    
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Artica Blog</title>
+    <meta name="description" content="">
+    <meta name="author" content="ink, cookbook, recipes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+    <link rel="alternate" type="application/rss+xml" title="Artica Blog Posts" href="http://artica.cc//blog/feed.xml" />
+    <!--
+    <link rel="apple-touch-icon-precomposed" href="../img/touch-icon.57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/touch-icon.72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/touch-icon.114.png">
+    <link rel="apple-touch-startup-image" href="/img/splash.320x460.png"
+    media="screen and (min-device-width: 200px) and (max-device-width: 320px) and (orientation:portrait)">
+    <link rel="apple-touch-startup-image" href="/img/splash.768x1004.png"
+    media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+    <link rel="apple-touch-startup-image" href="/img/splash.1024x748.png"
+    media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
+    -->
+    <link rel="stylesheet" type="text/css" href="/css/ink.css">
+    <link rel="stylesheet" type="text/css" href="/css/local.css">
+    <link href="/js/prettify/prettify.css" rel="stylesheet">
+    <link href="/js/prettify/desert.css" rel="stylesheet">
+
+    <!--[if IE 7 ]>
+        <link rel="stylesheet" href="../css/ink-ie7.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <![endif]-->
+    
+    <script type="text/javascript" src="/js/lunr.min.js"></script>
+    <script type="text/javascript" src="/js/holder.js"></script>
+    <script type="text/javascript" src="/js/ink.min.js"></script>
+    <script type="text/javascript" src="/js/ink.carousel.js"></script>
+    <script type="text/javascript" src="/js/ink-ui.min.js"></script>
+    <script type="text/javascript" src="/js/autoload.js"></script>
+    <script type="text/javascript" src="/js/html5shiv.js"></script>
+    <script type="text/javascript" src="/js/posts.js"></script>
+    <script type="text/javascript" src="/js/local.js"></script>
+    <script type="text/javascript" src="/js/prettify/prettify.js"></script>
+    
+    
+    
+
+
+</head>
+
+    <body>
+        <div class="ink-grid">
+          <header>
+    <div>
+    <h1 class="pull-left">
+        <a href="/"><img src="/img/artica_small_bw.png"></a>
+        <small class="hide-medium hide-small">creative computing</small>
+    </h1>
+
+    <nav class="ink-navigation pull-right hide-small" style="padding-left:255px;">
+        <ul class="menu horizontal black rounded shadowed">
+            <li id="nav_team"><a href="/team/">about</a></li>
+            <li id="nav_projects"><a href="/projects/">projects</a></li>
+            <li id="nav_robotics"><a href="/robotics/">robotics</a></li>
+            <li id="nav_einstein"><a href="/einstein/">einstein</a></li>
+            <li id="nav_blog"><a href="/blog/">blog</a></li>
+            <li id="nav_contacts"><a href="/contacts/">contacts</a></li>
+        </ul>
+    </nav>
+
+    <nav class="ink-navigation pull-right ink-grid hide-all show-small">
+        <ul class="menu vertical flat nav_button">
+            <li>
+                <button class="toggle black" data-target="#topbar_menu" id="toggleVisibility">
+                    <i class="icon-reorder"></i>
+                </button>
+            </li>
+        </ul>
+        <div class="vspace">
+            <ul class="menu horizontal shadowed grey hide-all" id="topbar_menu">
+                <li id="nav_team"><a href="/team/">about</a></li>
+                <li id="nav_projects"><a href="/projects/">projects</a></li>
+                <li id="nav_robotics"><a href="/robotics/">robotics</a></li>
+                <li id="nav_einstein"><a href="/einstein/">einstein</a></li>
+                <li id="nav_blog"><a href="/blog/">blog</a></li>
+                <li id="nav_contacts"><a href="/contacts/">contacts</a></li>
+            </ul>
+        </div>
+    </nav>
+
+<script type="text/javascript">
+    NavbarSelect();
+</script>
+</div>
+</header>
+
+          <div class="column-group gutters">
+	<div class="large-25 medium-25 hide-small">
+		<header>
+			<nav class="ink-navigation">
+				<ul class="menu vertical grey">
+		
+		
+		
+		
+
+					<li><a href="#1">Farrusco Road Trip</a></li>
+
+		
+		
+		
+		
+		
+		
+
+					<li><a href="#2">It's Friday we're in love!</a></li>
+
+		
+		
+		
+		
+		
+		
+
+					<li><a href="#3">“Desumano" (unhuman)</a></li>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+					<li><a href="#4">Max + Arduino + Industrial Motor</a></li>
+
+		
+		
+		
+		
+
+				</ul>
+			</nav>
+		</header>
+
+		<h3>Search</h3>
+
+		<form action="#" id="search-form" onsubmit="return(false);" onchange="search('searchresults');" class="ink-form">
+		    <fieldset>
+	            <div class="control">
+					<span class="search icon-search"></span>
+	                <input type="text" autocomplete="off" id="searchterm">
+	            </div>
+		    </fieldset>
+		</form>
+
+        <div class="vspace related">
+			<nav class="ink-navigation">
+				<ul id="searchresults"></ul>
+			</nav>
+		</div>
+
+	</div>
+
+
+	<div class="large-75 medium-75 small-100 content vspace">
+
+		<b>Page 27 of Artica's Blog</b>
+
+		<p>
+		<nav class="ink-navigation">
+    <ul class="pagination rounded shadowed grey">
+		
+		<li class="previous">
+			
+				<a href="/blog/page/26">Previous</a>
+			
+		</li>
+		
+
+		
+		<li><a href="/blog/"><i class="icon-fast-backward"></i></a></li>
+		
+
+		
+		<li class="disabled"><a href="#" onclick="return(false);">...</a></li>
+		
+
+		
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/26">26</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li class="active"><a href="#" onclick="return(false);">27</a></li>
+				
+			
+		
+
+		
+
+		
+		<li><a href="/blog/page/28"><i class="icon-fast-forward"></i></a></a>
+		
+
+
+		
+		<li class="next"><a href="/blog/page/28">Next</a></li>
+		
+
+	</ul>
+</nav>
+
+		</p>
+
+		
+		
+		
+		
+
+		<section id="1">
+
+			<h2><a href="/blog/2011/03/14/farrusco-road-trip.html">Farrusco Road Trip</a></h2>
+			<small>14 March 2011</small>
+			
+			<p class="shadows vspace">
+				<p>Now that you&#39;ve met Farrusco, we can explain you some of the work we developed till we get the final version, available in <a href="http://www.guibot.pt/">guibot.pt</a>.</p>
+
+<p><div class="video-container"><iframe src="http://player.vimeo.com/video/20996176?portrait=0" frameborder="0" allowfullscreen></iframe></div><p></p>
+
+<p>In one of it initial iterations, Farrusco had a camera on it and was controlled remotely via xbee. It was developed by Guilherme Martins in a project called <a href="http://lab.guilhermemartins.net/2010/04/11/swars/">SWARS (See What A Robot Sees)</a>.</p>
+
+<p>Guilherme purposed to Nuno Morgadinho and Ana Aires (<a href="http://www.widgilabs.com/">widgilabs</a>) to develop a remote control via web application during the <a href="http://altlab.org/category/az_residency/">AZResidency</a>, an artistic residency promoted by Rui Horta that took place in the beautiful Convento da Saudação in Montemor-o-Novo.</p>
+
+<p>Do you wanna see how it worked out? Did Farrusco missed home? Read all the report by Nuno Morgadinho <a href="http://www.morgadinho.org/2011/03/14/driving-farrusco/">here</a>.</p>
+
+<p>Farrusco&#39;s coming back home soon and we hope that you will be able to gain control over him, remotely of course!</p>
+
+			</p>
+			
+
+			<p><a href="/blog/2011/03/14/farrusco-road-trip.html">Read the full post</a></p>
+			<p><a href="/blog/2011/03/14/farrusco-road-trip.html#disqus_thread">comments</a></p>
+
+			<p class="vspace"></p>
+
+		</section>
+
+		
+		
+		
+		
+		
+		
+
+		<section id="2">
+
+			<h2><a href="/blog/2011/03/11/its-friday-were-in-love.html">It's Friday we're in love!</a></h2>
+			<small>11 March 2011</small>
+			
+			<p class="shadows vspace">
+				<a href="/blog/2011/03/11/its-friday-were-in-love.html"><img src="/assets/images/2011-03-11-its-friday-were-in-love-1.jpg"></a>
+			</p>
+			<p>
+			
+				Meet our latest robot: Farrusco.We are already accepting pre-orders for Farrusco at www.guibot.pt.
+			
+			</p>
+			
+
+			<p><a href="/blog/2011/03/11/its-friday-were-in-love.html">Read the full post</a></p>
+			<p><a href="/blog/2011/03/11/its-friday-were-in-love.html#disqus_thread">comments</a></p>
+
+			<p class="vspace"></p>
+
+		</section>
+
+		
+		
+		
+		
+		
+		
+
+		<section id="3">
+
+			<h2><a href="/blog/2011/03/10/desumano-unhuman.html">“Desumano" (unhuman)</a></h2>
+			<small>10 March 2011</small>
+			
+			<p class="shadows vspace">
+				<a href="/blog/2011/03/10/desumano-unhuman.html"><img src="/assets/images/2011-03-10-desumano-unhuman-1.jpg"></a>
+			</p>
+			<p>
+			
+				Last September we were envolved in the production of the exhibition “Desumano" (unhuman), in a partnership with Mapa das Ideias.The exhibition went so well that the client decided to make it itinerant.
+			
+			</p>
+			
+
+			<p><a href="/blog/2011/03/10/desumano-unhuman.html">Read the full post</a></p>
+			<p><a href="/blog/2011/03/10/desumano-unhuman.html#disqus_thread">comments</a></p>
+
+			<p class="vspace"></p>
+
+		</section>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		<section id="4">
+
+			<h2><a href="/blog/2011/03/09/max-arduino-industrial-motor.html">Max + Arduino + Industrial Motor</a></h2>
+			<small>09 March 2011</small>
+			
+			<p class="shadows vspace">
+				<a href="/blog/2011/03/09/max-arduino-industrial-motor.html"><img src="/assets/images/2011-03-09-max-arduino-industrial-motor-1.jpg"></a>
+			</p>
+			<p>
+			
+				We had a request to link MAXMSP to an industrial motor for an artistic installation witch we will speak about at another time.This motor is a true beast, and since we have never worked with such a thing we decided to ask for help to our electronics guru David Palma.
+			
+			</p>
+			
+
+			<p><a href="/blog/2011/03/09/max-arduino-industrial-motor.html">Read the full post</a></p>
+			<p><a href="/blog/2011/03/09/max-arduino-industrial-motor.html#disqus_thread">comments</a></p>
+
+			<p class="vspace"></p>
+
+		</section>
+
+		
+		
+		
+		
+
+		<p>
+			<nav class="ink-navigation">
+    <ul class="pagination rounded shadowed grey">
+		
+		<li class="previous">
+			
+				<a href="/blog/page/26">Previous</a>
+			
+		</li>
+		
+
+		
+		<li><a href="/blog/"><i class="icon-fast-backward"></i></a></li>
+		
+
+		
+		<li class="disabled"><a href="#" onclick="return(false);">...</a></li>
+		
+
+		
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/26">26</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li class="active"><a href="#" onclick="return(false);">27</a></li>
+				
+			
+		
+
+		
+
+		
+		<li><a href="/blog/page/28"><i class="icon-fast-forward"></i></a></a>
+		
+
+
+		
+		<li class="next"><a href="/blog/page/28">Next</a></li>
+		
+
+	</ul>
+</nav>
+
+		</p>
+
+	</div>
+</div>
+        </div>
+    <footer>
+<div class="ink-grid">
+    <div class="column-group">
+        <nav class="large-50 medium-50 small-100 ink-navigation push-left">
+            <ul class="menu horizontal">
+                <li class="active"><a href="https://twitter.com/artica_pt"><span class="icon-twitter"></span></a></li>
+                <li><a href="https://www.facebook.com/pages/ArticaCc/196701617031031"><span class="icon-facebook"></span></a></li>
+                <li><a href="https://www.youtube.com/user/articacc"><span class="icon-youtube"></span></a></li>
+                <li><a href="https://github.com/artica"><span class="icon-github-alt"></span></a></li>
+                <li><a href="/blog/feed.xml"><span class="icon-rss"></span></a></li>
+                <li><a href="/contacts/"><span class="icon-envelope"></span></a></li>
+            </ul>
+        </nav>
+        <div class="large-50 medium-50 hide-small footer-logos">
+            <a class="push-right" href="http://ink.sapo.pt/">
+                <img src="/assets/images/poweredbyink.png">
+            </a>
+            <a class="push-right" href="/blog/2013/02/06/artica-joined-the-mindshaker-universe.html">
+                <img src="/assets/images/mindshaker_logo.png">
+            </a>
+        </div>
+    </div>
+</div>
+</footer>
+
+<script type="text/javascript">
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-45360427-1', 'artica.cc');
+ga('send', 'pageview');
+
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'artica'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+    </body>
+</html>

@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">    
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Artica Blog</title>
+    <meta name="description" content="">
+    <meta name="author" content="ink, cookbook, recipes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+    <link rel="alternate" type="application/rss+xml" title="Artica Blog Posts" href="http://artica.cc//blog/feed.xml" />
+    <!--
+    <link rel="apple-touch-icon-precomposed" href="../img/touch-icon.57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/touch-icon.72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/touch-icon.114.png">
+    <link rel="apple-touch-startup-image" href="/img/splash.320x460.png"
+    media="screen and (min-device-width: 200px) and (max-device-width: 320px) and (orientation:portrait)">
+    <link rel="apple-touch-startup-image" href="/img/splash.768x1004.png"
+    media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+    <link rel="apple-touch-startup-image" href="/img/splash.1024x748.png"
+    media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
+    -->
+    <link rel="stylesheet" type="text/css" href="/css/ink.css">
+    <link rel="stylesheet" type="text/css" href="/css/local.css">
+    <link href="/js/prettify/prettify.css" rel="stylesheet">
+    <link href="/js/prettify/desert.css" rel="stylesheet">
+
+    <!--[if IE 7 ]>
+        <link rel="stylesheet" href="../css/ink-ie7.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <![endif]-->
+    
+    <script type="text/javascript" src="/js/lunr.min.js"></script>
+    <script type="text/javascript" src="/js/holder.js"></script>
+    <script type="text/javascript" src="/js/ink.min.js"></script>
+    <script type="text/javascript" src="/js/ink.carousel.js"></script>
+    <script type="text/javascript" src="/js/ink-ui.min.js"></script>
+    <script type="text/javascript" src="/js/autoload.js"></script>
+    <script type="text/javascript" src="/js/html5shiv.js"></script>
+    <script type="text/javascript" src="/js/posts.js"></script>
+    <script type="text/javascript" src="/js/local.js"></script>
+    <script type="text/javascript" src="/js/prettify/prettify.js"></script>
+    
+    
+    
+
+
+</head>
+
+    <body>
+        <div class="ink-grid">
+          <header>
+    <div>
+    <h1 class="pull-left">
+        <a href="/"><img src="/img/artica_small_bw.png"></a>
+        <small class="hide-medium hide-small">creative computing</small>
+    </h1>
+
+    <nav class="ink-navigation pull-right hide-small" style="padding-left:255px;">
+        <ul class="menu horizontal black rounded shadowed">
+            <li id="nav_team"><a href="/team/">about</a></li>
+            <li id="nav_projects"><a href="/projects/">projects</a></li>
+            <li id="nav_robotics"><a href="/robotics/">robotics</a></li>
+            <li id="nav_einstein"><a href="/einstein/">einstein</a></li>
+            <li id="nav_blog"><a href="/blog/">blog</a></li>
+            <li id="nav_contacts"><a href="/contacts/">contacts</a></li>
+        </ul>
+    </nav>
+
+    <nav class="ink-navigation pull-right ink-grid hide-all show-small">
+        <ul class="menu vertical flat nav_button">
+            <li>
+                <button class="toggle black" data-target="#topbar_menu" id="toggleVisibility">
+                    <i class="icon-reorder"></i>
+                </button>
+            </li>
+        </ul>
+        <div class="vspace">
+            <ul class="menu horizontal shadowed grey hide-all" id="topbar_menu">
+                <li id="nav_team"><a href="/team/">about</a></li>
+                <li id="nav_projects"><a href="/projects/">projects</a></li>
+                <li id="nav_robotics"><a href="/robotics/">robotics</a></li>
+                <li id="nav_einstein"><a href="/einstein/">einstein</a></li>
+                <li id="nav_blog"><a href="/blog/">blog</a></li>
+                <li id="nav_contacts"><a href="/contacts/">contacts</a></li>
+            </ul>
+        </div>
+    </nav>
+
+<script type="text/javascript">
+    NavbarSelect();
+</script>
+</div>
+</header>
+
+          <div class="column-group gutters">
+	<div class="large-25 medium-25 hide-small">
+		<header>
+			<nav class="ink-navigation">
+				<ul class="menu vertical grey">
+		
+		
+		
+		
+
+					<li><a href="#1">Magabot @ Campus Party Europe in Berlin</a></li>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+					<li><a href="#2">Artica @ Rock In Rio and SuperBockSuperRock</a></li>
+
+		
+		
+		
+		
+		
+		
+
+					<li><a href="#3">ICU2 - I See You Too</a></li>
+
+		
+		
+		
+		
+		
+		
+
+					<li><a href="#4">Another day at the office...</a></li>
+
+		
+		
+		
+		
+
+				</ul>
+			</nav>
+		</header>
+
+		<h3>Search</h3>
+
+		<form action="#" id="search-form" onsubmit="return(false);" onchange="search('searchresults');" class="ink-form">
+		    <fieldset>
+	            <div class="control">
+					<span class="search icon-search"></span>
+	                <input type="text" autocomplete="off" id="searchterm">
+	            </div>
+		    </fieldset>
+		</form>
+
+        <div class="vspace related">
+			<nav class="ink-navigation">
+				<ul id="searchresults"></ul>
+			</nav>
+		</div>
+
+	</div>
+
+
+	<div class="large-75 medium-75 small-100 content vspace">
+
+		<b>Page 13 of Artica's Blog</b>
+
+		<p>
+		<nav class="ink-navigation">
+    <ul class="pagination rounded shadowed grey">
+		
+		<li class="previous">
+			
+				<a href="/blog/page/12">Previous</a>
+			
+		</li>
+		
+
+		
+		<li><a href="/blog/"><i class="icon-fast-backward"></i></a></li>
+		
+
+		
+		<li class="disabled"><a href="#" onclick="return(false);">...</a></li>
+		
+
+		
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/12">12</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li class="active"><a href="#" onclick="return(false);">13</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/14">14</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/15">15</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/16">16</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/17">17</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/18">18</a></li>
+				
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+
+		
+		<li class="disabled"><a href="#" onclick="return(false);">...</a></li>
+		
+
+		
+		<li><a href="/blog/page/28"><i class="icon-fast-forward"></i></a></a>
+		
+
+
+		
+		<li class="next"><a href="/blog/page/14">Next</a></li>
+		
+
+	</ul>
+</nav>
+
+		</p>
+
+		
+		
+		
+		
+
+		<section id="1">
+
+			<h2><a href="/blog/2012/08/24/magabot-campus-party-europe-in-berlin.html">Magabot @ Campus Party Europe in Berlin</a></h2>
+			<small>24 August 2012</small>
+			
+			<p class="shadows vspace">
+				<a href="/blog/2012/08/24/magabot-campus-party-europe-in-berlin.html"><img src="/assets/images/2012-08-24-magabot-campus-party-europe-in-berlin-1.jpg"></a>
+			</p>
+			<p>
+			
+				Campus Party is a massive event gathering enthusiasts from all over the world, and this time it took place in Berlin. Our special agent Francisco Dias went there and took a Magabot with him. As you can see in the video, the Magabot has a pingpong cannon ball, and is being controlled by a kinect.
+			
+			</p>
+			
+
+			<p><a href="/blog/2012/08/24/magabot-campus-party-europe-in-berlin.html">Read the full post</a></p>
+			<p><a href="/blog/2012/08/24/magabot-campus-party-europe-in-berlin.html#disqus_thread">comments</a></p>
+
+			<p class="vspace"></p>
+
+		</section>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		<section id="2">
+
+			<h2><a href="/blog/2012/07/23/artica-rock-in-rio-and-superbocksuperrock.html">Artica @ Rock In Rio and SuperBockSuperRock</a></h2>
+			<small>23 July 2012</small>
+			
+			<p class="shadows vspace">
+				<a href="/blog/2012/07/23/artica-rock-in-rio-and-superbocksuperrock.html"><img src="/assets/images/2012-07-23-artica-rock-in-rio-and-superbocksuperrock-1.jpg"></a>
+			</p>
+			<p>
+			
+				MusicBox is the new PT's music channel, at the festival they wanted to had the application on a big screen and have the possibility to control it using hand gesture. We were hired by Hipnose to accomplish the challenge.This was ment to be with the so known kinect camera, but what they didn't know is that the kinect doesn't work outdoor, so we used a laser sensor and it worked flawlessly!!
+			
+			</p>
+			
+
+			<p><a href="/blog/2012/07/23/artica-rock-in-rio-and-superbocksuperrock.html">Read the full post</a></p>
+			<p><a href="/blog/2012/07/23/artica-rock-in-rio-and-superbocksuperrock.html#disqus_thread">comments</a></p>
+
+			<p class="vspace"></p>
+
+		</section>
+
+		
+		
+		
+		
+		
+		
+
+		<section id="3">
+
+			<h2><a href="/blog/2012/07/23/icu2-i-see-you-too.html">ICU2 - I See You Too</a></h2>
+			<small>23 July 2012</small>
+			
+			<p class="shadows vspace">
+				<p>ICU2 is the evolution of the 1st iteration, this new version was totally upgraded, all the pans and tilts systems are from <a href="http://servocity.com">ServoCity</a>, and the software had been re-written from scratch, the face tracker component is on a openFrameworks program wich makes it more performative, and on the Processing side we had a preset based animation program, everytime it looses a face it will load a preset with a diferent animation, this makes it more organic and less repetitive, I will talk more about the software on another post.</p>
+
+<div class="video-container"><iframe src="http://www.youtube.com/embed/fp87H-cZMZc" frameborder="0" allowfullscreen></iframe></div>
+
+<p>This installation is ment to work without the screen, it focuses the attention of the viewer on the ICU, but both of the exhibitions had the screen there as you can see. The knowledge pavilion required the screen to be there because it shows all the control side of the mechanism, and they want to show it to the visitors, and on the FCT Open Day, this exhibition was ment to be visited by new engineering students so we decided to let the screen to be there as well.</p>
+
+			</p>
+			
+
+			<p><a href="/blog/2012/07/23/icu2-i-see-you-too.html">Read the full post</a></p>
+			<p><a href="/blog/2012/07/23/icu2-i-see-you-too.html#disqus_thread">comments</a></p>
+
+			<p class="vspace"></p>
+
+		</section>
+
+		
+		
+		
+		
+		
+		
+
+		<section id="4">
+
+			<h2><a href="/blog/2012/07/02/another-day-at-the-office.html">Another day at the office...</a></h2>
+			<small>02 July 2012</small>
+			
+			<p class="shadows vspace">
+				<a href="/blog/2012/07/02/another-day-at-the-office.html"><img src="/assets/images/2012-07-02-another-day-at-the-office-1.jpg"></a>
+			</p>
+			<p>
+			
+				
+			
+			</p>
+			
+
+			<p><a href="/blog/2012/07/02/another-day-at-the-office.html">Read the full post</a></p>
+			<p><a href="/blog/2012/07/02/another-day-at-the-office.html#disqus_thread">comments</a></p>
+
+			<p class="vspace"></p>
+
+		</section>
+
+		
+		
+		
+		
+
+		<p>
+			<nav class="ink-navigation">
+    <ul class="pagination rounded shadowed grey">
+		
+		<li class="previous">
+			
+				<a href="/blog/page/12">Previous</a>
+			
+		</li>
+		
+
+		
+		<li><a href="/blog/"><i class="icon-fast-backward"></i></a></li>
+		
+
+		
+		<li class="disabled"><a href="#" onclick="return(false);">...</a></li>
+		
+
+		
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/12">12</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li class="active"><a href="#" onclick="return(false);">13</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/14">14</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/15">15</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/16">16</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/17">17</a></li>
+				
+			
+		
+			
+			
+			
+				
+				<li><a href="/blog/page/18">18</a></li>
+				
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+
+		
+		<li class="disabled"><a href="#" onclick="return(false);">...</a></li>
+		
+
+		
+		<li><a href="/blog/page/28"><i class="icon-fast-forward"></i></a></a>
+		
+
+
+		
+		<li class="next"><a href="/blog/page/14">Next</a></li>
+		
+
+	</ul>
+</nav>
+
+		</p>
+
+	</div>
+</div>
+        </div>
+    <footer>
+<div class="ink-grid">
+    <div class="column-group">
+        <nav class="large-50 medium-50 small-100 ink-navigation push-left">
+            <ul class="menu horizontal">
+                <li class="active"><a href="https://twitter.com/artica_pt"><span class="icon-twitter"></span></a></li>
+                <li><a href="https://www.facebook.com/pages/ArticaCc/196701617031031"><span class="icon-facebook"></span></a></li>
+                <li><a href="https://www.youtube.com/user/articacc"><span class="icon-youtube"></span></a></li>
+                <li><a href="https://github.com/artica"><span class="icon-github-alt"></span></a></li>
+                <li><a href="/blog/feed.xml"><span class="icon-rss"></span></a></li>
+                <li><a href="/contacts/"><span class="icon-envelope"></span></a></li>
+            </ul>
+        </nav>
+        <div class="large-50 medium-50 hide-small footer-logos">
+            <a class="push-right" href="http://ink.sapo.pt/">
+                <img src="/assets/images/poweredbyink.png">
+            </a>
+            <a class="push-right" href="/blog/2013/02/06/artica-joined-the-mindshaker-universe.html">
+                <img src="/assets/images/mindshaker_logo.png">
+            </a>
+        </div>
+    </div>
+</div>
+</footer>
+
+<script type="text/javascript">
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-45360427-1', 'artica.cc');
+ga('send', 'pageview');
+
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'artica'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+    </body>
+</html>
