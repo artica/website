@@ -3,8 +3,8 @@ layout: post
 date: 2014-04-14 19:00:00 UTC
 title: "Artica @ Codebits 2014"
 categories: blog
-excerpt: "Today we were at the public showcase of Secondary Scholls and Universities of Almada's municipally showing our educational robots Farrusco and Magabot."
-longexcerpt: "Today we were at the public showcase of Secondary Scholls and Universities of Almada's municipally showing our educational robots Farrusco and Magabot."
+excerpt: "We were present at yet another edition of Sapo Codebits, happening again on Sala Tejo of MEO Arena, from 10 to 12 April 2014."
+longexcerpt: "We were present at yet another edition of Sapo Codebits, happening again on Sala Tejo of MEO Arena, from 10 to 12 April 2014."
 
 thumbnail: /assets/thumbs/2014-04-14-codebits.jpg
 frontimage: /assets/images/2014-04-14-codebits.jpg
