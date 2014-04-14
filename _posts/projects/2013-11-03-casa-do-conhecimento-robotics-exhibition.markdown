@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-03 12:00:00 UTC
+date: 2013-11-01 12:00:00 UTC
 title: "Interactive Robotics Exhibition"
 categories: workshops	
 excerpt: "Interactive Exhibition of Creative Robotics was how this event was entitled! Interactive because visitors could interact with the objects, and creative because all the objects (robots in this case) exposed were created without any pre-conceptions of what a robot should be, or look like."
