@@ -16,6 +16,8 @@ We were present at the Hardware Den area with a stand showcasing our robots, res
 
 <img class="postimage" src="/assets/images/2014-04-14-codebits_1.jpg"/>
 
+<img class="postimage" src="/assets/images/2014-04-14-codebits_5.jpg"/>
+
 We also did a little project for the organization, to help entertain the audience (playing collaborative pong) during the opening ceremony and innovate the way they counted votes. We developed a computer vision module using Bonsai to monitor the audience who had some red and green cards they could wave around and interact with. The project was somehow similar to our <a href="http://artica.cc/projects/interactive/2013/09/26/audience-pong.html">previous work for Projecto 80</a> but we actually recoded it from scratch using Bonsai and HTML5 technology (there will be a tech report post following soon).
 
 <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/NuRAWAms8dISgkdlJfny/mov/1" frameborder="0" scrolling="no" width="640" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
@@ -25,6 +27,8 @@ We also did a little project for the organization, to help entertain the audienc
 Codebits have plenty of talks on different topics, this year André and Filipe gave one of them, about our adventures setting up <a href="http://artica.cc/projects/interactive/2013/07/15/ciav-tech-report.html">CIAV</a>, it went pretty well, the video should be coming online soon (we will update this post with a link once it's online). We also were present on the Portuguese Makers roundtable that took place Friday afternoon.
 
 Overall the event went pretty well, we had lot of fun and met some very cool people.
+
+<img class="postimage" src="/assets/images/2014-04-14-codebits_4.jpg"/>
 
 <img class="postimage" src="/assets/images/2014-04-14-codebits.jpg"/>
 
