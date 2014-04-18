@@ -1,14 +1,39 @@
 ---
 layout: default
 title: Artica Creative Computing
+js: [jquery]
 ---
 <div class="column-group">
+<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
 
+    var palavras=['impactful ','beautiful ','meaningfull ','inspirational ' , 'awesome ','inspiring '];
+    var palavraindex = 0;
+  
+  function startme() {
+  
+    palavrasindex = parseInt(Math.random()*palavras.length, 10);
+  
+    $( "#mudame" ).fadeOut( "slow", function() {
+        document.getElementById('mudame').innerHTML = palavras[palavrasindex];
+        $( "#mudame" ).fadeIn( "slow", function() {
+            // Animation complete
+            
+            setTimeout(startme, 3000);
+        });
+    
+    });
+    
+  }
+  
+  window.onload = startme;
+
+
+</script>
     <div class="large-100 medium-100 small-100 motto" style="padding-top: 20px; padding-bottom: 40px;">
-    We transform emerging technologies and art into impactful human experiences.<br />
+    We transform emerging technologies and art into <span id="mudame"></span>human experiences.<br />
     Artica digs electronics, education, robots, digital fabrication, prototyping, and all things creative.
     </div>
-
 </div>
 
 <div id="myCarousel" class="ink-carousel" data-auto-advance="7000" data-axix="x" data-initial-page="0" data-pagination="#myCarouselNav" data-swipe="true">
