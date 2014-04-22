@@ -35,5 +35,5 @@ Overall the event went pretty well, we had lot of fun and met some very cool peo
 
 Here is a video of the projects voting system in action (we did the computer vision module for it).
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/KC0FbYL5YsE" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="http://www.youtube.com/embed/KC0FbYL5YsE" frameborder="0" allowfullscreen></iframe></div>
 
