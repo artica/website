@@ -6,11 +6,11 @@ categories: blog
 excerpt: "We re-implemented the computer vision modules using Bonsai. Pong used standard HTML5 canvas client running on a modern browser."
 longexcerpt: "We re-implemented the computer vision modules using Bonsai. Testing it for use with multiple cameras and the new OSC message module, and integrated our very own XSockets module for Bonsai. Pong used standard HTML5 canvas client running on a modern browser."
 
-thumbnail: /assets/thumbs/2014-04-22-codebits.jpg
-frontimage: /assets/images/2014-04-22-codebits.jpg
+thumbnail: /assets/thumbs/2014-04-22-codebits.png
+frontimage: /assets/images/2014-04-22-codebits.png
 ---
 
-<img class="postimage" src="/assets/images/2014-04-22-codebits.jpg"/>
+<img class="postimage" src="/assets/images/2014-04-22-codebits.png"/>
 
 For the <a href="http://artica.cc/blog/2014/04/14/codebits.html">Sapo Codebits 2014</a> event, our clients Sapo/PT asked us to develop a computer vision module to help count the votes and entertain the audience. The entire project is open source <a href="https://bitbucket.org/artica/audience-pong">at the bitbucket repo</a>.
 
