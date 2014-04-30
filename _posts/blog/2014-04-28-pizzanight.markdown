@@ -10,9 +10,9 @@ thumbnail: /assets/thumbs/2014-04-28-pizzanight.png
 frontimage: /assets/images/2014-04-28-pizzanight.png
 ---
 
-We were present on this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on Sapo's Codebits 2014.
+We were present on this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on <a href="http://artica.cc/blog/2014/04/14/codebits.html">Sapo's Codebits 2014</a>.
 
-The Pong game is an adaptation of the well known game. We already used it on Sapo's Codebits and on Projecto 80 events, but this time we made some funny graphical changes. The game's paddles were made into rolling pins and the ball itself were transformed into a pizza that started to spin and move faster as the game was played. Crazy.
+The Pong game is an adaptation of the well known game. We already used it on <a href="http://artica.cc/blog/2014/04/14/codebits.html">Sapo's Codebits</a> and on <a href="http://artica.cc/blog/2013/09/26/audience-pong.html">Projecto 80</a> events, but this time we made some funny graphical changes. The game's paddles were made into rolling pins and the ball itself were transformed into a pizza that started to spin and move faster as the game was played. Crazy.
 
 <img class="postimage" src="/assets/images/2014-04-28-pizzanight_1.JPG"/>
 
@@ -27,5 +27,5 @@ A special thanks goes out to Miguel Vicente for organizing such a cool event and
 
 Thank you!
 
-<img class="postimage" src="/assets/images/2014-04-28-pizzanight_3.JPG"/>
+<img class="postimage" src="/assets/images/2014-04-28-pizzanight_3.jpg"/>
 
