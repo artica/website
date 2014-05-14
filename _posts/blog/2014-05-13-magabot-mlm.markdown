@@ -14,7 +14,7 @@ During last month we had a series of workshops with <a href="https://sites.googl
 
 <img class="postimage" src="/assets/images/2014-05-14-magabot_MLM.png"/>
 
-We had a total of three sessions. The first was a powerpoint presentation explaining how his his robotic learning model works in theory.
+We had a total of three sessions. The first was a powerpoint presentation explaining how his robotic learning model works in theory.
 
 <div class="video-container"><iframe src="//www.youtube.com/embed/oyfjAtc0_KA" frameborder="0" allowfullscreen></iframe></div>
 
