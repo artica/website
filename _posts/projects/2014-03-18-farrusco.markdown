@@ -5,7 +5,7 @@ title: "FARRUSCO"
 categories: projects education
 excerpt: "Farrusco is a small robot based on the Arduino platform, in this case it’s using a Motoruino wich is an Arduino clone with a couple of enhancements "
 
-thumbnail: /assets/thumbs/2014-09-18-farrusco_1.png
+thumbnail: /assets/thumbs/2014-03-18-farrusco_1.png
 
 ---
 
