@@ -1,0 +1,14 @@
+---
+layout: post
+date: 2014-04-16 10:30:00 UTC
+title: "Magabot @ CUF 2013"
+categories: blog
+excerpt: "In June 2013, we participated in Conferências saúde<b>cuf</b> with a poster regarding our tests involving robotic remote presence with hospitalised children"
+
+thumbnail: /assets/thumbs/2014-04-16-magabot-cuf-2013.png
+
+---
+
+About 1 year ago, in June 2013, we participated in <a href="http://conferenciassaudecuf.com/2013">Conferências saúde<b>cuf</b></a> with a poster which at the time we forgot to post about on our blog. The poster was regarding our tests involving robotic remote presence, which took place in Hospital Dona Estefânia. Envisioning to develop a platform that would offer hospitalised children a way to travel and engage with the world while staying at the hospital. The work was developed in partnership with <a href="http://idmind.pt/">IDMind</a> and uses <a href="http://magabot.cc">magabot</a>, our lowcost laptop on wheels robot.
+ 
+<img class="postimage" src="/assets/images/2014-05-16-magabot-cuf-2013.jpg"/>
