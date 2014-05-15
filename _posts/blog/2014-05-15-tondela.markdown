@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2014-05-13 19:00:00 UTC
+title: "Workshop Tondela"
+categories: blog
+excerpt: "Last wednesday we were invited by Prof. Luis Dias to take Farrusco and the Robotics Iniciation Workshop at Escola Profissional de Tondela."
+longexcerpt: "Last wednesday we were invited by Prof. Luis Dias to take Farrusco and the Robotics Iniciation Workshop at Escola Profissional de Tondela."
+
+thumbnail: /assets/thumbs/2014-05-15-tondela.jpg
+frontimage: /assets/images/2014-05-15-tondela_2.JPG
+---
+
+Last wednesday we were invited by Prof. Luis Dias to take Farrusco and the Robotics Iniciation Workshop at <a href="http://eptondela.net/site/">Escola Profissional de Tondela</a>.
+Check out the vídeo made by Prof. Ricardo Silva!
+
+<div class="video-container"><iframe src="//www.youtube.com/embed/0SKydHUmKFY" frameborder="0" allowfullscreen></iframe></div>
+
+<img class="postimage" src="/assets/images/2014-05-15-tondela.JPG"/>
+
+<img class="postimage" src="/assets/images/2014-05-15-tondela_2.JPG"/>
