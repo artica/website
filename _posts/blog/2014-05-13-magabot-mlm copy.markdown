@@ -6,11 +6,11 @@ categories: blog
 excerpt: "During last month we had a series of workshops with José Castro which we would now like to share with the rest of the world."
 longexcerpt: "During last month we had a series of workshops with José Castro which we would now like to share with the rest of the world."
 
-thumbnail: /assets/thumbs/2014-04-28-pizzanight.png
+thumbnail: /assets/thumbs/2014-05-14-magabot_MLM.png
 frontimage: /assets/images/2014-05-14-magabot_MLM.png
 ---
 
-During last month we had a series of workshops with <a href="https://sites.google.com/site/josefgfcastro/">José Castro</a> which we would now like to share with the rest of the world. The goal of the workshops was getting his model of robotic survival behavior working with our <a href="http://magabot.cc">Magabot</a>. The resulting source-code is <a href="https://github.com/artica/MLM-Logic-Machine-Magabot">available online</a>. We also recorded some videos, they are in Portuguese though, so apologies about that to our foreigner site visitors.
+During last month we had a series of workshops with <a href="https://sites.google.com/site/josefgfcastro/">José Castro</a> which we would now like to share with the rest of the world. The goal of the workshops was getting his model of robotic survival behavior working with our <a href="http://magabot.cc">Magabot</a>. The resulting source-code is <a href="https://github.com/artica/MLM-Logic-Machine-Magabot">available online</a>.We also recorded some videos, they are in Portuguese though, so apologies about that to our foreigner site visitors. 
 
 <img class="postimage" src="/assets/images/2014-05-14-magabot_MLM.png"/>
 
