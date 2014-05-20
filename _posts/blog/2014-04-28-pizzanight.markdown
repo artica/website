@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-04-30 19:00:00 UTC
-title: "PizzaNight Microsoft"
+title: "Microsoft Pizza Night"
 categories: blog
 excerpt: "We were present on this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on Sapo's Codebits 2014."
 longexcerpt: "We were present on this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on Sapo's Codebits 2014."
