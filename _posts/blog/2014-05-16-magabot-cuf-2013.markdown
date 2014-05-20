@@ -5,7 +5,7 @@ title: "Magabot @ CUF 2013"
 categories: blog
 excerpt: "In June 2013, we participated in Conferências saúde<b>cuf</b> with a poster regarding our tests involving robotic remote presence with hospitalised children"
 
-thumbnail: /assets/thumbs/2014-04-16-magabot-cuf-2013.jpg
+thumbnail: /assets/thumbs/2014-05-16-magabot-cuf-2013.jpg
 
 ---
 
