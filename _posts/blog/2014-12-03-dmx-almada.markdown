@@ -16,14 +16,14 @@ They had lost the DMX HMI Controller but still had the HMI Actuator with them, s
 
 The HMI Actuator acts as a mechanical lens aperture control. As we started “hacking” the device we discovered a Maxon DC 12V 4090rpm Motor inside acting as an actuator and a classic potentiometer for the position feedback. It also had a Limit Switch to turn off the Motor if we wanted to change the aperture manually with a specific knob. The schematic is as follows:
 
-<img class="postimage" src="/assets/images/2014-12-03-dmx-almada-5.jpg"/>
+<img class="postimage" src="/assets/images/2014-12-03-dmx-almada-5.jpg" style="width:40%;"/>
 
 So we used our well known Motoruino (<a href="http://www.guibot.pt/motoruino/">http://www.guibot.pt/motoruino/</a>) with a DMX Shield, bought at <a href="http://www.maxpierson.me/2009/04/29/arduino-dmx-512-io-shield/">http://www.maxpierson.me/2009/04/29/arduino-dmx-512-io-shield/</a> and placed it inside a box.
 
 
 <img class="postimage" src="/assets/images/2014-12-03-dmx-almada-1.JPG"/>
 
-<img class="postimage" src="/assets/images/2014-12-03-dmx-almada-6.JPG"/>
+<img class="postimage" src="/assets/images/2014-12-03-dmx-almada-6.JPG" style="width:60%;"/>
 
 The Firmware development was made according to the following steps:
 1. A PID Controller (<a href="https://www.udacity.com/course/viewer#!/c-cs373/l-48743150/e-48728346/m-48271914">https://www.udacity.com/course/viewer#!/c-cs373/l-48743150/e-48728346/m-48271914</a>) to control the Motor with PWM receiving the ADC from the pontentiometer feedback
