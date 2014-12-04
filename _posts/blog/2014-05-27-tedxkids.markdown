@@ -5,7 +5,7 @@ title: "TedXKids @ CentralTejo"
 categories: blog
 excerpt: "Once again we had the pleasure to participate on TedXKids @ CentralTejo with our Farruscos and a brand new workshop edition. Thanks Marta Gonzaga for inviting us once again"
 
-thumbnail: /assets/thumbs/2014-05-28-tedxkids.JPG
+thumbnail: /assets/thumbs/2014-05-28-tedxkids.jpg
 frontimage: /assets/images/2014-05-28-tedxkids.JPG
 
 ---
