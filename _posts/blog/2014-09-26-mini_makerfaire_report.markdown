@@ -5,7 +5,7 @@ title: "Report Lisbon Mini Maker Faire"
 categories: blog
 excerpt: From the first day that the organization (SAPO and Pavilhão do Conhecimento) realized that the "mini" word shouldn't be there because there were more than 100 projects and almost reached the total of 10000 visitors in the end of the 3rd day.
 
-thumbnail: /assets/thumbs/2014-09-26-makerfaire-2.JPG
+thumbnail: /assets/thumbs/2014-09-26-makerfaire-2.jpg
 frontimage: /assets/images/2014-09-26-makerfaire-2.jpg
 
 ---
