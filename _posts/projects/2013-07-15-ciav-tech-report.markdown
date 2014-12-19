@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-07-15 18:45:56
-title: "CIAV Tech Report"
+title: "Centro de Interpretação de Almada Velha"
 categories: projects interactive
 excerpt: "In early 2013 Artica and RPAR got a proposal approved to help build CIAV - Centro de Interpretação de Almada Velha, a sort of interactive museum of the cities\' historic legacy. The project was developed amongst a large number of partnerships. Artica was responsible for the interaction design of the space and all of it\'s electronic and software development. The opening was on the 29th of June."
 thumbnail: /assets/thumbs/2013-07-15-ciav-tech-report-1.jpg
