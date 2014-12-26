@@ -16,7 +16,7 @@ Merry Christmas and a Happy 2015 are our best wishes to all our friends, partner
 
 We take the opportunity to present you with a sneak peak of Visualino, our new tool to program Arduino, Robots and interact with all kind of Internet of Things stuff, more about this in 2015.
 
-<div class="video-container"><iframe src="https://www.youtube.com/watch?v=FfL7Rm6-u7A&feature=youtu.be" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="//www.youtube.com/embed/FfL7Rm6-u7A" frameborder="0" allowfullscreen></iframe></div>
 
 
 
