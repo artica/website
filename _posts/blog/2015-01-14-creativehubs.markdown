@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-01-13 10:30:00 UTC
+date: 2015-01-14 10:30:00 UTC
 title: "Creative Hubs Project"
 categories: blog
 excerpt: Creative Hubs Project gathered artists, designers and managers from the main european crative hubs
@@ -17,7 +17,7 @@ After the presentation we had a good time talking with the <a href="http://www.c
 
 Big thanks to the <a href="http://www.britishcouncil.pt/">British Council</a> and <a href="http://addict.pt/">Addict</a> for the oppostunity to show our work!!
 
-<img class="postimage" src="assets/images/guilherme_ch.jpg" style="width:100%;"/>
+<img class="postimage" src="/assets/images/guilherme_creativehubs.jpg" style="width:100%;"/>
 Foto credits goes to Bruno Canas, thanks mate!
 
 
