@@ -3,7 +3,7 @@ layout: post
 date: 2015-01-13 10:30:00 UTC
 title: "Artica @ PHC"
 categories: blog
-excerpt: Creative Hubs Project gathered artists, designers and managers from the main european crative hubs
+excerpt: Artica @ PHC
 
 thumbnail: /assets/thumbs/phc1.jpg
 frontimage: /assets/thumbs/phc2.jpg
