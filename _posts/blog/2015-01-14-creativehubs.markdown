@@ -18,6 +18,6 @@ After the presentation we had a good time talking with the <a href="http://www.c
 Big thanks to the <a href="http://www.britishcouncil.pt/">British Council</a> and <a href="http://addict.pt/">Addict</a> for the oppostunity to show our work!!
 
 <img class="postimage" src="/assets/images/guilherme_creativehubs.jpg" style="width:100%;"/>
-Foto credits goes to Bruno Canas, thanks mate!
+Panoramic foto credits goes to Bruno Canas, thanks mate!
 
 

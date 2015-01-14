@@ -1,0 +1,21 @@
+---
+layout: post
+date: 2015-01-13 10:30:00 UTC
+title: "Artica @ PHC"
+categories: blog
+excerpt: Creative Hubs Project gathered artists, designers and managers from the main european crative hubs
+
+thumbnail: /assets/thumbs/phc1.jpg
+frontimage: /assets/thumbs/phc2.jpg
+
+---
+
+This week we were at <a href="http://wwww.phc.pt" target="_blank">PHC</a> presenting Artica's work. 
+
+This portuguese software house with over 25 years has regular workshops for their team and we were invited to talk about interaction design, creative robotics and digital fabrication. We also presented our new prototype of Gyro and Visualino.
+ 
+We were very pleased with the enthusiasm they welcomed us on their first workshop of 2015.
+
+<img class="postimage" src="/assets/images/phc.jpg" style="width:100%;"/>
+
+
