@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 2015-01-20 10:30:00 UTC
-title: "Robotics and Coding Challenge"
+title: "Robotics and Coding Challenge 2015 at Agrupamento de Escolas de Gouveia"
 categories: blog
-excerpt: Agrupamento de Escolas de Gouveia - Concurso de Programação 2015
+excerpt: Robotics and Coding Challenge 2015 at Agrupamento de Escolas de Gouveia
 
 thumbnail: /assets/thumbs/CP2015_banner.jpg
 frontimage: /assets/images/CP2015_banner.jpg
