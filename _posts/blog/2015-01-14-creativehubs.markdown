@@ -3,7 +3,7 @@ layout: post
 date: 2015-01-14 10:30:00 UTC
 title: "Creative Hubs Project"
 categories: blog
-excerpt: Creative Hubs Project gathered artists, designers and managers from the main european crative hubs
+excerpt: Creative Hubs Project gathered artists, designers and managers from the main european creative hubs
 
 thumbnail: /assets/thumbs/creative_hubs.jpg
 frontimage: /assets/images/creative_hubs.jpg
