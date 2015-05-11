@@ -12,7 +12,7 @@ frontimage: /assets/images/2015-11-05-e-duca-cesario-verde-1.jpg
 
 Last week we visited our partners Cesário Verde to do a showcase of the product development we have been doing for project <a href="http://e-duca.cc/">E-Duca</a>, our QREN co-financed project of research and development that is now ending.
 
-We got great feedback from the teachers and children and are now actively looking for ways to finance the next steps from the products that derived from this project.
+We got great feedback from the teachers and children and we are now actively looking for ways to finance the next steps from the products that derived from this project.
 
 <img class="postimage" src="/assets/images/2015-11-05-e-duca-cesario-verde-1.jpg" style="width:100%;"/></a>
 
