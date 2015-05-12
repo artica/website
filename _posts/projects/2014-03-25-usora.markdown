@@ -20,6 +20,7 @@ We had the kick-off meeting at the end of last October. Present at this meeting 
 - <a href="http://www.vkhk.ee/">VKHK</a> (Võrumaa Kutsehariduskeskus), an estonian vocational training center focused on creating a contemporary study environment and a professional higher education study programme that includes IT Systems, Computers and Networks.
 - <a href="http://www.hochschule-bochum.de/en/">HBO</a> (Hochuschule Bochum), german Bochum University of Applied Sciences who possess three centers of competence: Construction, Business and Engineering which include basic studies in electrical engineering, mechatronics and computer sciences. Their main research activities focus on the two master studies: Mechatronics and IT-Automotive and Internet Technologies.
 - <a href="http://www.isr.ist.utl.pt">IST-ID</a> (Association of Instituto Superior Técnico for Research and Development), a portuguese non-for-profit institution, which primarily aims at carrying out science and technology activities, fostering knowledge transfer and promoting the involvement of national and foreign researchers, internally and externally, in research and development projects in their areas of expertise.
+- <a href="http://welcome.isr.ist.utl.pt/home/">ISR</a> (Institute for Systems and Robotics), a university based R&D institution where multidisciplinary advanced research activities are developed in the areas of Robotics and Information Processing, including Systems and Control Theory, Signal Processing, Computer Vision, Optimization, AI and Intelligent Systems, Biomedical Engineering. Applications include Autonomous Ocean Robotics, Search and Rescue, Mobile Communications, Multimedia, Satellite Formation, Robotic Aids.
 - <a href="http://www.inete.pt/">INETE</a> (Institute of Technical Education), a portuguese technical and vocational school dedicated to the initial qualification of young people and the continuous training of active professionals, promoting school education and vocational training for youngsters and adults.
 
 <img src="/assets/images/2013-12-06-usora-2.jpg"/>
@@ -41,5 +42,3 @@ The aim of the <a href="http://usora.cc">USORA</a> project for its 2 years of de
 The partnership has strong competence in the main project fields. Theoretical and practical aspects of system design are the main strength of the Estonian and Portuguese partners. The ICT and embedded system experience and tight connections with the industry is the focus of our German partners.
 
 We hope that in the long term this project will contribute in increasing the competence of new and practicing engineers and contemporary learning tools.
-
-<img src="http://usora.cc/imgs/lifelong_learning_programme.jpg"/>
