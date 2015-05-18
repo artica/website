@@ -5,8 +5,8 @@ title: "Arduino Day at Lisbon"
 categories: blog
 excerpt: Artica got present at ISCTE for another showcase of what we have been doing with Arduino related stuff
 
-thumbnail: /assets/thumbs/2015-05-15-arduino-day-1.jpg
-frontimage: /assets/images/2015-05-15-arduino-day-02.jpg
+thumbnail: /assets/thumbs/2015-05-15-arduino-day1.jpg
+frontimage: /assets/images/2015-05-15-arduino-day02.jpg
 
 ---
 
@@ -14,8 +14,8 @@ It's no secret where our heart belongs to when it comes to robotic/hardware plat
 
 Next time you'd better give it a try. You won't be sorry for your time!
 
-<img class="postimage" src="/assets/images/2015-05-15-arduino-day-02.jpg" style="width:100%;"/></a>
+<img class="postimage" src="/assets/images/2015-05-15-arduino-day02.jpg" style="width:100%;"/></a>
 
-<img class="postimage" src="/assets/images/2015-05-15-arduino-day-01.jpg" style="width:100%;"/></a>
+<img class="postimage" src="/assets/images/2015-05-15-arduino-day01.jpg" style="width:100%;"/></a>
 
-<img class="postimage" src="/assets/images/2015-05-15-arduino-day-03.jpg" style="width:100%;"/></a>
+<img class="postimage" src="/assets/images/2015-05-15-arduino-day03.jpg" style="width:100%;"/></a>
