@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-05-11 15:00:00 UTC
+date: 2015-05-15 15:00:00 UTC
 title: "Arduino Day at Lisbon"
 categories: blog
 excerpt: Artica got present at ISCTE for another showcase of what we have been doing with Arduino related stuff
