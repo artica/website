@@ -5,8 +5,8 @@ title: "Artica @ PHC"
 categories: blog
 excerpt: Artica @ PHC
 
-thumbnail: /assets/thumbs/phc1.jpg
-frontimage: /assets/thumbs/phc2.jpg
+thumbnail: /assets/thumbs/2015-01-13-phc.jpg
+frontimage: /assets/images/2015-01-13-phc.jpg
 
 ---
 
@@ -16,6 +16,6 @@ This portuguese software house with over 25 years has regular workshops for thei
  
 We were very pleased with the enthusiasm they welcomed us on their first workshop of 2015.
 
-<img class="postimage" src="/assets/images/phc.jpg" style="width:100%;"/>
+<img class="postimage" src="/assets/images/2015-01-13-phc.jpg" style="width:100%;"/>
 
 

@@ -11,7 +11,7 @@ thumbnail: /assets/thumbs/2014-03-19-motoruino.png
 
 High resolution fotos are available <a href="http://www.flickr.com/photos/guibot/sets/72157624010953149/">here</a>	 or you can click the images.
 
-<a><img class="postimage" alt="Motoruino" src="/assets/images/motoruino.jpg"/></a>
+<a><img class="postimage" alt="Motoruino" src="/assets/images/2014-03-19-motoruino.jpg"/></a>
 
 Motoruino most important features:
 
@@ -32,8 +32,8 @@ All other specifications are similar to the <a href="http://arduino.cc/en/Main/A
 
 
 <div style="padding-bottom: 10px;">
-<a href="/assets/docs/Motoruino_schematic.pdf"><img src="/assets/images/motoruino_reference_2.png" /></a>	
-<a href="/assets/docs/Motoruino_pcb.pdf"><img src="/assets/images/motoruino_reference_1.png" />
+<a href="/assets/docs/Motoruino_schematic.pdf"><img src="/assets/images/2014-03-19-motoruino_reference_2.png" /></a>	
+<a href="/assets/docs/Motoruino_pcb.pdf"><img src="/assets/images/2014-03-19-motoruino_reference_1.png" />
 </div>
 
 

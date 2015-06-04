@@ -5,14 +5,14 @@ title: "Artica's DMX Controller"
 categories: blog
 excerpt: Light Design is now easier with Artica's DMX controller
 
-thumbnail: /assets/thumbs/dmx_thumb.jpg
-frontimage: /assets/images/dmx_image.jpg
+thumbnail: /assets/thumbs/2015-01-26-dmx_thumb.jpg
+frontimage: /assets/images/2015-01-26-dmx_image.jpg
 
 ---
 
 Light Design is now easier with Artica's DMX controller.
 
-<img class="postimage" src="/assets/images/dmx_image.jpg" style="width:100%;"/></a>
+<img class="postimage" src="/assets/images/2015-01-26-dmx_image.jpg" style="width:100%;"/></a>
 
 The main purpose of this app is to simplify the light design process and to connect all kind of sensors to a DMX controlled Light Set. More about this in the near future.
 
