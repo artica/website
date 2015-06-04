@@ -5,8 +5,8 @@ title: "1000 Business Ideas"
 categories: blog
 excerpt: Where do business ideas come from?
 
-thumbnail: /assets/thumbs/1000businessideas.jpg
-frontimage: /assets/images/1000businessideas.jpg
+thumbnail: /assets/thumbs/2014-09-02-1000-businessideas.jpg
+frontimage: /assets/images/2014-09-02-1000-businessideas.jpg
 
 ---
 
