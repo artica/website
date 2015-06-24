@@ -22,6 +22,8 @@ CTO at Audience Entertainment, Clilly Castiglia commented that "Artica has helpe
 
 With the technical assistance of ArticaCC, Audience Entertainment has installed a first batch of over 100 interactive theatres in 2014, currently running interactive content campaigns across the United States.
 
+<div class="video-container"><iframe src="https://player.vimeo.com/video/109146229" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 ArticaCC has been involved with research and development of proprietary technology for Audience Entertainment in the fields of crowd interaction, computer vision, wireless interaction, and integration with movie theater automation systems. 
 
 ArticaCC is revolutionizing the way people experience cinema with Audience Entertainment.
