@@ -1,0 +1,25 @@
+    <!-- for Google -->
+    <meta name="description" content="{% if include.description %}{{ include.description }}{% else %}Artica, creative computing.{% endif %}" />
+    <meta name="keywords" content="artica technology portugal creative computing" />
+    <meta name="author" content="Artica" />
+    <meta name="copyright" content="Artica" />
+    <meta name="application-name" content="ArticaCC" />
+    <!-- for Facebook -->
+    <meta property="article:author" content="http://artica.cc/" />
+    <meta property="og:site_name" content="Artica"/>
+    <meta property="fb:admins" content="celso.martinho"/>
+    <meta property="og:title" content="{% if include.title %}{{ include.title }}{% else %}Artica{% endif %}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{% if include.thumbnail %}http://artica.cc/{{ include.thumbnail }}{% else %}http://artica.cc/assets/images/social.jpg{% endif %}" />
+    <meta property="og:url" content="http://artica.cc{{ page.url }}" />
+    <meta property="og:description" content="{% if include.description %}{{ include.description }}{% else %}Artica{% endif %}" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <!-- for Twitter -->
+    <meta name="twitter:site" content="@artica_cc" />
+    <meta name="twitter:creator" content="@artica_cc" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{% if include.title %}{{ include.title | truncate: 70}}{% else %}Artica{% endif %}" />
+    <meta name="twitter:description" content="{% if include.description %}{{ include.description | truncate: 200 }}{% else %}Artica, creative computing.{% endif %}" />
+    <meta name="twitter:image" content="{% if include.thumbnail %}http://artica.cc/{{ include.thumbnail }}{% else %}http://artica.cc/assets/images/social.jpg{% endif %}" />
+    <link rel="image_src" href="{% if include.thumbnail %}http://artica.cc/{{ include.thumbnail }}{% else %}http://artica.cc/assets/images/social.jpg{% endif %}"/>
