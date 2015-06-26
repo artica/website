@@ -33,7 +33,7 @@ Tech news references:
  * Audience Entertainment [Shows Off New Ways][4] To Play Games With Everyone At The Movie Theater
  * Interactive Tech Maker [Audience Entertainment Goes Mobile][5].
 
-[1]: http://files.artica.cc/press_releases/150623_audience_entertainment.pdf"
+[1]: http://files.artica.cc/press_releases/150623_audience_entertainment.pdf
 [2]: http://artica.cc
 [3]: http://audienceentertainment.com
 [4]: http://techcrunch.com/2014/11/30/audience-entertainment-demo/

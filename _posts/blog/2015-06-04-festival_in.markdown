@@ -10,6 +10,8 @@ frontimage: /assets/images/2015-06-04-festival-in.jpg
 
 ---
 
-Like last year, we once again went to <a href="http://www.festivalin.pt/">Festival In</a>, held at FIL, we showcased some of our products and services during 23-26 of April.
+Like last year, we once again went to [Festival In][1], held at FIL, we showcased some of our products and services during 23-26 of April.
 
-<img class="postimage" src="/assets/images/2015-06-04-festival-in.jpg" style="width:100%;"/></a>
+![](/assets/images/2015-06-04-festival-in.jpg)
+
+[1]: http://www.festivalin.pt/
