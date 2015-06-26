@@ -14,8 +14,8 @@ It's no secret where our heart belongs when it comes to robotic/hardware platfor
 
 Next time you'd better give it a try. You won't be sorry for your time!
 
-<img class="postimage" src="/assets/images/2015-05-15-arduino-day02.jpg" style="width:100%;"/></a>
+![](/assets/images/2015-05-15-arduino-day02.jpg)
 
-<img class="postimage" src="/assets/images/2015-05-15-arduino-day01.jpg" style="width:100%;"/></a>
+![](/assets/images/2015-05-15-arduino-day01.jpg)
 
-<img class="postimage" src="/assets/images/2015-05-15-arduino-day03.jpg" style="width:100%;"/></a>
+![](/assets/images/2015-05-15-arduino-day03.jpg)

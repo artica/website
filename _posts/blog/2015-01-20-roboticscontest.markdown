@@ -9,8 +9,14 @@ thumbnail: /assets/thumbs/2015-01-20-CP2015_banner.jpg
 frontimage: /assets/images/2015-01-20-CP2015_banner.jpg
 
 ---
-<a href="https://programming2aegouveia.wordpress.com/"><img class="postimage" src="/assets/images/2015-01-20-CP2015_banner.jpg" style="width:100%;"/></a>
 
-We welcome all kinds of challenges, and if they are related to programming and robotics even better! This time the challenge will take place in <a href="http://www.esgouveia.pt/">Gouveia School</a> and we are sponsoring the event with one <a href="http://artica.cc/projects/education/2014/03/18/farrusco.html">Farrusco</a> plus one <a href="http://artica.cc/projects/education/2014/03/18/motoruino.html">Motoruino</a>.
+![](/assets/images/2015-01-20-CP2015_banner.jpg)
+
+We welcome all kinds of challenges, and if they are [related to programming and robotics][1] even better! This time the challenge will take place at the [School of Gouveia][2] and we are sponsoring the event with one [Farrusco][3] plus one [Motoruino][4].
 
 Let the Challenge begin!!!
+
+[1]: https://programming2aegouveia.wordpress.com/
+[2]: http://www.esgouveia.pt/
+[3]: http://artica.cc/projects/education/2014/03/18/farrusco.html
+[4]: http://artica.cc/projects/education/2014/03/18/motoruino.html

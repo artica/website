@@ -10,12 +10,14 @@ frontimage: /assets/images/2015-05-11-e-duca-cesario-verde-1.jpg
 
 ---
 
-Last week we visited our partners Cesário Verde to do a showcase of the product development we have been doing for project <a href="http://e-duca.cc/">E-Duca</a>, our QREN co-financed project of research and development that is now ending.
+Last week we visited our partners Cesário Verde to do a showcase of the product development we have been doing for project [E-Duca][1], our QREN co-financed project of research and development that is now ending.
 
 We got great feedback from the teachers and children and we are now actively looking for ways to finance the next steps from the products that derived from this project.
 
-<img class="postimage" src="/assets/images/2015-05-11-e-duca-cesario-verde-1.jpg" style="width:100%;"/></a>
+![](/assets/images/2015-05-11-e-duca-cesario-verde-1.jpg)
 
-<img class="postimage" src="/assets/images/2015-05-11-e-duca-cesario-verde-2.jpg" style="width:100%;"/></a>
+![](/assets/images/2015-05-11-e-duca-cesario-verde-2.jpg)
 
-<img class="postimage" src="/assets/images/2015-05-11-e-duca-cesario-verde-3.jpg" style="width:100%;"/></a>
+![](/assets/images/2015-05-11-e-duca-cesario-verde-3.jpg)
+
+[1]: http://e-duca.cc/
