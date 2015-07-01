@@ -115,6 +115,7 @@
 body {
 /*  background: #ededed; */
   background: #ededed;
+  -webkit-font-smoothing: antialiased;
 }
 header {
   padding: 2em 0;
@@ -299,4 +300,30 @@ button#toggleVisibility {
 
 pre.prettyprint{
   padding:20px !important;
+}
+
+#relatedposts .large-100 > b a {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+}
+
+#relatedposts small {
+  font-size: 0.8rem;
+  line-height: 1.2rem;
+  color: #888;
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-weight: 100;
+}
+
+p {
+  margin: 1.6rem 0;
+  line-height: 1.6rem;
+}
+
+article.shadows img {
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0px 0px 6px rgba(0,0,0,.3);
+  width: 100%;
 }
