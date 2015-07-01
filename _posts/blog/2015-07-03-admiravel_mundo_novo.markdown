@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-07-03 18:00:00 UTC
-title: "ArticaCC @ Admirável Mundo Novo"
+title: "Artica @ Admirável Mundo Novo"
 categories: blog
 excerpt: An interview with our CEO and co-founder André Almeida about our products Farrusco and Gyro
 ---
