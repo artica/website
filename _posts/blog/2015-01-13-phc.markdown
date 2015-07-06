@@ -3,19 +3,17 @@ layout: post
 date: 2015-01-13 10:30:00 UTC
 title: "Artica @ PHC"
 categories: blog
-excerpt: Artica @ PHC
-
+excerpt: "Artica @ PHC"
 thumbnail: /assets/thumbs/2015-01-13-phc.jpg
 frontimage: /assets/images/2015-01-13-phc.jpg
-
 ---
 
-This week we were at <a href="http://wwww.phc.pt" target="_blank">PHC</a> presenting Artica's work. 
+This week we were at [PHC][1] presenting Artica's work. 
 
 This portuguese software house with over 25 years has regular workshops for their team and we were invited to talk about interaction design, creative robotics and digital fabrication. We also presented our new prototype of Gyro and Visualino.
  
 We were very pleased with the enthusiasm they welcomed us on their first workshop of 2015.
 
-<img class="postimage" src="/assets/images/2015-01-13-phc.jpg" style="width:100%;"/>
+![](/assets/images/2015-01-13-phc.jpg)
 
-
+[1]: http://wwww.phc.pt

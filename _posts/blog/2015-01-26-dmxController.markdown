@@ -3,11 +3,9 @@ layout: post
 date: 2015-01-26 10:30:00 UTC
 title: "Artica's DMX Controller"
 categories: blog
-excerpt: Light Design is now easier with Artica's DMX controller
-
+excerpt: "Light Design is now easier with Artica's DMX controller"
 thumbnail: /assets/thumbs/2015-01-26-dmx_thumb.jpg
 frontimage: /assets/images/2015-01-26-dmx_image.jpg
-
 ---
 
 Light Design is now easier with Artica's DMX controller.
@@ -20,7 +18,7 @@ In the meanwhile you can download the app or if you are brave enough to mess wit
 
 For the DMX interface we are using an [ENTTEC DMXUSBPRO][3]
 
-![](https://www.enttec.com/enttec/img/products/banners/70304.jpg
+![](https://www.enttec.com/enttec/img/products/banners/70304.jpg)
 
 [1]: http://cycling74.com
 [2]: https://github.com/artica/maxmsp_dmx_control

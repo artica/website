@@ -3,11 +3,9 @@ layout: post
 date: 2015-05-26 18:00:00 UTC
 title: "Artica @ Expo FCT 2015"
 categories: blog
-excerpt: ArticaCC was invited to give a few workshops with some of our technologies at FCT open day.
-
+excerpt: "ArticaCC was invited to give a few workshops with some of our technologies at FCT open day."
 thumbnail: /assets/thumbs/2015-05-26-dia-aberto01.jpg
 frontimage: /assets/images/2015-05-26-dia-aberto01.jpg
-
 ---
 
 On the 8th of April, the FCT university opened its doors in [an open day][1] to college students to see what the university has to offer.

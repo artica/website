@@ -3,7 +3,7 @@ layout: post
 date: 2015-06-23 18:00:00 UTC
 title: "Partnership with Audience Entertainment"
 categories: blog
-excerpt: Transatlantic innovation through R&D Partnership between ArticaCC of Portugal and Audience Entertainment of the USA
+excerpt: "Transatlantic innovation through R&D Partnership between ArticaCC of Portugal and Audience Entertainment of the USA"
 thumbnail: /assets/thumbs/2015-06-23-audience_entertainment.jpg
 frontimage: /assets/images/2015-06-23-audience_entertainment.jpg
 ---

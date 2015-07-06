@@ -3,7 +3,7 @@ layout: post
 date: 2015-06-26 18:00:00 UTC
 title: "Prague Quadriennal"
 categories: blog
-excerpt: Prague Quadriennal of Perfomance Design and Spaces
+excerpt: "Prague Quadriennal of Perfomance Design and Spaces"
 thumbnail: /assets/thumbs/2015-06-26-pq_01.jpg
 frontimage: /assets/images/2015-06-26-pq_01.png
 ---

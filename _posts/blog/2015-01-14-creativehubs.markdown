@@ -3,21 +3,26 @@ layout: post
 date: 2015-01-14 10:30:00 UTC
 title: "Creative Hubs Project"
 categories: blog
-excerpt: Creative Hubs Project gathered artists, designers and managers from the main european creative hubs
-
+excerpt: "Creative Hubs Project gathered artists, designers and managers from the main european creative hubs."
 thumbnail: /assets/thumbs/2015-01-14-creative_hubs.jpg
 frontimage: /assets/images/2015-01-14-creative_hubs.jpg
-
 ---
-<img class="postimage" src="/assets/images/2015-01-14-creative_hubs.jpg" style="width:100%;"/>
 
-We had the honor to be invited for this great event and to do a short presentation of Artica's work. Creative Hubs are the next big thing in what concerns to the <a href="http://en.wikipedia.org/wiki/Creative_industries">Creative Industries</a> empowerment, and we are very pleased to be known as a reference inside this sector.
+![](/assets/images/2015-01-14-creative_hubs.jpg)
 
-After the presentation we had a good time talking with the <a href="http://www.constroisons.com/">ConstroiSons</a>, <a href="www.buinho.com">Buinho</a> and <a href="www.trienaldelisboa.com">Trienal de Arquitectura</a> krews. 
+We had the honor to be invited for this great event and to do a short presentation of Artica's work. Creative Hubs are the next big thing in what concerns to the [Creative Industries][1] empowerment, and we are very pleased to be known as a reference inside this sector.
 
-Big thanks to the <a href="http://www.britishcouncil.pt/">British Council</a> and <a href="http://addict.pt/">Addict</a> for the oppostunity to show our work!!
+After the presentation we had a good time talking with the [ConstroiSons][2], [Buinho][3] and [Trienal de Arquitectura][4] krews. 
 
-<img class="postimage" src="/assets/images/2015-01-14-guilherme_creativehubs.jpg" style="width:100%;"/>
+Big thanks to the [British Council][5] and [Addict][6] for the oppostunity to show our work!!
+
+![](/assets/images/2015-01-14-guilherme_creativehubs.jpg)
+
 Panoramic foto credits goes to Bruno Canas, thanks mate!
 
-
+[1]: http://en.wikipedia.org/wiki/Creative_industries
+[2]: http://www.constroisons.com/
+[3]: http://www.buinho.com
+[4]: http://www.trienaldelisboa.com
+[5]: http://www.britishcouncil.pt/
+[6]: http://addict.pt/
