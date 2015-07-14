@@ -3,7 +3,7 @@ layout: post
 date: 2014-12-03 10:30:00 UTC
 title: "DMX HMI Controller"
 categories: blog
-excerpt: Our friends from the Almada Theater asked us to help them out with a lost DMX HMI controller for their new play. 
+excerpt: "Our friends from the Almada Theater asked us to help them out with a lost DMX HMI controller for their new play."
 thumbnail: /assets/thumbs/2014-12-03-dmx-almada.JPG
 frontimage: /assets/images/2014-12-03-dmx-almada-1.JPG
 ---
@@ -34,12 +34,12 @@ Behind the scenes, the major problems we found during the development were the f
 - PID Values (Proportional, Derivative and Integration Values):
 We found somehow difficult to calibrate the values. Also if we increase the Integration value, as the actuator in the limits acts as an elastic, it adds cumulative errors to the value. In the end, the best configuration was only as a proportional controller.
 
-PWM Change (Timer 1 Values):
+- PWM Change (Timer 1 Values):
 This is to be applied in a Theater, so you cannot hear any sound. The PWM of the Arduino is typically 490Hz which is somewhat noisy. 
 We had to change the frequency of the timer 1 (9 and 10 pins) to [31kHz][6]. 
 But by changing the timer we were not able to use the software serial library for debug, increasing the difficulty - The Hardware Serial was being used for the DMX. We also tried to change other timers and related PWM Pins, but the other timers changed the Millis and Metro function, and Hardware Serial.
 
-Electrostatic Influence:
+- Electrostatic Influence:
 One of the most difficult bug to find was the following, if we hadn’t the DMX Connector plugged in, the Arduino was receiving wrong values from the serial input (from the RS485 chip) even with the terminator connected. We’ve found out that it was influenced by our own hand with static (see video). This was only solved placing the electronics inside a metal box, and the metal connected to ground pin.
 
 {% include youtube.html id="RQvjNc94C6w" %}
