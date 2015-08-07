@@ -1,0 +1,18 @@
+---
+layout: post
+date: 2015-08-07 13:00:00 UTC
+title: "Ulisseia21 Multimedia Show"
+categories: blog
+excerpt: "Oskar & Gaspar is producing a Multimedia Show at Terreiro do Paço promoted by Turismo de Lisboa and EGEAC. They asked Artica to give them a hand to bring in some more interactivity with the audience."
+thumbnail: /assets/thumbs/2015-08-07-ulisseia21.jpg
+frontimage: /assets/images/2015-08-07-ulisseia21.jpg
+---
+
+![](/assets/images/2015-08-07-ulisseia21.jpg)
+
+[Oskar & Gaspar][1] is producing a Multimedia Show at Terreiro do Paço promoted by Turismo de Lisboa and EGEAC.
+
+They are video mapping the entire façade and will have dj's and vj's playing multiple sessions every night from the 7th to the 16th of August. They asked Artica to give them a hand to bring in some more interactivity with the audience with a little game between their sessions. So we are adapting technology we originally developed for our partner [Audience Entertainment][2] and delivering a new version of our recurring audience pong, now completely controlled by audience waving their arms in front of the camera in the open space.
+
+[1]: http://www.oskar-gaspar.com/
+[2]: http://www.audienceentertainment.com/
