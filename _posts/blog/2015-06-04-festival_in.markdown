@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2015-06-04-festival-in.jpg
 frontimage: /assets/images/2015-06-04-festival-in.jpg
 ---
 
-Like last year, we once again went to [Festival In][1], held at FIL, we showcased some of our products and services during 23-26 of April.
+Just like last year, we once again went to [Festival In][1], held at FIL and we showcased some of our products and services between the 23rd and 26th of April.
 
 ![](/assets/images/2015-06-04-festival-in.jpg)
 

@@ -10,9 +10,9 @@ frontimage: /assets/images/2015-01-20-CP2015_banner.jpg
 
 ![](/assets/images/2015-01-20-CP2015_banner.jpg)
 
-We welcome all kinds of challenges, and if they are [related to programming and robotics][1] even better! This time the challenge will take place at the [School of Gouveia][2] and we are sponsoring the event with one [Farrusco][3] plus one [Motoruino][4].
+We welcome all kinds of challenges and if they are [related to programming and robotics][1], even better! This time the challenge will take place at the [School of Gouveia][2] and we are sponsoring the event with a [Farrusco][3] and a [Motoruino][4].
 
-Let the Challenge begin!!!
+Let the challenge begin!!!
 
 [1]: https://programming2aegouveia.wordpress.com/
 [2]: http://www.esgouveia.pt/
