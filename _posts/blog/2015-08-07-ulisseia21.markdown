@@ -18,7 +18,7 @@ We used the technology of our Pong game, used before in other events. We used th
 
 Artica also helped with [the livestream during the last 3 days of the event][3].
 
-We have been trying to work with Oskar & Gaspar on a project for a long time and we were very proud of finally work with them on such an interesting project. This is also the first time the Audience Entertainment technology has been used in Portugal, they are primarily based on the United States cinema market.
+We have been trying to collaborate with Oskar & Gaspar on a project for a long time and we were very proud of finally working with them on such an interesting project. This is also the first time the Audience Entertainment technology has been used in Portugal, since they are primarily based on the United States cinema market.
 
 [1]: http://www.oskar-gaspar.com/
 [2]: http://www.audienceentertainment.com/
