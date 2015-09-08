@@ -4,57 +4,99 @@
   // Google Analytics
   // --------------------------------------------------------------------------
 
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    console.log('google analytics');
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  var Analytics = {
+    init: function() {
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-45360427-1', 'artica.cc');
-  ga('send', 'pageview');
+      ga('create', 'UA-45360427-1', 'artica.cc');
+      ga('send', 'pageview');
+    }
+  };
+
+  Analytics.init();
 
   // --------------------------------------------------------------------------
   // Disqus
   // --------------------------------------------------------------------------
 
-  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-  var disqus_shortname = 'artica'; // required: replace example with your forum shortname
+  var Disqus = {
+    init: function() {
+      (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + 'artica' + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+    }
+  };
 
-  /* * * DON'T EDIT BELOW THIS LINE * * */
-  (function () {
-    var s = document.createElement('script'); s.async = true;
-    s.type = 'text/javascript';
-    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-  }());
+  Disqus.init();
 
   // --------------------------------------------------------------------------
   // Google Maps
   // --------------------------------------------------------------------------
 
-  var lat=38.660733;
-  var lon=-9.203067;
-  var center_lat=38.681624;
-  var center_lon=-9.198475;
-  var map_zoom=13;
+  var Map = {
+    canvas: $('#google-maps'),
+    latitude: 38.660733,
+    longitude: -9.203067,
+    centerLatitude: 38.681624,
+    centerLongitude: -9.198475,
+    zoom: 13,
+    init: function() {
+      Map.canvas
+        .gmap({
+          'center': Map.centerLatitude + ',' + Map.centerLongitude,
+          'zoom': Map.zoom,
+          'scrollwheel': false,
+          'mapTypeId': google.maps.MapTypeId.SATELLITE
+        })
+        .bind('init', function() {
+          Map.canvas.gmap('addMarker', {
+            'position': Map.latitude + ',' + Map.longitude,
+            'bounds': false,
+            'draggable': false
+          })
+        });
+    }
+  };
 
-  var map=$('#map_canvas').gmap({
-      'center': center_lat + ',' + center_lon,
-      'zoom': map_zoom,
-      'scrollwheel': false
-  }).bind('init', function() {
-
-      $('#map_canvas').gmap('option', 'mapTypeId', google.maps.MapTypeId.SATELLITE);
-
-      var latlng = new google.maps.LatLng(lat,lon);
-
-      $('#map_canvas').gmap('addMarker', {
-          'position': lat + ',' + lon,
-          'bounds': false,
-          'draggable': true
-      });
-  });
+  Map.init();
   
+  // --------------------------------------------------------------------------
+  // Word slider
+  // --------------------------------------------------------------------------
+
+  var palavras = ['impactful', 'beautiful', 'meaningful', 'inspirational', 'awesome', 'inspiring'];
+  var dim = [107,102,128,140,106,95]; 
+  var palavraindex = 0;
+
+  function startme() {
+
+    palavrasindex = parseInt(Math.random()*palavras.length, 10);
+
+    $("#mudame").animate({width: dim[palavrasindex]+10+""}, 1000, function() {
+      var $this = $(this);
+      $this.html(palavras[palavrasindex]);
+      $this.animate({opacity: 1}, 1000, function() {
+       setTimeout(
+        function() {
+         $("#mudame").animate({opacity: 0}, 1000, function() {
+          $("#mudame").animate({width: 0}, 1000, function() {
+           setTimeout(startme, 500);
+         });
+        });
+       }
+       , 3000);
+     });
+    });
+  }
+
+  window.onload = startme;
+
   // --------------------------------------------------------------------------
   // Functions
   // --------------------------------------------------------------------------
@@ -109,6 +151,9 @@
   }
 
   function OnLoadTasks() {
+    // Initializes home page word slideshow
+    startme()
+
     // Set active class to current menu item page
     NavbarSelect();
 
