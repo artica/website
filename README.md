@@ -1,7 +1,6 @@
 Artica's Website
 ================
 
-
 *Last update: Tue Sep  8 10:38:59 WEST 2015*
 
 This is the new Artica's website built around Jekyll and GitHub pages.
