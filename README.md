@@ -5,7 +5,6 @@ Artica's Website
 
 This is the new Artica's website built around Jekyll and GitHub pages.
 
-
 Setting up your environment
 ---------------------------
 
@@ -85,12 +84,11 @@ So let's get busy. Here are your recipes:
 
  * Writing a [blog post](BLOGPOST.md)
 
-  [1]: http://pages.github.com/                                        "GitHub Pages"
-  [2]: https://help.github.com/articles/set-up-git                     "Set Up Git"
-  [3]: https://help.github.com/categories/19/articles                  "Using Git"
-  [4]: https://help.github.com/articles/using-jekyll-with-pages        "Using Jekyll with Pages"
-  [5]: http://jekyllrb.com/docs/installation/                          "Jekyll Installation"
-  [6]: http://ink.sapo.pt/                                             "InK - Interface Kit"
-  [7]: http://jekyllrb.com/                                            "Jekyll"
-  [8]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers     "Liquid templating"
-
+[1]: http://pages.github.com/                                        "GitHub Pages"
+[2]: https://help.github.com/articles/set-up-git                     "Set Up Git"
+[3]: https://help.github.com/categories/19/articles                  "Using Git"
+[4]: https://help.github.com/articles/using-jekyll-with-pages        "Using Jekyll with Pages"
+[5]: http://jekyllrb.com/docs/installation/                          "Jekyll Installation"
+[6]: http://ink.sapo.pt/                                             "InK - Interface Kit"
+[7]: http://jekyllrb.com/                                            "Jekyll"
+[8]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers     "Liquid templating"
