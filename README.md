@@ -4,7 +4,7 @@ Artica's Website
 
 *Last update: Tue Sep  8 10:38:59 WEST 2015*
 
-This is the new Artica's website built around Jekyll and Github pages.
+This is the new Artica's website built around Jekyll and GitHub pages.
 
 
 Setting up your environment
@@ -86,7 +86,7 @@ So let's get busy. Here are your recipes:
 
  * Writing a [blog post](BLOGPOST.md)
 
-  [1]: http://pages.github.com/                                        "Github Pages"
+  [1]: http://pages.github.com/                                        "GitHub Pages"
   [2]: https://help.github.com/articles/set-up-git                     "Set Up Git"
   [3]: https://help.github.com/categories/19/articles                  "Using Git"
   [4]: https://help.github.com/articles/using-jekyll-with-pages        "Using Jekyll with Pages"
