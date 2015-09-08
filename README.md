@@ -82,7 +82,7 @@ Writing a blog post, or changing any section of the website might seem tricky at
 
 And again, everything is local and static, no external dependencies, databases or dynamic languages to worry about.
 
-So let's get busy. Here's your recipes:
+So let's get busy. Here are your recipes:
 
  * Writing a [blog post](BLOGPOST.md)
 
