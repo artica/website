@@ -58,7 +58,7 @@
       };
     },
     init: function() {
-      if(typeof google !== 'undefined') {
+      if (typeof google !== 'undefined') {
         Map.canvas
           .gmap(Map.center())
           .bind('init', function() {
@@ -108,16 +108,16 @@
     init: function() {
       var id = null;
 
-      if(window.location.pathname.search(/^\/blog\//i) !== -1) { id = 'nav_blog'; }
-      if(window.location.pathname.search(/^\/projects\//i) !== -1) { id = 'nav_projects'; }
-      if(window.location.pathname.search(/^\/robotics\//i) !== -1) { id = 'nav_robotics'; }
-      if(window.location.pathname.search(/^\/einstein\//i) !== -1) { id = 'nav_einstein'; }
-      if(window.location.pathname.search(/^\/team\//i) !== -1) { id = 'nav_team'; }
+      if (window.location.pathname.search(/^\/blog\//i) !== -1) { id = 'nav_blog'; }
+      if (window.location.pathname.search(/^\/projects\//i) !== -1) { id = 'nav_projects'; }
+      if (window.location.pathname.search(/^\/robotics\//i) !== -1) { id = 'nav_robotics'; }
+      if (window.location.pathname.search(/^\/einstein\//i) !== -1) { id = 'nav_einstein'; }
+      if (window.location.pathname.search(/^\/team\//i) !== -1) { id = 'nav_team'; }
 
-      if(id) {
+      if (id) {
         var element = document.getElementById(id);
         
-        if(element) { element.className = 'active'; }
+        if (element) { element.className = 'active'; }
       }
     }
   };
@@ -141,59 +141,54 @@
   // Displays random blog posts
   // --------------------------------------------------------------------------
 
-  Array.prototype.contains = function(obj) {
-    var i = this.length;
-
-    while (i--) {
-      if (this[i] === obj) {
-        return true;
+  var RandomPost = {
+    collection: [],
+    count: 0,
+    element: $('#relatedposts'),
+    source: '',
+    max: 5,
+    contains: function(array, object) {
+      var i = array.length;
+      while (i--) { 
+        if (array[i] === object) { return true; } 
       }
-    }
-    return false;
-  }
+      return false;
+    },
+    init: function() {
+      for(var i = 0; i < posts.length; i++) {
+        var pid = Math.floor(Math.random() * posts.length);
 
-  function printRandomPosts(posts, num) {
-    var prs = [];
-    var pc = 0;
-    var elm = document.getElementById('relatedposts');
-    var html = '';
-    
-    for(var i = 0; i < posts.length; i++) {
-      var pid = Math.floor(Math.random() * posts.length);
+        if (!RandomPost.contains(RandomPost.collection, pid)) {
+          var post = posts[pid];
 
-      if(!prs.contains(pid)) {
-        var post = posts[pid];
+          if (post.thumbnail.length && post.title.search(/workshop/i) == -1) {
+            RandomPost.source += '<li class="column-group gutters bweffect"><div class="large-100"><b><a href="' + post.url + '">' + post.title + '</b></h4><a href="' + post.url + '"><img class="bw" src="' + post.thumbnail + '"><small>' + post.excerpt + '</small></a></div></li>';
+            RandomPost.collection.push(pid);
+            RandomPost.count++;
 
-        if(post.thumbnail.length && post.title.search(/workshop/i) == -1) {
-          html += '<li class="column-group gutters bweffect"><div class="large-100"><b><a href="' + post.url + '">' + post.title + '</b></h4><a href="' + post.url + '"><img class="bw" src="' + post.thumbnail + '"><small>' + post.excerpt + '</small></a></div></li>';
-          prs.push(pid);
-          pc++;
-
-          if(pc >= num) {
-            break;
+            if (RandomPost.count >= RandomPost.max) { break; }
           }
         }
       }
+
+      if(!window.location.pathname.search(/^\/blog\//i)) { 
+        RandomPost.element
+          .hide()
+          .html(RandomPost.source)
+          .fadeIn(1000); 
+      }
     }
-
-    // Temporary hack to prevent exception if current page is not a blog post
-
-    try { elm.innerHTML = html; } catch(e) {}
-  }
-
-  // TODO: Refactor
-
-  // var RandomPost = {};
+  };
 
   function search(elmid) {
     var term = document.getElementById('searchterm').value;
     var elm = document.getElementById(elmid);
 
-    if(term.length <= 3) {
+    if (term.length <= 3) {
       return;
     }
 
-    if(searchtimer !== false) clearInterval(searchtimer);
+    if (searchtimer !== false) clearInterval(searchtimer);
 
     elm.innerHTML = 'searching...';
 
@@ -201,14 +196,14 @@
       var results = index.search(term);
       var html = '';
 
-      if(results.length) {
+      if (results.length) {
         for(var i = 0; i < results.length && i < 8; i++) {
           var id = results[i].ref;
           var post = posts[id];
           
           html += '<li class="column-group gutters bweffect"><div class="large-100"><b><a href="' + post.url + '">' + post.title + '</b></h4><a href="' + post.url + '">';
 
-          if(post.thumbnail) {
+          if (post.thumbnail) {
             html += '<img src="' + post.thumbnail + '">';
           }
           else {
@@ -233,7 +228,7 @@
     WordSlider.init();          // Initializes home page word slideshow
     ActivePage.init();          // Set active class to current menu item page
     FadeElement.init();         // Fade all the elements with a 'fadein' class
-    printRandomPosts(posts, 5); // Displays random blog posts
+    RandomPost.init();          // Displays random blog posts
     prettyPrint();              // Prettifyer
   }
 
