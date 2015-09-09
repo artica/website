@@ -152,27 +152,23 @@
   // Set active class to current menu item page
   // --------------------------------------------------------------------------
 
-  function NavbarSelect() {
-    var id = null;
+  var ActivePage = {
+    init: function() {
+      var id = null;
 
-    if(window.location.pathname.search(/^\/blog\//i) !== -1) id="nav_blog";
-    if(window.location.pathname.search(/^\/projects\//i) !== -1) id="nav_projects";
-    if(window.location.pathname.search(/^\/robotics\//i) !== -1) id="nav_robotics";
-    if(window.location.pathname.search(/^\/einstein\//i) !== -1) id="nav_einstein";
-    if(window.location.pathname.search(/^\/team\//i) !== -1) id="nav_team";
+      if(window.location.pathname.search(/^\/blog\//i) !== -1) { id = 'nav_blog'; }
+      if(window.location.pathname.search(/^\/projects\//i) !== -1) { id = 'nav_projects'; }
+      if(window.location.pathname.search(/^\/robotics\//i) !== -1) { id = 'nav_robotics'; }
+      if(window.location.pathname.search(/^\/einstein\//i) !== -1) { id = 'nav_einstein'; }
+      if(window.location.pathname.search(/^\/team\//i) !== -1) { id = 'nav_team'; }
 
-    if(id) {
-      var elm = document.getElementById(id);
-      
-      if(elm) {
-        elm.className = 'active';
+      if(id) {
+        var element = document.getElementById(id);
+        
+        if(element) { element.className = 'active'; }
       }
     }
-  }
-
-  // TODO: Refactor
-
-  // var ActivePage = {};
+  };
 
   // --------------------------------------------------------------------------
   // Fade all the 'fadein' classes
@@ -246,7 +242,7 @@
     Map.init();                 // Google Maps
     WordSlider.init();          // Initializes home page word slideshow
     printRandomPosts(posts, 5); // Displays random blog posts
-    NavbarSelect();             // Set active class to current menu item page
+    ActivePage.init();          // Set active class to current menu item page
     prettyPrint();              // Prettifyer
     
     // Fade all the 'fadein' classes
