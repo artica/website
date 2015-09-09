@@ -180,6 +180,56 @@
     }
   };
 
+  var Search = {
+    element: $('#search-form'),
+    search: function(elmid) {
+      var term = document.getElementById('searchterm').value;
+      var elm = document.getElementById(elmid);
+
+      if (term.length <= 3) {
+        return;
+      }
+
+      if (searchtimer !== false) clearInterval(searchtimer);
+
+      elm.innerHTML = 'searching...';
+
+      searchtimer = setTimeout(function () {
+        var results = index.search(term);
+        var html = '';
+
+        if (results.length) {
+          for(var i = 0; i < results.length && i < 8; i++) {
+            var id = results[i].ref;
+            var post = posts[id];
+            
+            html += '<li class="column-group gutters bweffect"><div class="large-100"><b><a href="' + post.url + '">' + post.title + '</b></h4><a href="' + post.url + '">';
+
+            if (post.thumbnail) {
+              html += '<img src="' + post.thumbnail + '">';
+            }
+            else {
+              html += '<br/>';
+            }
+
+            html += '<small>' + post.excerpt + '</small></a></div></li>';
+          }
+        }
+        else {
+          html = '<li>Nothing found. Try to be more specific, search by keywords.</li>';
+        }
+
+        elm.innerHTML = html;
+      }, 100);
+    },
+    init: function() {
+      Search.element.on('change', function(e) {
+        e.preventDefault();
+        Search.search('relatedposts');
+      });
+    }
+  };
+
   function search(elmid) {
     var term = document.getElementById('searchterm').value;
     var elm = document.getElementById(elmid);
@@ -229,6 +279,7 @@
     ActivePage.init();          // Set active class to current menu item page
     FadeElement.init();         // Fade all the elements with a 'fadein' class
     RandomPost.init();          // Displays random blog posts
+    Search.init();              // Search engine
     prettyPrint();              // Prettifyer
   }
 

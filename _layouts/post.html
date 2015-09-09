@@ -4,14 +4,10 @@
 <body>
 <div class="ink-grid">
     {% include navigation.html %}
-
     <section class="column-group gutters article">
-
         <div class="large-25 medium-25 hide-small fadein">
-
             <h2>More stories</h2>
-
-            <form action="#" id="search-form" onsubmit="return(false);" onchange="search('relatedposts');" class="ink-form">
+            <form action="#" id="search-form"  class="ink-form">
                 <fieldset>
                     <div class="control">
                         <span class="search icon-search"></span>
@@ -19,23 +15,18 @@
                     </div>
                 </fieldset>
             </form>
-
             <div class="vspace related">
                 <nav class="ink-navigation">
                     <ul id="relatedposts"/>
                 </nav>
             </div>
-
         </div>
-
         <div class="large-75 medium-75 small-100">
-
             <article class="shadows">
                 <h1>{{ page.title | replace: "\'", "'"}}</h1>
                 <p>Published in <time pubdate="pubdate">{{ page.date | date_to_string }}</time></p>
                 <p>{{ content }}</p>
             </article>
-
             {% if site.disqus_shortname %}
             <p>
             <h2>Comments</h2>
@@ -43,7 +34,6 @@
             </p>
             {% endif %}
         </div>
-
     </section>
 </div>
 {% include footer.html %}
