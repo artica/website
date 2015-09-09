@@ -8,57 +8,43 @@ title: Artica Blog
 		<header>
 			<nav class="ink-navigation">
 				<ul class="menu vertical grey">
-		{% assign pcount=1 %}
-		{% for post in paginator.posts %}
-		{% for category in post.categories %}
-		{% if category == "blog" %}
-
+					{% assign pcount=1 %}
+					{% for post in paginator.posts %}
+					{% for category in post.categories %}
+					{% if category == "blog" %}
 					<li><a href="#{{ pcount }}">{{ post.title }}</a></li>
-
-		{% assign pcount=pcount | plus:1 %}
-		{% endif %}
-		{% endfor %}
-		{% endfor %}
-
+					{% assign pcount=pcount | plus:1 %}
+					{% endif %}
+					{% endfor %}
+					{% endfor %}
 				</ul>
 			</nav>
 		</header>
-
 		<h3>Search</h3>
-
-		<form action="#" id="search-form" onsubmit="return(false);" onchange="search('searchresults');" class="ink-form">
-		    <fieldset>
-	            <div class="control">
+		<form id="search-form" data-search="searchresults" class="ink-form">
+			<fieldset>
+				<div class="control">
 					<span class="search icon-search"></span>
-	                <input type="text" autocomplete="off" id="searchterm">
-	            </div>
-		    </fieldset>
+					<input type="text" autocomplete="off" id="searchterm">
+				</div>
+			</fieldset>
 		</form>
-
-        <div class="vspace related">
+		<div class="vspace related">
 			<nav class="ink-navigation">
 				<ul id="searchresults"></ul>
 			</nav>
 		</div>
-
 	</div>
-
-
 	<div class="large-75 medium-75 small-100 content vspace">
-
 		<b>Page {{ paginator.page }} of Artica's Blog</b>
-
 		<p>
-		{% include blog_navigation.html %}
+			{% include blog_navigation.html %}
 		</p>
-
 		{% assign pcount=1 %}
 		{% for post in paginator.posts %}
 		{% for category in post.categories %}
 		{% if category == "blog" %}
-
 		<section id="{{ pcount }}">
-
 			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 			<small>{{ post.date | date_to_long_string }}</small>
 			{% if post.frontimage %}
@@ -66,9 +52,9 @@ title: Artica Blog
 				<a href="{{ post.url }}"><img src="{{ post.frontimage }}"></a>
 			</p>
 			<p>
-			{% if post.longexcerpt %}
+				{% if post.longexcerpt %}
 				{{ post.longexcerpt | replace: "\'", "'" }}
-			{% else %}
+				{% else %}
 				{{ post.excerpt | replace: "\'", "'" }}
 				{% endif %}
 			</p>
@@ -77,22 +63,16 @@ title: Artica Blog
 				{{ post.content | | replace: "\'", "'" }}
 			</p>
 			{% endif %}
-
 			<p><a href="{{ post.url }}">Read the full post</a></p>
 			<p><a href="{{ post.url }}#disqus_thread">comments</a></p>
-
 			<p class="vspace"></p>
-
 		</section>
-
 		{% assign pcount=pcount | plus:1 %}
 		{% endif %}
 		{% endfor %}
 		{% endfor %}
-
 		<p>
 			{% include blog_navigation.html %}
 		</p>
-
 	</div>
 </div>

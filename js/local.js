@@ -95,12 +95,6 @@
   };
 
   // --------------------------------------------------------------------------
-  // Functions
-  // --------------------------------------------------------------------------
-
-  // ==========================================================================
-
-  // --------------------------------------------------------------------------
   // Set active class to current menu item page
   // --------------------------------------------------------------------------
 
@@ -180,111 +174,65 @@
     }
   };
 
+  // --------------------------------------------------------------------------
+  // Search engine
+  // --------------------------------------------------------------------------
+
   var Search = {
     element: $('#search-form'),
-    search: function(elmid) {
+    timer: false,
+    search: function() {
       var term = document.getElementById('searchterm').value;
-      var elm = document.getElementById(elmid);
+      var element = $('#' + Search.element.data('search'));
+      
+      if (term.length <= 3) { return; }
+      if (Search.timer !== false) { clearInterval(Search.timer); }
+      
+      element.html('Searching...');
 
-      if (term.length <= 3) {
-        return;
-      }
-
-      if (searchtimer !== false) clearInterval(searchtimer);
-
-      elm.innerHTML = 'searching...';
-
-      searchtimer = setTimeout(function () {
+      Search.timer = setTimeout(function () {
         var results = index.search(term);
-        var html = '';
+        var source = '';
 
-        if (results.length) {
+        if (!!results.length) {
           for(var i = 0; i < results.length && i < 8; i++) {
             var id = results[i].ref;
             var post = posts[id];
             
-            html += '<li class="column-group gutters bweffect"><div class="large-100"><b><a href="' + post.url + '">' + post.title + '</b></h4><a href="' + post.url + '">';
+            source += '<li class="column-group gutters bweffect"><div class="large-100"><b><a href="' + post.url + '">' + post.title + '</b></h4><a href="' + post.url + '">';
 
-            if (post.thumbnail) {
-              html += '<img src="' + post.thumbnail + '">';
-            }
-            else {
-              html += '<br/>';
-            }
+            if (!!post.thumbnail) { source += '<img src="' + post.thumbnail + '">'; }
+            else { source += '<br>'; }
 
-            html += '<small>' + post.excerpt + '</small></a></div></li>';
+            source += '<small>' + post.excerpt + '</small></a></div></li>';
           }
-        }
-        else {
-          html = '<li>Nothing found. Try to be more specific, search by keywords.</li>';
-        }
+        } else { source = '<li>Nothing found. Try to be more specific, search by keywords.</li>'; }
 
-        elm.innerHTML = html;
+        element.html(source);
       }, 100);
     },
     init: function() {
-      Search.element.on('change', function(e) {
+      Search.element.on('submit', function(e) {
         e.preventDefault();
-        Search.search('relatedposts');
+        Search.search(Search.element.data('search'));
       });
     }
   };
 
-  function search(elmid) {
-    var term = document.getElementById('searchterm').value;
-    var elm = document.getElementById(elmid);
-
-    if (term.length <= 3) {
-      return;
+  var Artica = {
+    init: function() {
+      Analytics.init();   // Google Analytics
+      Disqus.init();      // Disqus
+      Map.init();         // Google Maps
+      WordSlider.init();  // Initializes home page word slideshow
+      ActivePage.init();  // Set active class to current menu item page
+      FadeElement.init(); // Fade all the elements with a 'fadein' class
+      RandomPost.init();  // Displays random blog posts
+      Search.init();      // Search engine
+      prettyPrint();      // Prettifyer
     }
+  };
 
-    if (searchtimer !== false) clearInterval(searchtimer);
-
-    elm.innerHTML = 'searching...';
-
-    searchtimer = setTimeout(function () {
-      var results = index.search(term);
-      var html = '';
-
-      if (results.length) {
-        for(var i = 0; i < results.length && i < 8; i++) {
-          var id = results[i].ref;
-          var post = posts[id];
-          
-          html += '<li class="column-group gutters bweffect"><div class="large-100"><b><a href="' + post.url + '">' + post.title + '</b></h4><a href="' + post.url + '">';
-
-          if (post.thumbnail) {
-            html += '<img src="' + post.thumbnail + '">';
-          }
-          else {
-            html += '<br/>';
-          }
-
-          html += '<small>' + post.excerpt + '</small></a></div></li>';
-        }
-      }
-      else {
-        html = '<li>Nothing found. Try to be more specific, search by keywords.</li>';
-      }
-
-      elm.innerHTML = html;
-    }, 100);
-  }
-
-  function OnLoadTasks() {
-    Analytics.init();           // Google Analytics
-    Disqus.init();              // Disqus
-    Map.init();                 // Google Maps
-    WordSlider.init();          // Initializes home page word slideshow
-    ActivePage.init();          // Set active class to current menu item page
-    FadeElement.init();         // Fade all the elements with a 'fadein' class
-    RandomPost.init();          // Displays random blog posts
-    Search.init();              // Search engine
-    prettyPrint();              // Prettifyer
-  }
-
-  // window.onload = OnLoadTasks;
-  var searchtimer = false;
-
-  $(document).ready(OnLoadTasks);
+  $(document).ready(Artica.init);
+  
 }(jQuery, window, undefined));
