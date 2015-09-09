@@ -3,13 +3,13 @@ layout: post
 date: 2013-09-09 18:09:53 UTC
 title: "Differential wheeled robot simulator"
 categories: blog
-excerpt: "This Processing application is ment to simulate a differential wheeled robot, very used nowadays. This app will be usefull in our Robotics Workshops!"
-longexcerpt: "This Processing application is ment to simulate a differential wheeled robot, very used nowadays. This app will be usefull in our Robotics Workshops!I missed the github class so here it is the good\'old zip"
+excerpt: "This Processing application is meant to simulate a differential wheeled robot, very used nowadays. This app will be usefull in our Robotics Workshops!"
+longexcerpt: "This Processing application is meant to simulate a differential wheeled robot, very used nowadays. This app will be usefull in our Robotics Workshops!I missed the github class so here it is the good\'old zip"
 thumbnail: /assets/thumbs/2013-09-09-differential-wheeled-robot-simulator-1.jpg
 frontimage: /assets/images/2013-09-09-differential-wheeled-robot-simulator-1.jpg
 ---
 
-This <a href="http://processing.org">Processing</a> application is ment to simulate a <a href="http://en.wikipedia.org/wiki/Differential_wheeled_robot">differential wheeled robot</a>, very used nowadays. This app will be usefull in our <a href="http://guibot.pt">Robotics Workshops</a>!
+This <a href="http://processing.org">Processing</a> application is meant to simulate a <a href="http://en.wikipedia.org/wiki/Differential_wheeled_robot">differential wheeled robot</a>, very used nowadays. This app will be usefull in our <a href="http://guibot.pt">Robotics Workshops</a>!
 
 <a title="Differential Drive Simulator in Processing by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/9711105195/"><img class="postimage" alt="Differential Drive Simulator in Processing" src="/assets/images/2013-09-09-differential-wheeled-robot-simulator-1.jpg"/></a>
 

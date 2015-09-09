@@ -11,7 +11,7 @@ MusicBox is the new PT's music channel, at the festival they wanted to had the a
 
 <div class="video-container"><iframe src="http://www.youtube.com/embed/uKH79Qt8TwY" frameborder="0" allowfullscreen></iframe></div>
 
-This was ment to be with the so known kinect camera, but what they didn't know is that the kinect doesn't work outdoor, so we used a laser sensor and it worked flawlessly!!
+This was meant to be with the so known kinect camera, but what they didn't know is that the kinect doesn't work outdoor, so we used a laser sensor and it worked flawlessly!!
 
 <a href="http://www.flickr.com/photos/guibot/7630919188/" title="IMG_25921 by guibot, on Flickr"><img class="postimage" alt="IMG_25921" src="/assets/images/2012-07-23-artica-rock-in-rio-and-superbocksuperrock-1.jpg"/></a>
 
@@ -19,7 +19,7 @@ This installation had a huge PA (power amplifier - sound system) outside, and wh
 
 <a title="IMG_2585 by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/7630749084/"><img class="postimage" alt="IMG_2585" src="/assets/images/2012-07-23-artica-rock-in-rio-and-superbocksuperrock-2.jpg"/></a>
 
-We also added a led strip, it was ment to give instant feedback to the user, when a hand was detected it changed color to green, on click it gives red and on idle went blue.
+We also added a led strip, it was meant to give instant feedback to the user, when a hand was detected it changed color to green, on click it gives red and on idle went blue.
 
 <a href="http://www.flickr.com/photos/guibot/7630726660/" title="IMG_2602 by guibot, on Flickr"><img class="postimage" alt="IMG_2602" src="/assets/images/2012-07-23-artica-rock-in-rio-and-superbocksuperrock-3.jpg"/></a>
 
