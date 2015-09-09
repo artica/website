@@ -255,7 +255,7 @@ button#toggleVisibility {
 }
 
 .fadein {
-  visibility:hidden;
+  opacity: 0;
 }
 
 .bweffect img {

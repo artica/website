@@ -101,6 +101,43 @@
   // ==========================================================================
 
   // --------------------------------------------------------------------------
+  // Set active class to current menu item page
+  // --------------------------------------------------------------------------
+
+  var ActivePage = {
+    init: function() {
+      var id = null;
+
+      if(window.location.pathname.search(/^\/blog\//i) !== -1) { id = 'nav_blog'; }
+      if(window.location.pathname.search(/^\/projects\//i) !== -1) { id = 'nav_projects'; }
+      if(window.location.pathname.search(/^\/robotics\//i) !== -1) { id = 'nav_robotics'; }
+      if(window.location.pathname.search(/^\/einstein\//i) !== -1) { id = 'nav_einstein'; }
+      if(window.location.pathname.search(/^\/team\//i) !== -1) { id = 'nav_team'; }
+
+      if(id) {
+        var element = document.getElementById(id);
+        
+        if(element) { element.className = 'active'; }
+      }
+    }
+  };
+
+  // --------------------------------------------------------------------------
+  // Fade all the elements with a 'fadein' class
+  // --------------------------------------------------------------------------
+
+  var FadeElement = {
+    elements: $('.fadein'),
+    init: function() {
+      FadeElement.elements
+        .delay(1000)
+        .each(function() {
+          $(this).animate({'opacity': 1}, 1000);
+        });
+    }
+  };
+
+  // --------------------------------------------------------------------------
   // Displays random blog posts
   // --------------------------------------------------------------------------
 
@@ -148,53 +185,6 @@
 
   // var RandomPost = {};
 
-  // --------------------------------------------------------------------------
-  // Set active class to current menu item page
-  // --------------------------------------------------------------------------
-
-  var ActivePage = {
-    init: function() {
-      var id = null;
-
-      if(window.location.pathname.search(/^\/blog\//i) !== -1) { id = 'nav_blog'; }
-      if(window.location.pathname.search(/^\/projects\//i) !== -1) { id = 'nav_projects'; }
-      if(window.location.pathname.search(/^\/robotics\//i) !== -1) { id = 'nav_robotics'; }
-      if(window.location.pathname.search(/^\/einstein\//i) !== -1) { id = 'nav_einstein'; }
-      if(window.location.pathname.search(/^\/team\//i) !== -1) { id = 'nav_team'; }
-
-      if(id) {
-        var element = document.getElementById(id);
-        
-        if(element) { element.className = 'active'; }
-      }
-    }
-  };
-
-  // --------------------------------------------------------------------------
-  // Fade all the 'fadein' classes
-  // --------------------------------------------------------------------------
-
-  function fade(element) {
-    var op = 0;  // initial opacity
-
-    element.style.opacity = 0;
-    element.style.filter = 'alpha(opacity=0)';
-    element.style.visibility = "visible";
-
-    var timer = setInterval(function () {
-      if (op >= 1){
-        clearInterval(timer);
-      }
-      op += 0.1;
-      element.style.opacity = op;
-      element.style.filter = 'alpha(opacity=' + op * 100 + ")";
-    }, 50);
-  }
-
-  // TODO: Refactor
-
-  // var FadeElement = {};
-
   function search(elmid) {
     var term = document.getElementById('searchterm').value;
     var elm = document.getElementById(elmid);
@@ -241,16 +231,10 @@
     Disqus.init();              // Disqus
     Map.init();                 // Google Maps
     WordSlider.init();          // Initializes home page word slideshow
-    printRandomPosts(posts, 5); // Displays random blog posts
     ActivePage.init();          // Set active class to current menu item page
+    FadeElement.init();         // Fade all the elements with a 'fadein' class
+    printRandomPosts(posts, 5); // Displays random blog posts
     prettyPrint();              // Prettifyer
-    
-    // Fade all the 'fadein' classes
-    var fades = document.getElementsByClassName('fadein');
-    
-    for (var i = fades.length - 1; i >= 0; i--) {
-      fade(fades[i]);
-    }
   }
 
   // window.onload = OnLoadTasks;
