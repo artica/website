@@ -4,7 +4,7 @@ date: 2012-10-01 16:05:04 UTC
 title: "360º Projection at TryAngle"
 categories: blog
 excerpt: "TryAngle is a great artistic iniciative sponsored by the European Culture Programme, it had three labs, and one of the labs was at the \"O Espaço do Tempo\" in Montemor-o-Novo."
-longexcerpt: "TryAngle is a great artistic iniciative sponsored by the European Culture Programme, it had three labs, and one of the labs was at the \"O Espaço do Tempo\" in Montemor-o-Novo. Two artists had this great idea of a video projection inside a cylinder, with a 360º panoramic view of \"Praça de Touros de Montemor\" filled with persons, where each person represented a degree. Guess who they called to stich the 18 photos, and set all the projection system inside an empty cylinder.. ? :)"
+longexcerpt: "TryAngle is a great artistic iniciative sponsored by the European Culture Programme, it had three labs, and one of the labs was at the \"O Espaço do Tempo\" in Montemor-o-Novo. Two artists had this great idea of a video projection inside a cylinder, with a 360º panoramic view of \"Praça de Touros de Montemor\" filled with persons, where each person represented a degree. Guess who they called to stich the 18 photos, and set all the projection system inside an empty cylinder... ? :)"
 thumbnail: /assets/thumbs/2012-10-01-360o-projection-at-tryangle-1.jpg
 frontimage: /assets/images/2012-10-01-360o-projection-at-tryangle-1.jpg
 ---
@@ -13,7 +13,7 @@ frontimage: /assets/images/2012-10-01-360o-projection-at-tryangle-1.jpg
 
 <img class="postimage" src="/assets/images/2012-10-01-360o-projection-at-tryangle-1.jpg"/>
 
-Two artists had this great idea of a video projection inside a cylinder, with a 360º panoramic view of "Praça de Touros de Montemor" filled with persons, where each person represented a degree. Guess who they called to stich the 18 photos, and set all the projection system inside an empty cylinder.. ? :)
+Two artists had this great idea of a video projection inside a cylinder, with a 360º panoramic view of "Praça de Touros de Montemor" filled with persons, where each person represented a degree. Guess who they called to stich the 18 photos, and set all the projection system inside an empty cylinder... ? :)
 
 <a title="360º projection @ TryAngle by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8043625177/"><img class="postimage" alt="360º projection @ TryAngle" src="/assets/images/2012-10-01-360o-projection-at-tryangle-2.jpg"/></a>
 

@@ -13,7 +13,7 @@ frontimage: /assets/images/2011-05-23-pedro-e-ines-1.jpg
 
 <a href="http://www.artica.cc/blog/wp-content/uploads/2011/05/IMG_1933.jpg"><img class="postimage" src="/assets/images/2011-05-23-pedro-e-ines-1.jpg"/></a>
 
-It's a play about a forbidden love during the Portuguese monarchy in the 14th century, and to better portray certain scenes during the performance we were asked to create peculiar visual stuff: fire, deers, rain and other realms to transport the viewer to the peace.. It was a "wow" experience! What else could we ask for!?
+It's a play about a forbidden love during the Portuguese monarchy in the 14th century, and to better portray certain scenes during the performance we were asked to create peculiar visual stuff: fire, deers, rain and other realms to transport the viewer to the peace... It was a "wow" experience! What else could we ask for!?
 
 <a href="http://www.artica.cc/blog/wp-content/uploads/2011/05/IMG_1988.jpg"><img class="postimage" src="/assets/images/2011-05-23-pedro-e-ines-2.jpg"/></a>
 

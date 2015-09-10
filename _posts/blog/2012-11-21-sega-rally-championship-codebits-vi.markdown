@@ -15,7 +15,7 @@ frontimage: /assets/images/2012-11-21-sega-rally-championship-codebits-vi-1.jpeg
 Its audience range goes from programmers and entrepeneurs to hackers and designers! This year 800 people came to participate in 3 days full of talks, challenges, games, demos and junk food!!
 <img class="postimage" src="/assets/images/2012-11-21-sega-rally-championship-codebits-vi-2.jpg"/>
 
-About our participation @ Codebits VI, at Artica we are extremely addicted to race games, <a href="http://www.trackmania.com/">Trackmania</a> is only one of our favourites!! We still are addicted to race games but we usually don't play them, instead, we prefer to create our own games.. :D we thought it would be way cool to drive a remote control car using a steering wheel and pedals, and if the car had a wireless cam, the gamer could look at the screen and really see what the car was seeing in real time, just like an arcade game! 
+About our participation @ Codebits VI, at Artica we are extremely addicted to race games, <a href="http://www.trackmania.com/">Trackmania</a> is only one of our favourites!! We still are addicted to race games but we usually don't play them, instead, we prefer to create our own games... :D we thought it would be way cool to drive a remote control car using a steering wheel and pedals, and if the car had a wireless cam, the gamer could look at the screen and really see what the car was seeing in real time, just like an arcade game! 
 
 This was our proposal to Codebits! To have an arcade game where it would be possible to drive two cars and participate in a real race, without any simulations or complex algorythms, neither 3D graphics... We want something real! <a href="http://arrifana.org/blog">Celso Martinho</a> was very excited with our idea, and by coincidence (or not) they were planning to have a retro gaming area at codebits!! Luis Sobral also known as <a href="http://thearcademan.net">TheArcadeMan</a>, was the one behind the retro gaming area, Luis refurbishes old arcade machines and transforms them into brand new machines just like magic!
 
@@ -64,7 +64,7 @@ Finally at Codebits VI !! :D Artica had the honor to be at the Hardware Den with
 
 <img class="postimage" src="/assets/images/2012-11-21-sega-rally-championship-codebits-vi-13.jpg"/>
 
-The Sega Rally Championship Arcade was fully working all the time, we only need to stop a couple of times for final tweaks..
+The Sega Rally Championship Arcade was fully working all the time, we only need to stop a couple of times for final tweaks...
 
 <a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203462135/"><img class="postimage" alt="Sega Rally Championship" src="/assets/images/2012-11-21-sega-rally-championship-codebits-vi-14.jpg"/></a>
 
@@ -76,6 +76,6 @@ To drive this things was extremely cool!! We are looking forward to repeat the e
 
 <a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203460979/"><img class="postimage" alt="Sega Rally Championship" src="/assets/images/2012-11-21-sega-rally-championship-codebits-vi-16.jpg"/></a>
 
-As a final note, we want to give a big thanks to all SAPO and PT Team for making this event a reality, Mauricio Martins and Adriano Couto from <a href="http://altlab.org">AltLab</a> for helping us with the CRT's, <a href="http://franciscodias.net">Francisco Dias</a> gave a major help with his hacking skills, João Ribeiro for being a true Artica member, <a href="http://inmotion.pt">Filipe Valpereiro</a> for all the hardcore geeky support, he was the guy who told us how to remove the steering wheel lag caused by the xbee buffer.. And finally thank you <a href="http://arrifana.org/blog/">Celso</a> for believing in us!!! 
+As a final note, we want to give a big thanks to all SAPO and PT Team for making this event a reality, Mauricio Martins and Adriano Couto from <a href="http://altlab.org">AltLab</a> for helping us with the CRT's, <a href="http://franciscodias.net">Francisco Dias</a> gave a major help with his hacking skills, João Ribeiro for being a true Artica member, <a href="http://inmotion.pt">Filipe Valpereiro</a> for all the hardcore geeky support, he was the guy who told us how to remove the steering wheel lag caused by the xbee buffer... And finally thank you <a href="http://arrifana.org/blog/">Celso</a> for believing in us!!! 
 
 <div class="video-container"><iframe src="http://www.youtube.com/embed/g0JQ2x5ZVJE" frameborder="0" allowfullscreen></iframe></div>
