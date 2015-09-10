@@ -37,7 +37,7 @@ Wanna take a look at the anatomy of a robot? :)
 
 <a href="http://www.artica.cc/blog/wp-content/uploads/2011/12/IMG_0257.jpg"><img class="postimage" src="/assets/images/2011-12-07-magabots-massive-production-10.jpg"/></a>
 
-And.... We made it!!!
+And... We made it!!!
 
 <a href="http://www.artica.cc/blog/wp-content/uploads/2011/12/IMG_0262.jpg"><img class="postimage" src="/assets/images/2011-12-07-magabots-massive-production-11.jpg"/></a>
 

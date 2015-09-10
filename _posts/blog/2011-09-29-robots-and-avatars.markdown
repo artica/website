@@ -17,7 +17,7 @@ We made it!! ArticaCC and our wizkid <a href="http://www.franciscodias.net/">Fra
 
 It's very important to us to continue developing our artistic side without limits, specially because Artica = Art + Informatics...!
 
-<a href="http://www.robotsandavatars.net/events/call-for-proposals/pre-selected-projects/">COW</a> is the name of the project and we'll tell you more about it later....
+<a href="http://www.robotsandavatars.net/events/call-for-proposals/pre-selected-projects/">COW</a> is the name of the project and we'll tell you more about it later...
 
 The results will be announced Friday, 21st October. Now, fingers crossed to the only Portuguese team in the contest!
 
