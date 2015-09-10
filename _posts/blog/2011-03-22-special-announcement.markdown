@@ -4,7 +4,7 @@ date: 2011-03-22 17:40:21 UTC
 title: "Special Announcement!"
 categories: blog
 excerpt: "We\'ve been talking of him a lot... Called him names, showing road trips and always trying to convince you to pre-order..."
-longexcerpt: "We\'ve been talking of him a lot... Called him names, showing road trips and always trying to convince you to pre-order...Any ideia of what we\'re talking about?"
+longexcerpt: "We\'ve been talking of him a lot... Called him names, showing road trips and always trying to convince you to pre-order... Any ideia of what we\'re talking about?"
 thumbnail: /assets/thumbs/2011-03-22-special-announcement-1.jpg
 frontimage: /assets/images/2011-03-22-special-announcement-1.jpg
 ---

@@ -4,7 +4,7 @@ date: 2011-03-17 18:11:49 UTC
 title: "CCDR-LVT"
 categories: blog
 excerpt: "Today we\'re gonna enter in the time machine and show you our first work."
-longexcerpt: "Today we\'re gonna enter in the time machine and show you our first work.Leonel Moura, robot artist, designed the \"Stand Lisboa e Vale do Tejo\" for the Feira de Portugal Tecnológico at FIL, and through IDMind invited us to create interactive content to a huge led wall."
+longexcerpt: "Today we\'re gonna enter in the time machine and show you our first work. Leonel Moura, robot artist, designed the \"Stand Lisboa e Vale do Tejo\" for the Feira de Portugal Tecnológico at FIL, and through IDMind invited us to create interactive content to a huge led wall."
 ---
 
 Today we're gonna enter in the time machine and show you our first work.

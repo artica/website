@@ -4,7 +4,7 @@ date: 2011-07-26 10:52:11 UTC
 title: "Artica\'s Motoruino workshop @ AltLab"
 categories: blog
 excerpt: "Last Wednesday Artica lectured a Motoruino workshop at AltLab."
-longexcerpt: "Last Wednesday Artica lectured a Motoruino workshop at AltLab.Beside all the participants there were more than a hundred watching a live stream on Ustream."
+longexcerpt: "Last Wednesday Artica lectured a Motoruino workshop at AltLab. Beside all the participants there were more than a hundred watching a live stream on Ustream."
 ---
 
 Last Wednesday Artica lectured a <a href="http://www.guibot.pt/motoruino-2/?lang=pt-pt">Motoruino</a> workshop at <a href="http://altlab.org/">AltLab</a>.

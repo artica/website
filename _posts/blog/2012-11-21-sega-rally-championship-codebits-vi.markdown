@@ -68,7 +68,7 @@ The Sega Rally Championship Arcade was fully working all the time, we only need 
 
 <a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203462135/"><img class="postimage" alt="Sega Rally Championship" src="/assets/images/2012-11-21-sega-rally-championship-codebits-vi-14.jpg"/></a>
 
-..and to recharge batteries!
+... And to recharge batteries!
 
 <a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203473237/"><img class="postimage" alt="Sega Rally Championship" src="/assets/images/2012-11-21-sega-rally-championship-codebits-vi-15.jpg"/></a>
 

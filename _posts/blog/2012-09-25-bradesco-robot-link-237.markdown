@@ -4,7 +4,7 @@ date: 2012-09-25 18:56:42 UTC
 title: "Bradesco robot link 237"
 categories: blog
 excerpt: "In the new project of YDreams for the Brazil\'s Bank Bradesco, a new robot has been developed by IDMind, Artica and YDreams."
-longexcerpt: "In the new project of YDreams for the Brazil\'s Bank Bradesco, a new robot has been developed by IDMind, Artica and YDreams.This robot,nicknamed Link 237, greets and provides assistance to visitors in a new branch of this Bank called Bradesco Next, located in São Paulo\'s high-end JK Iguatemi Mall."
+longexcerpt: "In the new project of YDreams for the Brazil\'s Bank Bradesco, a new robot has been developed by IDMind, Artica and YDreams. This robot,nicknamed Link 237, greets and provides assistance to visitors in a new branch of this Bank called Bradesco Next, located in São Paulo\'s high-end JK Iguatemi Mall."
 thumbnail: /assets/thumbs/2012-09-25-bradesco-robot-link-237-1.jpg
 frontimage: /assets/images/2012-09-25-bradesco-robot-link-237-1.jpg
 ---

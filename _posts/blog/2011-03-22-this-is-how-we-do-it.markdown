@@ -4,7 +4,7 @@ date: 2011-03-22 14:45:36 UTC
 title: "This is how we do it!"
 categories: blog
 excerpt: "Today we\'re gonna show you a little behind the scenes so you can see how all the work it\'s done."
-longexcerpt: "Today we\'re gonna show you a little behind the scenes so you can see how all the work it\'s done.Guilherme\'s working on Farrusco\'s manual. He has to build one, step by step, photograph every item and all the steps so that anyone will be able to do it at home. After the 3rd time of repeating all the process he\'s getting a bit grumpy!"
+longexcerpt: "Today we\'re gonna show you a little behind the scenes so you can see how all the work it\'s done. Guilherme\'s working on Farrusco\'s manual. He has to build one, step by step, photograph every item and all the steps so that anyone will be able to do it at home. After the 3rd time of repeating all the process he\'s getting a bit grumpy!"
 thumbnail: /assets/thumbs/2011-03-22-this-is-how-we-do-it-1.jpg
 frontimage: /assets/images/2011-03-22-this-is-how-we-do-it-1.jpg
 ---

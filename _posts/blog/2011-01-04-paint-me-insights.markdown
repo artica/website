@@ -4,7 +4,7 @@ date: 2011-01-04 16:38:41 UTC
 title: "Paint Me – insights"
 categories: blog
 excerpt: "Like everything, there is always an idea at the very beginning and this time was no exception."
-longexcerpt: "Like everything, there is always an idea at the very beginning and this time was no exception.Rui Horta gave us a drawing with a set design to be created in 3D. Creating environments in 3D is always good for a first impression of the set, to detect possible flaws and to comunicate ideas with set designers, performers, musichians, technicians and with everyone involved."
+longexcerpt: "Like everything, there is always an idea at the very beginning and this time was no exception. Rui Horta gave us a drawing with a set design to be created in 3D. Creating environments in 3D is always good for a first impression of the set, to detect possible flaws and to comunicate ideas with set designers, performers, musichians, technicians and with everyone involved."
 thumbnail: /assets/thumbs/2011-01-04-paint-me-insights-1.jpg
 frontimage: /assets/images/2011-01-04-paint-me-insights-1.jpg
 ---

@@ -4,7 +4,7 @@ date: 2011-04-15 16:26:19 UTC
 title: "Magabot Team"
 categories: blog
 excerpt: "Today, we proudly present you the Magabot team, and it\'s third place on the contest Robótica - Festival Nacional de Robótica (Robotics - Robotics National Festival) an initiative of Sociedade Portuguesa de Robótica (Robotics Portuguese Society)."
-longexcerpt: "Today, we proudly present you the Magabot team, and it\'s third place on the contest Robótica - Festival Nacional de Robótica (Robotics - Robotics National Festival) an initiative of Sociedade Portuguesa de Robótica (Robotics Portuguese Society).The team lider Francisco Dias was developing thebox when we invited him to participate in this contest with our robotic plataform, developed together with IdMind and Mapa das Ideias, Francisco invited his friend Francisco Purdom to join the team."
+longexcerpt: "Today, we proudly present you the Magabot team, and it\'s third place on the contest Robótica - Festival Nacional de Robótica (Robotics - Robotics National Festival) an initiative of Sociedade Portuguesa de Robótica (Robotics Portuguese Society). The team lider Francisco Dias was developing thebox when we invited him to participate in this contest with our robotic plataform, developed together with IdMind and Mapa das Ideias, Francisco invited his friend Francisco Purdom to join the team."
 thumbnail: /assets/thumbs/2011-04-15-magabot-team-1.jpg
 frontimage: /assets/images/2011-04-15-magabot-team-1.jpg
 ---

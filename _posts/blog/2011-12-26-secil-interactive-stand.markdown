@@ -4,7 +4,7 @@ date: 2011-12-26 15:26:33 UTC
 title: "SECIL Interactive Stand"
 categories: blog
 excerpt: "A couple of months ago we made an interactive instalation for SECIL awards. The cerimony of 2010 occurred last week and honored the architect Eduardo Souto de Moura."
-longexcerpt: "A couple of months ago we made an interactive instalation for SECIL awards. The cerimony of 2010 occurred last week and honored the architect Eduardo Souto de Moura.This interactive instalation is a multifunction platform with several features like:"
+longexcerpt: "A couple of months ago we made an interactive instalation for SECIL awards. The cerimony of 2010 occurred last week and honored the architect Eduardo Souto de Moura. This interactive instalation is a multifunction platform with several features like:"
 thumbnail: /assets/thumbs/2011-12-26-secil-interactive-stand-1.jpg
 frontimage: /assets/images/2011-12-26-secil-interactive-stand-1.jpg
 ---

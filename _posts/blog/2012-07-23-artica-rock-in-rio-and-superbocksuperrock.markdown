@@ -4,7 +4,7 @@ date: 2012-07-23 17:14:22 UTC
 title: "Artica @ Rock In Rio and SuperBockSuperRock"
 categories: blog
 excerpt: "MusicBox is the new PT\'s music channel, at the festival they wanted to had the application on a big screen and have the possibility to control it using hand gesture. We were hired by Hipnose to accomplish the challenge."
-longexcerpt: "MusicBox is the new PT\'s music channel, at the festival they wanted to had the application on a big screen and have the possibility to control it using hand gesture. We were hired by Hipnose to accomplish the challenge.This was meant to be with the so known kinect camera, but what they didn\'t know is that the kinect doesn\'t work outdoor, so we used a laser sensor and it worked flawlessly!!"
+longexcerpt: "MusicBox is the new PT\'s music channel, at the festival they wanted to had the application on a big screen and have the possibility to control it using hand gesture. We were hired by Hipnose to accomplish the challenge. This was meant to be with the so known kinect camera, but what they didn\'t know is that the kinect doesn\'t work outdoor, so we used a laser sensor and it worked flawlessly!!"
 thumbnail: /assets/thumbs/2012-07-23-artica-rock-in-rio-and-superbocksuperrock-1.jpg
 frontimage: /assets/images/2012-07-23-artica-rock-in-rio-and-superbocksuperrock-1.jpg
 ---

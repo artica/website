@@ -4,7 +4,7 @@ date: 2011-03-10 20:10:03 UTC
 title: "“Desumano\" (unhuman)"
 categories: blog
 excerpt: "Last September we were envolved in the production of the exhibition “Desumano\" (unhuman), in a partnership with Mapa das Ideias."
-longexcerpt: "Last September we were envolved in the production of the exhibition “Desumano\" (unhuman), in a partnership with Mapa das Ideias.The exhibition went so well that the client decided to make it itinerant."
+longexcerpt: "Last September we were envolved in the production of the exhibition “Desumano\" (unhuman), in a partnership with Mapa das Ideias. The exhibition went so well that the client decided to make it itinerant."
 thumbnail: /assets/thumbs/2011-03-10-desumano-unhuman-1.jpg
 frontimage: /assets/images/2011-03-10-desumano-unhuman-1.jpg
 ---

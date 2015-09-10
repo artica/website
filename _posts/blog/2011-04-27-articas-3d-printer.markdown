@@ -4,7 +4,7 @@ date: 2011-04-27 18:09:57 UTC
 title: "Artica\'s 3D Printer"
 categories: blog
 excerpt: "As you noticed, we\'ve not blogged that frequently and now you\'ll understand why..."
-longexcerpt: "As you noticed, we\'ve not blogged that frequently and now you\'ll understand why...Our new 3D printer just arrived and we\'re very happy with the new toy! We don\'t have to say that you\'re all invited to show up and try the printer."
+longexcerpt: "As you noticed, we\'ve not blogged that frequently and now you\'ll understand why... Our new 3D printer just arrived and we\'re very happy with the new toy! We don\'t have to say that you\'re all invited to show up and try the printer."
 thumbnail: /assets/thumbs/2011-04-27-articas-3d-printer-1.jpg
 frontimage: /assets/images/2011-04-27-articas-3d-printer-1.jpg
 ---
