@@ -18,7 +18,7 @@ The Pong game is an adaptation of the well known game. We already used it on <a 
 
 <img class="postimage" src="/assets/images/2014-04-28-pizzanight_2.JPG"/>
 
-The color voting system was also customized for the event. The actual votes count was displayed as a... you guessed it, a pizza. The base pizza got filled with tasty ingredients in correlation with the actual positive votes from the crowd, so if a project didn't had any love from the crowd, a flavorless pizza started to appear instead.
+The color voting system was also customized for the event. The actual votes count was displayed as a... You guessed it, a pizza. The base pizza got filled with tasty ingredients in correlation with the actual positive votes from the crowd, so if a project didn't had any love from the crowd, a flavorless pizza started to appear instead.
 Of course, we also had a numeric voting count that was shown, programmers like numbers after all. 
 <div class="video-container"><iframe src="//www.youtube.com/embed/1zbnnWZvyrw" frameborder="0" allowfullscreen></iframe></div>
 
