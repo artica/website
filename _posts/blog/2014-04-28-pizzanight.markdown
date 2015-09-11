@@ -3,14 +3,14 @@ layout: post
 date: 2014-04-30 19:00:00 UTC
 title: "Microsoft Pizza Night"
 categories: blog
-excerpt: "We were present on this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on Sapo's Codebits 2014."
-longexcerpt: "We were present on this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on Sapo's Codebits 2014."
+excerpt: "We were at this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on Sapo's Codebits 2014."
+longexcerpt: "We were at this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on Sapo's Codebits 2014."
 
 thumbnail: /assets/thumbs/2014-04-28-pizzanight.png
 frontimage: /assets/images/2014-04-28-pizzanight.png
 ---
 
-We were present on this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on <a href="http://artica.cc/blog/2014/04/14/codebits.html">Sapo's Codebits 2014</a>.
+We were at this year's edition of Microsoft Pizza Night that took place on Microsoft's own headquarters in Lisbon. Our team presented a customized version of Artica's color voting system and Pong game that made such a buzz weeks ago on <a href="http://artica.cc/blog/2014/04/14/codebits.html">Sapo's Codebits 2014</a>.
 
 The Pong game is an adaptation of the well known game. We already used it on <a href="http://artica.cc/blog/2014/04/14/codebits.html">Sapo's Codebits</a> and on <a href="http://artica.cc/blog/2013/09/26/audience-pong.html">Projecto 80</a> events, but this time we made some funny graphical changes. The game's paddles were made into rolling pins and the ball itself were transformed into a pizza that started to spin and move faster as the game was played. Crazy.
 

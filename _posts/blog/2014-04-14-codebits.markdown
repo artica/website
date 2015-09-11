@@ -3,16 +3,16 @@ layout: post
 date: 2014-04-14 19:00:00 UTC
 title: "Artica @ Codebits 2014"
 categories: blog
-excerpt: "We were present at yet another edition of Sapo Codebits, happening again on Sala Tejo of MEO Arena, from 10 to 12 April 2014."
-longexcerpt: "We were present at yet another edition of Sapo Codebits, happening again on Sala Tejo of MEO Arena, from 10 to 12 April 2014."
+excerpt: "We were at yet another edition of Sapo Codebits, happening again on Sala Tejo of MEO Arena, from 10 to 12 April 2014."
+longexcerpt: "We were at yet another edition of Sapo Codebits, happening again on Sala Tejo of MEO Arena, from 10 to 12 April 2014."
 
 thumbnail: /assets/thumbs/2014-04-14-codebits.jpg
 frontimage: /assets/images/2014-04-14-codebits.jpg
 ---
 
-We were present at yet another edition of Sapo Codebits, happening again on Sala Tejo of MEO Arena, from 10 to 12 April 2014.
+We were at yet another edition of Sapo Codebits, happening again on Sala Tejo of MEO Arena, from 10 to 12 April 2014.
 
-We were present at the Hardware Den area with a stand showcasing our robots, research projects and 3d printers. We even gave a couple introduction to robotics workshops.
+We were at the Hardware Den area with a stand showcasing our robots, research projects and 3d printers. We even gave a couple introduction to robotics workshops.
 
 <img class="postimage" src="/assets/images/2014-04-14-codebits_1.jpg"/>
 
@@ -25,7 +25,7 @@ We also did a little project for the organization, to help entertain the audienc
 
 <img class="postimage" src="/assets/images/2014-04-14-codebits_3.jpg"/>
 
-Codebits have plenty of talks on different topics, this year André and Filipe gave one of them, about our adventures setting up <a href="http://artica.cc/projects/interactive/2013/07/15/ciav-tech-report.html">CIAV</a>, it went pretty well, the video should be coming online soon (we will update this post with a link once it's online). We also were present on the Portuguese Makers roundtable that took place Friday afternoon.
+Codebits have plenty of talks on different topics, this year André and Filipe gave one of them, about our adventures setting up <a href="http://artica.cc/projects/interactive/2013/07/15/ciav-tech-report.html">CIAV</a>, it went pretty well, the video should be coming online soon (we will update this post with a link once it's online). We also were on the Portuguese Makers roundtable that took place Friday afternoon.
 
 Overall the event went pretty well, we had lot of fun and met some very cool people.
 
