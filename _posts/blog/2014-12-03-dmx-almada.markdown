@@ -8,11 +8,11 @@ thumbnail: /assets/thumbs/2014-12-03-dmx-almada.JPG
 frontimage: /assets/images/2014-12-03-dmx-almada-1.JPG
 ---
 
-Our friends from the Almada Theater asked us to help them out with a lost DMX HMI controller for their new play.
+Our friends from the Almada Theater asked us to help them out with a lost DMX HMI controller on their new play.
 
-They had lost the DMX HMI Controller but still had the HMI Actuator with them, so we decided to develop a new controller from scratch using one of the Arduino’s we had lying around.
+They had lost the DMX HMI Controller but still had the HMI Actuator with them, so we decided to develop a new controller from scratch using an Arduino that we had lying around.
 
-The HMI Actuator acts as a mechanical lens aperture control. As we started “hacking” the device we discovered a Maxon DC 12V 4090rpm Motor inside acting as an actuator and a classic potentiometer for the position feedback. It also had a Limit Switch to turn off the Motor if we wanted to change the aperture manually with a specific knob. The schematic is as follows:
+The HMI Actuator acts as a mechanical lens aperture control. As we started “hacking” the device, we discovered a Maxon DC 12V 4090rpm Motor inside working as an actuator and a classic potentiometer for the position feedback. It also had a Limit Switch to turn off the Motor if we wanted to change the aperture manually with a specific knob. The schematic is as follows:
 
 ![](/assets/images/2014-12-03-dmx-almada-5.jpg)
 

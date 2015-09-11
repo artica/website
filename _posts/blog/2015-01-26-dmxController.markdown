@@ -14,7 +14,7 @@ Light Design is now easier with Artica's DMX controller.
 
 The main purpose of this app is to simplify the light design process and to connect all kinds of sensors to a DMX controlled light set. More about this in the near future.
 
-Meanwhile, you can download the app or if you are brave enough to mess with [MAX][1], the source code is available at our [Github][2] page. Instructions are available and in case you find it difficult to deal with, just drop us an email.
+Meanwhile, you can download the app or, if you are brave enough to mess with [MAX][1], the source code is available on our [Github][2] page. Instructions are included but if you find it too difficult to deal with, just drop us an e-mail.
 
 For the DMX interface we are using an [ENTTEC DMXUSBPRO][3].
 

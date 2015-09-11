@@ -10,15 +10,15 @@ frontimage: /assets/images/2015-01-14-creative_hubs.jpg
 
 ![](/assets/images/2015-01-14-creative_hubs.jpg)
 
-We had the honor to be invited for this great event and to do a short presentation of Artica's work. Creative Hubs are the next big thing in what concerns to the [Creative Industries][1] empowerment, and we are very pleased to be known as a reference inside this sector.
+We had the honor of being invited to this great event and do a short presentation of Artica's work. Creative Hubs are the next big thing in the [Creative Industries][1] empowerment, and we are very pleased to be recognized as a reference in the field.
 
-After the presentation we had a good time talking with the [ConstroiSons][2], [Buinho][3] and [Trienal de Arquitectura][4] krews. 
+After the presentation, we had a good time talking to the [ConstroiSons][2], [Buinho][3] and [Trienal de Arquitectura][4] crews. 
 
-Big thanks to the [British Council][5] and [Addict][6] for the oppostunity to show our work!!
+Big thanks to the [British Council][5] and [Addict][6] for the opportunity to show our work!
 
 ![](/assets/images/2015-01-14-guilherme_creativehubs.jpg)
 
-Panoramic foto credits goes to Bruno Canas, thanks mate!
+Panoramic foto by Bruno Canas, thanks mate!
 
 [1]: http://en.wikipedia.org/wiki/Creative_industries
 [2]: http://www.constroisons.com/
