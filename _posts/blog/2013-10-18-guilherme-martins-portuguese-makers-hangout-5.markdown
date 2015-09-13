@@ -17,6 +17,6 @@ Anything that mixes creativity and art with technology counts. A robot, a quadco
 
 These hangouts will be recorded, saved, and made available on as many channels as possible. Currently we're aiming to do an Hangout every month, but this might change (for the best)."
 
-<a href="http://things.pt/wiki/hangouts:5"><img class="postimage" src="/assets/images/2013-10-18-guilherme-martins-portuguese-makers-hangout-5-1.png"/></a>
+<a href="http://things.pt/wiki/hangouts:5">![](/assets/images/2013-10-18-guilherme-martins-portuguese-makers-hangout-5-1.png)</a>
 
 Our co-founder <a href="http://guilhermemartins.net">Guilherme Martins</a> was invited to participate on the <a href="http://things.pt/wiki/hangouts:5">5th Portuguese Makers hangout</a>. It was a great honor to be together with such amazing participants, Ferdinand Meier and Rui Marcelino! Thank you Celso Martinho for the invitation!!

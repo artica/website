@@ -13,7 +13,7 @@ Yesterday, <a href="http://artica.cc/">Artica</a>, <a href="http://www.idmind.p
 
 This project is one of the 9 finalists in this contest.
 
-<a href="http://www.artica.cc/blog/wp-content/uploads/2011/05/IMG_0663.jpg"><img class="postimage" src="/assets/images/2011-05-13-magabot-team-industrias-criativas--1.jpg"/></a>
+<a href="http://www.artica.cc/blog/wp-content/uploads/2011/05/IMG_0663.jpg">![](/assets/images/2011-05-13-magabot-team-industrias-criativas--1.jpg)</a>
 
 The results will be presented soon, and we promise to keep you posted. Meanwhile, fingers crossed!
 

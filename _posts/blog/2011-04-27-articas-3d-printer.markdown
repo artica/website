@@ -15,11 +15,11 @@ Our new 3D printer just arrived and we're very happy with the new toy! We don't 
 
 To open your appetite we'll show you some photos and a video of the very first prototype, a duckotype!
 
-<a href="http://www.artica.cc/blog/wp-content/uploads/2011/04/IMG_04501.jpg"><img class="postimage" src="/assets/images/2011-04-27-articas-3d-printer-1.jpg"/></a>
+<a href="http://www.artica.cc/blog/wp-content/uploads/2011/04/IMG_04501.jpg">![](/assets/images/2011-04-27-articas-3d-printer-1.jpg)</a>
 
 We're going to rent the machine, so if you need to print something do not hesitate and contact us: 212947828 (Artica Headquarters), 912227682 (André) or 918154947 (Guilherme).
 
-<a href="http://www.artica.cc/blog/wp-content/uploads/2011/04/IMG_0442.jpg"><img class="postimage" src="/assets/images/2011-04-27-articas-3d-printer-2.jpg"/></a>
+<a href="http://www.artica.cc/blog/wp-content/uploads/2011/04/IMG_0442.jpg">![](/assets/images/2011-04-27-articas-3d-printer-2.jpg)</a>
 
 We have different materials and colors, so you can choose which one's the best for your project.
 

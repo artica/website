@@ -11,7 +11,7 @@ frontimage: /assets/images/2011-08-12-farrusco-takes-over-nyc-1.jpg
 
 Our rock star <a href="http://www.guibot.pt/farrusco/">Farrusco</a> is flying to New York City to participate on <a href="http://makerfaire.com/">Maker Faire</a>.
 
-<a href="/assets/images/2011-08-12-farrusco-takes-over-nyc-1.jpg"><img class="postimage" src="/assets/images/2011-08-12-farrusco-takes-over-nyc-1.jpg"/></a>
+<a href="/assets/images/2011-08-12-farrusco-takes-over-nyc-1.jpg">![](/assets/images/2011-08-12-farrusco-takes-over-nyc-1.jpg)</a>
 
 As they describe on the website: "Maker  Faire is the premier event for grassroots American innovation. As the  World's Largest DIY Festival, this two-day family friendly Faire has  something for everyone - a showcase of invention, creativity and  resourcefulness and a celebration of the Maker mindset" and will take course on September 17th and 18th at New York Hall of Science.
 

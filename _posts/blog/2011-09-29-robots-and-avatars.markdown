@@ -11,7 +11,7 @@ frontimage: /assets/images/2011-09-29-robots-and-avatars-1.png
 
 We made it!! ArticaCC and our wizkid <a href="http://www.franciscodias.net/">Francisco Dias a.k.a XicoMBD</a> applied for the contest <a href="http://www.robotsandavatars.net/">Robots and Avatars</a> and our project was one of the ten pre-selected!
 
-<a href="http://www.robotsandavatars.net/"><img class="postimage" src="/assets/images/2011-09-29-robots-and-avatars-1.png"/></a>
+<a href="http://www.robotsandavatars.net/">![](/assets/images/2011-09-29-robots-and-avatars-1.png)</a>
 
 "Robots and Avatars is an intercultural, intergenerational and interdisciplinary exploration of a near future world consisting of collaborations between robots, avatars, virtual worlds, telepresence and real time presence within creative places, work spaces, cultural environments, interactive entertainment and play space."
 

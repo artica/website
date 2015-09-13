@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2012-10-01-shop-window-interactive-instalation-1.jpg
 frontimage: /assets/images/2012-10-01-shop-window-interactive-instalation-1.jpg
 ---
 
-<img class="postimage" src="/assets/images/2012-10-01-shop-window-interactive-instalation-1.jpg"/>
+![](/assets/images/2012-10-01-shop-window-interactive-instalation-1.jpg)
 
 Here we are at the Museu das Telecomunicações (Comunications Museum) in Lisbon.
 

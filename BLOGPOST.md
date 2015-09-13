@@ -1,15 +1,15 @@
 Writing a blog post
 ===================
 
-A blog post is nothing but a simple text file in the [_posts/blog](_posts/blog) directory, following this notation:
+A blog post is nothing but a simple text file in the [_posts/blog](_posts/blog) folder, following this notation:
 
 ```
 YYYY-MM-DD-simple-and-unique-permalink-name.markdown
 ```
 
-The file is divided into two parts.
+The file is split in two parts.
 
-First the YAML section (aka Jekyll [Front-matter] [1]):
+First the YAML section (aka Jekyll [Front-matter][1]):
 
 ```
 ---
@@ -26,7 +26,7 @@ frontimage: /assets/images/2010-12-29-articas-headquarters-1.jpg
 ---
 ```
 
-And then the markdown/HTML section (or content of the blog post).
+And then the content of you blog post in Markdown/HTML: 
 
 ```
 <p>
@@ -111,7 +111,7 @@ Notes:
 Markdown/HTML section
 ---------------------
 
-This is the body of the blog post. You can use both pure HTML or [Markdown] [3], we're using the [Redcarpet] [4] parser.
+This is the body of the blog post. You can use both pure HTML or [Markdown] [3]. We're using the [Redcarpet] [4] parser.
 
 Our CSS stylesheet uses a few classes to improve the display and responsiveness of some elements:
 
@@ -138,8 +138,8 @@ Here's a [boilerplate](_templates/2013-10-31-template-post.markdown) to start a 
 
 [back to main](README.md)
 
-  [1]: http://jekyllrb.com/docs/frontmatter/                           "Front-matter"
-  [2]: https://help.github.com/articles/github-flavored-markdown       "Github flavored markdown"
-  [3]: http://daringfireball.net/projects/markdown/                    "Markdown"
-  [4]: https://github.com/vmg/Redcarpet                                "Redcarpet"
+[1]: http://jekyllrb.com/docs/frontmatter/                           "Front-matter"
+[2]: https://help.github.com/articles/github-flavored-markdown       "Github flavored markdown"
+[3]: http://daringfireball.net/projects/markdown/                    "Markdown"
+[4]: https://github.com/vmg/Redcarpet                                "Redcarpet"
 

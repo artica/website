@@ -11,7 +11,7 @@ frontimage: /assets/images/2011-12-06-our-website-has-a-new-look-1.png
 
 "Nothing is lost, nothing is created, all is transformed" so is our <a href="www.artica.cc">website</a>!
 
-<a href="www.artica.cc"><img class="postimage" src="/assets/images/2011-12-06-our-website-has-a-new-look-1.png"/></a>
+<a href="www.artica.cc">![](/assets/images/2011-12-06-our-website-has-a-new-look-1.png)</a>
 
 We had to gave up Flash because it's not Apple friendly and we want you to follow us with every gadget!
 

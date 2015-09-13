@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2012-12-04-domestic-plant-1.jpg
 frontimage: /assets/images/2012-12-04-domestic-plant-1.jpg
 ---
 
-<img class="postimage" src="/assets/images/2012-12-04-domestic-plant-1.jpg"/>
+![](/assets/images/2012-12-04-domestic-plant-1.jpg)
 
 We have seen a couple of customizations with Magabot, but this time we have something very different, the <strong>Scenocosme Team </strong>presented us with "Domestic Plant", a very sensitive and interactive plant!! They also have a very particular approach on the relation between nature and technology, and this project is a result of that approach:
 

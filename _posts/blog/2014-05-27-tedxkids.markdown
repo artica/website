@@ -10,9 +10,10 @@ frontimage: /assets/images/2014-05-28-tedxkids.JPG
 
 ---
 
-<img class="postimage" src="/assets/images/2014-05-28-tedxkids.JPG"/>
+![](/assets/images/2014-05-28-tedxkids.JPG")
 
-Once again we had the pleasure to participate on <a href="http://tedxkidscentraltejo.com/">TedXKids @ CentralTejo</a> with our Farruscos and a brand new workshop edition. Thanks Marta Gonzaga for inviting us once again.
+Once again we had the pleasure to participate on [TedXKids @ CentralTejo][1] with our Farruscos and a brand new workshop edition. Thanks Marta Gonzaga for inviting us once again.
 
 <div class="video-container"><iframe src="//www.youtube.com/embed/94_LiRNPNZg" frameborder="0" allowfullscreen></iframe></div>
  
+[1]: http://tedxkidscentraltejo.com/

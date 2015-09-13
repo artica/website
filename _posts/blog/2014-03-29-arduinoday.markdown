@@ -10,7 +10,7 @@ thumbnail: /assets/thumbs/2014-03-29-arduinoday.jpg
 frontimage: /assets/images/2014-03-29-arduinoday.jpg
 ---
 
-<img class="postimage" src="/assets/images/2014-03-29-arduinoday1.jpg"/>
+![](/assets/images/2014-03-29-arduinoday1.jpg)
 
 10 years passed since the creation of the first Arduino, and so many cool stuff happened, this initiative really change the lifestyle of thousands of persons, and I am one of those persons!
 

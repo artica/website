@@ -11,7 +11,7 @@ frontimage: /assets/images/2011-12-26-secil-interactive-stand-1.jpg
 
 A couple of months ago we made an interactive instalation for SECIL awards. The cerimony of 2010 occurred last week and honored the architect Eduardo Souto de Moura.
 
-<a href="http://www.artica.cc/blog/wp-content/uploads/2011/12/IMG_03283.jpg"><img class="postimage" src="/assets/images/2011-12-26-secil-interactive-stand-1.jpg"/></a>
+<a href="http://www.artica.cc/blog/wp-content/uploads/2011/12/IMG_03283.jpg">![](/assets/images/2011-12-26-secil-interactive-stand-1.jpg)</a>
 
 This interactive instalation is a multifunction platform with several features like:
 
@@ -21,7 +21,7 @@ This interactive instalation is a multifunction platform with several features l
 
 - When a hand is placed over the light buttons the person controls the slideshow, AND, has feedback over the action because there is an air flow coming from the button.
 
-<a href="http://www.artica.cc/blog/wp-content/uploads/2011/12/IMG_03381.jpg"><img class="postimage" src="/assets/images/2011-12-26-secil-interactive-stand-2.jpg"/></a>
+<a href="http://www.artica.cc/blog/wp-content/uploads/2011/12/IMG_03381.jpg">![](/assets/images/2011-12-26-secil-interactive-stand-2.jpg)</a>
 
 This was one of our biggest interactive projects, and we're really, really, really proud of it!
 

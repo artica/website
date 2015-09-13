@@ -11,7 +11,7 @@ frontimage: /assets/images/2013-02-06-artica-joined-the-mindshaker-universe-1.jp
 
 Artica joined the <a href="http://mind-shaker.com">Mindshaker</a> universe!!
 
-<a href="http://www.mind-shaker.com"><img class="postimage" src="/assets/images/2013-02-06-artica-joined-the-mindshaker-universe-1.jpg"/></a>
+<a href="http://www.mind-shaker.com">![](/assets/images/2013-02-06-artica-joined-the-mindshaker-universe-1.jpg)</a>
 
 Mindshaker is not an enterprise – is an attitude, Mindshakers stir minds and corporate thinking. We are different and we just love it!
 

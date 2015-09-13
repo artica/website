@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2013-12-06-usora-1.jpg
 frontimage: /assets/images/2013-12-06-usora-1.jpg
 ---
 
-<img src="/assets/images/2013-12-06-usora-1.jpg"/>
+<img src="/assets/images/2013-12-06-usora-1.jpg)
 
 We are very pleased to annouce our most recent educational project: <a href="http://usora.cc/">USORA</a> (Unified Solution of Remote Access in Practical Vocational Engineering Education). A project of innovation transfer under the Leonardo Da Vinci Life Learning Programme.
 
@@ -23,7 +23,7 @@ We had the kick-off meeting at the end of last October. Present at this meeting 
 - <a href="http://welcome.isr.ist.utl.pt/home/">ISR</a> (Institute for Systems and Robotics), a university based R&D institution where multidisciplinary advanced research activities are developed in the areas of Robotics and Information Processing, including Systems and Control Theory, Signal Processing, Computer Vision, Optimization, AI and Intelligent Systems, Biomedical Engineering. Applications include Autonomous Ocean Robotics, Search and Rescue, Mobile Communications, Multimedia, Satellite Formation, Robotic Aids.
 - <a href="http://www.inete.pt/">INETE</a> (Institute of Technical Education), a portuguese technical and vocational school dedicated to the initial qualification of young people and the continuous training of active professionals, promoting school education and vocational training for youngsters and adults.
 
-<img src="/assets/images/2013-12-06-usora-2.jpg"/>
+<img src="/assets/images/2013-12-06-usora-2.jpg)
 
 The sectors of engineering and robotics are constantly faced with the need to integrate different technologies such as internet, electronics and software. Yet the design and development methods are still very new. There is an important need for education, especially in lifelong learning programs, many of the workers in these sectors are not yet prepared for these changes. The aim of the <a href="http://usora.cc">USORA</a> project is to contribute in raising the level of vocational education students and the continuous education of professional workers in the engineering domain, specially in ICT and robotics, by transferring to Portugal the technologies behind the innovative remote lab concept, namely the <a href="http://home.roboticlab.eu/">DistanceLab</a> and VirtualLab solutions developed in Estonia and Germany. Adapting it to the Portuguese needs and bringing it online.
 

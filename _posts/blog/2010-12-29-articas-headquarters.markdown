@@ -11,7 +11,7 @@ frontimage: /assets/images/2010-12-29-articas-headquarters-1.jpg
 
 There are a lot of companies that started in a garage, and all of them have great stories to tell: <a href="http://www.businesspundit.com/fortune-500-rags-to-riches/">http://www.businesspundit.com/fortune-500-rags-to-riches/</a>
 
-<a href="http://www.artica.cc/blog/wp-content/uploads/2010/12/DSC_2093.jpg"><img class="postimage" src="/assets/images/2010-12-29-articas-headquarters-1.jpg"/></a>
+<a href="http://www.artica.cc/blog/wp-content/uploads/2010/12/DSC_2093.jpg">![](/assets/images/2010-12-29-articas-headquarters-1.jpg)</a>
 
 This is our garage, where we are starting developing our ideas... More about this (ideas) soon
 

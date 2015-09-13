@@ -9,17 +9,17 @@ thumbnail: /assets/thumbs/2011-10-06-artica-tedxedges-1.jpg
 frontimage: /assets/images/2011-10-06-artica-tedxedges-1.jpg
 ---
 
-<a title="IMG_5546 by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/6216783099/"><img class="postimage" alt="IMG_5546" src="/assets/images/2011-10-06-artica-tedxedges-1.jpg"/></a>
+<a title="IMG_5546 by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/6216783099/">![](/assets/images/2011-10-06-artica-tedxedges-1.jpg)</a>
 
 This <a href="http://tedxedges.com/">TEDxEdges</a> was a huge event, and Artica marked its presence on stage with the Einstein VideoPlayer adapted to play the videos between the talks, and with a video mapping system to display the data captured by biometric <a href="http://www.plux.info/">PLUX</a> sensors on the TEDx letters on stage.
 
-<a href="http://www.flickr.com/photos/guibot/6217300346/" title="IMG_5461 by guibot, on Flickr"><img class="postimage" alt="IMG_5461" src="/assets/images/2011-10-06-artica-tedxedges-2.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/6217300346/" title="IMG_5461 by guibot, on Flickr">![](/assets/images/2011-10-06-artica-tedxedges-2.jpg)</a>
 
 There were 4 gloves on the room, and each person wearing a glove would be able to send its emotions to the assigned 'TEDx' letter.
 
-<a href="http://www.flickr.com/photos/guibot/6217306614/" title="IMG_5970 by guibot, on Flickr"><img class="postimage" alt="IMG_5970" src="/assets/images/2011-10-06-artica-tedxedges-3.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/6217306614/" title="IMG_5970 by guibot, on Flickr">![](/assets/images/2011-10-06-artica-tedxedges-3.jpg)</a>
 
-<a href="http://www.flickr.com/photos/guibot/6217300882/" title="IMG_5457 by guibot, on Flickr"><img class="postimage" alt="IMG_5457" src="/assets/images/2011-10-06-artica-tedxedges-4.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/6217300882/" title="IMG_5457 by guibot, on Flickr">![](/assets/images/2011-10-06-artica-tedxedges-4.jpg)</a>
 
 André and Guilherme went to stage to briefly present Artica's presence on the event, they mentioned the Farruscos playing sumo, the Magabot in telepresence mode being driven by <a href="http://www.franciscodias.net/">Francisco Dias</a> and finally what was behind the 'TEDx' letters.
 
@@ -27,11 +27,11 @@ André and Guilherme went to stage to briefly present Artica's presence on the e
 
 In the foyer there were an arsenal of 5 Magabots all available to be remotelly controlled in Telepresence. This system is made with Skype and simple interface running on the robot side. So all you need is a Skype account and nothing more.
 
-<a href="http://www.flickr.com/photos/guibot/6217322710/" title="IMG_5447 by guibot, on Flickr"><img class="postimage" alt="IMG_5447" src="/assets/images/2011-10-06-artica-tedxedges-5.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/6217322710/" title="IMG_5447 by guibot, on Flickr">![](/assets/images/2011-10-06-artica-tedxedges-5.jpg)</a>
 
 Gareth, Voodoobot, Birdmun and Ro-Bot-X from <a href="http://letsmakerobots.com/">LetsMakeRobots</a> were very present on the site, some of them even went outdoors and had a couple of adventures!!  :)
 
-<a href="http://www.flickr.com/photos/guibot/6217304668/" title="IMG_5709 by guibot, on Flickr"><img class="postimage" alt="IMG_5709" src="/assets/images/2011-10-06-artica-tedxedges-6.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/6217304668/" title="IMG_5709 by guibot, on Flickr">![](/assets/images/2011-10-06-artica-tedxedges-6.jpg)</a>
 
 <div class="video-container"><iframe src="http://www.youtube.com/embed/Tb0_LNOCfZU" frameborder="0" allowfullscreen></iframe></div>
 
@@ -49,12 +49,12 @@ Then there were a troop of 10 Farruscos, Francisco Dias coded two of them to pla
 
 Farruscos did made the day of kids! They were completly stunned with the little bots!
 
-<a href="http://www.flickr.com/photos/guibot/6217303940/" title="IMG_5655 by guibot, on Flickr"><img class="postimage" alt="IMG_5655" src="/assets/images/2011-10-06-artica-tedxedges-7.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/6217303940/" title="IMG_5655 by guibot, on Flickr">![](/assets/images/2011-10-06-artica-tedxedges-7.jpg)</a>
 
 Artica's team having lunch, the bests!!  :)  Fernando Gomes, André Almeida, Francisco Dias, Gonçalo Lopes and Guilherme Martins.
 
-<a href="http://www.flickr.com/photos/guibot/6216782741/" title="IMG_5598 by guibot, on Flickr"><img class="postimage" alt="IMG_5598" src="/assets/images/2011-10-06-artica-tedxedges-8.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/6216782741/" title="IMG_5598 by guibot, on Flickr">![](/assets/images/2011-10-06-artica-tedxedges-8.jpg)</a>
 
 Artica's founders, Guilherme Martins and André Almeida:
 
-<a href="http://www.flickr.com/photos/guibot/6217302320/" title="IMG_5558 by guibot, on Flickr"><img class="postimage" alt="IMG_5558" src="/assets/images/2011-10-06-artica-tedxedges-9.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/6217302320/" title="IMG_5558 by guibot, on Flickr">![](/assets/images/2011-10-06-artica-tedxedges-9.jpg)</a>

@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2012-12-19-rc-sega-rally-championship-meo-xl-party-1.j
 frontimage: /assets/images/2012-12-19-rc-sega-rally-championship-meo-xl-party-1.jpg
 ---
 
-<a href="http://www.flickr.com/photos/guibot/8279914316/" title="RC Sega Rally @ MEO XL PARTY 2012 by guibot, on Flickr"><img class="postimage" alt="RC Sega Rally @ MEO XL PARTY 2012" src="/assets/images/2012-12-19-rc-sega-rally-championship-meo-xl-party-1.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/8279914316/" title="RC Sega Rally @ MEO XL PARTY 2012 by guibot, on Flickr">![](/assets/images/2012-12-19-rc-sega-rally-championship-meo-xl-party-1.jpg)</a>
 
 Video by <a href="http://TheArcadeMan.net">TheArcadeMan</a>!! Enjoy!!!  :D
 

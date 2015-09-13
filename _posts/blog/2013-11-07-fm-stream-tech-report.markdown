@@ -14,17 +14,17 @@ frontimage: /assets/images/2013-11-07-fm-stream-tech-report-2.jpg
 
 Since then, we have been working in partnership with SAPO, <a href="http://www.idmind.pt/">IdMind</a> and André Gonçalves from <a href="http://www.addacsystem.com/">ADDAC System</a> on a 6U rack solution to broadcast radio signals to the internet. The concept was to have a unit that could be easily installed by non tech people, and placed anywhere on the world to get their local radios automatically broadcasting to the internet. To get it working all you need is 3 cords: a standard 220v power supply cable, an ethernet cable connecting the unit to the internet and a BNC cable connected to a radio antenna.
 
-<img src="/assets/images/2013-11-07-fm-stream-tech-report-1.jpg"/>
+<img src="/assets/images/2013-11-07-fm-stream-tech-report-1.jpg)
 
 The rack is composed of 18 hot-swappable modules. 18 for radio signal streaming and 2 fixed for power management.
 
 Each radio module has a <a href="http://www.raspberrypi.org/">Raspberry Pi (Revision b)</a> and an <a href="http://arduino.cc/en/Main/ArduinoBoardNano">Arduino Nano AtMega 328</a>. The Arduino is powered at 3.3V through the Raspberry Pi and communicates with it via GPIO serial port.
 
-<img src="/assets/images/2013-11-07-fm-stream-tech-report-2.jpg"/>
+<img src="/assets/images/2013-11-07-fm-stream-tech-report-2.jpg)
 
 Each module has a <a href="http://www.silabs.com/products/audiovideo/fmreceivers/Pages/si470405.aspx">Silicon Labs Si4705</a> FM receiver chip, controlled by the Arduino via i2c. We chose this chip for the RDS, allowing to retrieve meta-data on the tuned radio and also for being factory ready to connect to an external antenna.
 
-<img src="/assets/images/2013-11-07-fm-stream-tech-report-3.jpg"/>
+<img src="/assets/images/2013-11-07-fm-stream-tech-report-3.jpg)
 
 The Arduino library to work with these radio chips will soon be Open Sourced. <s>We have a couple breakout boards of the chip leftover</s> We are ordering more breakout boards from our China supplier, if anyone is interested in getting their hands in one (might take a couple of months) feel free to <a href="http://artica.cc/contacts/">get in touch</a>.
 
@@ -32,17 +32,17 @@ To allow the Raspberry Pi to capture the audio from the radio signal we designed
 
 LEDs in the front panel indicate if the module is powered and can also be re-assigned by software for debug or display software generate information.
 
-<img src="/assets/images/2013-11-07-fm-stream-tech-report-4.jpg"/>
+<img src="/assets/images/2013-11-07-fm-stream-tech-report-4.jpg)
 
 The frontpanel was designed by André Gonçalves. The design of the modules allows for hot swapping, which was not a trivial matter. We ended up using the fct electronics din connectors. The connectors required to transfer radio signal (requiring shielding and isolation), network (8 pins RJ45), an analogue pin for the power module to notify the other modules that it's shutting them down, and another analogue pin to indicate which slot each module is connected to. Each slot has a unique voltage divider to the 5V connection, allowing the Arduino to read distinct voltage and thus know which module itself should be and enabling the Raspberry Pi to have an unique IP address depending on the slot to which it's connected.
 
-<img src="/assets/images/2013-11-07-fm-stream-tech-report-5.jpg"/>
+<img src="/assets/images/2013-11-07-fm-stream-tech-report-5.jpg)
 
 The 6U rack module has a general radio signal amplifier and antenna signal distributor connected to each of the modules.
 
 The power supply unit can last up to half an hour operating without current, it is controlled by an ethernet Arduino with a TCP server.
 
-<img src="/assets/images/2013-11-07-fm-stream-tech-report-6.jpg"/>
+<img src="/assets/images/2013-11-07-fm-stream-tech-report-6.jpg)
 
 The front panel has three different LEDs, one for 220V power indicator, the other for the battery charger indicator and one for the battery power indicator. The power unit also has two buzzer sounds, one to warn when there is no AC power and the other to indicate a shutdown signal was sent. When the voltage of the battery goes below a certain limit, power is cut off to all the modules.
 
@@ -50,7 +50,7 @@ The Raspberry Pi that handles the broadcast is always connected to the network, 
 
 The first slot is always the icecast and monitoring module. In the backpanel each slot has an RJ45 connection to a 24 port Gigabit TP-Link switch, the switch is then connected to a wireless TP-Link router configured with <a href="http://www.dd-wrt.com">DD-WRT</a>. The switch operates on 220V. However the router operates on 12V, same as the radio signal amplifier, these two only shutdown when the Arduino power module decides to shut them down.
 
-<img src="/assets/images/2013-11-07-fm-stream-tech-report-7.jpg"/>
+<img src="/assets/images/2013-11-07-fm-stream-tech-report-7.jpg)
 
 Deeper technical details follow.
 

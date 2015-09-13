@@ -24,17 +24,17 @@ To help us put together and test this pilot platform, we have the support of our
 
 In these sessions with the students, we initially worked on basic concepts of programming and introduction to robotics, enabling them to develop skills such as logical thinking and abstraction - essential for learning mathematics and geometry. It also aimed to promote the technological autonomy of the students: to use the computer as a tool for solving problems creatively, make it an educational resource that can be applied in teaching practices in the various curriculum components to supplement the lessons.
 
-<a href="/assets/images/2013-11-22-educa-2.jpg"><img class="postimage" src="/assets/images/2013-11-22-educa-2.jpg"/></a>
+<a href="/assets/images/2013-11-22-educa-2.jpg">![](/assets/images/2013-11-22-educa-2.jpg)</a>
 
-<a href="/assets/images/2013-11-22-educa-3.jpg"><img class="postimage" src="/assets/images/2013-11-22-educa-3.jpg"/></a>
+<a href="/assets/images/2013-11-22-educa-3.jpg">![](/assets/images/2013-11-22-educa-3.jpg)</a>
 
 In a second phase we are testing the interactive room with diversified content that explores the space, time, and communication, through group activities and learning games that exercise the motor and intellectual functions of the students, group dynamics, rules recognition, etc... These contents are intended to be complementary to the curriculum, aiding the learning processes by the ease with which information is captured by the students.
 
-<a href="/assets/images/2013-11-22-educa-1.jpg"><img class="postimage" src="/assets/images/2013-11-22-educa-1.jpg"/></a>
+<a href="/assets/images/2013-11-22-educa-1.jpg">![](/assets/images/2013-11-22-educa-1.jpg)</a>
 
 The team of Cesário Verde has had a key role the pedagogic and didactic approach, through the creation of a working group and follow-up monitoring of the sessions.
  
 The development of such innovative solutions depends on their applicability in the real world. In the case of E-DUCA, we are involved with Cesário Verde school, testing immediately all developments of the project at its most embryonic stage, ensuring its usefulness and applicability in a real setting. The team of Cesário Verde has a key role on the pedagogic and didactic approach of the platform, through the creation of a working group and follow-up monitoring of the sessions.
 
-<img src="http://e-duca.cc/imgs/logos_qren_a.jpg"/>
+<img src="http://e-duca.cc/imgs/logos_qren_a.jpg)
 

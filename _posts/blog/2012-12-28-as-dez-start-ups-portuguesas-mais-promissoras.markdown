@@ -11,7 +11,7 @@ frontimage: /assets/images/2012-12-28-as-dez-start-ups-portuguesas-mais-promisso
 
 via: <a href="http://www.publico.pt/tecnologia/noticia/as-dez-start-ups-portuguesa-mais-promissoras-1578759">publico.pt</a>
 
-<header>Na semana passada, publicámos as escolhas de Luís Matos Martins, director do Audax, o centro de empreendedorismo do ISCTE. Para Celso Martinho, co-fundador do Sapo, estas são as dez <em>start-ups</em>mais promissoras em Portugal.</header><figure><a title="Aumentar" href="http://imagens3.publico.pt/imagens.aspx/741443?tp=UH&amp;db=IMAGENS" data-toggle="fancybox" data-fancybox-type="image"><img class="postimage" src="/assets/images/2012-12-28-as-dez-start-ups-portuguesas-mais-promissoras-1.jpg"/></a><figcaption>MIGUEL MADEIRA</figcaption></figure>
+<header>Na semana passada, publicámos as escolhas de Luís Matos Martins, director do Audax, o centro de empreendedorismo do ISCTE. Para Celso Martinho, co-fundador do Sapo, estas são as dez <em>start-ups</em>mais promissoras em Portugal.</header><figure><a title="Aumentar" href="http://imagens3.publico.pt/imagens.aspx/741443?tp=UH&amp;db=IMAGENS" data-toggle="fancybox" data-fancybox-type="image">![](/assets/images/2012-12-28-as-dez-start-ups-portuguesas-mais-promissoras-1.jpg)</a><figcaption>MIGUEL MADEIRA</figcaption></figure>
 <div>
 <div id="Noticia1578759">
 

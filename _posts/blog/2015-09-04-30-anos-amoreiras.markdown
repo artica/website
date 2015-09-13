@@ -7,7 +7,6 @@ excerpt: "30 anos Amoreiras"
 thumbnail: /assets/thumbs/2015-09-04-30-anoops-amoreiras-01.jpg
 frontimage: /assets/images/2015-09-04-30-anos-amoreiras-01.jpg
 ---
-hello world
 
 ![](/assets/images/2015-09-04-30-anos-amoreiras-05.jpg)
 ![](/assets/images/2015-09-04-30-anos-amoreiras-01.jpg)

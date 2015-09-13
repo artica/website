@@ -9,4 +9,4 @@ thumbnail: /assets/thumbs/2011-06-16-workshop-farrusco-coworklx-lx-factory-1.jpg
 frontimage: /assets/images/2011-06-16-workshop-farrusco-coworklx-lx-factory-1.jpg
 ---
 
-<a href="http://guibot.pt/workshop"><img class="postimage" src="/assets/images/2011-06-16-workshop-farrusco-coworklx-lx-factory-1.jpg"/></a>
+<a href="http://guibot.pt/workshop">![](/assets/images/2011-06-16-workshop-farrusco-coworklx-lx-factory-1.jpg)</a>

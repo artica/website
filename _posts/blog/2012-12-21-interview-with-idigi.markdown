@@ -11,7 +11,7 @@ frontimage: /assets/images/2012-12-21-interview-with-idigi-1.jpg
 
 For the ones who doesn't know, <a href="http://www.digi.com/xbee/">Digi</a> is the manufacturer of XBee radios, these awesome little bits of hardware give the possibility to communicate between devices, create mesh and star networks and so much more!!
 
-<a href="http://www.flickr.com/photos/guibot/8279914154/" title="RC Sega Rally @ MEO XL PARTY 2012 by guibot, on Flickr"><img class="postimage" alt="RC Sega Rally @ MEO XL PARTY 2012" src="/assets/images/2012-12-21-interview-with-idigi-1.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/8279914154/" title="RC Sega Rally @ MEO XL PARTY 2012 by guibot, on Flickr">![](/assets/images/2012-12-21-interview-with-idigi-1.jpg)</a>
 
 We used two xbee radios on the <a href="http://www.artica.cc/blog/2012/11/21/segarallychampionship/">Hacked Sega Rally installation</a>, and Digi find it so amazing that they wanted to talk with us for a bit.
 
@@ -23,7 +23,7 @@ The following text is a copy from iDigi's blog: <a href="http://www.idigi.com/b
 
 Artica is a two year old company, founded by <a title="Twitter" href="https://twitter.com/guibot" target="_blank">Guilherme Martins</a> and André Almeida. Guilherme and André are both engineers and artists. They named the company Artica (Art + Informatics), because their mission is to blend Art and Technology in order to create unique experiences. Artica works in the fields of custom electronics, robotics, video creation, projection mapping and interactive installations. “We can participate in projects as technological partners, or we can deliver complete closed solutions,” Guilherme explained. Guilherme was happy to answer more of our questions about the project.
 
-<a href="http://gallery.digi.com/2012/12/06/sega-rally-cabinet-hacked-for-racing-rc-trucks/"><img class="postimage" src="/assets/images/2012-12-21-interview-with-idigi-2.jpg"/></a>
+<a href="http://gallery.digi.com/2012/12/06/sega-rally-cabinet-hacked-for-racing-rc-trucks/">![](/assets/images/2012-12-21-interview-with-idigi-2.jpg)</a>
 
 <strong>Where did you get the idea to hack the Sega Rally Cabinet?</strong>
 “We’ve had the idea for a while. We really enjoy to operate remote bots, and we’ve done it in the past. We called it SWARS, short for see what a robot see. [You can see those projects <a title="SWARS" href="http://lab.guilhermemartins.net/2010/04/11/swars/" target="_blank">here</a> and<a title="Artica" href="http://www.artica.cc/blog/2011/06/01/264/" target="_blank">here</a>.] For Codebits VI, we proposed this same concept with RC cars and steering wheels. And, by coincidence, they had a retro gaming arena with plenty of old arcade cabinets at the event. The guy behind the arcade is Luis Sobral aka <a title="the arcade man" href="http://thearcademan.net/the-sega-rally-project-to-sapo-codebitsvi/" target="_blank">TheArcadeMan</a>. He had just purchased an old Sega Rally Cabinet, and we all thought that it would be cool to hack the cabinet and have it race our RC cars.”
@@ -34,7 +34,7 @@ Artica is a two year old company, founded by <a title="Twitter" href="https://t
 <strong>What was the hardest part about the project?</strong>
 “This project had several stages, and the cabinet was in really bad condition. TheArcadeMan did an awesome job to make it brand new. On the software side, we used <a title="XBee" href="http://bit.ly/xbeewireless" target="_blank">XBee radios</a> to send the command from the cabinet to the car. And on the video side, we had to replace the old CRT’s for recent ones. Each stage was a challenge. We are very proud that we could turn the project into one solid piece.”
 
-<a href="/assets/images/2012-12-21-interview-with-idigi-3.png"><img class="postimage" src="/assets/images/2012-12-21-interview-with-idigi-3.png"/></a>
+<a href="/assets/images/2012-12-21-interview-with-idigi-3.png">![](/assets/images/2012-12-21-interview-with-idigi-3.png)</a>
 
 <strong>What do you hope people get out of seeing and playing with what you’ve created?</strong>
 “We hope to inspire people to create awesome stuff out of stuff. We just connected pieces in a naif fashion, like a Lego, in order to see what comes from the experience. Sometimes nothing comes out, other times there is huge potential from the result.”

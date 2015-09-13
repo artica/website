@@ -15,4 +15,4 @@ It's all very similar to the tv show: the robotics, neurotics, control-freaks, p
 
 Further descriptions are obsolete when we have a picture like this:
 
-<a href="http://www.artica.cc/blog/wp-content/uploads/2011/03/ahahah.jpg"><img class="postimage" src="/assets/images/2011-03-15-from-revolution-to-evolution-1.jpg"/></a>
+<a href="http://www.artica.cc/blog/wp-content/uploads/2011/03/ahahah.jpg">![](/assets/images/2011-03-15-from-revolution-to-evolution-1.jpg)</a>

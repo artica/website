@@ -13,7 +13,7 @@ We'd like to present you our newest robot:
 
 MAGABOT!
 
-<a href="/assets/images/2011-11-02-magabot-1.jpg"><img class="postimage" src="/assets/images/2011-11-02-magabot-1.jpg"/></a>
+<a href="/assets/images/2011-11-02-magabot-1.jpg">![](/assets/images/2011-11-02-magabot-1.jpg)</a>
 
 Magabot is a low cost open hardware and software robot platform, designed to give mobility to any laptop and to stimulate creative minds. Any robot with a computer is very powerfull, and because all laptops have a camera, a screen, speakers, microphone, batteries and usb interfaces, your robotics experience will be empowered with Magabot.
 
@@ -44,16 +44,16 @@ Add-ons built at the moment:
 - Pack of 5 Maxbotix sonar sensors with PVC supports to connect to the upper I2C BUS;
 - Other add-ons are beeing developet at the moment.
 
-<a href="/assets/images/2011-11-02-magabot-2.jpg"><img class="postimage" src="/assets/images/2011-11-02-magabot-2.jpg"/></a>
+<a href="/assets/images/2011-11-02-magabot-2.jpg">![](/assets/images/2011-11-02-magabot-2.jpg)</a>
 
-<a href="/assets/images/2011-11-02-magabot-3.jpg"><img class="postimage" src="/assets/images/2011-11-02-magabot-3.jpg"/></a>
+<a href="/assets/images/2011-11-02-magabot-3.jpg">![](/assets/images/2011-11-02-magabot-3.jpg)</a>
 
 We made the first test drive with one of the features - telepresence @ TEDxEdges and here's the result: Gareth seeing Lisbon's sunset all the way from Switzerland!
 
-<a href="http://www.artica.cc/blog/wp-content/uploads/2011/10/6217304668_3c41a1024d_b.jpg"><img class="postimage" src="/assets/images/2011-11-02-magabot-4.jpg"/>
+<a href="http://www.artica.cc/blog/wp-content/uploads/2011/10/6217304668_3c41a1024d_b.jpg">![](/assets/images/2011-11-02-magabot-4.jpg)
 </a>
 
-<img class="postimage" src="/assets/images/2011-11-02-magabot-5.jpg"/>
+![](/assets/images/2011-11-02-magabot-5.jpg)
 
 <div class="video-container"><iframe src="http://www.youtube.com/embed/-yrxRxP4TFQ" frameborder="0" allowfullscreen></iframe></div>
 

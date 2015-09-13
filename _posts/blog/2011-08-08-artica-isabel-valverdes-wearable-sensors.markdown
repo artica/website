@@ -13,13 +13,13 @@ You already know (or at least you should  :p ) that we create small functionin
 
 Do you remember the <a href="http://www.artica.cc/blog/2011/05/03/wearable-sensors/">wearable sensors</a> we created for the performer <a href="http://www.digitalcultures.org/Symp/Isabel.htm">Isabel Valverde</a>?
 
-<a href="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-1.jpg"><img class="postimage" src="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-1.jpg"/></a>
+<a href="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-1.jpg">![](/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-1.jpg)</a>
 
 Isabel and her team developed the second iteration of this project in New Zealand. It's more functional, sophisticated and has some brand new features. Here's a tease:
 
-<a href="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-2.jpg"><img class="postimage" src="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-2.jpg"/></a>
+<a href="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-2.jpg">![](/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-2.jpg)</a>
 
-<a href="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-3.jpg"><img class="postimage" src="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-3.jpg"/></a>
+<a href="/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-3.jpg">![](/assets/images/2011-08-08-artica-isabel-valverdes-wearable-sensors-3.jpg)</a>
 
 You can check it all at Isabel's <a href="http://sensesplaces.wordpress.com/">blog</a>, and please let us know what did you think.
 

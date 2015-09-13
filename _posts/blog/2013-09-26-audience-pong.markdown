@@ -11,7 +11,7 @@ frontimage: /assets/images/2013-09-26-audience-pong-1.jpg
 
 This installation was commisioned by <a href="http://gci.pt/">GCI</a>, in order to boost the <a href="http://projeto80.pt/">Projecto_80</a> event that took place at Escola Secundária Eça de Queiroz in Lisbon! 
 
-<a href="http://www.flickr.com/photos/guibot/9941434054/" title="Audience Pong by guibot, on Flickr"><img class="postimage" alt="Audience Pong" src="/assets/images/2013-09-26-audience-pong-1.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/9941434054/" title="Audience Pong by guibot, on Flickr">![](/assets/images/2013-09-26-audience-pong-1.jpg)</a>
 
 Audience Pong is a community game inspired by <a href="http://www.youtube.com/watch?v=7ohPpPDZhRc">emergence patterns</a>. No instruction is given to the audience, only a red / blue card. The audience must figure out how to move the game pads in order to hit the ball. Once the audience understands how to play, visual feedback is disabled. Pure fun  :D
 
@@ -19,6 +19,6 @@ Audience Pong is a community game inspired by <a href="http://www.youtube.com/wa
 
 Definitely the best moment of the day!
 
-<a href="http://www.flickr.com/photos/guibot/9941426345/" title="Audience Pong by guibot, on Flickr"><img class="postimage" alt="Audience Pong" src="/assets/images/2013-09-26-audience-pong-2.jpg"/></a>
+<a href="http://www.flickr.com/photos/guibot/9941426345/" title="Audience Pong by guibot, on Flickr">![](/assets/images/2013-09-26-audience-pong-2.jpg)</a>
 
 Don't forget to check <a href="http://artica.cc/blog">Artica's Blog</a> for more cool news!!

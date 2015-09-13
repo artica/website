@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2013-07-15-ciav-tech-report-1.jpg
 frontimage: /assets/images/2013-07-15-ciav-tech-report-1.jpg
 ---
 
-<a href="/assets/images/2013-07-15-ciav-tech-report-1.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-1.jpg"/></a>
+<a href="/assets/images/2013-07-15-ciav-tech-report-1.jpg">![](/assets/images/2013-07-15-ciav-tech-report-1.jpg)</a>
 
 In early 2013 Artica and RPAR got a proposal approved to help build CIAV - Centro de Interpretação de Almada Velha, a sort of interactive museum of the cities' historic legacy. The project was developed amongst a large number of partnerships. Artica was responsible for the interaction design of the space and all of it's electronic and software development. The opening was on the 29th of June.
 
@@ -25,7 +25,7 @@ The source code for all the different software elements is <a href="https://bitb
 
 CIAV is a very old building, dating back to the 15th century, having been rebuilt and repurposed several times. It used to be known as Ermida do Espírito Santo operating as a church, eventually rebuilt as a community and recreational space.
 
-<a href="/assets/images/2013-07-15-ciav-tech-report-2.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-2.jpg"/></a>
+<a href="/assets/images/2013-07-15-ciav-tech-report-2.jpg">![](/assets/images/2013-07-15-ciav-tech-report-2.jpg)</a>
 
 The space had been recently recovered by other architects, but the project proposal required some alterations.
 
@@ -41,7 +41,7 @@ On the entrance itself a small ramp was built to comply with handicap access reg
 
 The entrance lobby walls had to be repainted dark brown. A yellow entrance stand was added. Large glass doors were fitted and painted, separating the lobby from the main hall and an LCD screen was mounted on one of the walls.
 
-<a href="/assets/images/2013-07-15-ciav-tech-report-3.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-3.jpg"/></a>
+<a href="/assets/images/2013-07-15-ciav-tech-report-3.jpg">![](/assets/images/2013-07-15-ciav-tech-report-3.jpg)</a>
 
 The entrance is relatively tech free, the exception is the large LCD screen coupled to a low end machine which displays the cities cultural news, the application requires internet access and parses the city hall's rss feed (via google reader) every 3 hours. The application was developed entirely on html5/css and javascript.
 
@@ -53,7 +53,7 @@ Where the walls meet the ceiling we had to build a rack to hang long drapes, all
 
 A custom made suspension rig was designed, welded, transported and built, made out of metal, it had to hold a machine and two projectors up in the ceiling, being lowered up and down by a lever system.
 
-<a href="/assets/images/2013-07-15-ciav-tech-report-4.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-4.jpg"/></a>
+<a href="/assets/images/2013-07-15-ciav-tech-report-4.jpg">![](/assets/images/2013-07-15-ciav-tech-report-4.jpg)</a>
 
 A custom made table of 2 by 5 meters was also designed, welded, transported and built, made out of metal, wood and sand, it had to be assembled on location and covered with the sand concrete material. This table served as a projection screen for the suspended projectors.
 
@@ -77,7 +77,7 @@ The exit hallway is a corridor with pictures, newspaper clips and small objects 
 
 A custom made wood and iron frame was designed, built, placed and painted underneath the stairs, stretching all the way to the back of the hallway. On this scruture was installed electrical system to light the objects behind glass and power three digital photo frames embedded in the structure. Large vinyl prints were then applied to the surface containing additional content information.
 
-<a href="/assets/images/2013-07-15-ciav-tech-report-5.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-5.jpg"/></a>
+<a href="/assets/images/2013-07-15-ciav-tech-report-5.jpg">![](/assets/images/2013-07-15-ciav-tech-report-5.jpg)</a>
 
 <strong>Main hall light &amp; magic</strong>
 
@@ -95,7 +95,7 @@ Trying to save some euros from our, already delivered, hardware budget, we decid
 
 Another small headache was making sure the suspended projectors platform was in fact completely perpendicular to the table. If it was not, some pixel misalignment would show on one of the vertical edges of the edge blending zone, destroying the intended effect. Luckily for us we had a skilled and patient hardware guy who managed to yo-yo tune the suspended platform.
 
-<a href="/assets/images/2013-07-15-ciav-tech-report-6.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-6.jpg"/></a>
+<a href="/assets/images/2013-07-15-ciav-tech-report-6.jpg">![](/assets/images/2013-07-15-ciav-tech-report-6.jpg)</a>
 
 <strong>Android tablets are not iPads</strong>
 
@@ -128,7 +128,7 @@ In the side of the main hall there is an LCD screen with Arduino proximity senso
 
 Next to the LCD screen, 3 exhibit stands are also coupled with Arduino proximity sensors that alter it's lighting via LED strips. By default the exhibition stands glow colors in sync with the table, when someone stands in front of them, the lighting changes and we activate a handful of hand soldered LED spotlight projectors pointing to the different objects inside the stands. Each exhibition stand operates independently of each other.
 
-<a href="/assets/images/2013-07-15-ciav-tech-report-7.jpg"><img class="postimage" src="/assets/images/2013-07-15-ciav-tech-report-7.jpg"/></a>
+<a href="/assets/images/2013-07-15-ciav-tech-report-7.jpg">![](/assets/images/2013-07-15-ciav-tech-report-7.jpg)</a>
 
 <strong>Network me beautiful</strong>
 

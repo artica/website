@@ -11,7 +11,7 @@ frontimage: /assets/images/2011-11-04-bombas-ou-pequenas-explosoes-a-sos-1.jpg
 
 <a href="http://bnegativoassociacaocultural.blogspot.com/">Bombas (ou pequenas explosões a sós)</a> is the latest play Artica's working on.
 
-<a href="/assets/images/2011-11-04-bombas-ou-pequenas-explosoes-a-sos-1.jpg"><img class="postimage" src="/assets/images/2011-11-04-bombas-ou-pequenas-explosoes-a-sos-1.jpg"/></a>
+<a href="/assets/images/2011-11-04-bombas-ou-pequenas-explosoes-a-sos-1.jpg">![](/assets/images/2011-11-04-bombas-ou-pequenas-explosoes-a-sos-1.jpg)</a>
 
 Museu da Electricidade, Lisboa / Festival TEMPS D’IMAGES
 

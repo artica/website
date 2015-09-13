@@ -14,4 +14,4 @@ How about controlling two robots?
 
 Just try it @ <a href="http://livebots.cc">livebots.cc </a>
 
-<a href="http://livebots.cc"><img class="postimage" src="/assets/images/2013-02-06-livebotscc-1.jpg"/></a>
+<a href="http://livebots.cc">![](/assets/images/2013-02-06-livebotscc-1.jpg)</a>

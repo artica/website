@@ -11,11 +11,11 @@ frontimage: /assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-ga
 
 Continuing our tour of Farrusco's workshops we're now traveling north to <a href="http://ikware.com/cmik/wordpress/">CMIK</a> @ Vila Nova de Gaia on October 15th.
 
-<a href="/assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-gaia-1.jpg"><img class="postimage" src="/assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-gaia-1.jpg"/></a>
+<a href="/assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-gaia-1.jpg">![](/assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-gaia-1.jpg)</a>
 
 CMIK it's a coffee/bar that promotes artistic initiatives. We're very proud to be part of this  concept.
 
-<a href="/assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-gaia-2.jpg"><img class="postimage" src="/assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-gaia-2.jpg"/></a>
+<a href="/assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-gaia-2.jpg">![](/assets/images/2011-09-20-workshop-creative-robotics-vila-nova-de-gaia-2.jpg)</a>
 
 So grab your laptop and sign up for this cool workshop.
 

@@ -21,7 +21,7 @@ Einstein is not just a tool to play videos, it allows anyone to play a list of v
 
 This is the first public release, however this will always be a work in progress project, and being open source we intend that you use, modify, hack and share this tool.
 
-<img class="postimage" src="/assets/images/2011-12-13-einstein-1.jpg"/>
+![](/assets/images/2011-12-13-einstein-1.jpg)
 
 <strong>List of features available ATM:</strong>
 

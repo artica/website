@@ -15,6 +15,6 @@ Hey Guys!
 
 Please join <a href="https://www.facebook.com/home.php#!/pages/Guibot/201196979923316?sk=wall">here</a>!! :)
 
-<a href="https://www.facebook.com/home.php#!/pages/Guibot/201196979923316?sk=wall"><img class="postimage" src="/assets/images/2011-06-17-guibot-facebook-1.png"/></a>
+<a href="https://www.facebook.com/home.php#!/pages/Guibot/201196979923316?sk=wall">![](/assets/images/2011-06-17-guibot-facebook-1.png)</a>
 
 &nbsp;

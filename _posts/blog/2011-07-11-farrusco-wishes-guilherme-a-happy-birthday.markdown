@@ -9,4 +9,4 @@ thumbnail: /assets/thumbs/2011-07-11-farrusco-wishes-guilherme-a-happy-birthday-
 frontimage: /assets/images/2011-07-11-farrusco-wishes-guilherme-a-happy-birthday-1.jpg
 ---
 
-<a href="/assets/images/2011-07-11-farrusco-wishes-guilherme-a-happy-birthday-1.jpg"><img class="postimage" src="/assets/images/2011-07-11-farrusco-wishes-guilherme-a-happy-birthday-1.jpg"/></a>
+<a href="/assets/images/2011-07-11-farrusco-wishes-guilherme-a-happy-birthday-1.jpg">![](/assets/images/2011-07-11-farrusco-wishes-guilherme-a-happy-birthday-1.jpg)</a>

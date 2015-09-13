@@ -13,11 +13,11 @@ There's a new robot in town!!
 
 <a href="http://www.franciscodias.net/robots/the-box">The Box</a> is a robot created by our prodigy friend <a href="http://www.franciscodias.net/">Francisco Dias. </a>
 
-<a href="/assets/images/2011-03-21-the-box-1.jpg"><img class="postimage" src="/assets/images/2011-03-21-the-box-1.jpg"/></a>
+<a href="/assets/images/2011-03-21-the-box-1.jpg">![](/assets/images/2011-03-21-the-box-1.jpg)</a>
 
 Follow colors, react to human faces, detect flames, drive around avoiding walls, be remote controlled through the internet or using a wiimote, this is all possible with this platform for notebooks. The list is almost endless because you can always put an extra on your notebook and work with it (cameras, sound system, robotic arms, GPS, you name it...).
 
-<a href="/assets/images/2011-03-21-the-box-2.jpg"><img class="postimage" src="/assets/images/2011-03-21-the-box-2.jpg"/></a>
+<a href="/assets/images/2011-03-21-the-box-2.jpg">![](/assets/images/2011-03-21-the-box-2.jpg)</a>
 
 Francisco used a <a href="http://www.guibot.pt/motoruino/"> Guibot's Motoruino</a> to simplify this setup and to be prepared for future upgrades.
 

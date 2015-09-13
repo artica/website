@@ -11,7 +11,7 @@ frontimage: /assets/images/2011-03-11-its-friday-were-in-love-1.jpg
 
 Meet our latest robot: Farrusco.
 
-<a href="http://www.guibot.pt/"><img class="postimage" src="/assets/images/2011-03-11-its-friday-were-in-love-1.jpg"/></a>
+<a href="http://www.guibot.pt/">![](/assets/images/2011-03-11-its-friday-were-in-love-1.jpg)</a>
 
 We are already accepting pre-orders for Farrusco at <a href="http://www.guibot.pt">www.guibot.pt</a>.
 

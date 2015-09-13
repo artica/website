@@ -11,7 +11,7 @@ frontimage: /assets/images/2012-12-05-meo-go-product-activation-with-magabot-and
 
 This time Magabots and Farruscos were dressed like special agents to activate a new product called MEO GO. This is a MEO's tv channel, where anyone can have its own channel to play any kind of media.
 
-&nbsp;<img class="postimage" src="/assets/images/2012-12-05-meo-go-product-activation-with-magabot-and-farrusco-1.jpg"/>
+&nbsp;![](/assets/images/2012-12-05-meo-go-product-activation-with-magabot-and-farrusco-1.jpg)
 
 We love the way how Magabot and Farrusco played this task so well!!
 

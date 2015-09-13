@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2011-11-16-artica-going-crazy-julio-de-matos-1.jpg
 frontimage: /assets/images/2011-11-16-artica-going-crazy-julio-de-matos-1.jpg
 ---
 
-<a href="/assets/images/2011-11-16-artica-going-crazy-julio-de-matos-1.jpg"><img class="postimage" src="/assets/images/2011-11-16-artica-going-crazy-julio-de-matos-1.jpg"/></a>
+<a href="/assets/images/2011-11-16-artica-going-crazy-julio-de-matos-1.jpg">![](/assets/images/2011-11-16-artica-going-crazy-julio-de-matos-1.jpg)</a>
 
 Yes, we're workaholics! Here's our newest colaboration and our most insane video mapping!
 

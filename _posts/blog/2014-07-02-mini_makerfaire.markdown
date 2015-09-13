@@ -14,13 +14,13 @@ Artica is sponsoring Lisbon Mini Maker Faire!
 
 Yes, the truth is, we will have plenty of goodies at the Faire, so we will be looking forward for September. 
 
-For more information visit site official of <a href="http://makerfairelisbon.com/pt/">Mini Maker Faire.</a>
+For more information visit site official of [Mini Maker Faire][1].
 
-<a href="http://makerfairelisbon.com/pt/"><img class="postimage" src="/assets/images/2014-07-02-makerfaire-1.png"/></a>
+[![](/assets/images/2014-07-02-makerfaire-1.png)][1]
 
 The curators team is already defined, they are doing their best to select the greatest projects of all times.
 
-<a href="http://makerfairelisbon.com/pt/2014/06/12/curators.html"><img class="postimage" src="/assets/images/2014-07-02-makerfaire-2.png"/></a>
+[![](/assets/images/2014-07-02-makerfaire-2.png)][2]
 
-
- 
+[1]: http://makerfairelisbon.com/pt/
+[2]: http://makerfairelisbon.com/pt/2014/06/12/curators.html

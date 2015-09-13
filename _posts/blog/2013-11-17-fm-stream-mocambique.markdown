@@ -14,10 +14,10 @@ Meanwhile, somewhere in Moçambique, another one of our <a href="http://artica.c
 
 We have photos to prove it:
 
-<img src="/assets/images/2013-11-17-fm-stream-mocambique-1.jpg"/>
+<img src="/assets/images/2013-11-17-fm-stream-mocambique-1.jpg)
 
-<img src="/assets/images/2013-11-17-fm-stream-mocambique-2.jpg"/>
+<img src="/assets/images/2013-11-17-fm-stream-mocambique-2.jpg)
 
-<img src="/assets/images/2013-11-17-fm-stream-mocambique-3.jpg"/>
+<img src="/assets/images/2013-11-17-fm-stream-mocambique-3.jpg)
 
 You can even take a <a href="http://radios.vpn.sapo.pt/MZ/radio1.mp3">listen</a>!
