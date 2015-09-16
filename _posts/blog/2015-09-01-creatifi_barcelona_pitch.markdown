@@ -14,6 +14,10 @@ We went to Barcelona on the 27th of August to give a [final pitch of our Fiware 
 
 We have been working hard on our Visualino framework for the last few months and it's shaping up nicely, almost ready for public beta. Part of our work during these last 8 months has been co-financed by CreatiFi and Fiware. We have been integrating Fiware Enablers into Visualino to allow it to have user authentication and cloud object storage and have now reached the final stage of the project.
 
+Here is a demo video of how it's shaping up:
+
+{% include youtube.html id="kWPt66yo_Zg" %}
+
 We use Visualino internally for programming our robots and giving workshops, it's even already online, free to use, just go to [http://visualino.cc][3], but we don't consider it ready for public use just yet. We still need to clean up some bugs, integrate more key components, finish implementing a proper access portal for it, write the documentation and do some video tutorials. Lots of things until it's ready for the public.
 
 With our participation in the CreatiFI program we pushed the development side using Fiware enablers to have access to cloud data storage and login components. We also benefited from help in prepare a more solid state of the art overview, business model, pricing models and investors pitch for the project.
