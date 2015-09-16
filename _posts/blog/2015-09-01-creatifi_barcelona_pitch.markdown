@@ -22,7 +22,7 @@ We are now looking for investment to help scale the project for large use. We ha
 
 The presentation in Barcelona went well and the [prezi is available][2].
 
-![](/assets/images/2015-09-01-fiware.jpg)
+![](/assets/images/2015-09-01-fiware.png)
 
 [1]: http://www.creatifi.eu/creatifi-open-call-1-final-pitching-days/
 [2]: https://prezi.com/4ioso59syoi0/born/
