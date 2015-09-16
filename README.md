@@ -47,7 +47,7 @@ Running your local copy of the Artica's website couldn't be easier. Open a termi
 
 ```
 cd ~/Documents/website
-jekyll serve --watch --baseurl '' -t
+jekyll serve
 ```
 
 At this point, you should see something similar to this:
