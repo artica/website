@@ -53,7 +53,7 @@ jekyll serve
 At this point, you should see something similar to this:
 
 ```
-$ jekyll serve --watch --baseurl '' -t
+$ jekyll serve 
 Configuration file: ~/Documents/website/_config.yml
             Source: ~/Documents/website
        Destination: ~/Documents/website/_site
