@@ -10,27 +10,27 @@ body {
 @media screen and (min-width: 960px) {
   .teammember {
     h2 { 
-      position: absolute;
-      font-size: 2.4em;
-      color: white;
+      background: rgb(0, 0, 0); /* fallback color */
+      background: rgba(0, 0, 0, 0.6);
       bottom: 5px; 
+      color: white;
+      font-size: 2.4em;
       left: 5px;
       margin-right: 5px;
       padding: 10px 10px 10px 10px;
-      background: rgb(0, 0, 0); /* fallback color */
-      background: rgba(0, 0, 0, 0.6);
+      position: absolute;
     }
 
     p { 
-      position: absolute;
-      font-size: 0.9em;
-      color: white;
+      background: rgb(0, 0, 0); /* fallback color */
+      background: rgba(0, 0, 0, 0.6);
       bottom: 5px; 
+      color: white;
+      font-size: 0.9em;
       left: 5px;
       margin-right: 5px;
       padding: 10px 10px 10px 10px;
-      background: rgb(0, 0, 0); /* fallback color */
-      background: rgba(0, 0, 0, 0.6);
+      position: absolute;
     }
   }
 }
@@ -51,27 +51,27 @@ body {
 
   .teammember {
     .teammember h2 { 
-      position: absolute;
-      font-size: 1.6em;
-      color: white;
+      background: rgb(0, 0, 0); /* fallback color */
+      background: rgba(0, 0, 0, 0.6);
       bottom: 5px; 
+      color: white;
+      font-size: 1.6em;
       left: 5px;
       margin-right: 5px;
       padding: 10px 10px 10px 10px;
-      background: rgb(0, 0, 0); /* fallback color */
-      background: rgba(0, 0, 0, 0.6);
+      position: absolute;
     }
 
     .teammember p { 
-      position: absolute;
-      font-size: 0.7em;
-      color: white;
+      background: rgb(0, 0, 0); /* fallback color */
+      background: rgba(0, 0, 0, 0.6);
       bottom: 5px; 
+      color: white;
+      font-size: 0.7em;
       left: 5px;
       margin-right: 5px;
       padding: 10px 10px 10px 10px;
-      background: rgb(0, 0, 0); /* fallback color */
-      background: rgba(0, 0, 0, 0.6);
+      position: absolute;
     }
   }
 
@@ -85,8 +85,8 @@ body {
 
   .headline {
     h2 { 
-      font-size: 1.2em !important;
       bottom: 10px !important; 
+      font-size: 1.2em !important;
       left: 19px !important;
       padding: 10px 10px 10px 10px !important;
     }
@@ -99,15 +99,15 @@ body {
 
   .teammember {
     h2 { 
-      position: absolute;
-      font-size: 1.2em;
-      color: white;
+      background: rgb(0, 0, 0); /* fallback color */
+      background: rgba(0, 0, 0, 0.6);
       bottom: 5px; 
+      color: white;
+      font-size: 1.2em;
       left: 5px;
       margin-right: 5px;
       padding: 10px 10px 10px 10px;
-      background: rgb(0, 0, 0); /* fallback color */
-      background: rgba(0, 0, 0, 0.6);
+      position: absolute;
     }
 
     a {
@@ -119,24 +119,26 @@ body {
   }
 
   .motto {
-    font-size: 1.2em !important;
-    font-weight: normal !important;
+    font: {
+      size: 1.2em !important;
+      weight: normal !important;
+    }
     padding-top: 0 !important;
   }
 }
 
 
 header {
-  padding: 2em 0;
   margin-bottom: 2em;
+  padding: 2em 0;
 
   h1 {
     font-size: 2em;
 
     & small:before  {
       content: "|";
-      margin: 0 0.5em;
       font-size: 1.6em;
+      margin: 0 0.5em;
     }
   }
 }
@@ -151,8 +153,8 @@ a {
 
   a:active,
   a:hover {
-    text-decoration:none !important;
     color: #052861;
+    text-decoration:none !important;
   }  
 }
 
@@ -161,14 +163,14 @@ footer {
   color: #0003;
 
   p {
+    margin: 0;
     padding: 0.5em 1em 0.5em 0;
-    margin: 0;        
   }
 
   a {
     color: #333333;
-    text-decoration: none !important;
     font-size: 1.5em;
+    text-decoration: none !important;
 
     &:link,
     &:visited,
@@ -180,10 +182,10 @@ footer {
 }
 
 button#toggleVisibility { 
-  position: absolute;
-  padding: 20 20 20 20;
-  top: 3px; right: 0;
   font-size: 20px;
+  padding: 20 20 20 20;
+  position: absolute;
+  top: 3px; right: 0;
 }
 
 .shadows img {
@@ -191,11 +193,11 @@ button#toggleVisibility {
 }
 
 .related img {
-  padding: 2px 2px 2px 2px;
+  background-color: #d5d5d5;
+  border-color: #aaaaaa;
   border-style:solid;
   border-width:1px;
-  border-color: #aaaaaa;
-  background-color: #d5d5d5;
+  padding: 2px 2px 2px 2px;
 }
 
 .related {
@@ -212,26 +214,26 @@ button#toggleVisibility {
 
 .nav_button {
   position: absolute;
-  top: 32px;  
   right: 30px;
+  top: 32px;  
 }
 
 .video-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 30px; 
   height: 0; 
   overflow: hidden;
+  padding-bottom: 56.25%;
+  padding-top: 30px; 
+  position: relative;
 
   iframe,
   object,
   embed {
     @include box-shadow(3px 3px 3px #7C7C7C);
+    height: 99.5%;
+    left: 0;
     position: absolute;
     top: 0;
-    left: 0;
     width: 99.5%;
-    height: 99.5%;
   }
 }
 
@@ -239,27 +241,27 @@ button#toggleVisibility {
   position: relative; 
 
   h2 { 
-    position: absolute;
-    font-size: 2.8em;
-    color: white;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.6);
     bottom: 20px; 
+    color: white;
+    font-size: 2.8em;
     left: 50px;
     margin-right: 15px;
     padding: 20px 20px 20px 20px;
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
   }
 
   h3 { 
-    position: absolute;
-    font-size: 1.9em;
-    color: white;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.6);
     bottom: 5px; 
+    color: white;
+    font-size: 1.9em;
     left: 40px;
     margin-right: 15px;
     padding: 5px 5px 5px 5px;
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
   }
 }
 
@@ -302,8 +304,8 @@ button#toggleVisibility {
   text-align: center;
   font: {
     size: 1.6em;
-    weight: normal;
     style: italic;
+    weight: normal;
   }
 }
 
@@ -318,19 +320,21 @@ button#toggleVisibility {
 
 
 pre.prettyprint{
-  padding:20px !important;
+  padding: 20px !important;
 }
 
 #relatedposts .large-100 > b a {
-  margin-bottom: 0.4rem;
   display: inline-block;
+  margin-bottom: 0.4rem;
 }
 
 #relatedposts small {
   color: #888;
   display: inline-block;
-  font-size: 0.8rem;
-  font-weight: 100;
+  font: {
+    size: 0.8rem;
+    weight: 100;
+  }
   line-height: 1.2rem;
   margin-top: 0.4rem;
 }
