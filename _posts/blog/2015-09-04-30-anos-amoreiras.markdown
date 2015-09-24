@@ -4,7 +4,7 @@ date: 2015-09-04 13:00:00 UTC
 title: "30th anniversary Amoreiras"
 categories: blog
 excerpt: "30 anos Amoreiras"
-thumbnail: /assets/thumbs/2015-09-04-30-anoops-amoreiras-01.jpg
+thumbnail: /assets/thumbs/2015-09-04-30-anos-amoreiras-01.jpg
 frontimage: /assets/images/2015-09-04-30-anos-amoreiras-01.jpg
 ---
 Amoreiras was the first big shopping center in Lisbon, that was born 30 years ago, a complete pioneer project. After 30 years of existence this center still flourishes!
