@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2015-09-04 13:00:00 UTC
+date: 2015-09-21 13:00:00 UTC
 title: "Lisbon Maker Faire"
 categories: blog
-excerpt: "Last year Artica brought the prototype of Gyro, Farruscos's
-educational robot successor, to the Maker Faire."
+excerpt: "Last year Artica brought the prototype of Gyro, Farruscos's educational robot successor, to the Maker Faire."
 thumbnail: /assets/thumbs/2015-09-21-lisbon-maker-faire-01.jpg
 frontimage: /assets/images/2015-09-21-lisbon-maker-faire-01.jpg
 ---
