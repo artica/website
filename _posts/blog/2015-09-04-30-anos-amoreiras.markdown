@@ -3,7 +3,7 @@ layout: post
 date: 2015-09-04 13:00:00 UTC
 title: "30th anniversary Amoreiras"
 categories: blog
-excerpt: "30 anos Amoreiras"
+excerpt: "We were asked by State of the Art to create three experiences for 30th anniversary of Amoreiras."
 thumbnail: /assets/thumbs/2015-09-04-30-anos-amoreiras-01.jpg
 frontimage: /assets/images/2015-09-04-30-anos-amoreiras-01.jpg
 ---
