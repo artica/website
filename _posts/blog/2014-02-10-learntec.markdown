@@ -5,11 +5,11 @@ title: "LearnTec"
 categories: blog
 excerpt: "Finally we gathered the most relevant 2013 projects on a short video!"
 longexcerpt: "Finally we gathered the most relevant 2013 projects on a short video!"
-thumbnail: /assets/thumbs/2014-02-20-learntec.jpg
-frontimage: /assets/images/2014-02-20-learntec.jpg
+thumbnail: /assets/thumbs/2014-02-10-learntec.jpg
+frontimage: /assets/images/2014-02-10-learntec.jpg
 ---
 
-![](/assets/images/2014-02-20-learntec.jpg)
+![](/assets/images/2014-02-10-learntec.jpg)
 
 As part of our research and network building for our ongoing R&D project [E-Duca][1] we visited [LearnTec][2] to attend talks, learn more about the state of the art in e-Learning and meet with potential partners for future projects.
 
