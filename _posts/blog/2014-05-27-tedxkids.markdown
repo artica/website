@@ -4,16 +4,14 @@ date: 2014-05-28 10:30:00 UTC
 title: "TedXKids @ CentralTejo"
 categories: blog
 excerpt: "Once again we had the pleasure to participate on TedXKids @ CentralTejo with our Farruscos and a brand new workshop edition. Thanks Marta Gonzaga for inviting us once again"
-
 thumbnail: /assets/thumbs/2014-05-28-tedxkids.jpg
-frontimage: /assets/images/2014-05-28-tedxkids.JPG
-
+frontimage: /assets/images/2014-05-28-tedxkids.jpg
 ---
 
-![](/assets/images/2014-05-28-tedxkids.JPG")
+![](/assets/images/2014-05-28-tedxkids.jpg)
 
 Once again we had the pleasure to participate on [TedXKids @ CentralTejo][1] with our Farruscos and a brand new workshop edition. Thanks Marta Gonzaga for inviting us once again.
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/94_LiRNPNZg" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="94_LiRNPNZg" %}
  
 [1]: http://tedxkidscentraltejo.com/

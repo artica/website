@@ -1,0 +1,16 @@
+---
+layout: post
+date: 2014-05-01 18:00:00 UTC
+title: "ACE Summit"
+categories: blog
+excerpt: "Following IPN's invite, we participated in the ACE program and attended the ACE Summit in Brussels to present Artica and get our assigned mentors that will assist us in preparing for international markets."
+thumbnail: /assets/thumbs/2014-05-01-ace.jpg
+frontimage: /assets/images/2014-05-01-ace.jpg
+---
+
+![](/assets/images/2014-05-01-ace.jpg)
+
+Following [IPN][1]'s invite, we participated in the ACE program and attended the [ACE Summit][2] in Brussels on the 29th of April. We had the opportunity to meet other startups and sme, share experiences, present Artica and get our assigned mentors that will assist us in preparing for international markets.
+
+[1]: https://www.ipn.pt/si/event/dataNews.do;jsessionid=F3ED0E4752A2ECAE0842AFF78E18E830?elementId=1422&s=1
+[2]: http://www.europeanace.eu/index.php/news-events/news/item/310-ace-summit-press-release/310-ace-summit-press-release

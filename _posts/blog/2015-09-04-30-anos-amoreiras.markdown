@@ -3,7 +3,7 @@ layout: post
 date: 2015-09-04 13:00:00 UTC
 title: "30th anniversary Amoreiras"
 categories: blog
-excerpt: "30 anos Amoreiras"
+excerpt: "We were asked by State of the Art to create three experiences for 30th anniversary of Amoreiras."
 thumbnail: /assets/thumbs/2015-09-04-30-anos-amoreiras-01.jpg
 frontimage: /assets/images/2015-09-04-30-anos-amoreiras-01.jpg
 ---
@@ -11,7 +11,7 @@ Amoreiras was the first big shopping center in Lisbon, that was born 30 years ag
 
 ![](/assets/images/2015-09-anos-amoreiras-04.jpg)
 
-We were asked by State of the Art to create three experiences. An interactive video wall, a corridor that could show Amoreiras Timeline while the visitors walk by and at last, the great attraction of the exhibition, an elevator interior that brings visitors to the last store, where they can have a full 360º view of Lisbon. Amoreiras is known by the highest point in Lisbon.
+We were asked by State of the Art to create three experiences. An interactive video wall, a corridor that could show Amoreiras Timeline while the visitors walk by and at last, the great attraction of the exhibition, an elevator interior that brings visitors to the last store, where they can have a full 360? view of Lisbon. Amoreiras is known by the highest point in Lisbon.
 
 ![](/assets/images/2015-09-anos-amoreiras-02.jpg)
 ![](/assets/images/2015-09-anos-amoreiras-01.jpg)
