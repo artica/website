@@ -5,8 +5,8 @@ title: "LearnTec"
 categories: blog
 excerpt: "Finally we gathered the most relevant 2013 projects on a short video!"
 longexcerpt: "Finally we gathered the most relevant 2013 projects on a short video!"
-thumbnail: /assets/thumbs/2014-02-20_learntec.jpg
-frontimage: /assets/images/2014-02-20_learntec.jpg
+thumbnail: /assets/thumbs/2014-02-20-learntec.jpg
+frontimage: /assets/images/2014-02-20-learntec.jpg
 ---
 
 ![](/assets/images/2014-02-20-learntec.jpg)
