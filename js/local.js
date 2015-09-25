@@ -185,7 +185,7 @@
       var term = document.getElementById('searchterm').value;
       var element = $('#' + Search.element.data('search'));
       
-      if (term.length <= 3) { return; }
+      if (term.length <= 2) { return; }
       if (Search.timer !== false) { clearInterval(Search.timer); }
       
       element.html('Searching...');
