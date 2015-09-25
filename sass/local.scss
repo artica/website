@@ -162,6 +162,10 @@ footer {
   background: #ccc;
   color: #0003;
 
+  ul.menu.horizontal {
+    padding-top: 8px;
+  }
+
   p {
     margin: 0;
     padding: 0.5em 1em 0.5em 0;
@@ -311,7 +315,7 @@ button#toggleVisibility {
 
 .footer-logos {
   float: right;
-  padding-top: 5px 0;
+  padding-top: 12px;
 
   a {
     margin-right: 20px;
