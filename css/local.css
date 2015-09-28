@@ -12930,29 +12930,67 @@ a a:hover {
 /* line 161, ../sass/local.scss */
 footer {
   background: #ccc;
-  color: #0003;
 }
 /* line 165, ../sass/local.scss */
-footer ul.menu.horizontal {
-  padding-top: 8px;
+footer li,
+footer a {
+  -moz-transition: opacity 0.2s ease-in-out;
+  -o-transition: opacity 0.2s ease-in-out;
+  -webkit-transition: opacity 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
+  opacity: 1;
 }
-/* line 169, ../sass/local.scss */
+/* line 170, ../sass/local.scss */
+footer li:active, footer li:hover,
+footer a:active,
+footer a:hover {
+  opacity: .5;
+}
+/* line 176, ../sass/local.scss */
 footer p {
   margin: 0;
   padding: 0.5em 1em 0.5em 0;
 }
-/* line 174, ../sass/local.scss */
+/* line 181, ../sass/local.scss */
 footer a {
   color: #333333;
   font-size: 1.5em;
   text-decoration: none !important;
 }
-/* line 179, ../sass/local.scss */
-footer a:link, footer a:visited, footer a:active, footer a:hover {
+/* line 186, ../sass/local.scss */
+footer a:link, footer a:visited {
   color: #333333;
 }
+/* line 191, ../sass/local.scss */
+footer a [class^="icon-"], footer a [class^="fa-"] {
+  font-size: 1.5rem;
+}
+/* line 197, ../sass/local.scss */
+footer .social,
+footer .partners {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  height: 10vh;
+}
+/* line 203, ../sass/local.scss */
+footer .social a,
+footer .partners a {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-self: center;
+  align-self: center;
+  -webkit-flex: 1;
+  flex: 1;
+}
+/* line 208, ../sass/local.scss */
+footer .social a:last-child,
+footer .partners a:last-child {
+  margin-right: 0;
+}
 
-/* line 188, ../sass/local.scss */
+/* line 215, ../sass/local.scss */
 button#toggleVisibility {
   font-size: 20px;
   padding: 20 20 20 20;
@@ -12961,14 +12999,14 @@ button#toggleVisibility {
   right: 0;
 }
 
-/* line 195, ../sass/local.scss */
+/* line 222, ../sass/local.scss */
 .shadows img {
   -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
-/* line 199, ../sass/local.scss */
+/* line 226, ../sass/local.scss */
 .related img {
   background-color: #d5d5d5;
   border-color: #aaaaaa;
@@ -12977,23 +13015,23 @@ button#toggleVisibility {
   padding: 2px 2px 2px 2px;
 }
 
-/* line 209, ../sass/local.scss */
+/* line 236, ../sass/local.scss */
 .related a {
   color: #515151;
 }
-/* line 212, ../sass/local.scss */
+/* line 239, ../sass/local.scss */
 .related a:hover, .related a:visited  {
   color: #515151;
 }
 
-/* line 219, ../sass/local.scss */
+/* line 246, ../sass/local.scss */
 .nav_button {
   position: absolute;
   right: 30px;
   top: 32px;
 }
 
-/* line 225, ../sass/local.scss */
+/* line 252, ../sass/local.scss */
 .video-container {
   height: 0;
   overflow: hidden;
@@ -13001,7 +13039,7 @@ button#toggleVisibility {
   padding-top: 30px;
   position: relative;
 }
-/* line 232, ../sass/local.scss */
+/* line 259, ../sass/local.scss */
 .video-container iframe,
 .video-container object,
 .video-container embed {
@@ -13015,11 +13053,11 @@ button#toggleVisibility {
   width: 99.5%;
 }
 
-/* line 244, ../sass/local.scss */
+/* line 271, ../sass/local.scss */
 .headline {
   position: relative;
 }
-/* line 247, ../sass/local.scss */
+/* line 274, ../sass/local.scss */
 .headline h2 {
   background: black;
   /* fallback color */
@@ -13032,7 +13070,7 @@ button#toggleVisibility {
   padding: 20px 20px 20px 20px;
   position: absolute;
 }
-/* line 259, ../sass/local.scss */
+/* line 286, ../sass/local.scss */
 .headline h3 {
   background: black;
   /* fallback color */
@@ -13046,30 +13084,30 @@ button#toggleVisibility {
   position: absolute;
 }
 
-/* line 273, ../sass/local.scss */
+/* line 300, ../sass/local.scss */
 .teammember {
   position: relative;
 }
-/* line 277, ../sass/local.scss */
+/* line 304, ../sass/local.scss */
 .teammember a:link, .teammember a:visited {
   color: #cccccc;
 }
-/* line 282, ../sass/local.scss */
+/* line 309, ../sass/local.scss */
 .teammember a:hover, .teammember a:visited {
   color: #cccccc;
 }
 
-/* line 289, ../sass/local.scss */
+/* line 316, ../sass/local.scss */
 .search {
   font-size: 1.4em;
 }
 
-/* line 293, ../sass/local.scss */
+/* line 320, ../sass/local.scss */
 .fadein {
   opacity: 0;
 }
 
-/* line 297, ../sass/local.scss */
+/* line 324, ../sass/local.scss */
 .bweffect img {
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -13079,13 +13117,13 @@ button#toggleVisibility {
   filter: grayscale(0.8);
 }
 
-/* line 302, ../sass/local.scss */
+/* line 329, ../sass/local.scss */
 .bweffect:hover img {
   -webkit-filter: grayscale(0);
   filter: grayscale(0);
 }
 
-/* line 306, ../sass/local.scss */
+/* line 333, ../sass/local.scss */
 .motto {
   padding: 10px 10px 20px 10px;
   text-align: center;
@@ -13094,28 +13132,18 @@ button#toggleVisibility {
   font-weight: normal;
 }
 
-/* line 316, ../sass/local.scss */
-.footer-logos {
-  float: right;
-  padding-top: 12px;
-}
-/* line 320, ../sass/local.scss */
-.footer-logos a {
-  margin-right: 20px;
-}
-
-/* line 326, ../sass/local.scss */
+/* line 343, ../sass/local.scss */
 pre.prettyprint {
   padding: 20px !important;
 }
 
-/* line 330, ../sass/local.scss */
+/* line 347, ../sass/local.scss */
 #relatedposts .large-100 > b a {
   display: inline-block;
   margin-bottom: 0.4rem;
 }
 
-/* line 335, ../sass/local.scss */
+/* line 352, ../sass/local.scss */
 #relatedposts small {
   color: #888;
   display: inline-block;
@@ -13125,13 +13153,13 @@ pre.prettyprint {
   margin-top: 0.4rem;
 }
 
-/* line 346, ../sass/local.scss */
+/* line 363, ../sass/local.scss */
 p {
   line-height: 1.6rem;
   margin: 1.6rem 0;
 }
 
-/* line 351, ../sass/local.scss */
+/* line 368, ../sass/local.scss */
 article.shadows img {
   -moz-box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
   -webkit-box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
@@ -13141,21 +13169,21 @@ article.shadows img {
   width: 100%;
 }
 
-/* line 358, ../sass/local.scss */
+/* line 375, ../sass/local.scss */
 section > small {
   display: block;
   font-size: 0.9rem;
 }
 
-/* line 364, ../sass/local.scss */
+/* line 381, ../sass/local.scss */
 address h6 {
   margin-bottom: .5rem;
 }
-/* line 368, ../sass/local.scss */
+/* line 385, ../sass/local.scss */
 address div {
   margin: .5rem 0;
 }
-/* line 372, ../sass/local.scss */
+/* line 389, ../sass/local.scss */
 address p {
   margin: 0;
 }

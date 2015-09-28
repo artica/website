@@ -160,10 +160,17 @@ a {
 
 footer {
   background: #ccc;
-  color: #0003;
+  // padding: 1rem 0;
 
-  ul.menu.horizontal {
-    padding-top: 8px;
+  li,
+  a {
+    @include transition(.2s opacity ease-in-out);
+    opacity: 1;
+
+    &:active,
+    &:hover {
+      opacity: .5;
+    }
   }
 
   p {
@@ -177,10 +184,30 @@ footer {
     text-decoration: none !important;
 
     &:link,
-    &:visited,
-    &:active,
-    &:hover {
+    &:visited {
       color: #333333;
+    }
+
+    & [class^="icon-"],
+    & [class^="fa-"] {
+      font-size: 1.5rem;
+    }
+  }
+
+  .social,
+  .partners {
+    @include display-flex;
+    @include flex-direction(row);
+    height: 10vh;
+
+    a {
+      @include justify-content(center);
+      @include align-self(center);
+      @include flex(1);
+
+      &:last-child {
+        margin-right: 0;
+      }
     }
   }
 }
@@ -312,16 +339,6 @@ button#toggleVisibility {
     weight: normal;
   }
 }
-
-.footer-logos {
-  float: right;
-  padding-top: 12px;
-
-  a {
-    margin-right: 20px;
-  }
-}
-
 
 pre.prettyprint{
   padding: 20px !important;
