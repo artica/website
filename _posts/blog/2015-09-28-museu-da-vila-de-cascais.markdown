@@ -106,9 +106,9 @@ We also had to prepare all the small projector that light up the contents of the
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-13.jpg)
 
-![](/assets/images/2015-09-28-museu-da-vila-de-cascais-12.jpg)
-
 We prepared a rack cabinet holding the control units, server, debug vga monitor and router that powers the entire system and later transported it to the back stage of the museum.
+
+![](/assets/images/2015-09-28-museu-da-vila-de-cascais-12.jpg)
 
 The control system contains different components working together to create an interactive environment which is consistent through the whole museum.
 
