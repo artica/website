@@ -32,11 +32,11 @@ Media clippings: [1][1] [2][2] [3][3] [4][4] [5][5]
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-08.jpg)
 
-<b>Technical report:</b>
+**Technical report**
 
-After ordering a heapload of Arduinos and addressable LED strips, our next step was to coordinate with the responsible architects to select lamp models for the ceiling and volumetric levels for the text light projectors.
+After ordering a heap load of Arduinos and addressable LED strips, our next step was to coordinate with the responsible architects to select lamp models for the ceiling and volumetric levels for the text light projectors.
 
-We had to plan out the entire electrical and network layout of each component based on the restructuring blueprints and coordinate with the electrical installation team on site to prepare the building for the required cables.
+We had to plan out the entire electrical and network layout of each component based on the restructured blueprints and coordinate with the electrical installation team on site to prepare the building for the required cables.
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-19.jpg)
 
@@ -44,7 +44,7 @@ The Mains power distribution used was the following:
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-15.png)
  
-Every night, the museum lights (Lights + Differential Switch) can be turned off, keeping the router always on, only by toggling the specific switches on the Main Switch board.
+Every night, the museum lights (Lights + Differential Switch) can be turned off, keeping the router always on, only by toggling the specific switches on the Main Switchboard.
 
 The Network scheme implemented was the following:
 
@@ -54,9 +54,9 @@ As you can see all the systems are ethernet based, and the control is centralize
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-17.png)
 
-There are three different Arduino based setups in the museum. In each one we had to take some precautions on the initial development for the specific application. This issues will be detailed next.
+There are three different Arduino-based setups in the museum. In each one we had to take some precautions on the initial development for the specific application. This issues will be detailed next.
 
-<b>Ceiling enviroment and text lights</b>
+**Ceiling environment and text lights**
 
 These control the lights for the environment and the wall text inscriptions. The lights chosen were [Megaman™ ref ER1708d coolwhite][7]. These were the best lights we could find from several tests performed and the Museum Architect loved it. The light feels like a true halogen lamp and had a beautiful design and brightness.
 
@@ -64,31 +64,31 @@ These control the lights for the environment and the wall text inscriptions. The
 
 The scheme we decided to implement was to have an [Arduino Ethernet][8] serving as a master broadcasting thru a digital pin to three [Motoruinos][9] boards. Each one is coupled directly to the [power shield from Sparkfun][10] controlling 6 PWM Lines at 12V. Having that way 18 independent controlled lines for the ceiling lights for each DIMM Control.
 
-All power supplies were PC ATX type. Plugged directly to the PowerShield, the power shield has a diode to the Vin, supplying the Arduino with the necessary voltage. The first hacking made was, on the ATX PSU, cutting the 5V wires and connecting them to the 12V bus so that we had 6 PWM 12V channels on the Power Shield. The Power Shield by default have 3 PWM at 5V and 3 PWM at 12V.
+All power supplies were PC ATX type. Plugged directly to the PowerShield, the power shield has a diode to the Vin, supplying the Arduino with the necessary voltage. The first hacking made was, on the ATX PSU, cutting the 5V wires and connecting them to the 12V bus so that we had 6 PWM 12V channels on the Power Shield. The Power Shield by default has 3 PWM at 5V and 3 PWM at 12V.
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-09.jpg)
 
-We also had to add a flyback 30V 1Amp schottky diode in each output (you can use any fast recovery diode as long as it support the double of the voltage). Sparkfun should supply them on the board, but unfortunately they don’t.
+We also had to add a flyback 30V 1Amp Schottky diode on each output (you can use any fast recovery diode as long as it supports the double of the voltage). Sparkfun should supply them on the board, but, unfortunately, they don’t.
 
-The major issue, or the more delicated we had to deal with was one we had during tests, we detected some “cross talk” on the Power Shield itself. In some situations, the PWM of one channel was noticed on adjacent channels. It was solved changing the PWM frequency so that it was not possible to notice the interference on the different channels, since they work at totally different frequencies.
+The major issue, or the more delicate we had to deal with was one we had during tests, we detected some “cross talk” on the Power Shield itself. In some situations, the PWM of one channel was noticed on adjacent channels. It was solved changing the PWM frequency so that it was not possible to notice the interference on the different channels, since they work at totally different frequencies.
 
 Initially we also thought using I2C/TWI protocol between the three Motoruinos and the Ethernet master, but, after the crosstalk problem we decided not to take any risks and change to digital output pin broadcasting with SoftwareSerial. The drive of a digital pin is much stronger than an open collector scheme with two 10k pull-up resistors.
 
 We tested at full charge 90% Duty Cycle (Situation where the MOSFET heats the most, because it still has to pass the resistive zone). We tested during full work day and all the Mosfet were only warm. Still we chose to add some heatsink just to be sure, but only on the ones we felt a little warmer.
 
-The final question has to do with the PWM minimum value. On the datasheet of the lamp we have a minimum dimming value of 10%. We’ve notice that, at this level of dimming it was a little more tricky to have the same light intensity, with different PWM. This were adjusted by software. 
+The final question has to do with the PWM minimum value. On the datasheet of the lamp we have a minimum dimming value of 10%. We’ve noticed that at this level of dimming it was a little more tricky to have the same light intensity with different PWM. This was adjusted by software. 
 
-<b>Technical Showcase Area</b>
+**Technical Showcase Area**
 
-The setup used here is very similar to the used above. We also changed the ATC PSU for the 12V supply, applied the schottky diodes on the output and changed the PWM frequencies to reduce the Power Shield crosstalk effect. The major difference is that we use the Power shield directly coupled into the Arduino Ethernet Shield. This option brings a problem. The last 2 PWM channels cannot be used, since the Arduino Ethernet use them as SPI bus with the Ethernet Chip. The hacking was easy, we cut the shield pins on the last two PWM pins (IO10 and IO11), that way it will not interfere with anything.
+The setup used here is very similar to the one used above. We also changed the ATC PSU for the 12V supply, applied the Schottky diodes on the output and changed the PWM frequencies to reduce the Power Shield crosstalk effect. The major difference is that we used the Power shield directly coupled into the Arduino Ethernet Shield. This option brings a problem. The last 2 PWM channels cannot be used since the Arduino Ethernet use them as SPI bus with the Ethernet Chip. The hacking was easy, we cut the shield pins on the last two PWM pins (IO10 and IO11), that way it will not interfere with anything.
 
-In the showcase we only need 4 PWM outputs: 3PWM for [RGB 12V LED stripe][11] and 1PWM for the spotlight projectors.
+In the showcase, we only need 4 PWM outputs: 3PWM for [RGB 12V LED stripe][11] and 1PWM for the spotlight projectors.
 
 An adjustable box was developed to accomodate and adjust the [PIR sensor][12] a 100uF cap. The box was placed on the footer and directly connected using a CAT5e cable to the Arduino digital input.
 
-<b>Crown Molding Area</b>
+**Crown Molding Area**
 
-All the electronics would be placed as close as possible from the 2m [Addressable LED Stripes][13]. This had to be supplied each 1m. We use an industrial 5V power supply for each 4m. This power supply also feed the Arduino Mega, with the ethernet shield thru the Ledstripe. The Arduino Mega had to be used since the maximum crown molding length was about 10m, it means that the led stripe have 144 Leds per meter with 24bits resolution, so if you have 10m you will need ~4k of RAM minimum to address all the stripe. It was impossible with the Arduino Ethernet, and Mega have 8k of SRAM. The Mega with the ethernet option was the best solution.
+All the electronics would be placed as close as possible from the 2m [Addressable LED Stripes][13]. This had to be supplied each 1m. We used an industrial 5V power supply for each 4m. This power supply also feeds the Arduino Mega, with the ethernet shield thru the Led strip. The Arduino Mega had to be used since the maximum crown molding length was about 10m, it means that the led stripe have 144 LEDs per meter with 24bits resolution, so if you have 10m you will need ~4k of RAM minimum to address all the stripe. It was impossible with the Arduino Ethernet, and Mega have 8k of SRAM. The Mega with the ethernet option was the best solution.
 
 The electric setup implemented was to add a [Power Supply][15] each 4m and bypass the 5V supply each 1m using an external cable. The Arduino Mega is connected on one end of the stripe on the Data Out, 5V and GND. An important issue is a 470ohm 1/4W resistor between the Arduino and the Led Stripe must be added to protect the Ledstripe. All the stripe length is then daisy chained with Datalink, 5V and GND until the end.
 
@@ -98,7 +98,7 @@ The only cables we had to pass into the Crown Molding, was a Power Mains Cable (
 
 By the way, a mention must be made to the [Wago Lever Nuts][14], since these little guys speed up the work and are very easy to work with.
 
-Other things worth noting include the design and cnc milling of the protection boxes for the proximity sensors. Whenever a person approaches the showcase, a signal is sent to an Arduino.
+Other things worth noting include the design and CNC milling of the protection boxes for the proximity sensors. Whenever a person approaches the showcase, a signal is sent to an Arduino.
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-14.jpg)
 
@@ -106,7 +106,7 @@ We also had to prepare all the small projector that light up the contents of the
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-13.jpg)
 
-We prepared a rack cabinet holding the control units, server, debug vga monitor and router that powers the entire system and later transported it to the back stage of the museum.
+We prepared a rack cabinet holding the control units, server, debug VGA monitor and router that powers the entire system and later transported it to the backstage of the museum.
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-12.jpg)
 
@@ -120,11 +120,11 @@ The environment color of each room is also customizable (RGB colors). Making sub
 
 Even though all the modules can work independently, they are also be controlled by a central server. This server makes sure all the elements are in sync so the environment is consistent throughout the whole space. It can also be used to communicate with other parts of the installation, making the system even more dynamic.
 
-There is also a web interface that can be used to control all of the elements directly, overriding the normal programmed behaviour.
+There is also a web interface that can be used to control all of the elements directly, overriding the normally programmed behavior.
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-10.png)
 
-To provide usage statistics of the space we installed 4 Axis IP cameras, each one covering a room of the museum. Using the inputs of these cameras, computer vision algorythms and custom nodes for the [Bonsai][6] open source tool we created a software to render realtime heatmaps of the entire museum, keep track of the number of blobs in each area and count entrances and exits.
+To provide usage statistics of space we installed 4 Axis IP cameras, each one covering a room of the museum. Using the inputs of these cameras, computer vision algorithms and custom nodes for the [Bonsai][6] open source tool we created a software to render real-time heat maps of the entire museum, keep track of the number of blobs in each area and count entrances and exits.
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-11.png)
 
