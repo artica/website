@@ -3,14 +3,14 @@ layout: post
 date: 2015-09-28 14:00:00 UTC
 title: "Illumination of Museu da Vila de Cascais"
 categories: blog
-excerpt: "In July of this year that Museu da Vila de Cascais got its premiere. Artica was responsible for the design and implementation of the entire illumination system. "
+excerpt: "In July of this year, the Museu da Vila de Cascais opened it's doors. Artica was responsible for the design and implementation of the entire illumination system."
 thumbnail: /assets/thumbs/2015-09-28-museu-da-vila-de-cascais-08.jpg
 frontimage: /assets/images/2015-09-28-museu-da-vila-de-cascais-08.jpg
 ---
 
-In July of this year that Museu da Vila de Cascais got its premiere. Artica was responsible for the design and implementation of the entire illumination system. 
+In July of this year, the Museu da Vila de Cascais opened it's doors. Artica was responsible for the design and implementation of the entire illumination system.
 
-We wanted to create something very unique for the museum, something that could drive the engagement between the visitors and the museum. Interaction was based in color smooth changes while visitors approach each of the vitrines. 
+We wanted to create something very unique for the museum, something that could engage the visitors and the museum. The Interaction was based in smooth color changes while visitors approach the showcases.
 
 {% include youtube.html id="H4fHMpMO588" %}
 
@@ -34,7 +34,7 @@ Media clippings: [1][1] [2][2] [3][3] [4][4] [5][5]
 
 <b>Technical report:</b>
 
-After ordering a heapload of Arduinos and addressable LED strips, our next step was to coordinate with the responsible architects to select lamp models for the top ceiling lamps and volumetric levels for the text light projectors.
+After ordering a heapload of Arduinos and addressable LED strips, our next step was to coordinate with the responsible architects to select lamp models for the ceiling and volumetric levels for the text light projectors.
 
 We had to plan out the entire electrical and network layout of each component based on the restructuring blueprints and coordinate with the electrical installation team on site to prepare the building for the required cables.
 
@@ -44,7 +44,7 @@ The Mains power distribution used was the following:
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-15.png)
  
-Every night, the museum lights (Lights + Differential Switch) could be turned off, keeping the router always on, only by turning off the specific switches on the Main Switch board.
+Every night, the museum lights (Lights + Differential Switch) could be turned off, keeping the router always on, only by toggling the specific switches on the Main Switch board.
 
 The Network scheme implemented was the following:
 
@@ -54,7 +54,7 @@ As you can see all the system are ethernet based, and the control is centralized
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-17.png)
 
-There are three different Arduino based setups in the museum, in each one we had to take some precautions on the initial development, for the specific application. This issues will be detailed next.
+There are three different Arduino based setups in the museum. In each one we had to take some precautions on the initial development for the specific application. This issues will be detailed next.
 
 <b>Ceiling enviroment and text lights</b>
 
