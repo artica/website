@@ -34,9 +34,9 @@ Media clippings: [1][1] [2][2] [3][3] [4][4] [5][5]
 
 <b>Technical report:</b>
 
-After ordering a heapload of Arduinos and addressable LED strips, our next step was to co-ordinate with the responsible architect to select lamp models for the top ceiling lamps and volumetric levels for the text light projectors.
+After ordering a heapload of Arduinos and addressable LED strips, our next step was to coordinate with the responsible architects to select lamp models for the top ceiling lamps and volumetric levels for the text light projectors.
 
-We had to plan out the entire electrical and network layout of each component and co-ordinate with the electrical team on site to prepare the building for the required cables.
+We had to plan out the entire electrical and network layout of each component based on the restructuring blueprints and coordinate with the electrical installation team on site to prepare the building for the required cables.
 
 ![](/assets/images/2015-09-28-museu-da-vila-de-cascais-19.jpg)
 
