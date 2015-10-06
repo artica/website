@@ -3,7 +3,7 @@ layout: post
 date: 2015-10-06 18:00:00 UTC
 title: "La Divina Comédia - Salvador Dalí"
 categories: blog
-excerpt: "We were asked by State of the Art to create three interactive screens for the art exhibition “La Divina Comédia” that consisted in Salvador Dali aquarelle paintings."
+excerpt: "We were asked by State of the Art to create three interactive screens for the art exhibition “La Divina Comédia” that consisted of Salvador Dali aquarelle paintings."
 thumbnail: /assets/thumbs/2015-10-06-dali-01.jpg
 frontimage: /assets/images/2015-10-06-dali-01.jpg
 ---
