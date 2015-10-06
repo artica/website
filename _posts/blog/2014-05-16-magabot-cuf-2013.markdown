@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2014-05-16-magabot-cuf-2013.jpg
 
 ---
 
-About a year ago, in June 2013, we participated in [Conferências saúde <b>cuf</b>] with a poster which at the time we forgot to post about on our blog. The poster was regarding our tests involving robotic remote presence, which took place in Hospital Dona Estefânia. Envisioning to develop a platform that would offer hospitalised children a way to travel and engage with the world while staying at the hospital. The work was developed in partnership with Paulo Alvito of [IDMind][2], Francisco Dias, André Moreira and Hospital Dona Estefânia. It uses [magabot], our lowcost laptop on wheels robot.
+About a year ago, in June 2013, we participated in [Conferências saúde cuf][1] with a poster which at the time we forgot to post about on our blog. The poster was regarding our tests involving robotic remote presence, which took place at the Hospital Dona Estefânia. Envisioning to develop a platform that would offer hospitalised children a way to travel and engage with the world while staying at the hospital. The work was developed in partnership with Paulo Alvito of [IDMind][2], Francisco Dias, André Moreira and Hospital Dona Estefânia. It uses [magabot][3], our lowcost laptop on wheels robot.
 
 Here is the poster in Portuguese:
  
