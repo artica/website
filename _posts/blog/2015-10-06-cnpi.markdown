@@ -4,11 +4,11 @@ date: 2015-10-06 14:00:00 UTC
 title: "Congresso Nacional de Professores de Informática"
 categories: blog
 excerpt: "We went to CNPI, a national congress of IT professors, to present our new products Gyro and Visualino."
-thumbnail: /assets/thumbs/2015-10-06-cnpi-logo.png
-frontimage: /assets/images/2015-10-06-cnpi-logo.png
+thumbnail: /assets/thumbs/2015-10-06-cnpi_logo.png
+frontimage: /assets/images/2015-10-06-cnpi_logo.png
 ---
 
-![](/assets/images/2015-10-06-cnpi-logo.png)
+![](/assets/images/2015-10-06-cnpi_logo.png)
 
 We went to [CNPI][1], a national congress of IT professors organized by [ANPRI][2] on the 2nd and 3rd of October to present our new products Gyro and [Visualino][3].
 
