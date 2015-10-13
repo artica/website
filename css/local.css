@@ -13188,4 +13188,11 @@ address p {
   margin: 0;
 }
 
+/* line 394, ../sass/local.scss */
+#google-maps {
+  width: 100%;
+  height: 500px;
+  margin-right: 20px;
+}
+
 /* Prettify */
