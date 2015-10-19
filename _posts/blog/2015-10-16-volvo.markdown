@@ -1,0 +1,37 @@
+---
+layout: post
+date: 2015-10-16 18:00:00 UTC
+title: "Volvo XC90 Campaign"
+categories: blog
+excerpt: "We helped Audience Entertainment deliver their Volvo XC90 interactive campaign for Screnvision"
+thumbnail: /assets/thumbs/2015-10-16-volvo-03.jpg
+frontimage: /assets/images/2015-10-16-volvo-03.png
+---
+
+We helped our partner [Audience Entertainment][1] deliver an interactive content in cinemas campaign for the Volvo XC90. The interactive campaign was promoted by Screenvision and ran for a couple of months in theaters across the United States, running several times a day during the movie preshow.
+
+Here are some news clippings: [1][2] [2][3] [3][4] [4][5]  [5][6]  [6][7]  [7][8]  [8][9]
+
+The system made good use of the motion track server, game manager and content deployment system technology we have been developing for the Audience Entertainment Interactive System.
+
+During 90 seconds of interactive content the audience was at the Volvo XC90 driving seat waving their arms left and right to select the soundtrack, day or night setting and drive faster or slower.
+
+![](/assets/images/2015-10-16-volvo-01.png)
+
+![](/assets/images/2015-10-16-volvo-02.png)
+
+![](/assets/images/2015-10-16-volvo-03.png)
+
+![](/assets/images/2015-10-16-volvo-04.png)
+
+![](/assets/images/2015-10-16-volvo-05.png)
+
+[1]: http://audienceentertainment.com/
+[2]: http://www.prnewswire.com/news-releases/screenvision-and-audience-entertainment-join-forces-once-again-to-bring-interactivity-to-the-movies-with-volvo-300130309.html
+[3]: http://blogs.wsj.com/cmo/2015/08/18/volvo-puts-moviegoers-in-drivers-seat-in-new-interactive-ads/
+[4]: http://www.thedrum.com/news/2015/08/19/volvo-unveils-exclusive-interactive-cinema-ad-campaign-promote-xc90
+[5]: http://adexchanger.com/advertiser/volvo-hits-the-gas-pedal-on-experiential-ads/
+[6]: http://www.geomarketing.com/screenvisions-volvo-ads-merge-physical-and-digital-for-seated-moviegoers
+[7]: http://www.cloudcontactcenterzone.com/news/2015/08/19/8234642.htm
+[8]: http://www.wtol.com/story/29831019/screenvision-and-audience-entertainment-join-forces-once-again-to-bring-interactivity-to-the-movies-with-volvo
+[9]: http://www.mediapost.com/publications/article/256462/volvo-offers-in-cinema-lean-experience-for-xc90.html
