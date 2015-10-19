@@ -3,7 +3,7 @@ layout: post
 date: 2015-10-16 18:00:00 UTC
 title: "Volvo XC90 Campaign"
 categories: blog
-excerpt: "We helped Audience Entertainment deliver their Volvo XC90 interactive campaign for Screnvision"
+excerpt: "We helped Audience Entertainment deliver their Volvo XC90 interactive campaign for Screenvision"
 thumbnail: /assets/thumbs/2015-10-16-volvo-03.jpg
 frontimage: /assets/images/2015-10-16-volvo-03.png
 ---
