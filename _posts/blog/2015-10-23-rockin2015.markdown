@@ -1,0 +1,21 @@
+---
+layout: post
+date: 2015-10-23 18:00:00 UTC
+title: "RoCKIn 2015"
+categories: blog
+excerpt: "Artica is sponsoring the RoCKIn 2015 event taking place 21-23 November at Parque das Nações in Lisbon."
+thumbnail: /assets/thumbs/2015-10-23-rockin2015.jpg
+frontimage: /assets/images/2015-10-23-rockin2015.jpg
+---
+
+Artica is sponsoring the [RoCKIn 2015][1] event taking place 21-23 November at Parque das Nações in Lisbon.
+
+![](/assets/images/2015-10-23-rockin2015.jpg)
+
+RoCKIn2015, the second and major competition event in the EU-funded robotics project RoCKIn, will be coming to Lisbon from 21-23 November. The event is open free-of-charge to the public who will get to see state-of-the-art robots autonomously perform challenging tasks in realistic domestic and industrial environments. The competition will be held in the striking 'Portugal Pavilion' and Lisbon's premier science museum - 'The Pavilion of Knowledge'. Both are situated within Parque das Nações, one of Lisbon's most prestigious leisure areas, boasting an array of restaurants, bars, museums and expansive green spaces all within a 5km stretch along the river Tagus. 
+
+Teams from around the world will take to the RoCKIn@Work and RoCKIn@Home arenas to showcase their robotic engineering prowess in front of a live audience, including renowned robotics experts and senior officials from the European Commission. Robots be put to the test through scenarios, tasks and, benchmarking criteria that are highly relevant to real world processes and conducive for developing the smarter, more dependable robots RoCKIn strives for.
+
+RoCKIn2015 will be co-located with ROBOT'15: Second Iberian Robotics Conference.	
+
+[1]: http://rockinrobotchallenge.eu/rockin2015.php
