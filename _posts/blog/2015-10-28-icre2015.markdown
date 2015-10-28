@@ -1,0 +1,21 @@
+---
+layout: post
+date: 2015-10-28 16:00:00 UTC
+title: "ICRE 2015"
+categories: blog
+excerpt: "The International Conference on Robot Ethics of 2015 took place in Lisbon on the 23rd and 24th of October. We participated in the showcase area with a booth demonstrating Gyro and Visualino."
+thumbnail: /assets/thumbs/2015-10-28-icre2015-03.jpg
+frontimage: /assets/images/2015-10-28-icre2015-03.jpg
+---
+
+![](/assets/images/2015-10-28-icre2015-01.jpg)
+
+The [International Conference on Robot Ethics of 2015][1] took place in Lisbon on the 23rd and 24th of October. We participated in the showcase area with a booth demonstrating [Gyro][2] and [Visualino][3].
+
+![](/assets/images/2015-10-28-icre2015-02.jpg)
+
+![](/assets/images/2015-10-28-icre2015-03.jpg)
+
+[1]: http://icre2015.com/
+[2]: https://www.youtube.com/watch?v=Bj-s6yr4b28
+[3]: http://visualino.cc
