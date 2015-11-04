@@ -3,7 +3,7 @@ layout: post
 date: 2015-11-04 18:00:00 UTC
 title: "Artistic Residency Montemor-o-Velho"
 categories: blog
-excerpt: "The International Conference on Robot Ethics of 2015 took place in Lisbon on the 23rd and 24th of October. We participated in the showcase area with a booth demonstrating Gyro and Visualino."
+excerpt: "Last week we relocated Artica to the city of Montemor-o-Velho and entered artistic residency mode."
 thumbnail: /assets/thumbs/2015-11-04-residencia-montemor-o-velho-01.jpg
 frontimage: /assets/images/2015-11-04-residencia-montemor-o-velho-01.jpg
 ---
