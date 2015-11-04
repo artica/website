@@ -38,7 +38,7 @@ Tarquinio worked on two projects. The first was continued work on his interactiv
 
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-03.jpg)
 
-Tarquinio also gave Artica a workshop on Visualino, as he had on Lisbon and Rome MakerFaires. This allowed the colaborators from Artica who have not been working on Visualino to get better acquainted with the project, find bugs and point out improvement ideas.
+Tarquinio also gave Artica a workshop on Visualino, as he had done at the MakerFaires in Lisbon and Rome. This allowed the rest of us from Artica who have not been working on Visualino to get better acquainted with the project, find bugs and point out improvement ideas.
 
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-06.jpg)
 
@@ -48,9 +48,9 @@ Bruno Serras, Filipe Barbosa, Xavier, Coias and Ruben worked on a door tracking 
 
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-10.jpg)
 
-Our freelance friend Victor Martins of [Pixelnerve][6] joined us in the residency to work on a computer graphics demo with Jerome and Filipe. We have already worked with him a few times in the past and it was great to have him drop by to share ideas.
+Our freelance friend Victor Martins of [Pixelnerve][6] joined us in the residency to work on a computer graphics demo with Jerome and Filipe. He has worked with Artica a few times before and it was great to have him drop by to share ideas.
 
-Jerome and Filipe (Cruz, not Barbosa) spent their days composing new music and playing quake in local lan. Quake became an interactive installation where Artica collaborators could enter and be overwhelmed by Filipe, in a literal representation of the minotaur in the labyrinth, which in this case did not get killed in the end. At the end of the week Jerome and Filipe played an improvised live act with the material they had composed during the week, featuring Coias playing an amplified barrel bass. Filipe Barbosa and Guilherme helped with projected visuals and stage lights responding to sound.
+Jerome and Filipe (Cruz, not Barbosa) spent their days composing new music and playing quake in local lan. Quake became an interactive installation where Artica collaborators could enter and be overwhelmed by Filipe, in a literal representation of the minotaur in the labyrinth, hunting down the visitors and delivering them a gruesome death. At the end of the week Jerome and Filipe played an improvised live act with the material they had composed during the week, featuring Coias playing an amplified barrel bass. Filipe Barbosa and Guilherme helped with projected visuals and stage lights responding to sound.
 
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-11.jpg)
 
@@ -62,7 +62,7 @@ Filipe Barbosa did some 360 video recording experiments with Xavier and fiddled 
 
 We also took the opportunity to do a little team building and internal workshops sessions, to help us think together what we want for the future of Artica.
 
-Artica was created by people who were tired of working the wrong way. Who believed what they enjoyed doing had a market and was worth pursuing. In these 4 years Artica has grown from 2 people in a garage to 12 people occupying the right wing of a building. We must be doing something right. But it's always worth reflecting on where we have been, where we are and where we want to go.
+Artica was created by people who were tired of working the wrong way. Who believed what they enjoyed doing had a market and was worth pursuing. In these 4 years Artica has grown from 2 people in a garage to 12 people occupying the right wing of a building. We must be doing something right. But it's always worth reflecting on where we have been, where we are now and what we still want to achieve.
 
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-01.jpg)
 
