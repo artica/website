@@ -41,17 +41,18 @@ For more information on getting started with Jekyll, check [this page][5].
 Jekyll uses the [Liquid templating][8] system.
 
 Please follow these steps to install Jekyll on your Windows computer:
-Install [Python 2.7][11] on `C:\Python27` (make sure it's on path)
-python -m pip install -U pip setuptools
-Install [Ruby 2.2.3][9] on `C:\Ruby22-x64` (don't forget to tick the box to add it to path)
-Install [RubyDevKit][10] on `C:\RubyDevKit`
-cd C:\RubyDevKit
-ruby dk.rb init
-ruby dk.rb install
-python -m pip install Pygments
-gem install jekyll
-gem install jekyll-paginate
-gem install redcarpet
+* Install [Python 2.7][11] on `C:\Python27` (make sure it's on path)
+* `python -m pip install -U pip setuptools`
+* Install [Ruby 2.2.3][9] on `C:\Ruby22-x64` (don't forget to tick the box to add it to path)
+* Install [RubyDevKit][10] on `C:\RubyDevKit`
+* `cd C:\RubyDevKit`
+* `ruby dk.rb init`
+* make sure `config.yml` includes path to `C:\Ruby22-x64`
+* `ruby dk.rb install`
+* `python -m pip install Pygments`
+* `gem install jekyll`
+* `gem install jekyll-paginate`
+* `gem install redcarpet`
 
 
 Running the website
