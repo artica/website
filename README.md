@@ -27,7 +27,7 @@ Jekyll
 
 Artica's website uses [GitHub Pages][1], which runs with [Jekyll][4]. Jekyll is a simple, blog-aware static site generator. 
 
-Please follow these steps to install Jekyll on your computer:
+Please follow these steps to install Jekyll on your Mac computer:
 
 ```
 sudo gem update --system
@@ -39,6 +39,20 @@ sudo gem install jekyll
 For more information on getting started with Jekyll, check [this page][5].
 
 Jekyll uses the [Liquid templating][8] system.
+
+Please follow these steps to install Jekyll on your Windows computer:
+Install [Python 2.7][11] on `C:\Python27` (make sure it's on path)
+python -m pip install -U pip setuptools
+Install [Ruby 2.2.3][9] on `C:\Ruby22-x64` (don't forget to tick the box to add it to path)
+Install [RubyDevKit][10] on `C:\RubyDevKit`
+cd C:\RubyDevKit
+ruby dk.rb init
+ruby dk.rb install
+python -m pip install Pygments
+gem install jekyll
+gem install jekyll-paginate
+gem install redcarpet
+
 
 Running the website
 -------------------
@@ -92,3 +106,6 @@ So let's get busy. Here are your recipes:
 [6]: http://ink.sapo.pt/                                             "InK - Interface Kit"
 [7]: http://jekyllrb.com/                                            "Jekyll"
 [8]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers     "Liquid templating"
+[9]: http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.3-x64.exe "Ruby 2.2.3"
+[10]: http://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe "RubyDevKit"
+[11]: https://www.python.org/download/releases/2.7/ "Python 2.7"
