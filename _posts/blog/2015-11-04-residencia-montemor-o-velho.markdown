@@ -44,11 +44,11 @@ Tarquinio also gave Artica a workshop on Visualino, as he had done at the MakerF
 
 Bruno Serras, Filipe Barbosa, Xavier, Coias and Ruben worked on a door tracking projection system to reveal a Minotaur. The project had multiple components, the main target was testing a magnetic sensor to measure the angle of a rotating door and use that value on projection mapping. Bruno handled the electronics, Coias handled the woodwork and painting, Xavier and Serras integrated the electronic outputs to Unity3D and Ruben integrated the projection mapping to the door using Unity3D. Filipe Barbosa modeled the box and retouched a model of the minotaur he found online. The project also used a motoruino to wirelessly control the rotation of the minotaur's torso.
 
-<video src="/assets/video/2015-11-04-residencia-montemor-o-velho.mp4" loop="true" autoplay="true"></video>
-
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-07.jpg)
 
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-10.jpg)
+
+{% include youtube.html id="w6a3pDUiWmo" %}
 
 Our freelance friend Victor Martins of [Pixelnerve][6] joined us in the residency to work on a computer graphics demo with Jerome and Filipe. He has worked with Artica a few times before and it was great to have him drop by to share ideas.
 

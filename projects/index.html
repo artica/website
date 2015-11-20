@@ -3,35 +3,31 @@ layout: default
 title: Artica Projects
 ---
 
-<div class="column-group gutters" style="padding-top: 20px;">
+<div class="column-group gutters">
 	<div class="large-25 medium-25 small-100">
 		<header>
 			<nav class="ink-navigation sticky" id="projects_menu">
 				<ul class="menu vertical black">
-
 					<li><a class="scrollableLink" href="/projects#projects_menu"><span class="icon-chevron-up"></span> Back to Top</a></li>
-
 					<li><a class="scrollableLink" href="#interactive">Interactive Instalations</a></li>
 					<li><a class="scrollableLink" href="#projection">Video Projection</a></li>
-					<li><a class="scrollableLink" href="#physical">Physical Interfaces</a></li>
-					<li><a class="scrollableLink" href="#customrobotics">Custom Robotics</a></li>
-					<li><a class="scrollableLink" href="#education">Educational Robotics</a></li>
-					<li><a class="scrollableLink" href="#workshops">Workshops</a></li>
+					<!--<li><a class="scrollableLink" href="#physical">Physical Interfaces</a></li>-->
+					<li><a class="scrollableLink" href="#hardware">Hardware & Robotics</a></li>
+					<!--<li><a class="scrollableLink" href="#education">Educational Robotics</a></li>-->
+					<!--<li><a class="scrollableLink" href="#workshops">Workshops</a></li>-->
 					<li><a class="scrollableLink" href="#red">R&D</a></li>
 				</ul>
 			</nav>
 		</header>
 	</div>
 
-
 	<div class="large-75 medium-75 small-100 content" style="padding-top:23px;">
-
     {% include projects_category.html catg="interactive" title="Interactive Instalations" %}
     {% include projects_category.html catg="projection" title="Video Projection" %}
-    {% include projects_category.html catg="physical" title="Physical Interfaces" %}
-    {% include projects_category.html catg="customrobotics" title="Custom Robotics" %}
-    {% include projects_category.html catg="education" title="Educational Robotics" %}
-    {% include projects_category.html catg="workshops" title="Workshops" %}
+    <!--{% include projects_category.html catg="physical" title="Physical Interfaces" %}-->
+    {% include projects_category.html catg="hardware" title="Hardware & Robotics" %}
+    <!--{% include projects_category.html catg="education" title="Educational Robotics" %}-->
+    <!--{% include projects_category.html catg="workshops" title="Workshops" %}-->
     {% include projects_category.html catg="red" title="R&D" %}
 	</div>
 </div>

@@ -33,3 +33,4 @@ The presentation in Barcelona went well and the [prezi is available][2].
 [3]: http://visualino.cc
 [4]: http://creatifi.eu
 [5]: https://www.fiware.org/
+[6]: http://e-duca.cc

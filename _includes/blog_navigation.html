@@ -1,5 +1,5 @@
 <nav class="ink-navigation">
-    <ul class="pagination rounded shadowed grey">
+    <ul class="pagination rounded shadowed black">
 		{% if paginator.previous_page %}
 		<li class="previous">
 			{% if paginator.previous_page == 1 %}
@@ -44,7 +44,6 @@
 		{% else %}
 		<li><a href="/blog/page/{{ paginator.total_pages }}"><i class="icon-fast-forward"></i></a></a>
 		{% endif %}
-
 
 		{% if paginator.next_page %}
 		<li class="next"><a href="{{ paginator.next_page_path }}">Next</a></li>

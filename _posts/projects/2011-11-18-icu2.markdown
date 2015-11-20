@@ -2,7 +2,7 @@
 layout: post
 date: 2011-11-18 19:27:11
 title: "ICU2"
-categories: projects customrobotics
+categories: projects hardware
 excerpt: "I SEE YOU TOO, is the 2nd version of the original ICU"
 thumbnail: /assets/thumbs/2011-11-18-icu2-1.jpg
 ---

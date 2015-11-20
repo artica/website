@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2011-11-08 11:10:59
-title: "Tempo by Adriana Queiroz - the debut"
+title: "Tempo by Adriana Queiroz"
 categories: projects projection
 excerpt: "We\'ve told you about this wonderful play."
 thumbnail: /assets/thumbs/2011-11-08-tempo-by-adriana-queiroz-the-debut-1.jpg

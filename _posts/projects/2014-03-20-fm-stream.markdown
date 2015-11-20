@@ -2,11 +2,9 @@
 layout: post
 date: 2014-03-18 18:11:00 UTC
 title: "FM Stream"
-categories: physical interfaces
+categories: projects hardware
 excerpt: "AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminium case and lots of passion. "
-
 thumbnail: /assets/thumbs/2014-03-18-fm-stream_1.jpg
-
 ---
 
 <i>AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminium case and lots of passion.</i>

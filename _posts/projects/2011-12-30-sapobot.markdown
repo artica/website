@@ -2,7 +2,7 @@
 layout: post
 date: 2011-12-30 12:05:37
 title: "SapoBot"
-categories: projects customrobotics
+categories: projects hardware
 excerpt: "SapoBot is a robot that wonders through spaces avoiding obstacles detects holes on the ground, follow walls and follow lines, to change between behaviors you only need to press the shell, and when he detects a collision gives a frog sound. This project was comissioned by Sapo, means frog in portuguese."
 thumbnail: /assets/thumbs/2011-12-30-sapobot-1.jpg
 ---

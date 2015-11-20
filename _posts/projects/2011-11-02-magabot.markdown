@@ -1,19 +1,15 @@
 ---
 layout: post
 date: 2013-12-02 14:31:57
-title: "MAGABOT"
-categories: projects education
+title: "Magabot"
+categories: projects hardware
 excerpt: "Magabot is a low cost open hardware and software robot platform, designed to give mobility to any laptop and to stimulate creative minds."
 thumbnail: /assets/thumbs/2011-11-02-magabot-1.jpg
 ---
 
-We'd like to present you our newest robot:
+Magabot is a low cost open hardware and software robot platform co-developed with <a href="http://idmind.pt">IDMind</a>, designed to give mobility to any laptop and to stimulate creative minds. Any robot with a computer is very powerfull, and because all laptops have a camera, a screen, speakers, microphone, batteries and usb interfaces, your robotics experience will be empowered with Magabot.
 
-MAGABOT!
-
-<a href="/assets/images/2011-11-02-magabot-1.jpg"><img class="postimage" src="/assets/images/2011-11-02-magabot-1.jpg"/></a>
-
-Magabot is a low cost open hardware and software robot platform, designed to give mobility to any laptop and to stimulate creative minds. Any robot with a computer is very powerfull, and because all laptops have a camera, a screen, speakers, microphone, batteries and usb interfaces, your robotics experience will be empowered with Magabot.
+<img class="postimage" src="/assets/images/2011-11-02-magabot-1.jpg"/>
 
 Here's the robot:
 

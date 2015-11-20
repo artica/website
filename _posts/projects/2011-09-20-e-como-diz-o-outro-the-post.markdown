@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2011-09-20 22:07:30
-title: "\"É Como Diz o Outro\", the post"
+title: "É Como Diz o Outro"
 categories: projects projection
 excerpt: "\"É Como Diz o Outro\" is a comedy performed by Miguel Guilherme and Bruno Nogueira, directed by Tiago Guedes and produced by UAU. Our commitment was to create a video scene with a street landscape and a building front. This video started early in the morning and went through several stages during a normal work day ending in the evening."
 thumbnail: /assets/thumbs/2011-09-20-e-como-diz-o-outro-the-post-1.jpg

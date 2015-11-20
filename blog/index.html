@@ -7,7 +7,7 @@ title: Artica Blog
 	<div class="large-25 medium-25 hide-small">
 		<header>
 			<nav class="ink-navigation">
-				<ul class="menu vertical grey">
+				<ul class="menu vertical black">
 					{% assign pcount=1 %}
 					{% for post in paginator.posts %}
 					{% for category in post.categories %}
@@ -36,10 +36,10 @@ title: Artica Blog
 		</div>
 	</div>
 	<div class="large-75 medium-75 small-100 content vspace">
-		<b>Page {{ paginator.page }} of Artica's Blog</b>
-		<p>
+		<!--<b>Page {{ paginator.page }} of Artica's Blog</b>-->
+		
 			{% include blog_navigation.html %}
-		</p>
+		<br><br>
 		{% assign pcount=1 %}
 		{% for post in paginator.posts %}
 		{% for category in post.categories %}
