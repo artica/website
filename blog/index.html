@@ -4,10 +4,10 @@ title: Artica Blog
 ---
 
 <div class="column-group gutters">
-	<div class="large-25 medium-25 hide-small">
+	<div class="large-20 medium-20 hide-small">
 		<header>
 			<nav class="ink-navigation">
-				<ul class="menu vertical black">
+				<ul class="menu vertical rounded black">
 					{% assign pcount=1 %}
 					{% for post in paginator.posts %}
 					{% for category in post.categories %}
@@ -35,7 +35,7 @@ title: Artica Blog
 			</nav>
 		</div>
 	</div>
-	<div class="large-75 medium-75 small-100 content vspace">
+	<div class="large-80 medium-80 small-100 content vspace">
 		<!--<b>Page {{ paginator.page }} of Artica's Blog</b>-->
 		
 			{% include blog_navigation.html %}

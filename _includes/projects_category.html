@@ -1,7 +1,7 @@
 <section id="{{ include.catg }}" data-spy="true" data-target="#projects_menu">
-
+<div>
   <h2>{{ include.title }}</h2>
-
+	<br><br>
   <div class="column-group gutters">
     {% for post in site.posts %}
     {% for category in post.categories %}
@@ -23,5 +23,5 @@
   {% endfor %}
   {% endfor %}
 </div>
-
+</div>
 </section>
