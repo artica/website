@@ -19,4 +19,4 @@ Museu da Electricidade, Lisboa / Festival TEMPS D’IMAGES
 
 You can't miss it!
 
-Reserves and informations: <strong> </strong><strong><a href="mailto:bnegativo.producao@gmail.com" target="_blank">bnegativo.producao@gmail.com</a></strong>
+Reserves and informations: ** ****<a href="mailto:bnegativo.producao@gmail.com" target="_blank">bnegativo.producao@gmail.com</a>**

@@ -21,7 +21,7 @@ This post is about the technological decisions we had to make building CIAV. It 
 
 The source code for all the different software elements is <a href="https://bitbucket.org/artica/ciav/">available at bitbucket</a>.
 
-<strong>The space</strong>
+**The space**
 
 CIAV is a very old building, dating back to the 15th century, having been rebuilt and repurposed several times. It used to be known as Ermida do Espírito Santo operating as a church, eventually rebuilt as a community and recreational space.
 
@@ -35,7 +35,7 @@ CIAV has 4 areas accessible to the public:
 * The activities hall
 * The exit hallway.
 
-<strong>Building the entrance</strong>
+**Building the entrance**
 
 On the entrance itself a small ramp was built to comply with handicap access regulation.
 
@@ -45,7 +45,7 @@ The entrance lobby walls had to be repainted dark brown. A yellow entrance stand
 
 The entrance is relatively tech free, the exception is the large LCD screen coupled to a low end machine which displays the cities cultural news, the application requires internet access and parses the city hall's rss feed (via google reader) every 3 hours. The application was developed entirely on html5/css and javascript.
 
-<strong>Building the main hall</strong>
+**Building the main hall**
 
 The main hall was the most complex area to build.
 
@@ -65,13 +65,13 @@ Next to the cabinets we had to wall mount an LCD screen. The windows on the main
 
 Stairs were made to cover the access path below the stage. On the ceiling of the stage three projectors were attached upside down. They display a looping movie that was recorded and prepared for multi-view. There is also a machine on the roof running a max patch that plays the video and sends the signal to a Matrox triplehead2go which splits it to the 3 projectors.
 
-<strong>Building the activities hall</strong>
+**Building the activities hall**
 
 The activities hall didn't require much intervention. Just a few beanbags placed on the floor.
 
 This location was heavily used during construction phase for stashing the equipment and setting up several painting, cutting, stapling and welding work stands, as required for construction on other sections of the building.
 
-<strong>Building the exit hallway</strong>
+**Building the exit hallway**
 
 The exit hallway is a corridor with pictures, newspaper clips and small objects reminiscent of the history of the city.
 
@@ -79,13 +79,13 @@ A custom made wood and iron frame was designed, built, placed and painted undern
 
 <a href="/assets/images/2013-07-15-ciav-tech-report-5.jpg">![](/assets/images/2013-07-15-ciav-tech-report-5.jpg)</a>
 
-<strong>Main hall light &amp; magic</strong>
+**Main hall light &amp; magic**
 
 The main hall is where most of the technological light &amp; magic takes place.
 
 As previously mentioned, there are 2 projectors suspended on the roof. They are projecting down with edge blending technology an animated map of the city where streets and buildings are highlighted. The canvas is a table made of cemented sand with 2 meters of width, 5 of length and half a meter height. Four android tablets are used as interface to select and control the content projected on the table. Surrounding the table are led strips with 250 LEDs and an <a href="http://www.arduino.cc/">Arduino</a> controlling them.
 
-<strong>Edge blending from hell</strong>
+**Edge blending from hell**
 
 After a few initial tests with the projectors where everything seemed nice and dandy the projector configuration pixies from hell started playing a few games with us. The projectors were pretty good but at some point one of them was refusing to fullscreen under it's native resolution. This was bad since we needed both of them at exactly the same resolution and screen coverage, for the edge blending to work. After a few puzzled days of reinstalling drivers, replacing cables, switching entrance slots and going through all the settings menus in the projectors half a dozen times, we finally figured it out, there are more then one dvi input modes, one of the projectors was preferring type 1 while the other was enjoying it's existance under type 2.
 
@@ -97,7 +97,7 @@ Another small headache was making sure the suspended projectors platform was in 
 
 <a href="/assets/images/2013-07-15-ciav-tech-report-6.jpg">![](/assets/images/2013-07-15-ciav-tech-report-6.jpg)</a>
 
-<strong>Android tablets are not iPads</strong>
+**Android tablets are not iPads**
 
 To control the displayed content on the map/table application we have 4 android bq Edison tablets in fixed structures surrounding the table. The tablets run a custom application developed using <a href="http://phonegap.com/">phonegap/cordova</a>, so it's actually completely made using html, css and javascript. The choice for Android and the bq Edison in specific was made balancing the price and hardware quality. They are not iPad's.
 
@@ -111,7 +111,7 @@ We were left only with hardware problems. Android tablets are not iPads, leaving
 
 Another hardware problem we ran into during the installation was the built up static electricity, which screws with the touch sensitivity of the screen, eventually crashing the tablet. We suspect it's being caused by the power supply from the small audio speakers that amplify the sound of the tablet. We suspected this due to a shared symptom of static whistling sounds when the audio jack is connected. Wrong electrical wiring? Crappy tablets? We replaced the audio adaptors, grounded all electric supplies, cut some metal out of the structure and replaced the isolation material that separates the tablets from the frame structure. Hopefully it's enough to ensure the problem doesn't re-occur.
 
-<strong>WebSockets are the future</strong>
+**WebSockets are the future**
 
 As previously mentioned already we decided to use WebSockets to handle the communication between the different elements. Besides the map and the tablets we had another machine to handle computer vision (via <a href="http://opentsps.com/">OpenTSPS</a>) and replay environment sound to the space. This machine became the sockets server running <a href="https://npmjs.org/package/websocket.io">websocket.io</a> on <a href="http://nodejs.org/">node</a>.
 
@@ -122,7 +122,7 @@ Our sockets server had 3 main purposes:
 
 The LED strips were distributed amongst 3 exhibit stands and around the map table itself. The map table in particular required to receive 490 RGB data values several times per second. After a few tests we quickly realized this Arduino didn't have enough memory to handle this. There are websockets libraries for Arduino, but all of them limit you below the number of bytes we required to pass along. So we decided to use tcp connections instead of websockets, we run them in parallel, also using node. After a few headaches with javascript string to byte conversions it ended up working just fine.
 
-<strong>All other things arduino</strong>
+**All other things arduino**
 
 In the side of the main hall there is an LCD screen with Arduino proximity sensors that trigger video interaction. These videos feature the local population sharing their memories of the city. An Arduino with proximity sensors detects hand motion signals in front of the LCD, by waving your hands you can go back or skip to the next video. The Arduino communicates by usb with a computer running a customized Python script that handles the logic and forwards requests to vlc via telnet.
 
@@ -130,7 +130,7 @@ Next to the LCD screen, 3 exhibit stands are also coupled with Arduino proximity
 
 <a href="/assets/images/2013-07-15-ciav-tech-report-7.jpg">![](/assets/images/2013-07-15-ciav-tech-report-7.jpg)</a>
 
-<strong>Network me beautiful</strong>
+**Network me beautiful**
 
 Initially we wanted to have 1 wifi router with internet and an ethernet switch distributing the network to all our elements. The loose end on this plan was the decision to build a suspended platform for the projectors and the machine displaying the map. We needed an ethernet cable that could handle the strain of being pulled up and down through the rig, we didn't want to risk with a standard ethernet cable and the budget for a professional one was disturbingly high. We had to make a decision if we wanted a wifi card on the map machine, or a wifi router bridging the connections.
 
@@ -140,6 +140,6 @@ We configured the wifi routers to bridge with each other, gave all the fixed mac
 
 Websocket server connection overload? Connections not timming out? Wifi channel conflict? Bad <a href="http://www.wampserver.com/en/">WAMP</a> config? Bad network config? We are still not 100% sure what was wrong with it exactly, but we tried optimizing the number of connections and reconfiguring some things, until it eventually stabilized. The tablets still lose wifi connection now and again but manage to gracefully recover. The suspended machine hasn't had any critical connection loss anymore. Let's hope it stays that way.
 
-<strong>Conclusion</strong>
+**Conclusion**
 
 CIAV was a great project to work on. It involved lots of elements with distinct technologies, both on hardware and software. We learned a lot and still managed to deliver something cool, we hope the visitors will enjoy it as much as we did.

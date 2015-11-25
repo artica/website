@@ -23,7 +23,7 @@ This is the first public release, however this will always be a work in progress
 
 ![](/assets/images/2011-12-13-einstein-1.jpg)
 
-<strong>List of features available ATM:</strong>
+**List of features available ATM:**
 
 - playlist with file names;
 - parametric crossfade between videos;

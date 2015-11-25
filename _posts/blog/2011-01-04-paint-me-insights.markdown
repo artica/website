@@ -66,7 +66,7 @@ Some stills of Guilherme's visual work:
 
 <a href="http://www.flickr.com/photos/guibot/5323410596/" title="Paint Me by guibot, on Flickr">![](/assets/images/2011-01-04-paint-me-insights-22.jpg)</a>
 
-<strong>More photos here:</strong>
+**More photos here:**
 <a href="http://lab.guilhermemartins.net/2010/12/18/paint-me-insights/">http://lab.guilhermemartins.net/2010/12/18/paint-me-insights/</a>
 
 

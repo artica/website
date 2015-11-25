@@ -41,6 +41,6 @@ And the final part was the Max patch that send the direction states and the PWM 
 And this is the result:
 <div class="video-container"><iframe src="http://player.vimeo.com/video/20843914" frameborder="0" allowfullscreen></iframe></div><p><a href="http://vimeo.com/20843914">MAXMSP - ARDUINO - INDUSTRIAL MOTOR</a> from <a href="http://vimeo.com/articacc">artica</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
-<strong><a href="http://artica.cc/filez/SOURCES.zip">And last but not the least all the source codes can be downloaded here</a></strong>
+**<a href="http://artica.cc/filez/SOURCES.zip">And last but not the least all the source codes can be downloaded here</a>**
 
 

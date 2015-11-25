@@ -25,27 +25,27 @@ Artica is a two year old company, founded by <a title="Twitter" href="https://t
 
 <a href="http://gallery.digi.com/2012/12/06/sega-rally-cabinet-hacked-for-racing-rc-trucks/">![](/assets/images/2012-12-21-interview-with-idigi-2.jpg)</a>
 
-<strong>Where did you get the idea to hack the Sega Rally Cabinet?</strong>
+**Where did you get the idea to hack the Sega Rally Cabinet?**
 “We’ve had the idea for a while. We really enjoy to operate remote bots, and we’ve done it in the past. We called it SWARS, short for see what a robot see. [You can see those projects <a title="SWARS" href="http://lab.guilhermemartins.net/2010/04/11/swars/" target="_blank">here</a> and<a title="Artica" href="http://www.artica.cc/blog/2011/06/01/264/" target="_blank">here</a>.] For Codebits VI, we proposed this same concept with RC cars and steering wheels. And, by coincidence, they had a retro gaming arena with plenty of old arcade cabinets at the event. The guy behind the arcade is Luis Sobral aka <a title="the arcade man" href="http://thearcademan.net/the-sega-rally-project-to-sapo-codebitsvi/" target="_blank">TheArcadeMan</a>. He had just purchased an old Sega Rally Cabinet, and we all thought that it would be cool to hack the cabinet and have it race our RC cars.”
 
-<strong>How long did the project take?</strong>
+**How long did the project take?**
 “The project take about one month of hard labor.”
 
-<strong>What was the hardest part about the project?</strong>
+**What was the hardest part about the project?**
 “This project had several stages, and the cabinet was in really bad condition. TheArcadeMan did an awesome job to make it brand new. On the software side, we used <a title="XBee" href="http://bit.ly/xbeewireless" target="_blank">XBee radios</a> to send the command from the cabinet to the car. And on the video side, we had to replace the old CRT’s for recent ones. Each stage was a challenge. We are very proud that we could turn the project into one solid piece.”
 
 <a href="/assets/images/2012-12-21-interview-with-idigi-3.png">![](/assets/images/2012-12-21-interview-with-idigi-3.png)</a>
 
-<strong>What do you hope people get out of seeing and playing with what you’ve created?</strong>
+**What do you hope people get out of seeing and playing with what you’ve created?**
 “We hope to inspire people to create awesome stuff out of stuff. We just connected pieces in a naif fashion, like a Lego, in order to see what comes from the experience. Sometimes nothing comes out, other times there is huge potential from the result.”
 
-<strong>Is this your favorite project, if not, what is?
-</strong>“This is an old dream come true, and we see great potential with it. So we can definitely say yes, it is our favorite project.”
+**Is this your favorite project, if not, what is?
+**“This is an old dream come true, and we see great potential with it. So we can definitely say yes, it is our favorite project.”
 
-<strong>What advice would you give someone looking to participate in Codebits or a similar event?</strong>
+**What advice would you give someone looking to participate in Codebits or a similar event?**
 “Codebits is very oriented for programmers. Our advice in general, is that people should get their hands dirty. Hack stuff. Learn to program. Learn electronics. Join a HackerSpace!”
 
-<strong>What do you plan on doing next?</strong>
+**What do you plan on doing next?**
 “Our plan is to survive to the economical crisis that is affecting our country. Besides that, we want to continue to create even more cool stuff.”
 
 Do you have a question for the Artica team? Ask it here in the comments section below, on<a title="XBee Wireless" href="http://www.twitter.com/XBeeWireless" target="_blank">Twitter</a> or <a title="XBee" href="https://www.facebook.com/XBees" target="_blank">Facebook</a>. We’ll past along your question and add Artica’s answer to this post!

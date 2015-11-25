@@ -19,7 +19,7 @@ Magabot is a low cost open hardware and software robot platform, designed to giv
 
 Here's the robot:
 
-<strong>The Software:</strong>
+**The Software:**
 
 Many applications are being developed right now, follow colors, wall follower, face detection, among many others.
 
@@ -27,7 +27,7 @@ We will provide interfaces for VisualStudio, .NET, c#, c++, openFrameWorks, Proc
 
 You will be able to download apps for the Magabot, to develop your own apps, and if you feel they deserve money, you will be able to sell them too.
 
-<strong>The hardware:</strong>
+**The hardware:**
 
 The hardware is made with rigid PVC and a differential drive chassis with highly precise encoders on both motors at the commands of an Arduino and a customized shield. You’re completely invited to change and adapt it to your needs.
 
