@@ -2,7 +2,7 @@
 layout: post
 date: 2014-02-13 19:00:00 UTC
 title: "Valentine's Interactive Hanky"
-categories: projects interactive
+categories: projects interactive workshops
 excerpt: "Valentine's Interactive Hanky @ Casa do Conhecimento, Vila Verde."
 longexcerpt: "Valentine's Interactive Hanky @ Casa do Conhecimento, Vila Verde"
 

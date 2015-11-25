@@ -8,13 +8,13 @@ thumbnail: /assets/thumbs/2015-11-25-rockin2015-02.jpg
 frontimage: /assets/images/2015-11-25-rockin2015-02.jpg
 ---
 
-<i>Thirteen robotic teams from six countries participated in [RoCKIn 2015][1], a competition held between the 21st and the 23rd of November in Lisbon. Team <b>homer</b>, from the University of Koblenz, Germany, was the winner of the event. As a reward, the team took home the first prototype of [Gyro][2], the educational robot created by Artica.</i>
+<i>Thirteen robotic teams from six countries participated in [RoCKIn 2015][1], a competition held between the 21st and the 23rd of November in Lisbon. Team <b>homer</b>, from the University of Koblenz, Germany, was the winner of the event. As a reward, the team took home the first [Gyro][2], the new edutainment robotic platform by Artica.</i>
 
 ![](/assets/images/2015-11-25-rockin2015-01.jpg)
 
 Artica was one of the sponsors of the second robotic competition organized by Rockin (Robot Competitions Kick Innovation in Cognitive Systems and Robotics), a European project coordinated by the Instituto Superior Técnico (IST) which was lauched in 2013 and will be concluded by the end of this year.
 
-The big winner was team homer, from the University of Koblenz, Germany. As a reward for winning the RoCKIn competition, the team received, this monday, the first prototype of [Gyro][2], the didactic robot Artica. The new robot is already set up to be controlled remotely, draw and play music, among other functions. But through Visualino, the programming platform with which is equipped, Gyro is prepared to 'learn' many other tasks.
+The big winner was team homer, from the University of Koblenz, Germany. As a reward for winning the RoCKIn competition, the team received, this monday, the first [Gyro][2], the new edutainment robotic platform by Artica. The new robot is already set up to be controlled remotely, draw and play music, among other functions. But through Visualino, the programming platform with which is equipped, Gyro is prepared to 'learn' many other tasks.
 
 ![](/assets/images/2015-11-25-rockin2015-03.jpg)
 
