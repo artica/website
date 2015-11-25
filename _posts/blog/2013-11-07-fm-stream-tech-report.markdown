@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2013-11-07-fm-stream-tech-report-1.jpg
 frontimage: /assets/images/2013-11-07-fm-stream-tech-report-2.jpg
 ---
 
-<i>AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminium case and lots of passion.</i>
+*AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminium case and lots of passion.</i>
 
 <a href="http://www.sapo.pt">SAPO</a>, the biggest Internet portal in Portugal, needed a robust system to tune FM radios in countries like Angola, Cabo Verde, Mozambique and East Timor, where classic broadcast stations are still very popular and in strong demand, even if you're using the Web. So they came to Artica for help.
 
@@ -54,12 +54,12 @@ The first slot is always the icecast and monitoring module. In the backpanel eac
 
 Deeper technical details follow.
 
-<b>Router</b>
+**Router**
 
 The router is a TP-Link TL-WR740N with OpenWRT configured to connect to the OpenVPN server as soon as he gets a gateway through the WAN interface. When the connection is established, it forwards ports 22 and 8000 to the main radio module with IP 192.168.10.1 so we can access the module which relays the remaining 17 modules and enables it’s own audio stream. Port 8000 is assigned to Icecast, port 22 is reserved for SSH management access.
 In a similar way, the VPN has access to port 5000 for router configurations via HTTP and port 5001 for SSH access. This access allows us to retrieve the machine’s MAC Address. 
 
-<b>Encoding Modules</b>
+**Encoding Modules**
 
 The encoding modules use Raspberry’s native Debian with some key modifications to improve system performance, the more important one being the root partition of the SD becoming read-only. All these machine configurations are stored in the FAT partition and only the tuned frequency is recorded on file, no other writing is performed on the card.
 
@@ -133,7 +133,7 @@ exit 0
 
 In the same way we differentiate the configuration for icecast, darkice and php. Php is responsible for making available via http the commands that allow the system to change the radio frequency and the machine status.
 
-<b>Server</b>
+**Server**
 
 The server is composed of two important programs. OpenVPN, which receives the connections from the radio machines. And icecast, which relays the icecast from it’s own machine.
 
