@@ -11,7 +11,7 @@ frontimage: /assets/images/2012-12-04-domestic-plant-1.jpg
 
 ![](/assets/images/2012-12-04-domestic-plant-1.jpg)
 
-We have seen a couple of customizations with Magabot, but this time we have something very different, the <strong>Scenocosme Team </strong>presented us with "Domestic Plant", a very sensitive and interactive plant!! They also have a very particular approach on the relation between nature and technology, and this project is a result of that approach:
+We have seen a couple of customizations with Magabot, but this time we have something very different, the **Scenocosme Team **presented us with "Domestic Plant", a very sensitive and interactive plant!! They also have a very particular approach on the relation between nature and technology, and this project is a result of that approach:
 
 <div class="video-container"><iframe src="http://www.youtube.com/embed/OkWZ-YV3dOs" frameborder="0" allowfullscreen></iframe></div>
 

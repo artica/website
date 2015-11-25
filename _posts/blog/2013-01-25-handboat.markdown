@@ -11,10 +11,10 @@ frontimage: /assets/images/2013-01-25-handboat-1.jpg
 
 A couple of time ago we tried to materialize a painting to offer to a friends, the author is <a href="http://www.alfredoluz.com/">Alfredo Luz</a>, he does this very original surrealistic paintings!!
 
-<a href="http://www.flickr.com/photos/guibot/8412765255/" title="painting1 by guibot, on Flickr">![](/assets/images/2013-01-25-handboat-1.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8412765255/">![](/assets/images/2013-01-25-handboat-1.jpg)</a>
 
 This is what came out, STL file is available at <a href="http://www.thingiverse.com/thing:44365">Thingiverse</a>!
 
-<a href="http://www.flickr.com/photos/guibot/8412756037/" title="Handboat by guibot, on Flickr">![](/assets/images/2013-01-25-handboat-2.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8412756037/">![](/assets/images/2013-01-25-handboat-2.jpg)</a>
 
-<a href="http://www.flickr.com/photos/guibot/8412756011/" title="Handboat by guibot, on Flickr">![](/assets/images/2013-01-25-handboat-3.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8412756011/">![](/assets/images/2013-01-25-handboat-3.jpg)</a>

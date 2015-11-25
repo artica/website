@@ -9,4 +9,4 @@ thumbnail: /assets/thumbs/2013-06-27-inauguracao-do-ciav-centro-de-interpretacao
 frontimage: /assets/images/2013-06-27-inauguracao-do-ciav-centro-de-interpretacao-de-almada-velha-1.jpg
 ---
 
-<a href="http://www.flickr.com/photos/guibot/9153861290/" title="Convite-CIAV by guibot, on Flickr">![](/assets/images/2013-06-27-inauguracao-do-ciav-centro-de-interpretacao-de-almada-velha-1.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/9153861290/">![](/assets/images/2013-06-27-inauguracao-do-ciav-centro-de-interpretacao-de-almada-velha-1.jpg)</a>

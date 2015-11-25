@@ -25,40 +25,40 @@ Besides having his own Arcades there, he was working on 10 old arcade machines, 
 
 Luis had just bought two old SegaRally Consoles, and there was the possibility to transform them to be the control station for our RC cars! On a first (of many) tours to Luis's "mancave" we start disassembling the old consoles, removing the old electronics boards, wondering the best way to connect all the gear!
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203506197/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-4.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8203506197/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-4.jpg)</a>
 apologize for the crappy quality photo :p
 
 There is a strange beauty in this sturdy mechanical systems, they are so well engineered and one can feel they were pushed into the limits through the years, and are still able to be pushed a lot more!
 
-<a title="IMG_3247 by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8204725198/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-5.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8204725198/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-5.jpg)</a>
 
 This was the throttle pedal gear, on the right you can see a hand-made replacement, it was a cool hack to do... And a miracle that it worked flawlessly all the event!
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203489723/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-6.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8203489723/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-6.jpg)</a>
 
 At this stage we couldn't imagine that one of the biggest challenges was about to come!! Yes, the CRT's... To send Video signal to this old CRT is not impossible by any means... But it prooved to be way to much complicated for us...
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8204569528/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-7.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8204569528/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-7.jpg)</a>
 
 after many attempts and despair... We finally decided to "kill the rabbit"!! We found two Mitsai CRT's willing to have a new glorious life!!! :D
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203479599/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-8.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8203479599/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-8.jpg)</a>
 
 And they fitted perfectly in the old frame!
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8204560218/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-9.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8204560218/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-9.jpg)</a>
 
 The steering, pedals, gears and buttons were connected to an Arduino, and data was sent via xbee to the car.
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8204573446/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-10.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8204573446/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-10.jpg)</a>
 
 The car had a receiver Arduino mapping the data to the wheels, throttle and to the video switch! The gamer could choose wich camera to use, the front camera proved to be extremely difficult to use and only hardcore drivers used it!! The upper camera needed a support, and it had its iterations due to be easily broken when the car crashes or capsize! The final iteration was a one PVC piece bended with heat, it proved to be sturdy and survived to the hole event!
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8204561462/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-11.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8204561462/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-11.jpg)</a>
 
 Sweet!
 
-<a title="IMG_3734_ by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203661765/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-12.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8203661765/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-12.jpg)</a>
 
 Finally at Codebits VI !! :D Artica had the honor to be at the Hardware Den with TheArcadeMen, Altlab, Ultimaker, InMotion, Mitch Altman and RaspberryPI Foundation.
 
@@ -66,15 +66,15 @@ Finally at Codebits VI !! :D Artica had the honor to be at the Hardware Den with
 
 The Sega Rally Championship Arcade was fully working all the time, we only need to stop a couple of times for final tweaks...
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203462135/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-14.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8203462135/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-14.jpg)</a>
 
 ... And to recharge batteries!
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203473237/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-15.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8203473237/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-15.jpg)</a>
 
 To drive this things was extremely cool!! We are looking forward to repeat the experience!!
 
-<a title="Sega Rally Championship by guibot, on Flickr" href="http://www.flickr.com/photos/guibot/8203460979/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-16.jpg)</a>
+<a href="http://www.flickr.com/photos/guibot/8203460979/">![](/assets/images/2012-11-21-sega-rally-championship-codebits-vi-16.jpg)</a>
 
 As a final note, we want to give a big thanks to all SAPO and PT Team for making this event a reality, Mauricio Martins and Adriano Couto from <a href="http://altlab.org">AltLab</a> for helping us with the CRT's, <a href="http://franciscodias.net">Francisco Dias</a> gave a major help with his hacking skills, João Ribeiro for being a true Artica member, <a href="http://inmotion.pt">Filipe Valpereiro</a> for all the hardcore geeky support, he was the guy who told us how to remove the steering wheel lag caused by the xbee buffer... And finally thank you <a href="http://arrifana.org/blog/">Celso</a> for believing in us!!! 
 
