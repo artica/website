@@ -10,7 +10,7 @@ frontimage: /assets/images/2015-11-25-rockin2015-02.jpg
 
 *Thirteen robotic teams from six countries participated in [RoCKIn 2015][1], a competition held between the 21st and the 23rd of November in Lisbon. Team **homer**, from the University of Koblenz, Germany, was the winner of the event. As a reward, the team took home the first [Gyro][2], the new edutainment robotic platform created by Artica.*
 
-![](/assets/images/2015-11-25-rockin2015-01.jpg)
+![](/assets/images/2015-11-25-rockin2015-02.jpg)
 
 Artica was one of the sponsors of the second robotic competition organized by Rockin (Robot Competitions Kick Innovation in Cognitive Systems and Robotics), a European project coordinated by the Instituto Superior Técnico (IST) which was launched in 2013 and will be concluded by the end of this year.
 
@@ -19,8 +19,6 @@ The big winner was team homer, from the University of Koblenz, Germany. As a rew
 ![](/assets/images/2015-11-25-rockin2015-03.jpg)
 
 ![](/assets/images/2015-11-25-rockin2015-04.jpg)
-
-![](/assets/images/2015-11-25-rockin2015-02.jpg)
 
 During RoCKIn 2015, teams were challenged to fulfill several tasks in robotics, both in a home environment as in an industrial environment. For this, the RoCKIn organization created two areas: one simulating the home of grandmother Annie and another simulating a factory production area.
 
@@ -33,6 +31,8 @@ Pedro Lima, a professor at Instituto Superior Técnico (IST) and RoCKIn coordina
 The coordinator also highlighted the "excellent performance of the Portuguese team, SocRob, from IST, which participated for the first time and won several stages of the competition in the Home environment."
 
 Another "reason for being proud" was the increase of female participation. "We noticed, particularly in the 'camps' (training events organized during the RoCKIn project), that the number of girls is increasing. Maybe because we are focusing more on everyday functions which require a direct association with humans”, says Pedro Lima.
+
+![](/assets/images/2015-11-25-rockin2015-01.jpg)
 
 **RoCKIn format will continue in 2016**
 
