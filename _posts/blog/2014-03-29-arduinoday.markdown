@@ -20,6 +20,6 @@ We shared a bit of our experience using this platform in our commercial projects
 
 A slideshare is also available with all the slides and links to the videos:
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/32928936" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> ** <a href="https://www.slideshare.net/articacc/artica-arduino-day" title="Artica @ Arduino Day 2014" target="_blank">Artica @ Arduino Day 2014</a> ** from **<a href="http://www.slideshare.net/articacc" target="_blank">Articacc, Lda</a>** </div>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/32928936" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> ** <a href="https://www.slideshare.net/articacc/artica-arduino-day" target="_blank">Artica @ Arduino Day 2014</a> ** from **<a href="http://www.slideshare.net/articacc" target="_blank">Articacc, Lda</a>** </div>
 
 There is also lifestreams of all talks <a href="http://new.livestream.com/accounts/2649338/events/2865719">**here**</a>.
