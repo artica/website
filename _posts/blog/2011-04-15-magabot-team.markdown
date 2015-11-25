@@ -9,10 +9,10 @@ thumbnail: /assets/thumbs/2011-04-15-magabot-team-1.jpg
 frontimage: /assets/images/2011-04-15-magabot-team-1.jpg
 ---
 
-Today, we proudly present you the Magabot team, and it's third place on the contest <a href="http://robotica2011.ist.utl.pt/">Robótica - Festival Nacional de Robótica </a><em><a href="http://robotica2011.ist.utl.pt/">(Robotics - Robotics National Festival)</a> </em>an initiative of <a href="http://www.spr.ua.pt/site/">Sociedade Portuguesa de Robótica </a><em><a href="http://www.spr.ua.pt/site/">(Robotics Portuguese Society)</a>.</em>
+Today, we proudly present you the Magabot team, and it's third place on the contest <a href="http://robotica2011.ist.utl.pt/">Robótica - Festival Nacional de Robótica </a>*<a href="http://robotica2011.ist.utl.pt/">(Robotics - Robotics National Festival)</a> *an initiative of <a href="http://www.spr.ua.pt/site/">Sociedade Portuguesa de Robótica </a>*<a href="http://www.spr.ua.pt/site/">(Robotics Portuguese Society)</a>.*
 
-<em><a href="http://www.artica.cc/blog/wp-content/uploads/2011/04/IMG_0086.jpg">![](/assets/images/2011-04-15-magabot-team-1.jpg)</a>
-</em>
+*<a href="http://www.artica.cc/blog/wp-content/uploads/2011/04/IMG_0086.jpg">![](/assets/images/2011-04-15-magabot-team-1.jpg)</a>
+*
 The team lider <a href="http://www.franciscodias.net/">Francisco Dias</a> was developing <a href="http://www.franciscodias.net/robots/the-box">thebox</a> when we invited him to participate in this contest with our robotic plataform, developed together with <a href="http://www.idmind.pt">IdMind</a> and <a href="http://www.mapadasideias.pt">Mapa das Ideias</a>, Francisco invited his friend Francisco Purdom to join the team. 
 Meanwhile we helped Francisco to know better the platforms and SDK's that he could use in the contest, and he started to port and integrating his <a href="http://processing.org/">Processing</a> applications to <a href="http://www.openframeworks.cc/">OpenFrameworks</a>, that's the base of Francisco's project to  <a href="hhttps://sites.google.com/site/laptoponwheels/">google science fair </a>.
 <a href="http://www.artica.cc/blog/wp-content/uploads/2011/04/IMG_0104.jpg">![](/assets/images/2011-04-15-magabot-team-2.jpg)</a>
