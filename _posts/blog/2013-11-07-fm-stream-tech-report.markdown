@@ -8,27 +8,27 @@ thumbnail: /assets/thumbs/2013-11-07-fm-stream-tech-report-1.jpg
 frontimage: /assets/images/2013-11-07-fm-stream-tech-report-2.jpg
 ---
 
-*AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminium case and lots of passion.</i>
+*AKA a beautiful, low cost, carrier grade rack of FM tuners, IP/Internet encoders and broadcasters, using nothing but RaspberryPis, Arduinos, clever electronics, neat mechanics, a shiny aluminium case and lots of passion.*
 
-<a href="http://www.sapo.pt">SAPO</a>, the biggest Internet portal in Portugal, needed a robust system to tune FM radios in countries like Angola, Cabo Verde, Mozambique and East Timor, where classic broadcast stations are still very popular and in strong demand, even if you're using the Web. So they came to Artica for help.
+[SAPO][1], the biggest Internet portal in Portugal, needed a robust system to tune FM radios in countries like Angola, Cabo Verde, Mozambique and East Timor, where classic broadcast stations are still very popular and in strong demand, even if you're using the Web. So they came to Artica for help.
 
-Since then, we have been working in partnership with SAPO, <a href="http://www.idmind.pt/">IdMind</a> and André Gonçalves from <a href="http://www.addacsystem.com/">ADDAC System</a> on a 6U rack solution to broadcast radio signals to the internet. The concept was to have a unit that could be easily installed by non tech people, and placed anywhere on the world to get their local radios automatically broadcasting to the internet. To get it working all you need is 3 cords: a standard 220v power supply cable, an ethernet cable connecting the unit to the internet and a BNC cable connected to a radio antenna.
+Since then, we have been working in partnership with SAPO, [IdMind][2] and André Gonçalves from [ADDAC System][3] on a 6U rack solution to broadcast radio signals to the internet. The concept was to have a unit that could be easily installed by non tech people, and placed anywhere on the world to get their local radios automatically broadcasting to the internet. To get it working all you need is 3 cords: a standard 220v power supply cable, an ethernet cable connecting the unit to the internet and a BNC cable connected to a radio antenna.
 
 ![](/assets/images/2013-11-07-fm-stream-tech-report-1.jpg)
 
 The rack is composed of 18 hot-swappable modules. 18 for radio signal streaming and 2 fixed for power management.
 
-Each radio module has a <a href="http://www.raspberrypi.org/">Raspberry Pi (Revision b)</a> and an <a href="http://arduino.cc/en/Main/ArduinoBoardNano">Arduino Nano AtMega 328</a>. The Arduino is powered at 3.3V through the Raspberry Pi and communicates with it via GPIO serial port.
+Each radio module has a [Raspberry Pi (Revision b)][4] and an [Arduino Nano AtMega 328][5]. The Arduino is powered at 3.3V through the Raspberry Pi and communicates with it via GPIO serial port.
 
 ![](/assets/images/2013-11-07-fm-stream-tech-report-2.jpg)
 
-Each module has a <a href="http://www.silabs.com/products/audiovideo/fmreceivers/Pages/si470405.aspx">Silicon Labs Si4705</a> FM receiver chip, controlled by the Arduino via i2c. We chose this chip for the RDS, allowing to retrieve meta-data on the tuned radio and also for being factory ready to connect to an external antenna.
+Each module has a [Silicon Labs Si4705][6] FM receiver chip, controlled by the Arduino via i2c. We chose this chip for the RDS, allowing to retrieve meta-data on the tuned radio and also for being factory ready to connect to an external antenna.
 
 ![](/assets/images/2013-11-07-fm-stream-tech-report-3.jpg)
 
-The Arduino library to work with these radio chips will soon be Open Sourced. <s>We have a couple breakout boards of the chip leftover</s> We are ordering more breakout boards from our China supplier, if anyone is interested in getting their hands in one (might take a couple of months) feel free to <a href="http://artica.cc/contacts/">get in touch</a>.
+The Arduino library to work with these radio chips will soon be Open Sourced. <s>We have a couple breakout boards of the chip leftover</s> We are ordering more breakout boards from our China supplier, if anyone is interested in getting their hands in one (might take a couple of months) feel free to [get in touch][7].
 
-To allow the Raspberry Pi to capture the audio from the radio signal we designed a circuit, in partnership with André Gonçalves, for the <a href="http://www.ti.com/product/pcm2900&lpos=Middle_Container&lid=Alternative_Devices">Texas Intruments PCM2900C USB Audio Capture</a> chip.
+To allow the Raspberry Pi to capture the audio from the radio signal we designed a circuit, in partnership with André Gonçalves, for the [Texas Intruments PCM2900C USB Audio Capture][8] chip.
 
 LEDs in the front panel indicate if the module is powered and can also be re-assigned by software for debug or display software generate information.
 
@@ -46,9 +46,9 @@ The power supply unit can last up to half an hour operating without current, it 
 
 The front panel has three different LEDs, one for 220V power indicator, the other for the battery charger indicator and one for the battery power indicator. The power unit also has two buzzer sounds, one to warn when there is no AC power and the other to indicate a shutdown signal was sent. When the voltage of the battery goes below a certain limit, power is cut off to all the modules.
 
-The Raspberry Pi that handles the broadcast is always connected to the network, sharing values from the power unit. The broadcast is made using <a href="http://www.icecast.org/">icecast</a> software.
+The Raspberry Pi that handles the broadcast is always connected to the network, sharing values from the power unit. The broadcast is made using [icecast][9] software.
 
-The first slot is always the icecast and monitoring module. In the backpanel each slot has an RJ45 connection to a 24 port Gigabit TP-Link switch, the switch is then connected to a wireless TP-Link router configured with <a href="http://www.dd-wrt.com">DD-WRT</a>. The switch operates on 220V. However the router operates on 12V, same as the radio signal amplifier, these two only shutdown when the Arduino power module decides to shut them down.
+The first slot is always the icecast and monitoring module. In the backpanel each slot has an RJ45 connection to a 24 port Gigabit TP-Link switch, the switch is then connected to a wireless TP-Link router configured with [DD-WRT][12]. The switch operates on 220V. However the router operates on 12V, same as the radio signal amplifier, these two only shutdown when the Arduino power module decides to shut them down.
 
 ![](/assets/images/2013-11-07-fm-stream-tech-report-7.jpg)
 
@@ -272,4 +272,17 @@ In the end, when a machine connection ends, the “/etc/ppp/ip-down.d/0001icecas
 
 The server has the same RSA key than the client so that the SSH connection can be made silently.
 
-Listen to <a href="http://radios.vpn.sapo.pt/AO/radio1.mp3">one of the streams here</a> <i class="icon-music"></i> (live from a popular FM radio in <a href="http://en.wikipedia.org/wiki/Luanda">Luanda, Angola</a>, captured and encoded from one of SAPO's racks of FM Streamers in the country).
+Listen to [one of the streams here][10] <i class="icon-music"></i> (live from a popular FM radio in [Luanda, Angola][11], captured and encoded from one of SAPO's racks of FM Streamers in the country).
+
+[1]: http://www.sapo.pt
+[2]: http://www.idmind.pt/
+[3]: http://www.addacsystem.com/
+[4]: http://www.raspberrypi.org/
+[5]: http://arduino.cc/en/Main/ArduinoBoardNano
+[6]: http://www.silabs.com/products/audiovideo/fmreceivers/Pages/si470405.aspx
+[7]: http://artica.cc/contacts/
+[8]: http://www.ti.com/product/pcm2900&lpos=Middle_Container&lid=Alternative_Devices
+[9]: http://www.icecast.org/
+[10]: http://radios.vpn.sapo.pt/AO/radio1.mp3
+[11]: http://en.wikipedia.org/wiki/Luanda
+[12]: http://www.dd-wrt.com
