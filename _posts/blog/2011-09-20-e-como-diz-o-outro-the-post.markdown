@@ -19,7 +19,7 @@ frontimage: /assets/images/2011-09-20-e-como-diz-o-outro-the-post-1.jpg
 
 Video after the break:
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/29321042?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=0" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="29321042" %}
 
 
 Our software "EinsteinVideoPlayer" evolved a lot with this creation, edge-blend was implemented and now can be controlled by the Light Mixer via DMX.

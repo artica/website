@@ -17,4 +17,4 @@ We love the way how Magabot and Farrusco played this task so well!!
 
 Enjoy the video, made by <a href="http://lobomau.pt/67537/547392/work/meogo">Lobo Mau</a>!!
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/42973045?badge=0" frameborder="0" allowfullscreen></iframe></div> <p><a href="http://vimeo.com/42973045">Video MeoGo Case</a> from <a href="http://vimeo.com/lobomau">Lobomau</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+{% include vimeo.html id="42973045" %}

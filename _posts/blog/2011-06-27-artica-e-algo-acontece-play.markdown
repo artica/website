@@ -23,4 +23,4 @@ The play is based in "Novos contos de montanha" by the Portuguese master <a href
 
 As usual, we give a sneak peak to the show performed this Saturday.
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/25660564?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=0" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="25660564" %}

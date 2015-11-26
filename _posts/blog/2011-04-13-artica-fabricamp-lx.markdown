@@ -17,7 +17,7 @@ We were invited by <a href="http://altlab.org/">AltLab</a> in sequence of digita
 
 It was a big adventure. We tried to cut MDF at once and when the machine was involved in a big cloud of smoke we finally discovered that you can only cut that material in three or four passages. Lesson learned!
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/22036807?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=0" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="22036807" %}
 
 There were 3D printers, <a href="http://tiago.co.nz/">Tiago Rorke</a> with its <a href="http://diatom.cc/sketchchair">sketch chair</a> project, and much more...
 

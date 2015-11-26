@@ -39,7 +39,7 @@ And the final part was the Max patch that send the direction states and the PWM 
 <a href="http://www.flickr.com/photos/guibot/5512967786/">![](/assets/images/2011-03-09-max-arduino-industrial-motor-7.jpg)</a>
 
 And this is the result:
-<div class="video-container"><iframe src="http://player.vimeo.com/video/20843914" frameborder="0" allowfullscreen></iframe></div><p><a href="http://vimeo.com/20843914">MAXMSP - ARDUINO - INDUSTRIAL MOTOR</a> from <a href="http://vimeo.com/articacc">artica</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+{% include vimeo.html id="20843914" %}
 
 **<a href="http://artica.cc/filez/SOURCES.zip">And last but not the least all the source codes can be downloaded here</a>**
 

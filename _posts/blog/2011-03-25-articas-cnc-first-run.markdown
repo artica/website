@@ -13,7 +13,7 @@ Our <a href="http://www.probotix.com/FireBall_v90_cnc_router_kit/">Probotix Fire
 
 <a href="http://www.artica.cc/blog/wp-content/uploads/2011/03/cnc.jpg">![](/assets/images/2011-03-25-articas-cnc-first-run-1.jpg)</a>
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/21492974" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="21492974" %}
 
 Good news never come alone so we were invited to participate, with our new CNC, on <a href="http://fabriculture.org/">Fabricculture</a>'s first event <a href="http://openmaterials.org/2011/03/21/fabricamp-lx-1/">FabriCamp Lx 1</a> - a project dedicated to open source fabrication and rapid prototyping.
 

@@ -13,7 +13,7 @@ We're very pleased to announce the launch of our new open source video player!
 
 Einstein VideoPlayer is a project initiated by <a href="http://lab.guilhermemartins.net/">Guilherme Martins</a> during a dance performance entitled <a href="http://en.opera.se/forestallningar/einstein-and-the-guest-house-2010-2011/">“Einstein Dreams”</a> created by <a href="http://www.oespacodotempo.pt/pt/esp_tem.php?idpan=rui">Rui Horta</a>. All this took place at <a href="http://en.opera.se/">Göteborg Opera</a> in Sweden, September of 2010.
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/14922453?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="14922453" %}
 
 Einstein is not just a tool to play videos, it allows anyone to play a list of videos, cross fading between them, with the possibility to adjust the video output to many kinds of surfaces.
 

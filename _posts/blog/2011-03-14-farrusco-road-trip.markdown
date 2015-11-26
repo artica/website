@@ -9,7 +9,7 @@ longexcerpt: "Now that you\'ve met Farrusco, we can explain you some of the work
 
 Now that you've met Farrusco, we can explain you some of the work we developed till we get the final version, available in <a href="http://www.guibot.pt/">guibot.pt</a>.
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/20996176?portrait=0" frameborder="0" allowfullscreen></iframe></div><p>
+{% include vimeo.html id="20996176" %}
 
 In one of it initial iterations, Farrusco had a camera on it and was controlled remotely via xbee. It was developed by Guilherme Martins in a project called <a href="http://lab.guilhermemartins.net/2010/04/11/swars/">SWARS (See What A Robot Sees)</a>.
 

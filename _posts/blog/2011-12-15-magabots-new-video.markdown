@@ -9,7 +9,7 @@ longexcerpt: "Here\'s a new video from Magabot. This time we\'ll present you a d
 
 Here's a new video from Magabot. This time we'll present you a demo compilation of all it's features.
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/33389503?title=0&amp;byline=0&amp;portrait=0" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="33389503" %}
 
 Magabot is an open source and hardware robot so you have an almost unlimited world functions to do with it.
 

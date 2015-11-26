@@ -26,7 +26,7 @@ The challenge was to make the robot drive a road, in a very similar way to an au
 
 Magabot had an very positive performance, as you can check on the video below.
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/22397276" frameborder="0" allowfullscreen></iframe></div><p><a href="http://vimeo.com/22397276">Magabot team in Robotica 2011</a> from <a href="http://vimeo.com/articacc">artica</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+{% include vimeo.html id="22397276" %}
 
 It was a great time. We felt that this participation was epic. The specific code for the contest was done in just 3 or 4 days. We helped the team to participate in both contests.
 

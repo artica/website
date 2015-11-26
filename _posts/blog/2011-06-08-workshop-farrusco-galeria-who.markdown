@@ -14,7 +14,7 @@ The feedback was very good and we liked a lot to work with the 6 participants.
 
 Take a look at the video:
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/24649555?title=0&amp;byline=0&amp;portrait=0" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="24649555" %}
 
 We are at full power with Farrusco's workshops.
 

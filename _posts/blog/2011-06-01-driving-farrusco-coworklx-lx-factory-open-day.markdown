@@ -23,4 +23,4 @@ Then Farrusco with the wireless cam already built in and two packs of batteries 
 
 And finally the video:
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/24526765?title=0&amp;byline=0&amp;portrait=0" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="24526765" %}

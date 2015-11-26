@@ -25,4 +25,4 @@ This interactive instalation is a multifunction platform with several features l
 
 This was one of our biggest interactive projects, and we're really, really, really proud of it!
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/34085511?title=0&amp;byline=0&amp;portrait=0" frameborder="0" allowfullscreen></iframe></div><p><a href="http://vimeo.com/34085511">SECIL</a> from <a href="http://vimeo.com/articacc">artica</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+{% include vimeo.html id="34085511" %}

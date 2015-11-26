@@ -33,4 +33,4 @@ We will talk more about this very soon for sure!!
 "Pedro e Inês" is traveling around Portugal, you can check the dates <a href="http://www.obando.pt/newsletter/pedroeines/pedroeines.htm">here</a>.
 
 And finally here's a quick sneak peek to behind the scenes:
-<div class="video-container"><iframe src="http://player.vimeo.com/video/24128832?title=0&amp;byline=0&amp;portrait=0" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="24128832" %}

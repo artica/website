@@ -19,4 +19,4 @@ The video below is just a sneak peak of what you might expect if you dare to wat
 
 ![](/assets/images/2011-11-28-julio-de-matos-3.jpg)
 
-<div class="video-container"><iframe src="http://player.vimeo.com/video/32774633?title=0&amp;byline=0&amp;portrait=0" frameborder="0" allowfullscreen></iframe></div>
+{% include vimeo.html id="32774633" %}
