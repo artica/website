@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2015-03-07-gyro-berlin.jpg
 frontimage: /assets/images/2015-03-07-gyro-berlin.jpg
 ---
 
-We are in Berlin to attend two events to give a pitch for Gyro. Our upcoming robotic platform marketted as an Internet of Things, Edutainment and educational product targeted at the Ed-Tech market. 
+We are in Berlin to attend two events to give a pitch for Gyro. Our upcoming robotic platform marketed as an Internet of Things, Edutainment and educational product targeted at the Ed-Tech market. 
 
 The prototype of Gyro has been developed during the last 2 years as part of our QREN co-financed R&D project [E-Duca][2] and we now believe it's ready to become a product and reach the market. We are hoping to catch a smart investor for the project with good market network connections that will enable us to reach the online and retail market and produce in bulk to lower the fabrication costs per unit.
 

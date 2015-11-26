@@ -18,7 +18,7 @@ ArticaCC has been pleased to provide both live technical support for ongoing Aud
 
 CTO at Audience Entertainment, Clilly Castiglia commented that "Artica has helped Audience Entertainment produce one of it’s best outcomes to date. The level of detail insight and creative problem solving has made the work even better than originally conceived. Artica has a thoughtful team of engineers and creatives who are committed to their work and expedite as promised and more." 
 
-With the technical assistance of ArticaCC, Audience Entertainment has installed a first batch of over 100 interactive theatres in 2014, currently running interactive content campaigns across the United States.
+With the technical assistance of ArticaCC, Audience Entertainment has installed a first batch of over 100 interactive theaters in 2014, currently running interactive content campaigns across the United States.
 
 {% include vimeo.html id="109146229" %}
 

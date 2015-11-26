@@ -10,9 +10,9 @@ frontimage: /assets/images/2015-01-13-phc.jpg
 
 This week, we were at [PHC][1] presenting Artica's work. 
 
-This portuguese software house with over 25 years has regular workshops for their team and we were invited to talk about interaction design, creative robotics and digital fabrication. We also presented our new prototype of Gyro and Visualino.
+This Portuguese software house with over 25 years has regular workshops for their team and we were invited to talk about interaction design, creative robotics and digital fabrication. We also presented our new prototype of Gyro and Visualino.
  
-We were very pleased with the enthusiasm by welcomng us on their first workshop of 2015.
+We were very pleased with the enthusiasm by welcoming us on their first workshop of 2015.
 
 ![](/assets/images/2015-01-13-phc.jpg)
 

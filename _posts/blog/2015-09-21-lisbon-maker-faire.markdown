@@ -15,7 +15,7 @@ This year they're sharing the first 20 final prototypes production process, incl
 
 ![](/assets/images/2015-09-21-lisbon-maker-faire-02.jpg)
 
-Artica is also presenting [Visualino][2] for the first time, an innovative web based visual programming tool aimed at the Arduino platform, which uses a well known paradigm from the gaming industry called behaviour trees.
+Artica is also presenting [Visualino][2] for the first time, an innovative web based visual programming tool aimed at the Arduino platform, which uses a well known paradigm from the gaming industry called behavior trees.
 
 ![](/assets/images/2015-09-21-lisbon-maker-faire-03.jpg)
 
