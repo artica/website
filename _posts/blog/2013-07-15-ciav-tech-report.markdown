@@ -15,7 +15,7 @@ In early 2013 Artica and RPAR got a proposal approved to help build CIAV - Centr
 
 Most of our interaction on the project was made with the following people: Ana Robalo and Rui Pinto from <a href="http://rpar.pt/">RPAR</a> (space architecture), Eric Costa (technical director), Angela Luzia, Ana Costa, Margarida Nunes and Telmo António from city hall (contents), Aldina Semedo e Gabriela Miranda (confection), Leonel &amp; Bicho (construction), António Lobo (graphic design), André Nascimento (sound design). Big thanks go out to them. Others were also involved in the process, just not as directly with Artica.
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/urG9LNcyugM" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="urG9LNcyugM" %}
 
 This post is about the technological decisions we had to make building CIAV. It describes the problems, what were our alternatives, why we opted for our solution and what lessons we learned during the development process. It focuses on the interaction technology side of things, not the building of the space.
 

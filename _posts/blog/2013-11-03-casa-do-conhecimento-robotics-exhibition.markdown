@@ -17,7 +17,7 @@ Interactive Exhibition of Creative Robotics was how this event was entitled! Int
 
 This short video shows a bit of the exhibition:
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/1vY6tKVLZY0" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="1vY6tKVLZY0" %}
 
 <a href="http://www.flickr.com/photos/guibot/10636523874/"><img src="/assets/images/2013-11-03-casa-do-conhecimento-robotics-exhibition-2.jpg"></a>
 More than 500 students came to visit and interact with the installations during two days.

@@ -15,7 +15,7 @@ We've been collaborating with our dear friends from YDreams building outfits for
 
 <a href="http://www.engadget.com/2013/03/16/insert-coin-finalist-ziphius-aquatic-drone-hands-on/">Ziphius</a>, is an WiFi-enabled aquatic drone powered by a Raspberry Pi that can be directly controlled by any Android tablet or smartphone. The real time video allows you to control it without seeing directly where it is.
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/H9W1wmIl8YU" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="H9W1wmIl8YU" %}
 
 Please support this amazing portuguese tech project.
 

@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2012-09-24-robotic-claw-1.jpg
 frontimage: /assets/images/2012-09-24-robotic-claw-1.jpg
 ---
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/S2QnFcUeU5o" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="S2QnFcUeU5o" %}
 
 This is a first experiment on building a 3D printed robotic claw, I first got inspired by <a href="http://www.thingiverse.com/thing:18339">this</a> project but it was designed for a micro servo, and I wanted to use a standard size servo so I had to design the claw from scratch.
 

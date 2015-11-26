@@ -9,7 +9,7 @@ thumbnail: /assets/thumbs/2012-08-24-magabot-campus-party-europe-in-berlin-1.jpg
 frontimage: /assets/images/2012-08-24-magabot-campus-party-europe-in-berlin-1.jpg
 ---
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/XfWMcVf5q7c" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="XfWMcVf5q7c" %}
 
 <a href="http://www.campus-party.eu/2012/index.html">Campus Party</a> is a massive event gathering enthusiasts from all over the world, and this time it took place in Berlin. Our special agent <a href="http://franciscodias.net">Francisco Dias</a> went there and took a Magabot with him. As you can see in the video, the Magabot has a pingpong cannon ball, and is being controlled by a kinect.
 

@@ -11,7 +11,7 @@ frontimage: /assets/images/2011-12-30-sapobot-1.jpg
 
 SapoBot is a robot that wonders through spaces avoiding obstacles detects holes on the ground, follow walls and follow lines, to change between behaviors you only need to press the shell, and when he detects a collision gives a frog sound. This project was comissioned by <a href="http://sapo.pt">Sapo</a>, means frog in portuguese.
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/ZhATUkaM5oI" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="ZhATUkaM5oI" %}
 
 This bots were made with a <a href="http://guibot.pt/farrusco">Farrusco</a> chassis and <a href="http://guibot.pt/motoruino">Motoruino</a> and once again with the great <a href="http://idmind.pt">IDMind</a> hardware and electronics skills, all the credits for the eyes mechanics and all the rest of the hardware upgrade goes to them.
 

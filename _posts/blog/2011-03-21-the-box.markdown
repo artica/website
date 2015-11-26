@@ -21,6 +21,6 @@ Follow colors, react to human faces, detect flames, drive around avoiding walls,
 
 Francisco used a <a href="http://www.guibot.pt/motoruino/"> Guibot's Motoruino</a> to simplify this setup and to be prepared for future upgrades.
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/MlxJLtR8JJg" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="MlxJLtR8JJg" %}
 
 The Box is participating in a robot contest at <a href="http://www.instructables.com/">Instructables</a> so we've got to help Francisco win. See more and vote <a href="http://www.instructables.com/contest/robot/?show=ENTRIES">here</a>.

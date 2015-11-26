@@ -9,4 +9,4 @@ longexcerpt: "It has been a long ride since the 2012 showreel, we\'ve been in Ir
 
 It has been a long ride since the <a href="http://www.artica.cc/blog/2012/01/06/artica-showreel-2011/">2012 showreel</a>, we've been in Ireland, Munich and Slovenia, done a lot of robotics workshops and improved our products and services to a higher level!
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/io-OtrFhMXk" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="io-OtrFhMXk" %}

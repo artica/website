@@ -25,7 +25,7 @@ There are still a couple of enhancements on the list:
 </ul>
 
 The video is reproduced a lot faster than the program really performs  :p
-<div class="video-container"><iframe src="//www.youtube.com/embed/ly1pOw2H_1o?list=UU_SK27zLYcoPh27UTATRQNQ" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="ly1pOw2H_1o" %}
 
 Some control keys are available:
 <a href="http://www.flickr.com/photos/guibot/9711105211/">![](/assets/images/2013-09-09-differential-wheeled-robot-simulator-2.png)</a>

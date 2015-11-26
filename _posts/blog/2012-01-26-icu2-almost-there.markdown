@@ -9,6 +9,6 @@ longexcerpt: "ICU2 is going to Pavilhão do Conhecimento in February and we are 
 
 ICU2 is going to Pavilhão do Conhecimento in February and we are finishing the hardware and software. Some servos needed to be swapped and I needed to print a suport for a standard servo, this video shows a bit of the printing process and the printed thing assembled.
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/_dhjdyQFBdM" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="_dhjdyQFBdM" %}
 
 There will me more updates very soon.

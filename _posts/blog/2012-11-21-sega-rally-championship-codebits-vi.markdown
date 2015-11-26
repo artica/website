@@ -78,4 +78,4 @@ To drive this things was extremely cool!! We are looking forward to repeat the e
 
 As a final note, we want to give a big thanks to all SAPO and PT Team for making this event a reality, Mauricio Martins and Adriano Couto from <a href="http://altlab.org">AltLab</a> for helping us with the CRT's, <a href="http://franciscodias.net">Francisco Dias</a> gave a major help with his hacking skills, João Ribeiro for being a true Artica member, <a href="http://inmotion.pt">Filipe Valpereiro</a> for all the hardcore geeky support, he was the guy who told us how to remove the steering wheel lag caused by the xbee buffer... And finally thank you <a href="http://arrifana.org/blog/">Celso</a> for believing in us!!! 
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/g0JQ2x5ZVJE" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="g0JQ2x5ZVJE" %}

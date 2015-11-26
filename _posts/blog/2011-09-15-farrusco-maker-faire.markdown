@@ -11,4 +11,4 @@ Farrusco is already spreading his magic at NY!
 
 Check out <a href="http://letsmakerobots.com/user/5293">Andrew Terranova </a>video with other cool participants from <a href="http://letsmakerobots.com/">Let'sMakeRobots</a> at <a href="http://makerfaire.com/">Maker Faire</a>:
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/x4P15f1imtU" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="x4P15f1imtU" %}

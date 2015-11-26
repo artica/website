@@ -20,7 +20,7 @@ The Pong game is an adaptation of the well known game. We already used it on [Sa
 
 The color voting system was also customized for the event. The actual votes count was displayed as a... You guessed it, a pizza. The base pizza got filled with tasty ingredients in correlation with the actual positive votes from the crowd, so if a project didn't had any love from the crowd, a flavorless pizza started to appear instead.
 Of course, we also had a numeric voting count that was shown, programmers like numbers after all. 
-<div class="video-container"><iframe src="//www.youtube.com/embed/1zbnnWZvyrw" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="1zbnnWZvyrw" %}
 
 We would like to thank all the Microsoft's team involved in this project for such a fun night.
 A special thanks goes out to Miguel Vicente for organizing such a cool event and for the surprise candy!

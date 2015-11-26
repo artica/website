@@ -7,4 +7,4 @@ excerpt: ""
 longexcerpt: ""
 ---
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/0yxmAUTOF4g" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="0yxmAUTOF4g" %}

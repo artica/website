@@ -15,7 +15,7 @@ This installation was commisioned by <a href="http://gci.pt/">GCI</a>, in order 
 
 Audience Pong is a community game inspired by <a href="http://www.youtube.com/watch?v=7ohPpPDZhRc">emergence patterns</a>. No instruction is given to the audience, only a red / blue card. The audience must figure out how to move the game pads in order to hit the ball. Once the audience understands how to play, visual feedback is disabled. Pure fun  :D
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/bg094fuBALc" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="bg094fuBALc" %}
 
 Definitely the best moment of the day!
 

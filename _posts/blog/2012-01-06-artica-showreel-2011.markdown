@@ -13,4 +13,4 @@ We began this insane new adventure in our lifes called: ARTICA Creative Computin
 
 And because we could not have done it without all of you here is a sum up of last year projects:
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/w4XIw0hWVZc" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="w4XIw0hWVZc" %}

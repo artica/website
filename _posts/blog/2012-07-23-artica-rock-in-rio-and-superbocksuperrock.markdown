@@ -11,7 +11,7 @@ frontimage: /assets/images/2012-07-23-artica-rock-in-rio-and-superbocksuperrock-
 
 MusicBox is the new PT's music channel, at the festival they wanted to had the application on a big screen and have the possibility to control it using hand gesture. We were hired by <a href="http://hipnose.com">Hipnose</a> to accomplish the challenge.
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/uKH79Qt8TwY" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="uKH79Qt8TwY" %}
 
 This was meant to be with the so known kinect camera, but what they didn't know is that the kinect doesn't work outdoor, so we used a laser sensor and it worked flawlessly!!
 

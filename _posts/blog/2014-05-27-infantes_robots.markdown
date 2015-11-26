@@ -16,7 +16,7 @@ frontimage: /assets/images/2014-05-27-infantes_robots.jpg
 
 All the great information is available [here][2]
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/Fglg0kaMBi4" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="Fglg0kaMBi4" %}
  
 [1]: http://www.thebitbangtheory.com/pt/
 [2]: http://www.thebitbangtheory.com/2013/11/robos-infante-sistema-de-robotica-educativa/

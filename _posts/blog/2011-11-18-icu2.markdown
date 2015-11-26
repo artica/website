@@ -26,5 +26,5 @@ The hardware is mostly based on <a href="http://servocity.com">servocity.com</a>
 This is a work in progress, until now what is implemented is Face Detect with the openCV library for Processing.
 Next stage is to implement a more robust face and emotions detection and this will run on top of an inverse kinematics algorithm. What we want the most is ICU2 to be a living organism, with a complex behavior tree system.
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/rmqp3KA0PeM" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="rmqp3KA0PeM" %}
  

@@ -11,4 +11,4 @@ Magabot is becoming more and more interactive, this time <a href="http://www.fra
 
 In the next episode Magabot will have a face and will be able to speak and listen to commands!
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/a56qx11ZK_I" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="a56qx11ZK_I" %}

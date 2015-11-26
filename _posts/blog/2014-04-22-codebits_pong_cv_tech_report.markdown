@@ -20,7 +20,7 @@ We re-implemented the computer vision modules using Bonsai. Testing it for use w
 
 It also includes some computer vision modules of our own. Some optimised functionalities were needed, mainly to the divise, merge and serialise image frames on realtime.
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/8KTkqO_PKfY" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="8KTkqO_PKfY" %}
 
 For the Pong we used standard HTML5 canvas client running on a modern browser (tested on Firefox 28 and Chrome 34). We used XSockets (with a .js library) to send the binary image of the camera from Bonsai to the browser, and also send weights information for the left and right paddles.
 

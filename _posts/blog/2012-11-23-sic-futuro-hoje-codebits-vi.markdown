@@ -9,4 +9,4 @@ longexcerpt: "Great report about Codebits VI by Lourenço Medeiros - SIC @ \"Fut
 
 Great report about Codebits VI by Lourenço Medeiros - SIC @ "Futuro Hoje"
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/ExmkrZVoCm4" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="ExmkrZVoCm4" %}

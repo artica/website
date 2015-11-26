@@ -13,7 +13,7 @@ frontimage: /assets/images/2014-05-15-tondela_2.JPG
 Last wednesday we were invited by Prof. Luis Dias to take Farrusco and the Robotics initiation Workshop at agora[Escola Profissional de Tondela][1].
 Check out the vídeo made by Prof. Ricardo Silva!
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/0SKydHUmKFY" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="0SKydHUmKFY" %}
 
 ![](/assets/images/2014-05-15-tondela.JPG)
 

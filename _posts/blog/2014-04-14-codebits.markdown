@@ -20,7 +20,7 @@ We were at the Hardware Den area with a stand showcasing our robots, research pr
 
 We also did a little project for the organization, to help entertain the audience (playing collaborative pong) during the opening ceremony and innovate the way they counted votes. We developed a computer vision module using Bonsai to monitor the audience who had some red and green cards they could wave around and interact with. The project was somehow similar to our <a href="http://artica.cc/projects/interactive/2013/09/26/audience-pong.html">previous work for Projecto 80</a> but we actually recoded it from scratch using Bonsai and HTML5 technology (there will be a tech report post following soon).
 
-<div class="video-container"><iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/NuRAWAms8dISgkdlJfny/mov/1" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="KC0FbYL5YsE" %}
 
 
 ![](/assets/images/2014-04-14-codebits_3.jpg)
@@ -35,5 +35,5 @@ Overall the event went pretty well, we had lot of fun and met some very cool peo
 
 Here is a video of the projects voting system in action (we did the computer vision module for it).
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/KC0FbYL5YsE" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="KC0FbYL5YsE" %}
 

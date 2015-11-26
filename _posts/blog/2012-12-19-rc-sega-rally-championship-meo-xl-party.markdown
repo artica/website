@@ -13,4 +13,4 @@ frontimage: /assets/images/2012-12-19-rc-sega-rally-championship-meo-xl-party-1.
 
 Video by <a href="http://TheArcadeMan.net">TheArcadeMan</a>!! Enjoy!!!  :D
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/cM9Aq6DEAXM" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="cM9Aq6DEAXM" %}

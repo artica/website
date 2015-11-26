@@ -17,5 +17,5 @@ We also had some banners explaining our recently launched research projects in e
 
 Here is a video of our presence at the event:
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/pWb_nOIrxsw?list=UU_SK27zLYcoPh27UTATRQNQ" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="pWb_nOIrxsw" %}
 

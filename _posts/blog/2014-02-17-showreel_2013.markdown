@@ -18,4 +18,4 @@ We hope you enjoy, and feel free to leave any comments.
 
 Cheers!
 
-<div class="video-container"><iframe src="http://www.youtube.com/embed/jGofvKQYqjo" frameborder="0" allowfullscreen></iframe></div>
+{% include youtube.html id="jGofvKQYqjo" %}
