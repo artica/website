@@ -28,7 +28,7 @@ Inside the house, the goal was to provide the robots skills to ease the day-to-d
 
 Pedro Lima, a professor at Instituto Superior Técnico (IST) and RoCKIn coordinator, is proud of the results of the competition that featured some of the best university teams in the robotics area, such as Smartlab, one of the winners of the RoboCup 2015, a major robotics competition that, in the last edition, was held in China.
 
-The coordinator also highlighted the "excellent performance of the Portuguese team, SocRob, from IST, which participated for the first time and won several stages of the competition in the Home environment."
+The coordinator also highlighted the "excellent performance of the Portuguese team, SocRob, from IST, which participated for the second time and won several stages of the competition in the Home environment."
 
 Another "reason for being proud" was the increase of female participation. "We noticed, particularly in the 'camps' (training events organized during the RoCKIn project), that the number of girls is increasing. Maybe because we are focusing more on everyday functions which require a direct association with humans”, says Pedro Lima.
 
