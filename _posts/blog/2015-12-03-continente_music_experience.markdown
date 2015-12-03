@@ -3,14 +3,14 @@ layout: post
 date: 2015-12-03 12:30:00 UTC
 title: "Continente Music Experience"
 categories: blog
-excerpt: "Two years ago we did a project for a Continente Missão Sorriso roadshow which we never got around to submitting a blog post about this project until today."
+excerpt: "Two years ago we did a project for a Continente Missão Sorriso roadshow which we never got around to submitting a blog post until today."
 thumbnail: /assets/thumbs/2015-12-03-continente-music-experience-04.jpg
 frontimage: /assets/images/2015-12-03-continente-music-experience-04.jpg
 ---
 
 ![](/assets/images/2015-12-03-continente-music-experience-04.jpg)
 
-Around two years ago we did a project for a [Continente Missão Sorriso][1] roadshow which we never got around to submitting a blog post about this project until today, even though it was already fully documented and is even [open source][3].
+Around two years ago we did a project for a [Continente Missão Sorriso][1] roadshow which we never got around to submitting a blog post until today, even though it was already fully documented and is even [open source][3].
 
 {% include youtube.html id="gKpxnx61JYE" %}
 
