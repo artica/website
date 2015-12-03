@@ -14,7 +14,7 @@ Around two years ago we did a project for a [Continente Missão Sorriso][1] road
 
 {% include youtube.html id="gKpxnx61JYE" %}
 
-The project was comissioned through a 3rd party agency. The concept behind it was to create an interactive installation for a road-show campaign that would be travelling through several schools across Portugal to promote Missão Sorriso. The project involved developing a band hero clone that could play 3 licensed tracks from Orelha Negra. To bring more impact to the experience we use real instruments as input devices instead of the usual plastic controllers.
+The project was comissioned through a 3rd party agency. The concept behind it was to create an interactive installation for a road-show campaign that would be travelling through several schools across Portugal to promote Missão Sorriso. The project involved developing a band hero clone that could play 3 licensed tracks from [Orelha Negra][4]. To bring more impact to the experience we used real instruments as input devices instead of the usual plastic controllers.
 
 ## Hardware
 
@@ -76,3 +76,4 @@ We were present on the initial setup sessions to make sure all things worked smo
 [1]: http://missao.continente.pt/
 [2]: http://artica.cc/blog/2013/09/26/audience-pong.html
 [3]: http://www.pixijs.com/
+[4]: https://soundcloud.com/orelha-negra
