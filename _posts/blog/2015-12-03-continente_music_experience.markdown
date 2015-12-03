@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-12-02 16:00:00 UTC
+date: 2015-12-03 12:30:00 UTC
 title: "Continente Music Experience"
 categories: blog
 excerpt: "Two years ago we did a project for a Continente Missão Sorriso roadshow which we never got around to submitting a blog post about this project until today."
