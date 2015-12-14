@@ -3,7 +3,7 @@ layout: post
 date: 2015-12-14 18:00:00 UTC
 title: "Contos Negros para os filhos dos brancos"
 categories: blog
-excerpt: "Two years ago we did a project for a Continente Missão Sorriso roadshow which we never got around to submitting a blog post until today."
+excerpt: "A couple weeks ago we did lighting direction for a show of Teatro ABC.PI"
 thumbnail: /assets/thumbs/2015-12-14-contos-negros-03.jpg
 frontimage: /assets/images/2015-12-14-contos-negros-03.jpg
 ---
