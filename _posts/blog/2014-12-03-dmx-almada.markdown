@@ -4,7 +4,7 @@ date: 2014-12-03 10:30:00 UTC
 title: "DMX HMI Controller"
 categories: blog
 excerpt: "Our friends from the Almada Theater asked us to help them out with a lost DMX HMI controller for their new play."
-thumbnail: /assets/thumbs/2014-12-03-dmx-almada.JPG
+thumbnail: /assets/thumbs/2014-12-03-dmx-almada.jpg
 frontimage: /assets/images/2014-12-03-dmx-almada-1.JPG
 ---
 
