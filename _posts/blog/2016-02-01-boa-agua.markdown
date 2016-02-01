@@ -12,9 +12,9 @@ frontimage: /assets/images/2016-02-01-boa-agua-01.jpg
 
 During the month of January, a team of ArticaCC visited the [Boa Água schools group][1], in Quinta do Conde (Sesimbra, Portugal), to perform workshops which introduced teachers to creative computing.
 
-About 15 teachers from several teaching areas (from English to Portuguese, Math, and Information Technologies, even primary school teachers) had the opportunity to programm Farrusco, the first didactic robot that was developed by Artica. 
+About 15 teachers from several teaching areas (from English to Portuguese, Math, and Information Technologies, even primary school teachers) had the opportunity to programm [Farrusco][2], the first didactic robot that was developed by Artica. 
 
-During the workshops, ArticaCC used several Farruscos among the teachers who, after learning the main hardware components of Farrusco, used Visualino to program the robot with different behaviours.
+During the workshops, ArticaCC used several Farruscos among the teachers who, after learning the main hardware components of Farrusco, used [Visualino][3] to program the robot with different behaviours.
 
 Turn LEDs on and off, tell Farrusco to move in different directions, and teach the robot how to avoid objects were some of the actions that the teachers learned to program. 
 
