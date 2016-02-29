@@ -12,7 +12,7 @@ On 20 February 2016 we went to Barreiro to attend the opening of [FabLab Barreir
 
 ![](/assets/images/2016-02-26-fablab-barreiro-3.png)
 
-FabLab Barreiro are one of our partners, having become early adopters of our latest robotic platform [Gyro][3]. They will be able to use Gyro for their projects and any activity promoting the development of technological competences.
+FabLab Barreiro is one of our partners, having become early adopters of our latest robotic platform [Gyro][3]. They will be able to use Gyro for their projects and any activity promoting the development of technological competences.
 
 You can read more about their opening day on their [facebook page][1].
 
