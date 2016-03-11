@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2016-03-11 13:30:00 UTC
+title: "Showreel 2014-2015"
+categories: blog
+excerpt: "We finally found some time to put together a showreel video for what we been doing in 2014 and 2015."
+thumbnail: /assets/thumbs/2016-03-11-showreel_2014_2015.jpg
+frontimage: /assets/images/2016-03-11-showreel_2014_2015.jpg
+---
+
+We finally found some time to put together a showreel video for what we been doing in 2014 and 2015.
+
+{% include youtube.html id="ha7DXGib22g" %}
