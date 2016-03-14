@@ -10,7 +10,7 @@ frontimage: /assets/images/2016-03-14-stereoscopy-02.jpg
 
 We have a tradition at Artica of reserving Friday lunches as a team activity where we balance what we been doing this week and what needs to get tackled next week. To make sure everyone is present we originally called it a "brown bag lunch" session. Where people are supposed to bring their lunches from home in a brown bag, sit around a table and eat it while others talk. But since most of us don't bring lunch from home in a brown bag we ended up ordering pizzas every week. So the session ended up renamed into what is known today as the "white squared box". Sometimes we use these sessions to present to the company topics that are core to some of our services. And we thought it might be cool for our followers out there to read about it aswell.
 
-This week our CEO André Almeida talked to us a bit about [stereoscopy][1] and stereo vision. Stereoscopy is a technique used to create a depth illusion with images, which produces a "3D effect". This is an example of a primitive use of this technique, we have two images, both taken at a slight different distance. Once we join the two, overlapping one another we will see a 3D effect.
+This week André talked to us a bit about [stereoscopy][1] and stereo vision. Stereoscopy is a technique used to create a depth illusion with images, which produces a "3D effect". This is an example of a primitive use of this technique, we have two images, both taken at a slight different distance. Once we join the two, overlapping one another we will see a 3D effect.
  
 ![](/assets/images/2016-03-14-stereoscopy-01.jpg)
 
