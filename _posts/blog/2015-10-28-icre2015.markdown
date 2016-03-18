@@ -10,12 +10,12 @@ frontimage: /assets/images/2015-10-28-icre2015-03.jpg
 
 ![](/assets/images/2015-10-28-icre2015-03.jpg)
 
-The [International Conference on Robot Ethics of 2015][1] took place in Lisbon on the 23rd and 24th of October. We participated in the showcase area with a booth demonstrating [Gyro][2] and [Visualino][3].
+The [International Conference on Robot Ethics of 2015][1] took place in Lisbon on the 23rd and 24th of October. We participated in the showcase area with a booth demonstrating [Gyro][2] and [Visualino][3] (now named Gyro Creator).
 
 ![](/assets/images/2015-10-28-icre2015-01.jpg)
 
 ![](/assets/images/2015-10-28-icre2015-02.jpg)
 
 [1]: http://icre2015.com/
-[2]: https://www.youtube.com/watch?v=Bj-s6yr4b28
-[3]: http://visualino.cc
+[2]: http://gyro.artica.cc
+[3]: http://gyro.artica.cc/creator/

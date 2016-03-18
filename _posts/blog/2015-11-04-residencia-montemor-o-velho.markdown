@@ -38,7 +38,7 @@ Tarquinio worked on two projects. The first was continued work on his interactiv
 
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-03.jpg)
 
-Tarquinio also gave Artica a workshop on Visualino, as he had done at the MakerFaires in Lisbon and Rome. This allowed the rest of us from Artica who have not been working on Visualino to get better acquainted with the project, find bugs and point out improvement ideas.
+Tarquinio also gave Artica a workshop on [Visualino][7] (now named Gyro Creator), as he had done at the MakerFaires in Lisbon and Rome. This allowed the rest of us from Artica who have not been working on Visualino to get better acquainted with the project, find bugs and point out improvement ideas.
 
 ![](/assets/images/2015-11-04-residencia-montemor-o-velho-06.jpg)
 
@@ -74,3 +74,4 @@ Artica was created by people who were tired of working the wrong way. Who believ
 [4]: http://www.kongregate.com/games/oivoi/soccer-physics
 [5]: https://www.facebook.com/citec.montemorvelho
 [6]: http://pixelnerve.com/
+[7]: http://gyro.artica.cc/creator/

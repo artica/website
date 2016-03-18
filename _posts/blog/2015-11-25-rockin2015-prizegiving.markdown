@@ -14,7 +14,7 @@ frontimage: /assets/images/2015-11-25-rockin2015-02.jpg
 
 Artica was one of the sponsors of the second robotic competition organized by Rockin (Robot Competitions Kick Innovation in Cognitive Systems and Robotics), a European project coordinated by the Instituto Superior Técnico (IST) which was launched in 2013 and will be concluded by the end of this year.
 
-The big winner was team homer, from the University of Koblenz, Germany. As a reward for winning the RoCKIn competition, the team received this Monday, the first prototype of [Gyro][2], the new edutainment robotic platform created by Artica. The new robot is already set up to be controlled remotely, draw and play music, among other functions. But through Visualino, the programming platform with which it is equipped, Gyro is prepared to "learn" many other tasks.
+The big winner was team homer, from the University of Koblenz, Germany. As a reward for winning the RoCKIn competition, the team received this Monday, the first prototype of [Gyro][2], the new edutainment robotic platform created by Artica. The new robot is already set up to be controlled remotely, draw and play music, among other functions. But through Gyro Creator, the programming platform with which it is equipped, Gyro is prepared to "learn" many other tasks.
 
 ![](/assets/images/2015-11-25-rockin2015-03.jpg)
 

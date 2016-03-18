@@ -10,7 +10,7 @@ frontimage: /assets/images/2015-09-01-creatifi.jpg
 
 We went to Barcelona on the 27th of August to give a [final pitch of our Fiware participation with Visualino][1].
 
-Visualino was originally developed as part of project [E-Duca][6], an R&D project co-financed by QREN. With the end of E-Duca in 2015 we have now been trying to transform that initial prototype into a proper product able to reach the market.
+Visualino (named in 2016 to Gyro Creator) was originally developed as part of project [E-Duca][6], an R&D project co-financed by QREN. With the end of E-Duca in 2015 we have now been trying to transform that initial prototype into a proper product able to reach the market.
 
 Here is a demo video of how it's shaping up:
 
@@ -30,7 +30,7 @@ The presentation in Barcelona went well and the [prezi is available][2].
 
 [1]: http://www.creatifi.eu/creatifi-open-call-1-final-pitching-days/
 [2]: https://prezi.com/4ioso59syoi0/born/
-[3]: http://visualino.cc
+[3]: http://gyro.artica.cc/creator
 [4]: http://creatifi.eu
 [5]: https://www.fiware.org/
 [6]: http://e-duca.cc
