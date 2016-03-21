@@ -16,6 +16,8 @@ This week André talked to us a bit about [stereoscopy][1] and stereo vision. St
 
 The same happens in reality every time we watch something with both our eyes, having two different perspective views of the same object helps our brain recognize the depth position of a tridimensional object. The stereo vision allows us to have a depth perception, to analyze if something is far or close to us.
 
+To see if your eyes are working together and if your stereo vision is working flawlessly you can try [this test out][4].
+
 There are many ways to reconstruct 3D using stereoscopy, using [anaglyphic][3] glasses, polarized glasses, and more recently virtual reality helmets, or it's lowcost cousin the [google cardboard][2].
 
 ![](/assets/images/2016-03-14-stereoscopy-02.jpg)
@@ -29,3 +31,4 @@ Another usage that we make of stereoscopy in our projects can be found on the wi
 [1]: https://en.wikipedia.org/wiki/Stereoscopy
 [2]: https://www.google.com/get/cardboard/
 [3]: https://en.wikipedia.org/wiki/Anaglyph_3D
+[4]: http://www.vision3d.com/frame.html
