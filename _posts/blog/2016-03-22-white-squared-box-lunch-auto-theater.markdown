@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2016-03-22-auto-theater-01.jpg
 frontimage: /assets/images/2016-03-22-auto-theater-01.jpg
 ---
 
-During our latest "white squared box lunch" session, we received a guest named [Alexandre Calado][8] from Artes e Engenhos, he talked to us about his idea for a new project that might be developed with the help of Artica named "Kasper". It is related to the concept of auto theatre, the character from the original Kasper written by Peter Handke, and a research he has been conducting on the deprecated use of the cue person in modern theaters. He shared with us his concept for the play and gave us some insight on some of these topics (auto theater, cue person) which we would like to share with you on this blog post.
+During our latest "white squared box lunch" session, we received a guest named [Alexandre Calado][8] from Artes e Engenhos, he talked to us about his idea for a new project that might be developed with the help of Artica named "Kasper". It is related to the concept of auto theatre, the character from the original Kasper written by Peter Handke, and a research he has been conducting on the deprecated use of the prompter in modern theaters. He shared with us his concept for the play and gave us some insight on some of these topics (auto theater, prompter) which we would like to share with you on this blog post.
 
 ![](/assets/images/2016-03-22-auto-theater-01.jpg)
 
@@ -20,7 +20,7 @@ Later auto theatre evolved into an even more immersive experience where groups o
 
 Other examples of plays by Ant Hampton featuring the auto theatre concept include ["Cue China"][6] and ["Extra People"][7].
 
-The idea by Alexandre is to create a play of the same type, but instead of taking place in a coffee shop or a bar, two people would be inside a real theater and the play itself would connect both more or less the same way as it was seen in "ETIQUETTE" plus having a pre-recorded non-linear narrative video of an actor performing a play and where these two people would take on the role of a fictional cue person affecting and being affected by the performance. The idea was brainstormed and discussed through-out the lunch providing Alexandre with a few other ideas or technical solutions for his concept.
+The idea by Alexandre is to create a play of the same type, but instead of taking place in a coffee shop or a bar, two people would be inside a real theater and the play itself would connect both more or less the same way as it was seen in "ETIQUETTE" plus having a pre-recorded non-linear narrative video of an actor performing a play and where these two people would take on the role of a fictional prompter affecting and being affected by the performance. The idea was brainstormed and discussed through-out the lunch providing Alexandre with a few other ideas or technical solutions for his concept.
 
 [1]: http://www.rotozaza.co.uk/bloke.html
 [2]: http://www.anthampton.com/about.html
