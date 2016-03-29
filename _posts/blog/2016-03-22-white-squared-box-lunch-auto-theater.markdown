@@ -3,7 +3,7 @@ layout: post
 date: 2016-03-24 12:00:00 UTC
 title: "WSBL about Auto Theater"
 categories: blog
-excerpt: "Our topic for this weeks' white squared box lunch was stereoscopy"
+excerpt: "Our topic for this weeks' white squared box lunch was auto theater"
 thumbnail: /assets/thumbs/2016-03-22-auto-theater-01.jpg
 frontimage: /assets/images/2016-03-22-auto-theater-01.jpg
 ---
