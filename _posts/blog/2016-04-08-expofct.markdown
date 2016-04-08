@@ -1,0 +1,22 @@
+---
+layout: post
+date: 2016-04-08 12:00:00 UTC
+title: "EXPO FCT"
+categories: blog
+excerpt: "We collaborated with FCT to offer visiting high-school students a hands-on workshop of programming our Farrusco robots using either Gyro Creator or Scratch"
+thumbnail: /assets/thumbs/2016-04-08-expofct-01.jpg
+frontimage: /assets/images/2016-04-08-expofct-01.jpg
+---
+
+Artica was once again invited to participate at [EXPO FCT][1], which took place on the 6th of April. We collaborated with a few FCT teachers and volunteers to offer visiting high-school students a hands-on workshop of programming our [Farrusco][2] robots using either [Gyro Creator][3] or [Scratch][4].
+
+The Gyro Creator and Scratch workshops were accompanied by a PhD researcher who gathered data from the workshops and will use that data on her thesis to draw conclusions on the comparison of teaching tools. We are looking forward to analyse the data and use it to further improve our tool.
+
+![](/assets/images/2016-04-08-expofct-01.jpg)
+
+![](/assets/images/2016-04-08-expofct-02.jpg)
+
+[1]: http://www.expo.fct.unl.pt/
+[2]: http://artica.cc/products/#farrusco
+[3]: http://gyro.artica.cc/creator
+[4]: https://scratch.mit.edu/
