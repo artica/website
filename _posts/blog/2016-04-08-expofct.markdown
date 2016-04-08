@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-04-08 12:00:00 UTC
+date: 2016-04-08 16:00:00 UTC
 title: "EXPO FCT"
 categories: blog
 excerpt: "We collaborated with FCT to offer visiting high-school students a hands-on workshop of programming our Farrusco robots using either Gyro Creator or Scratch"
