@@ -1,0 +1,45 @@
+---
+layout: post
+date: 2016-04-21 12:00:00 UTC
+title: "OSPT 30 May 2016"
+categories: blog
+excerpt: "Artica is organizing an Open Source Portugal meeting on the upcoming 30th of May."
+thumbnail: /assets/thumbs/2016-04-21-ospt.jpg
+frontimage: /assets/images/2016-04-21-ospt.jpg
+---
+
+![](/assets/images/2016-04-21-ospt.jpg)
+
+Artica is organizing an [Open Source Portugal meeting][1] on the upcoming 30th of May 2016 at Universidade Lusófona.
+
+The date was picked to coincide with the [European Maker Week][2].
+
+The idea of organizing this meeting came from our work on the structuring project of Open TICE, a cluster of Portuguese companies and organizations interested in promoting the use of Open Source technology and culture in the national [TICE][3] cluster. 
+
+We hope this is the first of many meetings around Open Source that we will organize. Our intent is to not only bring more awareness to Open Source but also to enable synergies between different people and entities interested in Open Source: national organizations, university groups, non profit associations and business companies.
+
+We are open for talk proposals until the 27th of April. You can use [this google form][4] to submit your talk (portuguese language only, sorry).
+
+We welcome speakers on all things open source related including:
+* Intelectual property and open source licenses
+* Business models based on open source
+* Open Source Communities
+* Impacts on Society
+* Open Source Software
+* Open Hardware
+* Open Data
+* Open Health
+* Open Materials
+* Open Biology
+* Open Design
+* Open Knowledge
+* Free Culture
+* etc
+
+More info on the website: [http://ospt.artica.cc][1]
+
+[1]: http://ospt.artica.cc
+[2]: http://europeanmakerweek.eu/
+[3]: http://www.tice.pt
+[4]: http://goo.gl/forms/oJkZL1gNKu
+
