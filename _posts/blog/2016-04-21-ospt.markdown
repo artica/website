@@ -21,6 +21,7 @@ We hope this is the first of many meetings around Open Source that we will organ
 We are open for talk proposals until the 27th of April. You can use [this google form][4] to submit your talk (portuguese language only, sorry).
 
 We welcome speakers on all things open source related including:
+
 * Intelectual property and open source licenses
 * Business models based on open source
 * Open Source Communities
