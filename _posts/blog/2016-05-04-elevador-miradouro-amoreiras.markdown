@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2016-05-04 12:00:00 UTC
+date: 2016-05-11 12:00:00 UTC
 title: "Amoreiras 360 Viewpoint Elevator"
 categories: blog
-excerpt: ""
+excerpt: "The conceptwas to modify the elevator taking people from the main floor to the Amoreiras 360 viewpoint top floor covering it with LCD screens, LEDs and environment sounds and video"
 thumbnail: /assets/thumbs/2016-05-04-elevador-miradouro-amoreiras-01.jpg
 frontimage: /assets/images/2016-05-04-elevador-miradouro-amoreiras-01.jpg
 ---
