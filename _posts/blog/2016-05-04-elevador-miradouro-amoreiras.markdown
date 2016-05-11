@@ -1,18 +1,20 @@
 ---
 layout: post
 date: 2016-05-11 12:00:00 UTC
-title: "Amoreiras 360 Viewpoint Elevator"
+title: "Amoreiras 360 Panoramic View Elevator"
 categories: blog
-excerpt: "The conceptwas to modify the elevator taking people from the main floor to the Amoreiras 360 viewpoint top floor covering it with LCD screens, LEDs and environment sounds and video"
+excerpt: "The concept was to modify the elevator taking people from the main floor to the Amoreiras 360 Panoramic View top floor covering it with LCD screens, LEDs and environment sounds and video"
 thumbnail: /assets/thumbs/2016-05-04-elevador-miradouro-amoreiras-01.jpg
 frontimage: /assets/images/2016-05-04-elevador-miradouro-amoreiras-01.jpg
 ---
 
-In September 2015 we did a project for [State of the Art][15] to develop a few installations to celebrate [30 Anos Amoreiras][1]. Amongst them was a fake (as in non moving) elevator, furbished with LCD screens and LED strips. The elevator part of the project was promoting the upcoming opening of a [360 degree viewpoint of the Amoreiras tower][11].
+In September 2015 we did a project for [State of the Art][15] to develop a few installations to celebrate [30 Anos Amoreiras][1]. Amongst them was a fake (as in non moving) elevator, furbished with LCD screens and LED strips. The elevator part of the project was promoting the upcoming opening of a [Amoreiras 360 Panoramic View][11] from the top of Amoreiras tower.
 
-From that project came talks with [Mundicenter][17] to build in partnership with [Schindler][16] a real interactive elevator in Amoreiras which was adjudicated.
+![](/assets/images/2016-05-04-elevador-miradouro-amoreiras-12.jpg)
 
-The concept now was to modify the elevator taking people from the main floor to the Amoreiras 360 viewpoint top floor. Covering it with LCD screens, LED strips and environment sounds and video. The elevator has video animations and sounds triggered when the elevator ascends or descends. The system also has it's own content scheduler backend, allowing Mundicenter to alter the videos, sounds, LED animations and corresponding trigger queues.
+From that project came talks with [Mundicenter][17] to have us build, in partnership with [Schindler][16], a real interactive elevator in Amoreiras which was adjudicated. The project relied heavily on Schindler's know-how on elevator security norms and functionality, while we were left with the task of adapting our technology to fit those restrictions.
+
+The concept was to modify the elevator taking people from the main floor to the Amoreiras 360 viewpoint top floor. Covering it with LCD screens, LED strips and environment sounds and video. The elevator has video animations and sounds triggered when the elevator ascends or descends. The system also has it's own content scheduler backend, allowing Mundicenter to alter the videos, sounds, LED animations and corresponding trigger queues.
 
 Here are some of our early concept renders:
 
