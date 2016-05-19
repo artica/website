@@ -1,0 +1,71 @@
+---
+layout: post
+date: 2016-05-19 12:00:00 UTC
+title: "Mi-Go"
+categories: blog
+excerpt: "Mi-Go's concept is to help kids learn logical thinking and to capacitate them with programming skills by the use of physical blocks."
+thumbnail: /assets/thumbs/2016-05-18-migo-01.jpg
+frontimage: /assets/images/2016-05-18-migo-01.jpg
+---
+
+João Queiroz and Daniel Gonçalves contacted us over a year ago with an idea they wanted to bring to life. João Queiroz had found us at [Lisbon Maker Faire][1] and thought we might be able to help them build their first proof of concept.
+
+![](/assets/images/2016-05-18-migo-01.jpg)
+
+They named it [Mi-Go][5], a new [tangible programming tool][2]. The concept is to help kids learn logical thinking and to capacitate them with programming skills by the use of physical blocks.
+
+We loved the idea! It is a great way to reduce the [technological illiteracy][3] among young kids in a fun way. They can play and learn with Mi-Go even if they are not able to read yet.
+
+João Queiroz and Daniel Gonçalves already had a good description on paper of behaviours and even some games they wanted to try and test.
+
+![](/assets/images/2016-05-18-migo-03.jpg)
+
+The available budget was not much, so to make it happen, we agreed to develop this project with a more extensive timeline. It took us all a lot of effort to accomplish this.
+
+The game is composed basically by three types of blocks and one robot:
+
+- Main Block: The block that have a push button that will read the instruction sequence and send it to the robot
+- Functions Blocks: Blocks that represent specific instructions, such as move forward, turn left, repeat next instructions, etc.
+- Number Blocks: Blocks that quantifies the functions, such as “how much steps the robot will move” or “turn”
+- Robot: The “Turtle” that will execute the sequence 
+
+![](/assets/images/2016-05-18-migo-02.jpg)
+
+We started by figuring out what would be the shape and the connections between the blocks. The solution involved Neodymium magnets and metal contacts protected in a way so that little kids could play at their hearts content without any danger.
+
+Then we chose the connection terminals and hardward. And started thinking about the communication protocol between the blocks. 
+
+Finally we developed the blocks design and made the first prototypes with 3D printing. As soon as the 3D printing was validated we produced a small batch using silicone and [resin casting][4] methods.
+
+All PCB and electronics were soldered and designed inhouse. All of them Arduino-based, for simpler development. Probably later, in higher production, they may use lower cost microcontrollers. The 3D pieces and PCBs were built similar to lower production costs.
+
+The Main Block has an internal battery to power the “child blocks” and it is charged by USB. It communicates with the robot by RF, and with the “child blocks” directly by the metal contacts connectors. 
+
+Each “child block” has an RGB LED which gives you feedback of the current sequence reading state and reading errors.
+
+![](/assets/images/2016-05-18-migo-04.jpg)
+
+The robot main features are:
+
+- RGB LED on top for feedback and sequence detection errors.
+- Stepper motors for extreme high precision in the movements. 
+- USB charging and Lithium Battery.
+- RGB color sensor on the bottom. Games detecting different ground colors can be used.
+- Pen hole so that drawings can be made.
+- General Purpose IO’s for future interface with other sensors. 
+
+![](/assets/images/2016-05-18-migo-05.jpg)
+
+Last but not least, nothing better than a video showing how it works:
+{% include youtube.html id="eAP_ijt3AAk" %}
+
+If you’re interested in something related to the project please contact ArticaCC or João Queiroz and Daniel Gonçalves directly through the following contacts:  
+[http://www.migobot.com/][5]  
+E-mail: info@migobot.com  
+Phone: (+351) 967 191 944
+
+[1]: http://makerfairelisbon.com/
+[2]: http://www.dourish.com/research/tpl.html
+[3]: http://ec.europa.eu/education/policy/strategic-framework/education-technology_en.htm
+[4]: https://en.wikipedia.org/wiki/Resin_casting
+[5]: http://www.migobot.com/
