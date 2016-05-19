@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-05-19 12:00:00 UTC
+date: 2016-05-19 11:00:00 UTC
 title: "Mi-Go"
 categories: blog
 excerpt: "Mi-Go's concept is to help kids learn logical thinking and to capacitate them with programming skills by the use of physical blocks."
