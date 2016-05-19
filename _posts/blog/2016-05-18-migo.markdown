@@ -25,7 +25,7 @@ The available budget was not much, so to make it happen, we agreed to develop th
 The game is composed basically by three types of blocks and one robot:
 
 - Main Block: The block that have a push button that will read the instruction sequence and send it to the robot
-- Functions Blocks: Blocks that represent specific instructions, such as move forward, turn left, repeat next instructions, etc.
+- Functions Blocks: Blocks that represent specific instructions, such as move forward, turn left, repeat next instructions, etc
 - Number Blocks: Blocks that quantifies the functions, such as “how much steps the robot will move” or “turn”
 - Robot: The “Turtle” that will execute the sequence 
 
