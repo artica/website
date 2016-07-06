@@ -14,7 +14,7 @@ As usual Artica participated on [Lisbon Maker Faire][1] for the third year in a 
 
 ![](/assets/images/2016-07-05-makerfaire-lisbon-02.jpg)
 
-This year Maker Faire Lisbon took place on the 25th and 26th of June. We focused our participating on showcasing a Pinball table hack that we did in partnership with [The Arcade Man][2], originally developed for a project by [Lobo Mau][3], we repurposed the pinball to show some video content by Artica. We are hoping to write a more in-depth article about the project in the near future, for now let's just summarize that the pinball cabinet was altered to display different sets of videos, triggered by the in-game pinball activity.
+This year Maker Faire Lisbon took place on the 25th and 26th of June. We focused our participating on showcasing a pinball machine hack that we did in partnership with [The Arcade Man][2], originally developed for a project by [Lobo Mau][3], we repurposed the pinball to show some video content by Artica. We are hoping to write a more in-depth article about the project in the near future, for now let's just summarize that the pinball was altered to display different sets of videos, triggered by the in-game pinball activity.
 
 We also showed the latest progress of our edutainment platform [Gyro][4].
 
