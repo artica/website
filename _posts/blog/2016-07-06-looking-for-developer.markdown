@@ -3,7 +3,7 @@ layout: post
 date: 2016-07-06 11:00:00 UTC
 title: "Looking for Developer"
 categories: blog
-excerpt: "Artica is looking for a software developer for an internship position on Unity3D"
+excerpt: "Artica is looking for a software developer for an internship position on Unity3D."
 thumbnail: /assets/thumbs/2016-07-06-artica-wants-you.jpg
 frontimage: /assets/images/2016-07-06-artica-wants-you.jpg
 ---
