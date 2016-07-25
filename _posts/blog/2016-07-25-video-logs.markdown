@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2016-07-25-video-logs.jpg
 frontimage: /assets/images/2016-07-25-video-logs.png
 ---
 
-Artica's philosphy on what technology to use on a project, is to always use whichever technology is better suited to solve the problem. After research has been done and there is no good tool for the job, we do our own. There is always a trade off between learning new technology and using the technology we are familiarized with. We try to find a balance between both, always looking at emerging technologies and developments, and exploring new technologies whenever we find a fitting project for them. Or going back to familiar technology and improve it / reuse it to solve the problem.
+Artica's philosophy on what technology to use for a project is to always use whichever technology is better suited to solve the problem. After research has been done and there is no good tool for the job, we do our own. There is always a trade off between learning new technology and using the technology we are familiarized with. We try to find a balance between both, always looking at emerging technologies and developments, and exploring new technologies whenever we find a fitting project for them. Or going back to familiar technology and improve it / reuse it to solve the problem.
 
 We apply this logic to all our areas of expertise: software development, hardware development, prototyping, educational tools, interactive installations, custom r&d, etc.
 
