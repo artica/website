@@ -12,13 +12,13 @@ On 2015 we submitted to [SI I&DT P2020][1] a physical computing individual resea
 
 The plan focuses largely on research and development to bring innovation to the three fields of expertise surrounding physical computing:
 
-* Software - computer vision, computer graphics, network communications, algoryhtms, etc
+* Software - computer vision, computer graphics, network communications, algorihtms, etc
 * Hardware - microcontrollers, electronics, embedded systems, cameras, etc
 * Making - prototyping, new techniques, list of suppliers, etc
 
 This plan also includes several pilot installations to test and prove our technology in the field. And the usual public communication and project managment tasks.
 
-After long delay in receiving an answer, we have finally received word a few months ago that the project has been approved.
+After a long delay in receiving an answer, we have finally received word a few months ago that the project has been approved.
 
 We had already started work on most of the items listed in the plan, since they were important for the company to pursue regardless if we would get the project approved or not. And now that the project has been approved we are also catching up on the public communication side of things. This blog post being one of the first steps, along with the video logs that we have recently started and the launch of our [P2020 - Physical Computing minisite][2].
 
