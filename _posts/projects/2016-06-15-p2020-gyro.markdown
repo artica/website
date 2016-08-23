@@ -1,0 +1,28 @@
+---
+layout: post
+date: 2016-06-15 13:00:00 UTC
+title: "P2020 - Qualification for Internationalization Gyro"
+categories: red
+excerpt: "An 18 months plan focused on qualifying Artica to take Gyro to the international market, to bring greater value to the edutainment robotics and creative industries markets where we operate."
+longexcerpt: "An 18 months plan focused on qualifying Artica to take Gyro to the international market, to bring greater value to the edutainment robotics and creative industries markets where we operate."
+thumbnail: /assets/thumbs/2016-08-16-p2020.jpg
+frontimage: /assets/images/2016-08-16-p2020.png
+---
+
+On May 2015 we submitted to [SI I&DT P2020][1] a project for qualification for the internationalization of our new robotic platform [Gyro][2]. An 18 months plan focused on qualifying Artica to take Gyro to the international market, to bring greater value to the edutainment robotics and creative industries markets where we operate.
+
+The plan focuses on bringing Gyro to the international market with a series of benchmarking and community building activities, making it ready for international sales in stores (physical and online). The internationalization of Gyro is paramount to it's financial success. The Portuguese market does not have the dimension that would allow us to manufacture in bulk. Manufactuting Gyros in bulk quantities is the only way to bring down it's manufacturing cost to competitive levels that other robotic platforms sell their robots for.
+
+Gyro has unique educational and entertainment advantages over competing robots, which are clear to us from giving educational robotic workshops for many years to people of all ages and nationalities. We created Gyro out of need. We will have small quantities and use them on our own workshops regardless of it's sales success, but it'll be a missed opportunity to improve the edutainment world.
+
+Our unique selling points of Gyro include:
+
+* It's open source nature, inviting people to explore how it's made and modify it, both software and hardware. Empowering learning, sharing and creative expression.
+* A behavior trees based visual programming environment. All other robot programming envirnment use imperative programming environments (like scratch) to teach how to program, which is fine except that behavior trees are more suitable to program behavior and there are studies proving they are equally easy to teach.
+
+Without demand in bulk quantities we are not able to lower the costs. And without lowering the costs we are not able to penetrate the market internationally. We designed this qualification for internationalization project to help us break the loop. The project was approved on August 2015, but it had cutbacks on key points of our proposal, leaving us wondering if we could still proceed successfully without bankrupting the company. We decided to accept the challenge and the project has been advancing with a more cautious approach.
+
+After spending considerable time with other possibilities of financing Gyro's internationalization, either through a new startup with venture capital or a strategic distribution partnership, we are now solely focused on bringing out a successful kickstarter campaign.
+
+[1]: https://www.portugal2020.pt/Portal2020
+[2]: http://gyro.artica.cc/
