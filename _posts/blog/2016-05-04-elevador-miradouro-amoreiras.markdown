@@ -58,7 +58,7 @@ To finish the prototype we needed placeholder sounds, and used tracks from our f
 
 The project had it's usual share of setbacks that a project of this size usually has, so we are quite happy to see it operating well and already open to the public. The elevator is located at Amoreiras Shopping Center, taking guests all the way to 18th floor to enjoy the 360 degree Panoramic View. More information about the viewpoint can be found at [http://www.amoreiras360view.com/][11].
 
-Here are some mediaclips we have been gathering about the project: [1][2] [2][3] [3][4] [4][5] [5][6] [6][7] [7][8] [8][9] [9][10]
+Here are some mediaclips we have been gathering about the project: [1][2] [2][3] [3][4] [4][5] [5][6] [6][7] [7][8] [8][9] [9][10] [10][18]
 
 [1]: http://artica.cc/blog/2015/09/04/30-anos-amoreiras.html
 [2]: http://economico.sapo.pt/noticias/amoreiras-constroi-miradouro_232255.html
@@ -77,3 +77,4 @@ Here are some mediaclips we have been gathering about the project: [1][2] [2][3]
 [15]: http://www.sotaart.com/
 [16]: http://www.schindler.com/
 [17]: http://www.mundicenter.pt/
+[18]: http://hackaday.com/2016/08/20/a-windowless-elevator-with-a-360o-panoramic-view/
