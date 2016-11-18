@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2016-11-18-codigo-panda-01.jpg
 frontimage: /assets/images/2016-11-18-codigo-panda-01.jpg
 ---
 
-Earlier this year we were contacted by [SP Entertainment][2] who were looking for technological support to develop a new TV show idea for [Canal Panda][1] involving augmented reality. We embraced the challenge and worked with them to develop the technology behind the new kids show [Código Panda][3] that premiered on the 17th of October and will continue until December 2017.
+Earlier this year we were contacted by [SP Entertainment][2] who were looking for technological support to develop a new TV show idea for [Canal Panda][1] involving augmented reality. We embraced the challenge and worked with them to develop the technology behind the new kids show [Código Panda][3] that premiered on the 17th of October.
 
 {% include youtube.html id="Y7ln-VdJ9c4" %}
 
