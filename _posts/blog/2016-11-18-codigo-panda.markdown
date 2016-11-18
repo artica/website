@@ -3,7 +3,7 @@ layout: post
 date: 2016-11-18 12:00:00 UTC
 title: "Código Panda"
 categories: blog
-excerpt: ""
+excerpt: "We embraced the challenge set by SP Entertainment to develop the technology behind the new kids show Código Panda that premiered on the 17th of October"
 thumbnail: /assets/thumbs/2016-11-18-codigo-panda-01.jpg
 frontimage: /assets/images/2016-11-18-codigo-panda-01.jpg
 ---
