@@ -1,0 +1,42 @@
+---
+layout: post
+date: 2016-11-21 12:00:00 UTC
+title: "PLUNC"
+categories: blog
+excerpt: "The second edition of PLUNC Festival was the perfect opportunity to test our latest open source framework \"Assisted Performer\" with our very own multimedia performance."
+thumbnail: /assets/thumbs/2016-11-21-plunc-03.jpg
+frontimage: /assets/images/2016-11-21-plunc-03.png
+---
+
+We have been working with technology for crowd interaction for a few years now. Most of our projects in this field were done closed source for our client [Audience Entertainment][1] and their multiple interactive cinemas campaigns.
+
+Filipe Cruz picked up that accumulated knowledge to develop from scratch this new open source tool/framework to assist in delegating some control of his live performances to the audience. It was named [Assisted Performer][3] for lack of better ideas and it works as a simple nodejs proxy serving control pages that can be loaded by smartphones on the local network and forwarding control values to a canvas application by websockets.
+
+The second edition of [PLUNC Festival][2] that took place on the last weekend of September was the perfect opportunity to test this new technology with our very own multimedia performance titled "Underwater Assisted Performance". This pilot also goes in line with the premises of our [Physical Computing R&D project][4] co-financed by [P2020][5].
+
+![](/assets/images/2016-11-21-plunc-03.png)
+
+The setup was quite simple, Filipe Cruz did some drone sounds using [Jeskola Buzz][6], the sound was set on loop mode with values fluctuating between certain limits to give it some uncertainty. Filipe Barbosa stepped up with Unity3D to do the visuals, customizing a special version of an aquatic scene that we had been building for another project.
+
+![](/assets/images/2016-11-21-plunc-02.jpg)
+
+During the event the audience was able to connect to an open wifi supplied by Artica and each connection was assigned one parameter of the visuals to control. The audience could then experiment with the visuals, bringing a new dimension to the live performance. We could also easily bind the audio parameters but in this particular installation we wanted the audience to only be able to control the visuals.
+
+Individual control of parameters gives rise to an emergent collaborative environment, where the audience has to decide if they want to experiment or harmonize with the rest. While we are left with very little control over what is happening on the actual performance and have to improvise some ways to drive the chaotic creative flux into our vision of how the performance should ideally be while navigating through the experiments of the audience.
+
+![](/assets/images/2016-11-21-plunc-01.jpg)
+
+The audience response to the performance was quite positive. People were unafraid of engaging with it and highly applauded at the end. Afterwards a few attenders walked up to us to ask questions and offer suggestions. We learned a lot with this pilot and already have a few ideas on how to improve Assisted Performer further for upcoming installations and performances.
+
+We are interested not only on developing the technology but also doing new art pieces with this technology. We are available for commissioned installations and performances, for either this work, the technology applied to other works, or creating a new piece altogether.
+
+The technology itself is [open source with MIT license][3], so you're free to use it on your projects as long as you credit ArticaCC accordingly. We would love to hear about your use of our technology, so if you have done something with it please let us know.
+
+Also, if you need help preparing the technology for your needs or are looking for interaction ideas for a new project we are also available for that sort of work at an affordable rate, just get in touch.
+
+[1]: https://techcrunch.com/tag/audience-entertainment/
+[2]: http://www.plunc.pt/
+[3]: https://github.com/artica/assisted_performer
+[4]: http://artica.cc/red/2016/08/16/p2020-physical-computing.html
+[5]: https://www.portugal2020.pt/Portal2020
+[6]: http://jeskola.net/buzz/
