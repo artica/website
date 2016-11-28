@@ -40,7 +40,7 @@ On location in Paris we also had to mount our system to the stands and test ever
 
 It's always very risky to accept projects on top of the deadline. Accepting them usually means we are burning the team with all nighters and delaying on-going projects. At Artica we always want to make sure the end result is the best it can possibly be, and without proper testing time it's quite hard to ensure we are delivering something robust. For these reasonswWe usually refuse these kind of last minute jobs, but in this case we decided to take on the challenge and we're quite happy with the end result of the project.
 
-A month later we did another install of the project in London, with 60 stands instead of 24, since we had a little more time we did dedicated PCBs, which are more reliable. The install had the usual last minute issues, overcrowded network forcing last minute rewrite of code to use ethernet instead of wifi, screens mounted in portrait mode for landscape designed application, etc. With another couple of all-nighters by the team on location we resolved all the issues delivering what we promised.
+A month later we did another install of the project in London, with 60 stands instead of 24, since we had a little more time we did dedicated PCBs, which are more reliable. The install had the usual last minute issues, overcrowded network forcing last minute rewrite of code to use serial communication instead of wifi, screens mounted in portrait mode for landscape designed application, etc. With another couple of all-nighters by the team on location we resolved all the issues delivering what we promised.
 
 [1]: http://fanq.pt/
 [2]: http://www.bydisplay.eu/
