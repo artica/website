@@ -18,6 +18,8 @@ Despite all these issues we kept giving our full commitment to the projects we e
 
 We did a lot of high profile projects in 2016: [interactive elevators][1], [installations in Paris, Las Vegas and Singapore][2], [augmented reality applications for TV shows][3], [interactive stands for international faires][4], [live performances for multimedia festivals][5], etc.
 
+![](/assets/images/2017-01-06-happy-2017-projects.png)
+
 Parallel to all these projects we have two on-going P2020 research projects where we invested a substantial ammount of our time in 2016, the first one to [prepare our robotic platform Gyro for the international market][6], and the other to [innovate our physical computing frameworks][7]. We have been learning a lot from both these research projects and look forward to apply that knowledge further in 2017.
 
 One of our long term research projects is our robotic platform [Gyro][8]. We been developing this new robot and it's surrounding creative platform for a couple of years now. Building several versions. [Developing it's sister behavior programming visual language][9]. Giving workshops and looking for investment to mass produce it. In 2016 we created a spin-off called Articademy as an Arts & Tecnology  Academy and hope that 2017 will be the culmination of all these efforts, finally providing something well established to the market.
