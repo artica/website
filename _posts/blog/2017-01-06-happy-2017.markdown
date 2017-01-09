@@ -1,0 +1,46 @@
+---
+layout: post
+date: 2017-01-06 12:00:00 UTC
+title: "Happy 2017"
+categories: blog
+excerpt: "We have prepared this little blog post as a wrap up of 2016, wish you happy holidays and welcome to 2017!"
+thumbnail: /assets/thumbs/2017-01-06-happy-2017.jpg
+frontimage: /assets/images/2017-01-06-happy-2017.jpg
+---
+
+![](/assets/images/2017-01-06-happy-2017.jpg)
+
+We been so busy and overwhelmed with projects in December 2016 that we completely forgot to wish you happy holidays! We have now prepared this little blog post to do a wrap up of 2016. We wish you all happy holidays and welcome you to 2017!
+
+2016 has been a good year for Artica. It wasn't the easiest for the company, we started 2016 in a bad financial situation due to delayed payments from different sources. We managed to recover from most of it despite several issues still looming around us: delays in project approvals, non paying clients after delivery, non-sensical co-financing project evaluations, insurance company not honoring contracts, etc...
+
+Despite all these issues we kept giving our full commitment to the projects we embraced throughout 2016. Delivering the best possible outcome on each project, attending relevant events in the area, and of course responding to solicitations for new proposals.
+
+We did a lot of high profile projects in 2016: [interactive elevators][1], [installations in Paris, Las Vegas and Singapore][2], [augmented reality applications for TV shows][3], [interactive stands for international faires][4], [live performances for multimedia festivals][5], etc.
+
+Parallel to all these projects we have two on-going P2020 research projects where we invested a substantial ammount of our time in 2016, the first one to [prepare our robotic platform Gyro for the international market][6], and the other to [innovate our physical computing frameworks][7]. We have been learning a lot from both these research projects and look forward to apply that knowledge further in 2017.
+
+One of our long term research projects is our robotic platform [Gyro][8]. We been developing this new robot and it's surrounding creative platform for a couple of years now. Building several versions. [Developing it's sister behavior programming visual language][9]. Giving workshops and looking for investment to mass produce it. In 2016 we created a spin-off called Articademy as an Arts & Tecnology  Academy and hope that 2017 will be the culmination of all these efforts, finally providing something well established to the market.
+ 
+We have also integrated with the [TICE][10] council where we'll promote the use of open source technologies and the Open Source Attitude in the Portuguese industry and society. We organized an Open Source encounter and promoted several project submissions focused around open source technologies with different goals in mind. We hope 2017 will be the year most of these projects get launched.
+
+We prepared over 50 new project proposals for clients in 2016, only a fifth of them ever gets approved. Preparing proposals is one of the most life sucking chores for Artica, we burn our colaborators in order to produce rushed "creative" work under ridiculous deadlines, often for clients that won't provide any feedback. It's the most inglorious of tasks and it drags our focus away from our ongoing projects.
+
+Artica always took pride in doing anything within reach to deliver the best possible solution for our clients. Preparing rushed proposals for toxic clients is not compatible with this vision. Rushed proposals are often synonym of further problems down the road, not just for Artica, but for everyone involved, they should be avoided at all costs. Unfortunately the Portuguese market has a terrible culture of leaving things for the last day; not validating on time; demanding last minute changes that make no sense; etc... We need to learn to avoid these toxic clients and instead build stronger relationships with the ones that don't follow this culture, clients that value our input, validate things on time, and accompany the projects in an organized manner.
+
+Our new year resolutions are to build relations with clients who value us properly, and to be smarter preparing proposals, to learn to say NO when we can't afford the time (and the sanity of our team) to deal with low budgets and bad clients. The main problem with saying no to preparing new proposals is ofcourse that we are still mostly a company selling services in an undervalued market. We are trying to strengthen our products front, but we are still highly dependant on providing services to maintain activity. This often lured us in the past to accept work on bad projects from bad clients. We hope to avoid this in 2017.
+
+2017 will certainly be full of challenges. But it will also be full of new opportunities to work on interesting projects and help shape a better future for our educational system in particular and our society in general.
+
+Happy 2017!
+
+[1]: http://artica.cc/blog/2016/05/11/elevador-miradouro-amoreiras.html
+[2]: http://artica.cc/blog/2016/07/08/avengers-station.html
+[3]: http://artica.cc/blog/2016/11/18/codigo-panda.html
+[4]: http://artica.cc/blog/2016/11/28/stands-brazil.html
+[5]: http://artica.cc/blog/2016/11/21/plunc.html
+[6]: http://artica.cc/red/2016/06/15/p2020-gyro.html
+[7]: http://artica.cc/red/2016/08/16/p2020-physical-computing.html
+[8]: http://gyro.artica.cc/
+[9]: http://gyro.artica.cc/creator/
+[10]: http://tice.pt
