@@ -18,7 +18,7 @@ The objective was to redesign the exterior completly: covering it with fake fur;
 
 We added microswitch sensors to the colored objective pads, and an Arduino to detect when each set of objectives was triggered and sent the values to a machine running [Einstein VideoPlayer][4]. Each set would trigger a random video from a given set. When all sets were completed a final video sequence would play. We also connected the Arduino to the numeric display to know when the original game started and ended.
 
-The project was done in a very short period of time, and became even more critical when the pinball died on us during the process. We had to go into deep hardware debugging mode and find replacement parts, which are hard to find, luckily we managed to figure it out and get the machine working on time. Greetings to Franky from [Rastermania][5] for some hot tips.
+The project was done in a very short period of time, and became even more critical when the pinball died on us during the process. We had to go into deep hardware debugging mode. Greetings to Franky from [Rastermania][5] and Mauricio of [Leds&Chips][6] for some hot tips. After a few sessions of Bruno Serras hardware debugging an electric system as old as him, we managed to figure out it was a problem with one of the chips. Luckily the original owner of the machine knew a person in Porto who gently offered us a replacement, very fortunate for us since they are very hard to find.
 
 The machine was presented at an event for Lobo Mau's self-promotion, playing videos made by Lobo Mau. And then it ended up back at Artica where we altered it to play our own Artica's videos.
 
@@ -35,3 +35,4 @@ We also recorded a video log with Guilherme explaining how the system works, you
 [3]: http://thearcademan.net/
 [4]: http://artica.cc/products/einstein.html
 [5]: http://www.rastermania.be
+[6]: http://ledsandchips.com/
