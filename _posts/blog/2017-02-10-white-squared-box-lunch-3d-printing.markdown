@@ -3,7 +3,7 @@ layout: post
 date: 2017-02-10 12:00:00 UTC
 title: "WSBL about 3D Printing"
 categories: blog
-excerpt: "Our topic for this weeks' white squared box lunch was 3d printing"
+excerpt: "Our topic for this weeks' white squared box lunch was 3d printing."
 thumbnail: /assets/thumbs/2017-02-10-3d-printing.jpg
 frontimage: /assets/images/2017-02-10-3d-printing.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 date: 2017-02-13 12:00:00 UTC
 title: "WSBL about Bonsai"
 categories: blog
-excerpt: "Our topic for this weeks' white squared box lunch was the Bonsai framework"
+excerpt: "Our topic for this weeks' white squared box lunch was the Bonsai framework."
 thumbnail: /assets/thumbs/2017-02-13-bonsai.jpg
 frontimage: /assets/images/2017-02-13-bonsai.jpg
 ---
