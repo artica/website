@@ -4,8 +4,8 @@ date: 2017-02-13 12:00:00 UTC
 title: "WSBL about Bonsai"
 categories: blog
 excerpt: "Our topic for this weeks' white squared box lunch was the Bonsai framework"
-thumbnail: /assets/thumbs/2017-02-10-bonsai.jpg
-frontimage: /assets/images/2017-02-10-bonsai.jpg
+thumbnail: /assets/thumbs/2017-02-13-bonsai.jpg
+frontimage: /assets/images/2017-02-13-bonsai.jpg
 ---
 
 Our latest "white squared box lunch" session was about the [Bonsai][1] framework. Ricardo Imperial gave a presentation on what it is, how we use it and how it's easily possible to develop our own nodes for it.
