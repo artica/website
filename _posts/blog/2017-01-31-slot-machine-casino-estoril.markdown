@@ -3,7 +3,7 @@ layout: post
 date: 2017-01-31 12:00:00 UTC
 title: "Slot Machine 85 Anos Casino Estoril"
 categories: blog
-excerpt: "Altered slot machine for the 85 years exhibition of Casino Estoril"
+excerpt: "Altered slot machine for the 85 years exhibition of Casino Estoril."
 thumbnail: /assets/thumbs/2017-01-31-slot-machine-02.jpg
 frontimage: /assets/images/2017-01-31-slot-machine-02.jpg
 ---
