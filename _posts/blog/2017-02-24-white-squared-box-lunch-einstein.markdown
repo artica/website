@@ -12,6 +12,6 @@ Our latest "white squared box lunch" session was about the [Einstein][1] framewo
 
 We recorded a video of the presentations which is now available at youtube in Portuguese.
 
-{% include youtube.html id="TKBgH2_HJ8E" %}
+{% include youtube.html id="Sw_VHHOtWh0" %}
 
 [1]: http://artica.cc/products/#einstein
