@@ -1,17 +1,17 @@
 ---
 layout: post
 date: 2011-12-13 12:06:34 UTC
-title: "EINSTEIN"
+title: "Einstein VideoPlayer"
 categories: blog
 excerpt: "We\'re very pleased to announce the launch of our new open source video player!"
-longexcerpt: "We\'re very pleased to announce the launch of our new open source video player!Einstein VideoPlayer is a project initiated by Guilherme Martins during a dance performance entitled “Einstein Dreams” created by Rui Horta. All this took place at Göteborg Opera in Sweden, September of 2010."
+longexcerpt: "We\'re very pleased to announce the launch of our new open source video player! Einstein VideoPlayer is a project initiated by Guilherme Martins during a dance performance entitled “Einstein Dreams” created by Rui Horta. All this took place at Göteborg Opera in Sweden, September of 2010."
 thumbnail: /assets/thumbs/2011-12-13-einstein-1.jpg
 frontimage: /assets/images/2011-12-13-einstein-1.jpg
 ---
 
 We're very pleased to announce the launch of our new open source video player!
 
-Einstein VideoPlayer is a project initiated by <a href="http://lab.guilhermemartins.net/">Guilherme Martins</a> during a dance performance entitled <a href="http://en.opera.se/forestallningar/einstein-and-the-guest-house-2010-2011/">“Einstein Dreams”</a> created by <a href="http://www.oespacodotempo.pt/pt/esp_tem.php?idpan=rui">Rui Horta</a>. All this took place at <a href="http://en.opera.se/">Göteborg Opera</a> in Sweden, September of 2010.
+Einstein VideoPlayer is a project initiated by [Guilherme Martins][1] during a dance performance entitled [“Einstein Dreams”][2] created by [Rui Horta][4]. All this took place at [Göteborg Opera][3] in Sweden, September of 2010.
 
 {% include vimeo.html id="14922453" %}
 
@@ -45,4 +45,10 @@ Future versions will include:
 - Cue list to control everything;
 - MIDI, DMX and OSC protocol to control Einstein, and to be controlled by Einstein.
 
-To know more about how the project started and to DOWNLOAD EINSTEIN go to <a href="www.artica.cc/einstein">www.artica.cc/einstein</a>
+To know more about how the project started and to download Eistein go to [artica.cc/einstein][5]
+
+[1]: http://lab.guilhermemartins.net/
+[2]: http://en.opera.se/forestallningar/einstein-and-the-guest-house-2010-2011/
+[3]: http://en.opera.se/
+[4]: http://www.oespacodotempo.pt/pt/esp_tem.php?idpan=rui
+[5]: http://artica.cc/products/#einstein
