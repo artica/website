@@ -3,7 +3,7 @@ layout: post
 date: 2017-02-24 16:30:00 UTC
 title: "WSBL about Einstein"
 categories: blog
-excerpt: "Our topic for this weeks' white squared box lunch was the Bonsai framework."
+excerpt: "Our topic for this weeks' white squared box lunch was our Einstein framework."
 thumbnail: /assets/thumbs/2011-12-13-einstein-1.jpg
 frontimage: /assets/images/2011-12-13-einstein-1.jpg
 ---
