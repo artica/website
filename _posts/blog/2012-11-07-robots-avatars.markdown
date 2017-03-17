@@ -3,7 +3,7 @@ layout: post
 date: 2012-11-07 11:55:59 UTC
 title: "Robots & Avatars"
 categories: blog
-excerpt: "We had the opportunity to participate at the Robots &amp; Avatars exhibition that took place in Kibla, a multidisciplinary center. It was almost a 24 hours trip, but we finally get there."
+excerpt: "We had the opportunity to participate at the Robots & Avatars exhibition that took place in Kibla, a multidisciplinary center. It was almost a 24 hours trip, but we finally get there."
 longexcerpt: "We had the opportunity to participate at the Robots &amp; Avatars exhibition that took place in Kibla, a multidisciplinary center. It was almost a 24 hours trip, but we finally get there.The Robots &amp; Avatars exhibition is a great initiative create by the people at Body&gt;Data&gt;Space, they are very into robotics, human-machine-interaction, telepresence and virtual worlds, take a time to visit their website."
 thumbnail: /assets/thumbs/2012-11-07-robots-avatars-1.jpg
 frontimage: /assets/images/2012-11-07-robots-avatars-1.jpg
