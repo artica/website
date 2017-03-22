@@ -3,7 +3,7 @@ layout: post
 date: 2017-03-17 15:00:00 UTC
 title: "WSBL chatting with Tiago Loureiro of Collide"
 categories: blog
-excerpt: ""
+excerpt: "We got to know a bit better about Tiago Loureiro of Collide, what they been working on, the current state of VR, digital storytelling and how it applies to our market of interactive installations and physical computing."
 thumbnail: /assets/thumbs/2017-03-17-tiago.jpg
 frontimage: /assets/images/2017-03-17-tiago.jpg
 ---
