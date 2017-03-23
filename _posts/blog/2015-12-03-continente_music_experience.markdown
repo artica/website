@@ -10,7 +10,7 @@ frontimage: /assets/images/2015-12-03-continente-music-experience-04.jpg
 
 ![](/assets/images/2015-12-03-continente-music-experience-04.jpg)
 
-Around two years ago we did a project for a [Continente Missão Sorriso][1] roadshow which we never got around to submitting a blog post until today, even though it was already fully documented and is even [open source][3].
+Around two years ago we did a project for a [Continente Missão Sorriso][1] roadshow which we never got around to submitting a blog post until today, even though it was already fully documented and is even [open source][2].
 
 {% include youtube.html id="gKpxnx61JYE" %}
 
@@ -55,13 +55,13 @@ The sampler was a standard MPC. We opened it up to replace the lights with match
 In the software department the whole application is actually a webpage with a localhost server.
 - The design is hardcoded to FullHD resolution.
 - Web Audio API is used to trigger sounds.
-- WebGL (via [pixi.js][2]) is used to give 3d acceleration to the interactive elements.
+- WebGL (via [pixi.js][3]) is used to give 3d acceleration to the interactive elements.
 
 To sync the tracks we developed an internal editor to add/move/edit/delete track nodes. It was made to easy scroll back and forth with the mousewheel to check for music synchronism. And it included functionality to import and export as json.
 
 An additional requirement was made to input high-scores from each session and export them to a local file, for the client to analyse after the roadshow was done.
 
-As previously mentioned the [sourcecode is open source][5] available under MIT license. Feel free to fork it to add support for frets on fire assets, other controllers, play music directly from youtube / soundcloud, etc.
+As previously mentioned the [sourcecode is open source][2] available under MIT license. Feel free to fork it to add support for frets on fire assets, other controllers, play music directly from youtube / soundcloud, etc.
 
 ![](/assets/images/2015-12-03-continente-music-experience-03.jpg)
 
@@ -74,6 +74,6 @@ All the hardware was ready to plug and play. We provided a technical ryder for t
 We were present on the initial setup sessions to make sure all things worked smoothly. We caught some early malfunctions and had to repair them but overall we were impressed on how well the system held up on the road.
 
 [1]: http://missao.continente.pt/
-[2]: http://artica.cc/blog/2013/09/26/audience-pong.html
+[2]: https://bitbucket.org/artica/continente-music-experience
 [3]: http://www.pixijs.com/
 [4]: https://soundcloud.com/orelha-negra
