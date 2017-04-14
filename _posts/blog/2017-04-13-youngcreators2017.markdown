@@ -5,7 +5,7 @@ title: "Young Creators 2017"
 categories: blog
 excerpt: "Introduction to Robotics Workshop"
 thumbnail: /assets/thumbs/2017-04-13-yc17-thumb.jpg
-frontimage: /assets/images/22017-04-13-yc17.jpg
+frontimage: /assets/images/2017-04-13-yc17.jpg
 ---
 
 ![](/assets/images/2017-04-13-yc17.jpg)
