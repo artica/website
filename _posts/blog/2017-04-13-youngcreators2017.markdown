@@ -8,7 +8,7 @@ thumbnail: /assets/thumbs/2017-04-13-yc17-thumb.jpg
 frontimage: /assets/images/22017-04-13-yc17.jpg
 ---
 
-![](/assets/images/22017-04-13-yc17.jpg)
+![](/assets/images/2017-04-13-yc17.jpg)
 
 [YoungCreators][1] had its first event in the last year, and had a new release this week, it was a gathering of four distinct technology subjects: Robotics, e-Textiles, Bio-Hacking and 3DPrint. We, as always brought our Farrusco's troop. The participants were very enthusiastic and during the first two days, they learned how to deal with digital and analog inputs and outputs, besides other Arduino features and tricks. They were also able to know our Arduino shield called PCB Sandbox which is a board with a couple of sensors and actuators (potentiometer, LDR's, IR-receiver, buttons, RGB led).
 
