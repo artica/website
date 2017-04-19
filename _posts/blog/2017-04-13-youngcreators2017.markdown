@@ -3,7 +3,7 @@ layout: post
 date: 2017-04-13 16:00:00 UTC
 title: "Young Creators 2017"
 categories: blog
-excerpt: "Introduction to Robotics Workshop"
+excerpt: "Introduction to Robotics Workshop @ Young Creators 2017"
 thumbnail: /assets/thumbs/2017-04-13-yc17-thumb.jpg
 frontimage: /assets/images/2017-04-13-yc17.jpg
 ---
