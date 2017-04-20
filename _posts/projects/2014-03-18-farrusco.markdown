@@ -7,14 +7,13 @@ excerpt: "Farrusco is a small robot based on the Arduino platform, in this case 
 thumbnail: /assets/thumbs/2014-03-18-farrusco_1.png
 ---
 
-<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farrusco_2.jpg"/></a>
+
 
 Farrusco is a small robot based on the Arduino platform, in this case it’s using a Motoruino wich is an Arduino clone with a couple of enhancements – dc motor dual controller, servo and sensor plugs, possibility to select 5V or external power source for motors and PWM pins.
 
-
 With Farrusco you will be able to make it avoid obstacles, follow walls, enter in free space mode, and in the future more add-ons will be available, just to name a few: line follower, speakers and light sensors, RGB leds, and so on.
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/KobfoLQF1p4" frameborder="0" allowfullscreen></iframe></div>
+<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farrusco_2.jpg"/>
 
 <strong>This robot is intended for:</strong>
 
@@ -24,12 +23,72 @@ With Farrusco you will be able to make it avoid obstacles, follow walls, enter i
 - students of all grades;
 - someone who just wants a new geeky toy.
 
+<div class="video-container"><iframe src="//www.youtube.com/embed/KobfoLQF1p4" frameborder="0" allowfullscreen></iframe></div>
+
+
+<strong>Farrusco includes:</strong>
+
+<img class="postimage" alt="Farrusco" src="/assets/images/farrusco_components.jpg"/>
+
+
+- Motoruino
+- Chassis
+- Wheels
+- Motors
+- Micro servo
+- Collision sensors
+- Infrared sensor 
+- Battery 
+
+<strong>Motoruino:</strong>
+
+<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-19-motoruino.jpg"/>
+
+The Motoruino was designed to facilitate the use of motors and sensors. This board is a clone of the Arduino Duemilanove with some modifications, 2 DC motor controllers (L293D) and Power BUS, Gnd and Signal to connect devices.
+Find out more at: http://artica.cc/projects/hardware/2014/03/18/motoruino.html
+
+<strong>PCB SandBox:</strong>
+
+<img class="postimage" alt="Farrusco" src="/assets/images/2016-08-24-workshop-fablab-04.jpg"/>
+
+In addition to Motoruino, you can add the SandBox shield to the robot to extend its functionality.
+This Arduino Shield is great for students and hobbyists that want to start playing with electronics and programming on the Arduino platform. 
+It comes with plenty of analog and digital devices giving a great creative potential to users: 
+
+- 1 potentiometer 
+- 2 buttons 
+- 1 RGB Led 
+- 2 colored LEDs 
+- 1 InfraRed Receiver 
+- 1 buzzer 
+-2 LDRs
+
+Every component can be connected using a pitch jumper or a jumper wire, which gives full control of every single connection.
+
+
+<strong>Assembly Instructions:</strong>
+
+Farrusco is easy to assemble, all you have to do is follow the step-by-step instructions shown on the next video.
+
+<div class="video-container"><iframe src="//www.youtube.com/embed/KXIqOFZ-uWw" frameborder="0" allowfullscreen></iframe></div>
+
+
+<strong>Introduction to Robotics Workshop with Farrusco:</strong>
+
+Artica has been lecturing workshops related to Introduction to Robotics all over the country. 
+
+The Workshops are designed to initiate young people and adults in the world of physical computing, electronics, and programming.
+
+During the workshop the participants have to "give life" to the robot Farrusco, assigning it different behaviors such as navigating space avoiding obstacles, following walls, chasing light sources and defining states of humor through colored LEDs and loudspeakers.
+
+
+<div class="video-container"><iframe src="//www.youtube.com/embed/KXIqOFZ-uWw" frameborder="0" allowfullscreen></iframe></div>
+
 
 In case you are interested in purchasing one, please drop us an <a href="http://artica.cc/contacts/"> email </a>	
  
 
 <img class="postimage" alt="Audience Pong" src="/assets/images/2014-03-18-farrusco_3.jpg"/></a>
 
-<strong>Assembly Instructions:</strong>
-<div class="video-container"><iframe src="//www.youtube.com/embed/KXIqOFZ-uWw" frameborder="0" allowfullscreen></iframe></div>
+
 
