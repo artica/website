@@ -16,7 +16,7 @@ Farrusco is a small robot based on the Arduino platform, in this case it’s usi
 With Farrusco you will be able to make it avoid obstacles, follow walls, enter in free space mode, and in the future more add-ons will be available, just to name a few: line follower, speakers and light sensors, RGB leds, and so on.
 
 
-<img class="postimage" alt="Audience Pong" src="/assets/images/2014-03-18-farrusco_3.jpg"/></a>
+<img class="postimage" alt="Audience Pong" src="/assets/images/2014-03-18-farrusco_3.jpg"/>
 
 <strong>This robot is intended for:</strong>
 
@@ -49,14 +49,14 @@ With Farrusco you will be able to make it avoid obstacles, follow walls, enter i
 
 <strong>Motoruino:</strong>
 
-<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-19-motoruino.jpg"/>
+<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-19-motoruino - Copy.jpg"/>
 
 The Motoruino was designed to facilitate the use of motors and sensors. This board is a clone of the Arduino Duemilanove with some modifications, 2 DC motor controllers (L293D) and Power BUS, Gnd and Signal to connect devices.
 <a href="http://artica.cc/projects/hardware/2014/03/18/motoruino.html">Find out more</a>
 
 <strong>PCB SandBox:</strong>
 
-<img class="postimage" alt="Farrusco" src="/assets/images/2016-08-24-workshop-fablab-04.jpg"/>
+<img class="postimage" alt="Farrusco" src="/assets/images/2016-08-24-workshop-fablab-04-Copy.jpg"/>
 
 In addition to Motoruino, you can add the SandBox shield to the robot to extend its functionality.
 This Arduino Shield is great for students and hobbyists that want to start playing with electronics and programming on the Arduino platform. 
@@ -72,10 +72,6 @@ It comes with plenty of analog and digital devices giving a great creative poten
 
 Every component can be connected using a pitch jumper or a jumper wire, which gives full control of every single connection.
 
-
-
-
-<strong>Assembly Instructions:</strong>
 
 Farrusco is easy to assemble, all you have to do is follow the step-by-step instructions shown on the next video.
 
@@ -97,7 +93,7 @@ The Workshops are designed to initiate young people and adults in the world of p
 During the workshop the participants have to "give life" to the robot Farrusco, assigning it different behaviors such as navigating space avoiding obstacles, following walls, chasing light sources and defining states of humor through colored LEDs and loudspeakers.
 
 
-<strong>Introductory topics such as:</strong>
+<strong>Introductory topics:</strong>
 
 <strong>Physical Computing:</strong>
 - Basic concepts of voltage input and output
