@@ -8,12 +8,15 @@ thumbnail: /assets/thumbs/2014-03-18-farrusco_1.png
 ---
 
 
+<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farrusco_2.jpg"/>
+
 
 Farrusco is a small robot based on the Arduino platform, in this case it’s using a Motoruino wich is an Arduino clone with a couple of enhancements – dc motor dual controller, servo and sensor plugs, possibility to select 5V or external power source for motors and PWM pins.
 
 With Farrusco you will be able to make it avoid obstacles, follow walls, enter in free space mode, and in the future more add-ons will be available, just to name a few: line follower, speakers and light sensors, RGB leds, and so on.
 
-<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farrusco_2.jpg"/>
+
+<img class="postimage" alt="Audience Pong" src="/assets/images/2014-03-18-farrusco_3.jpg"/></a>
 
 <strong>This robot is intended for:</strong>
 
@@ -23,7 +26,11 @@ With Farrusco you will be able to make it avoid obstacles, follow walls, enter i
 - students of all grades;
 - someone who just wants a new geeky toy.
 
+
+
 <div class="video-container"><iframe src="//www.youtube.com/embed/KobfoLQF1p4" frameborder="0" allowfullscreen></iframe></div>
+
+
 
 
 <strong>Farrusco includes:</strong>
@@ -45,7 +52,7 @@ With Farrusco you will be able to make it avoid obstacles, follow walls, enter i
 <img class="postimage" alt="Farrusco" src="/assets/images/2014-03-19-motoruino.jpg"/>
 
 The Motoruino was designed to facilitate the use of motors and sensors. This board is a clone of the Arduino Duemilanove with some modifications, 2 DC motor controllers (L293D) and Power BUS, Gnd and Signal to connect devices.
-Find out more at: http://artica.cc/projects/hardware/2014/03/18/motoruino.html
+<a href="http://artica.cc/projects/hardware/2014/03/18/motoruino.html">Find out more</a>
 
 <strong>PCB SandBox:</strong>
 
@@ -66,6 +73,8 @@ It comes with plenty of analog and digital devices giving a great creative poten
 Every component can be connected using a pitch jumper or a jumper wire, which gives full control of every single connection.
 
 
+
+
 <strong>Assembly Instructions:</strong>
 
 Farrusco is easy to assemble, all you have to do is follow the step-by-step instructions shown on the next video.
@@ -73,7 +82,13 @@ Farrusco is easy to assemble, all you have to do is follow the step-by-step inst
 <div class="video-container"><iframe src="//www.youtube.com/embed/KXIqOFZ-uWw" frameborder="0" allowfullscreen></iframe></div>
 
 
+
+
 <strong>Introduction to Robotics Workshop with Farrusco:</strong>
+
+
+<img class="postimage" alt="Farrusco" src="/assets/images/2011-11-03-workshop-lcd--5.jpg"/>
+
 
 Artica has been lecturing workshops related to Introduction to Robotics all over the country. 
 
@@ -82,13 +97,67 @@ The Workshops are designed to initiate young people and adults in the world of p
 During the workshop the participants have to "give life" to the robot Farrusco, assigning it different behaviors such as navigating space avoiding obstacles, following walls, chasing light sources and defining states of humor through colored LEDs and loudspeakers.
 
 
-<div class="video-container"><iframe src="//www.youtube.com/embed/KXIqOFZ-uWw" frameborder="0" allowfullscreen></iframe></div>
+<strong>Introductory topics such as:</strong>
 
+<strong>Physical Computing:</strong>
+- Basic concepts of voltage input and output
+- LED and button control
+- Reading of digital and analog sensors:
+- Sensors, photosensitive (LDR)
+- Proximity sensors (infrared)
+- Collision Sensors
+- Control of continuous rotation motors and servo motors
+
+<strong>Programming:</strong>
+- Chasing light sources
+- Space navigation with collision detection
+- Space navigation avoiding collisions
+- Mood states with colored lights and speakers
+- Principles of parallel computing
+
+
+
+<img class="postimage" alt="Farrusco" src="/assets/images/farruscos.jpg"/>
+
+<strong>Past editions:</strong>
+- <a href="http://lab.guilhermemartins.net/2009/04/06/workshop-robotica-criativa/">Introduction to Robotics Workshop, with the support of InMotion, 1st edition Porto 2009</a>
+- <a href="http://artica.cc/blog/2011/06/08/workshop-farrusco-galeria-who.html">Introduction to Robotics Workshop, WHO Gallery,  Lisbon 2011</a>
+- <a href="http://artica.cc/blog/2011/07/05/workshop-farrusco-ydreams.html">Introduction to Robotics Workshop, YDreams 2011</a>
+- <a href="http://artica.cc/blog/2014/05/28/tedxkids.html">Introduction to Robotics Workshop, TedXKids, CentralTejo 2014</a>
+- <a href="http://artica.cc/blog/2016/03/14/coderdojo-lx.html">Introduction to Robotics Workshop, Coderdojo LX 2016 </a>
+- <a href="http://artica.cc/blog/2016/04/08/expofct.html">Introduction to Robotics Workshop, EXPO FCT 2016 </a>
+- <a href="http://artica.cc/blog/2017/04/13/youngcreators2017.html">Introduction to Robotics Workshop, YoungCreators 2017 </a>
+
+
+
+ 
+ <strong>BUY</strong>
+
+ 
+ <img class="postimage" alt="Farrusco" src="/assets/images/farrusco_image02.jpg"/>
+ 
+ 
+Prices (excluding VAT): 
+
+
+1-	Disassembled - 85€
+All the kit comes disassembled; this is a complete and extreme DIY kit. Everything comes in a raw state and you will need to solder and assemble the Motoruino, and all other components. This is of course the least expensive of all three.
+
+2-	Pre-assembled - 135€
+Pre-assembled, all the soldering is made for you in a way that you won’t need to solder anything or perform tricky tasks, you just need a pair of hobby screwdrivers.
+
+3-	Assembled -150€
+Everything is assembled and ready to run, just plug the batteries and turn on the switch and there he goes, this is of course the most expensive.
+
+Additional: 17€ for usb interface cable.
+* in order to be able to program Farrusco you will need an interface cable, once you have this cable you will be able to use it for many other devices.
+
+ <img class="postimage" alt="Farrusco" src="/assets/images/farrusco_image03.jpg"/>
 
 In case you are interested in purchasing one, please drop us an <a href="http://artica.cc/contacts/"> email </a>	
  
 
-<img class="postimage" alt="Audience Pong" src="/assets/images/2014-03-18-farrusco_3.jpg"/></a>
+
 
 
 
