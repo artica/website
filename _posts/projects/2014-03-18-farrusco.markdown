@@ -49,14 +49,14 @@ With Farrusco you will be able to make it avoid obstacles, follow walls, enter i
 
 <strong>Motoruino:</strong>
 
-<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-19-motoruino - Copy.jpg"/>
+<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-19-motoruino.jpg"/>
 
 The Motoruino was designed to facilitate the use of motors and sensors. This board is a clone of the Arduino Duemilanove with some modifications, 2 DC motor controllers (L293D) and Power BUS, Gnd and Signal to connect devices.
 <a href="http://artica.cc/projects/hardware/2014/03/18/motoruino.html">Find out more</a>
 
 <strong>PCB SandBox:</strong>
 
-<img class="postimage" alt="Farrusco" src="/assets/images/2016-08-24-workshop-fablab-04-Copy.jpg"/>
+<img class="postimage" alt="Farrusco" src="/assets/images/2016-08-24-workshop-fablab-04.jpg"/>
 
 In addition to Motoruino, you can add the SandBox shield to the robot to extend its functionality.
 This Arduino Shield is great for students and hobbyists that want to start playing with electronics and programming on the Arduino platform. 
