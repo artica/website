@@ -22,7 +22,7 @@ Here Filipe Cruz shows the results of a research on Speech Recognition APIs:
 
 {% include youtube.html id="EgdMJUzVBf4" %}
 
-There are also other physical elements that are controlled: a candle, a disco light and speakers sound are also controlled. These elements are used to immerse the user in both physical and virtual worlds. For the candle and disco light control we used an Arduino connected to a relay module, and for the joystick, because it outputs RS485 we needed a converter to RS232. This conversor is a MAX487.
+There are also other physical elements that are controlled: a lamp, a disco light and sound from speakers. These elements are used to immerse the user in both physical and virtual worlds. For the candle and disco light control we used an Arduino connected to a relay module, and for the joystick, because it outputs RS485 we needed a converter to RS232. This conversor is a MAX487.
 
 Here both modules are being tested. 
 
