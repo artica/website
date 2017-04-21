@@ -133,7 +133,7 @@ During the workshop the participants have to "give life" to the robot Farrusco, 
  <img class="postimage" alt="Farrusco" src="/assets/images/farrusco_image02.jpg"/>
  
  
-Prices (excluding VAT): 
+ <strong>Prices (excluding VAT): </strong>
 
 
 1-	Disassembled - 85€
