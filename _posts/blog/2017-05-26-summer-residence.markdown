@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-05-26 14:00:00 UTC
-title: "Artistic/Makers Summer Residence 2017"
+title: "Artistic/Makers Summer Residence"
 categories: blog
 excerpt: "During the summer of 2017 Artica is opening it's doors to artists and makers who are looking for an office space and workshop where they can develop their summer projects."
 thumbnail: /assets/thumbs/2017-05-26-summer-residence.jpg
