@@ -41,3 +41,5 @@ We do _not_ offer:
 - Materials and components your project requires (although we can advise you where to purchase what you need)
 
 If you are interested in applying please send us an email to <a href="mailto:info@artica.cc?subject=Artist/Makers Summer Residency">info@artica.cc</a> presenting yourself and what you would like to explore at Artica during your summer residency. Deadline for submissions 30th of June. The period of residency is up for discussion.
+
+This residency is part of our R&D project on <a href="http://physical-computing.artica.cc/">physical computing</a> developed with incentive of <a href="https://www.portugal2020.pt/Portal2020">Portugal 2020</a>.
