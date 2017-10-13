@@ -1,0 +1,56 @@
+---
+layout: post
+date: 2017-10-13 13:00:00 UTC
+title: "532nm @ Aura Festival 2017"
+categories: blog
+excerpt: "Lasers are mesmerizing by themselves, the moment you increase the scale of the object and start adding other elements it becomes completely entrancing."
+thumbnail: /assets/images/2017-10-13-hugo-grilo.jpg
+frontimage: /assets/images/2017-10-13-hugo-grilo.jpg
+---
+
+About a year ago we noticed Sintra had been having this festival every year called [Aura Festival][1] features all sorts of public art installations. It seemed very much up our alley!
+
+Artica is the mix of art and technology, and we had been feeling like we only been doing tech work and neglecting our artistic side lately. We had a [P2020 project approved][2] that allowed us to experiment and test pilots of different physical computing things, so Aura Festival was a great opportunity to submit something interesting.
+
+We did a couple of trips to Sintra to check out the possible locations and brainstorm ideas for things with impact. We tried to get our friend [M-PeX][3] early on involved in the sound part of the installation. After we organized some ideas we contacted the organizers of the festival to try and feel out what would make more sense to officially propose. We had originally conceived projects aimed at Quinta da Regaleira in particular, but it seemed to already be reserved for Oskar&Gaspar, so we abandonded those and rethought some concepts for the entrance of MUSA and the entire Avenida Heliodoro Salgado. After some back and forth with the organizers we ended up relocating our assigned space to Avenida dos Combatentes da Grande Guerra with a smaller version of what we were envisioning but still plans to make it look (and sound) awesome.
+
+![](/assets/images/2017-10-13-programa.png)
+
+Our final designated location, Avenida dos Combatentes da Grande Guerra, had some advantages and disadvantages, comparing it with the previous locations. On one hand the location now allowed us to save some budget on the structures required to hold the water dispersers, since we could now use the trees to hold them in place. On the other hand we now had sound from another installation interfering with our piece. Luckily the team from "You Are Here", which were installed at Biblioteca Municipal, were quite aware of the issue and very approachable during the first day of installation, and we managed to find a middle ground in terms of volume that would allow both pieces to co-habitate without starting a volume war.
+
+The final piece was never truly closed until the very last minute. Our work method is very darwinistic, in the sense that it's the best idea that always wins. So we all try to prove to each other that our personal vision is the one that makes more sense for the piece. When you reach the subjectiveness of art it becomes harder to manage, since all ideas can make sense (as long as you contextually justify them), but we still needed to narrow things down into a single option to present to the public.
+
+Here is a photo featuring our piece, taken by Hugo Grilo, a participant on [the Festival's photo contest][10].
+
+![](/assets/images/2017-10-13-hugo-grilo.jpg)
+
+We started testing with lasers 2 or 3 months before Aura. For our tests we rented a cheaper laser, since laser rentals are quite expensive, and an [EtherDream2 laser controller][4].
+
+We did several software tests, first using [Maxwell][7]; then openframeworks libraries [ofxIlda][5] and [ofxEtherdream][6]; and a [wrapper for vvvv][8]. All of these had problems and did not work out of the box with the EtherDream2. Maxwell wasn't supporting Etherdream2 properly, after a few emails with the creator of the application we managed to get it working. The openframeworks libs were ancient, required a "port" to a modern version of OF and only worked on Mac. The wrapper for vvvv was useful to have a .net version of the system, it compile but it still wasn't detecting the Etherdream 2, we think the library only supported the first version of Etherdream and something changed for the 2. Contacting Etherdream 2 guys was useless, they didn't reply to any emails we sent. The documentation only isn't very accurate either, can find lots of information on the first Etherdream but not the second. We ended up making the mac openframeworks version work, and then ported it to windows to make a managed code library for .net out of it. In the end we created a [Bonsai][9] node for the laser controller.
+
+We did some tests with shapes and animation, mostly circles and lines. Creating flower shapes, circles, circles within circles, cogs, etc. In the end we concluded that simple was best, so we used 2 circles.
+
+We also did some tests with the mirror and the structure required to hold and fine-tune it. We needed to have a large enough mirror to reflect 100 meters away a circle with one meter of diameter. We built a system with metal springs and screws that would hold the mirror floating and be able to tighten one side or the other to tilt it slightly. This system enabled some degree of calibration to direct the reflection of the laser once it was pointed at the center of the mirror.
+
+Another point we tested heavily was the particles we wanted to project on, we tried different types of water sprinklers, dispersers and even smoke machines to find out what would be more reliable and interesting. Let me tell you that the visual effect is quite different between a water disperser and a smoke machine but both are quite interesting to look at.
+
+One of us really wanted to have direct human interactivity in the piece, so we ended up testing a few ways on how to integrate the movement of the people and the quantity of people to affect the laser pulse. This was mostly reflected on how large the circle was and how fast it pulsated. There was also the concept of shaking the circle when there wasn't much interaction. Some of these ideas worked, others not so much.
+
+For the sound we originally wanted to have M-PeX doing the sound for the piece, even playing live on one of the nights if possible. He scouted with us the location and sent us some possible tracks, but he became a parent very close to the deadline, and doing audio tests without him we sadly concluded the work he submitted wasn't really a good match, and without much free time to invest to the project we ended up deciding to remix his sounds and try other things to try and find the perfect soundtrack for the piece. We also had some issues with budget which didn't allow us to get the optimum PA system, which would idealy be multiple sources evenly spread out through the 100 meters of the piece. So we decided to split bass and treble sounds on different ends of the piece, which kind of worked with the concept of the piece (observing things from different prespectives, mirror reflection causing other points of view, the immersive and organic nature of the object). There were several iterations of sounds tried out, we originally wanted to have the sounds playing on Buzz or Ableton Live and some interactive parameters controlling filters. In the end there was a decision to move all the audio to MAX/MSP with some combinations of sounds that would interchange. We ended up with a slowed down heartbeat as the main bass sound, the speed being affected by the motion detection. And a set of different samples used for the treble sound. The bass end of the installation had a proper PA. The treble end of the installation had some custom made horns, made out of megaphone amplifiers and some cone shaped plastic materials we had lying around. Max/MSP would send OSC values to Bonsai to sync the heartbeat volume with the luminosity of the laser. We also wanted to have the loudness of the occasional treble sounds affect the shakyness of the circle, but we ran out of time. 
+
+We had already made a few test installations at the entrance of Artica at FCT, with random curious people stopping by to take a look and ask us what we were doing. The festival organizers dropped by during some of those sessions aswell to also take a look and give some feedback. The public response was always great from day one we started testing things publically, lasers are mesmerizing by themselves, the moment you increase the scale of the object and start adding other elements it becomes completely entrancing.
+
+Walking amongst the people experiencing the piece at Aura Festival you could hear out some impressed comments and mentions that it was the best thing they've seen at the festival so far. This feedback made us very happy. After so many after work hours invested into the project polishing it to it's maximum potential under the budget limitations we were really thrilled to witness it's positive impression on the attenders. Thank you to the Festival organizers, our product partners and all the attenders of the festival for such wonderful few nights in Sintra presenting our piece "532nm".
+
+{% include youtube.html id="X0Du72Tga1s" %}
+
+[1]: http://www.aurafestival.pt/
+[2]: http://physical-computing.artica.cc/
+[3]: https://soundcloud.com/mpex
+[4]: https://ether-dream.com/
+[5]: http://www.memo.tv/ofxilda/
+[6]: https://github.com/memo/ofxEtherdream
+[7]: https://bluefang.itch.io/maxwell
+[8]: https://github.com/tebjan/VVVV.LaserDAC
+[9]: https://bitbucket.org/horizongir/bonsai/overview
+[10]: http://www.aurafestival.pt/concurso-de-fotografia
