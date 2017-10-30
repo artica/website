@@ -42,7 +42,7 @@ We had already made a few test installations at the entrance of Artica at FCT, w
 
 Walking amongst the people experiencing the piece at Aura Festival you could hear out some impressed comments and mentions that it was the best thing they've seen at the festival so far. This feedback made us very happy. After so many after work hours invested into the project polishing it to it's maximum potential under the budget limitations we were really thrilled to witness it's positive impression on the attenders. Thank you to the Festival organizers, our product partners and all the attenders of the festival for such wonderful few nights in Sintra presenting our piece "532nm".
 
-{% include youtube.html id="X0Du72Tga1s" %}
+{% include youtube.html id="Dj6-9eVl8cI" %}
 
 [1]: http://www.aurafestival.pt/
 [2]: http://physical-computing.artica.cc/
