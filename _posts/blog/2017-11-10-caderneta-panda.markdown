@@ -4,7 +4,7 @@ date: 2017-11-10 13:00:00 UTC
 title: "Caderneta do Panda"
 categories: blog
 excerpt: "For 2017 season of Canal Panda we worked with SP Entertainment developing technology for their show Caderneta do Panda."
-thumbnail: /assets/images/2017-11-10-caderneta-panda3.jpg
+thumbnail: /assets/thumbs/2017-11-10-caderneta-panda3.jpg
 frontimage: /assets/images/2017-11-10-caderneta-panda3.jpg
 ---
 

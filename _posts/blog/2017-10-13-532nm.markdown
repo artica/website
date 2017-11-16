@@ -4,7 +4,7 @@ date: 2017-10-13 13:00:00 UTC
 title: "532nm @ Aura Festival 2017"
 categories: blog
 excerpt: "Lasers are mesmerizing by themselves, the moment you increase the scale of the object and start adding other elements it becomes completely entrancing."
-thumbnail: /assets/images/2017-10-13-hugo-grilo.jpg
+thumbnail: /assets/thumbs/2017-10-13-hugo-grilo.jpg
 frontimage: /assets/images/2017-10-13-hugo-grilo.jpg
 ---
 

@@ -35,7 +35,7 @@ With Farrusco you will be able to make it avoid obstacles, follow walls, enter i
 
 <strong>Farrusco includes:</strong>
 
-<img class="postimage" alt="Farrusco" src="/assets/images/farrusco_components.jpg"/>
+<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farrusco_components.jpg"/>
 
 
 - Motoruino
@@ -113,7 +113,7 @@ During the workshop the participants have to "give life" to the robot Farrusco, 
 
 
 
-<img class="postimage" alt="Farrusco" src="/assets/images/farruscos.jpg"/>
+<img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farruscos.jpg"/>
 
 <strong>Past editions:</strong>
 - <a href="http://lab.guilhermemartins.net/2009/04/06/workshop-robotica-criativa/">Introduction to Robotics Workshop, with the support of InMotion, 1st edition Porto 2009</a>
@@ -130,7 +130,7 @@ During the workshop the participants have to "give life" to the robot Farrusco, 
  <strong>BUY</strong>
 
  
- <img class="postimage" alt="Farrusco" src="/assets/images/farrusco_image02.jpg"/>
+ <img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farrusco_image02.jpg"/>
  
  
  <strong>Prices (excluding VAT): </strong>
@@ -148,7 +148,7 @@ Everything is assembled and ready to run, just plug the batteries and turn on th
 Additional: 17€ for usb interface cable.
 * in order to be able to program Farrusco you will need an interface cable, once you have this cable you will be able to use it for many other devices.
 
- <img class="postimage" alt="Farrusco" src="/assets/images/farrusco_image03.jpg"/>
+ <img class="postimage" alt="Farrusco" src="/assets/images/2014-03-18-farrusco_image03.jpg"/>
 
 In case you are interested in purchasing one, please drop us an <a href="http://artica.cc/contacts/"> email </a>	
  
