@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-01-16 00:00:00 UTC
-title: "Embratur stands for London Travel Market"
+title: "Embratur stands @ World Travel Market"
 categories: blog
 excerpt: "Our Embratur stand solution for London's World Travel Market faire of 2017"
 thumbnail: /assets/thumbs/2018-01-16-feira-londres-05.jpg
