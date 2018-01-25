@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2018-01-25 11:00:00 UTC
+title: "MISPLAY()"
+categories: blog
+excerpt: "We'll be giving short presentations on our open source technologies for interactive installations at MISPLAY()"
+thumbnail: /assets/thumbs/2018-01-25-misplay.jpg
+frontimage: /assets/images/2018-01-25-misplay.jpg
+---
+
+This Saturday (27 January 2018) we'll be at Universidade Lusófona de Lisboa to participate in [MISPLAY()][4], an interactive art jam event. We'll be giving short presentations on our open source technologies for interactive installations [Einstein][1], [Assisted Performer][2] and our [integration of Bonsai with Unity3D][3].
+
+You can check the full schedule below.
+
+![](/assets/images/2018-01-25-misplay_2.jpg)
+
+[1]: http://artica.cc/products/#einstein
+[2]: https://github.com/artica/assisted_performer
+[3]: https://bitbucket.org/artica/bonsaiunityconnection/overview
+[4]: https://www.facebook.com/jam.misplay/
