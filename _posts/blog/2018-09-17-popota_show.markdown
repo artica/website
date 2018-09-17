@@ -18,21 +18,22 @@ It was a big challenge due to the requirements of the performance:
 
 ![](/assets/images/2018-09-17-popota_showpopota_led_walls.JPG)
 
-Plus, we also created all the visual contents and props. 
+Having this, we created all the visual contents plus the scene props. 
 
-The visuals were created in Unity 3D, video post-editing and real-time graphics generation.
+The visuals were created 3D Max, edited and rendered in Unity 3D, then post processed. 
+Real-time interactive graphics generation was also developed in Unity 3D. 
 
 ![](/assets/images/2018-09-17-popota_show-IMG_2488.JPG)
 ![](/assets/images/2018-09-17-popota_show-IMG_2674.JPG)
 ![](/assets/images/2018-09-17-popota_show-IMG_2827.JPG)
 
-We also wanted to have a glimpse of the size of the screens and the stage, so we developed a VR stage.
+During the creative process we wanted to have a glimpse of the size relations between the screens and the stage, so we developed a VR stage.
 
 ![](/assets/images/2018-09-17-popota_show-vr.JPG)
 
-Our [Einstein VideoPlayer][1] had to be updated to run large video dimensions with high performance, we used [HAP codec][3], this allowed us to use multi-layered contents with alpha transparency videos. EinsteinVP also received real-time video from a computer vision server running [Bonsai][4] linked to Unity, connected to a [Spout][6]server, if you are a MAC user, [Syphon][5] does the same job. 
+Our [Einstein VideoPlayer][1] had to be updated to run large video dimensions with high performance, to achieve this peak performance we used [HAP codec][3]. Einstein also received real-time video from a computer vision server running [Bonsai][4] linked to Unity, and finally connected to a [Spout][6]server (if you are a MAC user, [Syphon][5] does the same job), using HAP also allowed us to use multi-layered contents with alpha transparency videos. 
 
-This is an image of the two control computers, the left screen is showing an infra-red camera image being analysed in Bonsai, the right screen is our EinsteinVP. 
+This is an image of the two control screens, the left screen is showing an infra-red camera image being analysed in Bonsai, the right screen is our EinsteinVP. 
 
 ![](/assets/images/2018-09-17-popota_show-regie_2_cv.JPG)
 
@@ -50,7 +51,7 @@ UAU
 
 <b>Artica's Cast:</b><br>
 
-<b>Art Direction:</b><br>
+<b>Visual Art Direction:</b><br>
 Guilherme Martins
 
 <b>3D Modeling:</b><br>
@@ -60,12 +61,12 @@ Filipe Barbosa
 Guilherme Martins, Filipe Barbosa, João Ribeiro
 
 <b>Software Development, Realtime Interaction:</b><br>
-André Almeida, Ricardo Imperial 
+André Almeida, Gonçalo Lopes, Ricardo Imperial 
 
 <b>Software Development, Einstein Video Player:</b><br>
 Guilherme Martins
 
-<b>Props Concept:</b><br>
+<b>Props Concept and Direction:</b><br>
 Eric Costa
 
 <b>Props Construction:</b><br>
