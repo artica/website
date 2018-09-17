@@ -45,30 +45,30 @@ We also created the props, this included a big school rubber, pencils, compass, 
 
 Popota is a SonaeSierra's brand.
 
-Production:
+<b>Production:</b>
 UAU
 
-Artica's Cast:
+<b>Artica's Cast:</b>
 
-Art Direction:
+<b>Art Direction:</b>
 Guilherme Martins
 
-3D Modeling:
+<b>3D Modeling:</b>
 Filipe Barbosa
 
-Video Editing:
+<b>Video Editing:</b>
 Guilherme Martins, Filipe Barbosa, João Ribeiro
 
-Software Development, Realtime Interaction:
+<b>Software Development, Realtime Interaction:</b>
 André Almeida, Ricardo Imperial 
 
-Software Development, Einstein Video Player:
+<b>Software Development, Einstein Video Player:</b>
 Guilherme Martins
 
-Props Concept:
+<b>Props Concept:</b>
 Eric Costa
 
-Props Construction:
+<b>Props Construction:</b>
 Eric Costa, José Noronha, Paula Espanha
 
 [1]: http://artica.cc/products/#einstein
