@@ -3,7 +3,7 @@ layout: post
 date: 2018-09-25 11:00:00 UTC
 title: "Aura Festival ' 2018"
 categories: blog
-excerpt: "be a Naturistic Creator with our Procedural Florest at Aura Festival ' 2018"
+excerpt: "Be a Naturistic Creator with Procedural Florest at Aura Festival ' 2018"
 thumbnail: /assets/thumbs/2018-09-25-aura_2.png
 frontimage: /assets/images/2018-09-25-aura_2.png
 ---
