@@ -1,0 +1,28 @@
+---
+layout: post
+date: 2018-09-29 11:00:00 UTC
+title: "Gyro"
+categories: projects hardware products
+excerpt: "With Gyro you can have fun while learning robotics and programming. You can use it to study other subjects, from math to arts. Gyro is an Edutainment Robot that is pre-programmed with many features: drawing, play sounds, remote control, and more. It's a great tool for parents and educators worldwide."
+thumbnail: /assets/thumbs/2015-09-21-lisbon-maker-faire-01.jpg
+frontimage: /assets/images/2015-09-21-lisbon-maker-faire-01.jpg
+---
+
+With Gyro you can have fun while learning robotics and programming. You can use it to study other subjects, from math to arts. Gyro is an Edutainment Robot that is pre-programmed with many features: drawing, play sounds, remote control, and more. It's a great tool for parents and educators worldwide.
+
+![](/assets/images/2015-09-21-lisbon-maker-faire-01.jpg)
+
+{% include youtube.html id="Bj-s6yr4b28" %}
+
+Gyro will be available Spring 2016. More information can be found at the [webpage](1).</p>
+				
+Register at <a href="http://eepurl.com/bGxX5X">Gyro announcement mailling list</a> to receive notifications.
+				
+Gyro has it's own programming environment called [Gyro Creator](2) (previosuly known as Visualino). Gyro Creator is a web-based visual programming tool for the Arduino platform. It uses a well known paradigm from the gaming industry called behaviour trees. Multiple people can be editing the same content and the content can be shared via link with other people for copying, cloning, referencing and cataloguing.
+
+The project was initally developed as part of a research for the future of education, allowing any user (kids or adults) to create behaviors for arduino based robots using simplified behavior tree paradigms. Behavior tree paradigms work differently from standard linear programming. It is often used in game development to construct behaviors for non player characters and can also be used to trigger multimedia content events (show images, play videos, expect triggers).
+
+![](/assets/images/2015-11-17-visualino2.jpg)
+
+[1]: https://gyro.artica.cc
+[2]: http://gyro.artica.cc/creator/

@@ -1,0 +1,22 @@
+---
+layout: post
+date: 2018-09-25 11:00:00 UTC
+title: "INTERACT"
+categories: red
+excerpt: "Interactive New Tecnologies Regarding Augmentation in a Computerized Taxonomy - INTERACT"
+thumbnail: /assets/thumbs/2018-09-26-interact.jpg
+frontimage: /assets/images/2018-09-26-interact.png
+---
+
+![](/assets/images/2018-09-26-interact.png)
+
+In July 2018 Artica.cc had a new [P2020][2] R&D funded project, focused on hyper-reality and emerging knowledge of disruptive technologies research.
+
+INTERACT project aims the exploratory research on Hyper-reality environments and acquisition of emerging new technological knowledge related to the use of disruptive technologies (namely virtual reality, augmented reality, artificial intelligence, Human Computer Interaction and Internet of Things - IOT) for the development of unconventional techno-artistic solutions, in particular at the level of [Human-Machine Interactions (HCI)][1] with groups of people simultaneously.
+
+Through the investment on R&D activities and materialization of results of a wide range of components and electronic devices (hardware) and the extension of the technological competences of ARTICACC at the software level for integration in creative physical computing products and services, as well as for boosting ARTICACC technological skills on VR and AR interactions, this project intends to conceptualize and develop application models for interactive and immersive environments that will allow the design of new products based on interaction systems of virtual and / or augmented reality linked with the development of interactive installations and / or visual shows with high potential.
+
+We will be publishing news very soon, nevertheless, INTERACT project is aimed at being as Open Source as possible, so feel free to contact us asking questions or requesting specific video logs on particular new technologies we have been developing.
+
+[1]: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+[2]: https://www.portugal2020.pt/Portal2020

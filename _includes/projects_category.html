@@ -7,21 +7,19 @@
     {% for category in post.categories %}
     {% if category == include.catg %}
 
-    <div class="large-100">
-      <div class="column-group">
-        <div class="large-33 medium-33 small-100">
-         <a href="{{ post.url }}"><img src="{{ post.thumbnail }}"></a>
-       </div>
-       <div class="large-66 medium-66 small-100">
-        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-        <p>{{ post.excerpt }}</p>
-      </div>
+    <div class="large-33 medium-33 small-100 content-box">
+        <a href="{{ post.url }}">
+			<div class="content-overlay"></div>
+			<img src="{{ post.thumbnail }}">
+			<div class="content-details fadeIn-bottom">
+				<h3 class="content-title">{{ post.title }}</h3>
+			</div>
+		</a>
     </div>
-  </div>
-  
-  {% endif %}
-  {% endfor %}
-  {% endfor %}
+      
+	{% endif %}
+	{% endfor %}
+	{% endfor %}
 </div>
 </div>
 </section>

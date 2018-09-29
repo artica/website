@@ -2,7 +2,7 @@
 layout: post
 date: 2014-03-18 18:11:00 UTC
 title: "Farrusco"
-categories: projects hardware
+categories: projects hardware products
 excerpt: "Farrusco is a small robot based on the Arduino platform, in this case it’s using a Motoruino wich is an Arduino clone with a couple of enhancements"
 thumbnail: /assets/thumbs/2014-03-18-farrusco_1.png
 ---

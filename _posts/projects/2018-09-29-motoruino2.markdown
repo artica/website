@@ -1,0 +1,73 @@
+---
+layout: post
+date: 2018-09-29 12:00:00 UTC
+title: "Motoruino2"
+categories: products hardware projects
+excerpt: "Motoruino2 is a full featured Arduino compatible board designed specifically to work with DC motors, servos and various kinds of sensors."
+thumbnail: /assets/thumbs/2018-09-29-motoruino2.jpg
+---
+
+<p>Motoruino2 is a full featured Arduino compatible board designed specifically to work with DC motors, servos and various kinds of sensors. It operates at working temperature of 0ºC a 55ºC.</p>
+
+				<div>Sensors:
+				<ul>
+					<li>Gyroscope (±250/±500/±2000 dps)</li>
+					<li>Accellerometer (±2 g/±4 g/±8 g/±16 g)</li>
+					<li>Temperature Sensor Resolution 1ºC</li>
+					<li>Battery level sensor connected to an A/D</li>
+					<li>High Current Motor detection</li>
+					<li>1 Microphone 40dB@16kHz with preamp</li>
+				</ul>
+				</div>
+				<br>
+				<div>Actuators:
+				<ul>
+					<li>1 Servomotor</li>
+					<li>1 Buzzer</li>
+					<li>1 Power MOSFET (1Amp @ 5V or VIN)</li>
+					<li>2 Leds RGB</li>
+					<li>PWM Power Selection (5V or VIN)</li>
+					<li>Motors Power Selection (5V or VIN)</li>
+				</ul>
+				</div>
+				<br>
+				<div>Interfaces:
+				<ul>
+					<li>1 XBEE Socket @ 3V3 (with level shifter)</li>
+					<li>1 USB micro with overcurrent protection 500mA</li>
+					<li>1 Arduino UNO R3 Shield</li>
+					<li>I2C Communication between Main and Secondary Microcontroller</li>
+				</ul>
+				</div>
+				<br>
+				<div>Arduino Shield:
+				<ul>
+					<li>Operating Voltage 5V, máx 1Amp</li>
+					<li>14 Digital I/O</li>
+					<li>8 Analog Input Pins</li>
+					<li>40mA DC current per I/O pin</li>
+					<li>Bateria Li-Po</li>
+					<li>Charge voltage 4.2V, nominal voltage 3.7V, cut-off voltage 3.0V</li>
+					<li>Capacity 4400mAh</li>
+					<li>Charge Speed: 500mA USB or 1000mA External Supply</li>
+				</ul>
+				</div>
+				
+				<p>External Supply: 8V-19V</p>
+
+				<div>Microcontroller:
+				<ul>
+					<li>Main (Arduino Leonardo Compatible):<br>
+						ATmega32u4 @ 16MHz; 5V<br>
+						32KB FLASH of which 4K Bootloader<br>
+						1KB EEPROM<br>
+						2,5KB RAM</li>
+					<li>Secondary (Arduino Pro (3.3V, 8MHz) Compatible):<br>
+						ATmega328 @ 8MHz; 3V3<br>
+						32KB FLASH of which 2K Bootloader<br>
+						1KB EEPROM<br>
+						2KB RAM</li>
+				</ul>
+				</div>
+
+				<p>Prices (excluding VAT): 90€ assembled and tested. Will be available Spring 2016, get in <a href="http://artica.cc/contacts/">contact</a> with us to pre-order.</p>
