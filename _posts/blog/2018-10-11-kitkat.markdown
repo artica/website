@@ -4,8 +4,8 @@ date: 2018-10-11 11:00:00 UTC
 title: "TOPPI, the sweet artist"
 categories: blog
 excerpt: "TOPPI, the sweet artist"
-thumbnail: /assets/thumbs/2018-09-17-popota_thumbs.jpg
-frontimage: /assets/images/2018-09-17-popota.jpg
+thumbnail: /assets/thumbs/2018-10-11-kitkat_02.jpg
+frontimage: /assets/images/2018-10-11-kitkat_02.jpg
 ---
 
 This Summer we had one of our history biggest challenges. We were approached by [JWT][1] to build an interactive robot with the ability to customize [KitKat's][2] according to users drawings. This sounded a great challenge, but we were far from imagining what was in front of us.
@@ -14,8 +14,8 @@ So, the storyboard for the installation is, a user approaches the KitKat's booth
 
 Well, this (not so) simple project consisted of many different front battles. 
 
-<b>Toppings:</b>b
-It was supposed the robot to draw with flavoured toppings, white chocolate to dark chocolate, strawberry, pistachio, and even caramel.
+<b>Toppings:</b>
+The robot was supposed to draw with flavoured toppings, white chocolate, dark chocolate, strawberry, pistachio, and caramel.
 We are known as sweet tooths, we love ice creams and Portuguese sweet cakery. But we are far from mastering toppings, and more, to master toppings in order to make them "printable". Our experience in 3D printers made us design a topping extrusor, using a stepper motor that would squeeze a syringe.
 
 ![](/assets/images/2018-10-11-kitkat_06.jpg)
@@ -47,7 +47,7 @@ We stablished contact with Jibo Inc, explaining the nature of the project and on
 
 In order to continue to use Jibo, it had to suffer some serious modifications. Basically, we replaced all the Jibo's original electronics by our own. This matter deserves a dedicated post in the near future.
 
-This is just a neak peak of Jibo's major hack:
+This is just a sneak peak of Jibo's major hack:
 ![](/assets/images/2018-10-11-JIBO.gif)
 
 By the time, this was our electronics bench status. It crossed our minds that one would never be able to put the thing into one piece again, but we are known as the guys that never give up.
@@ -55,7 +55,7 @@ By the time, this was our electronics bench status. It crossed our minds that on
 ![](/assets/images/2018-10-11-kitkat_11.jpg)
 
 <b>Decorations:</b>
-To continue witht the organic shapes, big spheres were 3D printed, polished and painted, they fitted nicely and really gave some organics to the arm.
+Big spheres were 3D printed, polished and painted, they fitted nicely and really gave some organics to the arm.
 
 ![](/assets/images/2018-10-11-kitkat_16.jpg)
 ![](/assets/images/2018-10-11-kitkat_08.jpg)
