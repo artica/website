@@ -78,45 +78,45 @@ It was a marathon until the last minute, when finally everything was set, we loo
 
 Visit [Kitkat's portuguese facebook][5] for more photos and videos.
 
-<b>End Customer:</b>
+<b>End Customer:</b><br>
 Nestlé Portugal
 
-<b>Agency</b>
+<b>Agency</b><br>
 J. Walter Thompson Lisboa
 
-<b>Concept</b>
+<b>Concept</b><br>
 J. Walter Thompson Lisboa
 
-<b>Production</b>
+<b>Production</b><br>
 Artica Creative Computing, PT
 
-<b>Robot Modification and Extrusor Design</b>
+<b>Robot Modification and Extrusor Design</b><br>
 Eric da Costa
 
-<b>Construction</b>
-Eric da Costa
-José Pedro Noronha
-João Ribeiro
-André Almeida
-Guilherme Martins
+<b>Construction</b><br>
+Eric da Costa<br>
+José Pedro Noronha<br>
+João Ribeiro<br>
+André Almeida<br>
+Guilherme Martins<br>
 
-<b>Software Development</b>
-André Almeida
-Tarquínio Mota
-Ricardo Imperial
+<b>Software Development</b><br>
+André Almeida<br>
+Tarquínio Mota<br>
+Ricardo Imperial<br>
 
-<b>Electronics</b>
-Tarquínio Mota
-André Almeida
-Guilherme Martins
+<b>Electronics</b><br>
+Tarquínio Mota<br>
+André Almeida<br>
+Guilherme Martins<br>
 
-<b>Interaction Design</b>
-Nuno Lourenço
-André Almeida
+<b>Interaction Design</b><br>
+Nuno Lourenço<br>
+André Almeida<br>
 
-<b>Sound, Motion Graphics, Robot animations</b>
-Filipe Barbosa
-Nuno Lourenço
+<b>Sound, Motion Graphics, Robot animations</b><br>
+Filipe Barbosa<br>
+Nuno Lourenço<br>
 
 [1]: https://www.jwt.com/pt/portugal
 [2]: https://www.kitkat.com/
