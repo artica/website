@@ -8,20 +8,20 @@ thumbnail: /assets/thumbs/2018-10-11-kitkat_02.jpg
 frontimage: /assets/images/2018-10-11-kitkat_02.jpg
 ---
 
-This Summer we had one of our history biggest challenges. We were approached by [JWT][1] to build an interactive robot with the ability to customize [KitKat's][2] according to users drawings. This sounded a great challenge, but we were far from imagining what was in front of us.
+This Summer we had one of our histories biggest challenges. We were approached by [JWT][1] to build an interactive robot with the ability to customize [KitKat's][2] according to users drawings. This sounded like a great challenge, but we were far from imagining what was in front of us.
 
 So, the storyboard for the installation is, a user approaches the KitKat's booth, draws on a tablet, then enters Toppi's room. The drawing is submitted to Toppi and it starts drawing. Easy task no?
 
-Well, this (not so) simple project consisted of many different front battles. 
+Well, this (not so) simple project consisted of many different battle fronts. 
 
 <b>Toppings:</b>
-The robot was supposed to draw with flavoured toppings, white chocolate, dark chocolate, strawberry, pistachio, and caramel.
-We are known as sweet tooths, we love ice creams and Portuguese sweet cakery. But we are far from mastering toppings, and more, to master toppings in order to make them "printable". Our experience in 3D printers made us design a topping extrusor, using a stepper motor that would squeeze a syringe.
+The robot was supposed to draw with flavoured toppings: white chocolate, dark chocolate, strawberry, pistachio, and caramel.
+We are known as sweet tooths, we love ice creams and Portuguese sweet cakery. But we are far from mastering toppings, and more, to master toppings in order to make them "printable". Our experience in 3D printers made us design a topping extruder, using a stepper motor that would squeeze a syringe.
 
 ![](/assets/images/2018-10-11-kitkat_06.jpg)
 
 <b>Industrial robotic arm:</b>
-We have plenty of experience in robotics, but industrial devices are a completely different game. Our senior developer Tarquinio, had to master the framework of the robotic arm. Robotic arms are totally prepared to be programmed on a task driven sequence. Our application was different, the arm had to be able to draw different paths every time. 
+We have plenty of experience in robotics, but industrial devices are a completely different game. Our senior developer Tarquinio had to master the framework of the robotic arm. Robotic arms are totally prepared to be programmed on a task driven sequence. Our application was different, the arm had to be able to draw different paths every time. 
 
 ![](/assets/images/2018-10-11-Robotic-Arm-Robot-GIF-source.gif)
 
@@ -30,27 +30,27 @@ Here is Tarquinio and Eric taking measurements, and seeing how far the arm could
 
 <b>Machines should, and must be humanized:</b>
 
-An industrial robotic arm is something cold and with lack of humanity.
+An industrial robotic arm is something cold and lacking humanity.
 
 But this little fellow have the cuteness one's can't find everywhere. Meet Jibo!!
 ![](/assets/images/2018-10-11-jibo_time.jpg)
 
-We wanted to give human characteristics to the robotic arm, and [Jibo][3] was a big candidate to bring some expressions and engage interaction with the users. 
+We wanted to give human characteristics to the robotic arm, and [Jibo][3] was a big candidate to bring some expressions and engage in interaction with the users. 
 
-Here Eric is studying how Jibo will fit with the arm.
+Here Eric is studying how Jibo and the arm will fit together.
 
 ![](/assets/images/2018-10-11-kitkat_12.jpg)
 
 So one Jibo was purchased, and only when we tried to download the developer SDK, we found that Jibo, Inc is going through a [layoff's][4] ??!! Bummer!!
 
-We stablished contact with Jibo Inc, explaining the nature of the project and on the first hand they made us hope they would cooperate by giving access to the SDK, but weeks passed by and we started to panic about this. Until finally they told us that it would not be possible for major reasons. We were on our own on this!
+We stablished contact with Jibo Inc, explaining the nature of the project and initially we were told they would cooperate by giving us access to the SDK, but as weeks went by we started to panic about this. Until finally they told us that it would not be possible for major reasons. We were on our own again in this!
 
-In order to continue to use Jibo, it had to suffer some serious modifications. Basically, we replaced all the Jibo's original electronics by our own. This matter deserves a dedicated post in the near future.
+In order to continue to use Jibo, it had to suffer some serious modifications. Basically, we replaced all of the Jibo's original electronics by our own. This matter deserves a dedicated post in the near future.
 
 This is just a sneak peak of Jibo's major hack:
 ![](/assets/images/2018-10-11-JIBO.gif)
 
-By the time, this was our electronics bench status. It crossed our minds that one would never be able to put the thing into one piece again, but we are known as the guys that never give up.
+This was our electronics bench status around those days. It crossed our minds that we would never be able to put the thing back into one piece again, but we are known as the guys that never give up.
 
 ![](/assets/images/2018-10-11-kitkat_11.jpg)
 
@@ -61,16 +61,16 @@ Big spheres were 3D printed, polished and painted, they fitted nicely and really
 ![](/assets/images/2018-10-11-kitkat_08.jpg)
 
 <b>Interaction:</b>
-This was another huge task. The drawing was made and submitted, than the arm picks the extrusors following the drawing order, while the hacked Jibo (that now was called Toppi), displayed eyes animations, and performs movements and plays Toppi's sweet sounds. There are so many whistles, horns and bells envolved into this that deserve another dedicated post to explain everything in detail.
+This was another huge task. The drawing was made and submitted, then the arm picks the extruders following the drawing order, while the hacked Jibo displayed eye animations, performs movements and plays Toppi's sweet sounds. There are so many whistles, horns and bells involved in this that it deserves another dedicated post to explain everything in detail.
 
 <b>Transportation:</b>
-To transport this monster we needed, a bigger monster. Two main requirements for the case, everything had to fit nicely inside, it has to be able to pass through the door!
-The extrusors, the arm, the arm driver, the main computer, and a massive UPS were placed inside.
+To transport this monster we needed... A bigger monster! Two main requirements for the case: everything had to fit nicely inside, and it had to be able to pass through the door!
+The extruders, the arm, the arm driver, the main computer, and a massive UPS were placed inside.
 
 ![](/assets/images/2018-10-11-kitkat_05.jpg)
 
-<b>The Festival's:</b>
-It was a marathon until the last minute, when finally everything was set, we looked like zombies, but in the end, there was that nice feeling of accomplishment. Toppi made 4 summer festival's, started in Rock in Rio, Sumol SummerFest, SuperBockSuperRock and finally Meo Sudoeste.
+<b>The Festivals:</b>
+It was a marathon until the last minute, when finally everything was set, we looked like zombies, but in the end, there was that nice feeling of accomplishment. Toppi made 5 summer festivals, started in Rock in Rio, Sumol SummerFest, SuperBockSuperRock, NOS Alive and finally Meo Sudoeste.
 
 {% include youtube.html id="yRL-4skP6tM" %}
 
@@ -90,7 +90,7 @@ J. Walter Thompson Lisboa
 <b>Production</b><br>
 Artica Creative Computing, PT
 
-<b>Robot Modification and Extrusor Design</b><br>
+<b>Robot Modification and Extruder Design</b><br>
 Eric da Costa
 
 <b>Construction</b><br>
