@@ -9,7 +9,7 @@ title: Artica Portfolio
 			<nav class="ink-navigation sticky" id="projects_menu">
 				<ul class="menu vertical rounded black">
 					<li><a class="scrollableLink" href="/portfolio#projects_menu"><span class="icon-chevron-up"></span> Back to Top</a></li>
-					<li><a class="scrollableLink" href="#showreels">Showreels</a></li>
+					
 					<li><a class="scrollableLink" href="#interactive">Interactive Installations</a></li>
 					<li><a class="scrollableLink" href="#projection">Video Projection</a></li>
 					<!--<li><a class="scrollableLink" href="#physical">Physical Interfaces</a></li>-->
@@ -17,7 +17,8 @@ title: Artica Portfolio
 					<!--<li><a class="scrollableLink" href="#education">Educational Robotics</a></li>-->
 					<li><a class="scrollableLink" href="#workshops">Workshops</a></li>
 					<li><a class="scrollableLink" href="#red">R&D</a></li>
-					<li><a class="scrollableLink" href="#products">Products</a></li>				
+					<li><a class="scrollableLink" href="#products">Products</a></li>	
+					<li><a class="scrollableLink" href="#showreels">Showreels</a></li>			
 				</ul>
 			</nav>
 		</header>
@@ -25,6 +26,17 @@ title: Artica Portfolio
 
 	<div class="large-80 medium-80 small-100 content" style="padding-top:23px;">
 	
+		
+		
+		{% include projects_category.html catg="interactive" title="Interactive Installations" %}
+		{% include projects_category.html catg="projection" title="Video Projection" %}
+		<!--{% include projects_category.html catg="physical" title="Physical Interfaces" %}-->
+		{% include projects_category.html catg="hardware" title="Hardware & Robotics" %}
+		<!--{% include projects_category.html catg="education" title="Educational Robotics" %}-->
+		{% include projects_category.html catg="workshops" title="Workshops" %}
+		{% include projects_category.html catg="red" title="R&D" %}
+		{% include projects_category.html catg="products" title="Products" %}
+
 		<section id="showreels" data-spy="true" data-target="#media_menu">
 			<div>
 				<h2>Showreels</h2>
@@ -41,15 +53,6 @@ title: Artica Portfolio
 				<br><br>
 			</div>
 		</section>
-		
-		{% include projects_category.html catg="interactive" title="Interactive Installations" %}
-		{% include projects_category.html catg="projection" title="Video Projection" %}
-		<!--{% include projects_category.html catg="physical" title="Physical Interfaces" %}-->
-		{% include projects_category.html catg="hardware" title="Hardware & Robotics" %}
-		<!--{% include projects_category.html catg="education" title="Educational Robotics" %}-->
-		{% include projects_category.html catg="workshops" title="Workshops" %}
-		{% include projects_category.html catg="red" title="R&D" %}
-		{% include projects_category.html catg="products" title="Products" %}
 		
 	</div>
 </div>
