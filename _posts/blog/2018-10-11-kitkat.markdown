@@ -4,8 +4,8 @@ date: 2018-10-11 11:00:00 UTC
 title: "TOPPI, the sweet artist"
 categories: blog
 excerpt: "TOPPI, the sweet artist"
-thumbnail: /assets/thumbs/2018-09-17-popota_thumbs.jpg
-frontimage: /assets/images/2018-09-17-popota.jpg
+thumbnail: /assets/thumbs/2018-10-11-kitkat_02.jpg
+frontimage: /assets/images/2018-10-11-kitkat_02.jpg
 ---
 
 This Summer we had one of our history biggest challenges. We were approached by [JWT][1] to build an interactive robot with the ability to customize chocolates, in this case [KitKat's][2], with users drawings. This sounded a great challenge, but we were far from imagining what was in front of us.
