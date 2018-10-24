@@ -8,126 +8,118 @@ thumbnail: /assets/thumbs/2018-10-11-kitkat_02.jpg
 frontimage: /assets/images/2018-10-11-kitkat_02.jpg
 ---
 
-This Summer we had one of our history biggest challenges. We were approached by [JWT][1] to build an interactive robot with the ability to customize chocolates, in this case [KitKat's][2], with users drawings. This sounded a great challenge, but we were far from imagining what was in front of us.
+This Summer we had one of our histories biggest challenges. We were approached by [JWT][1] to build an interactive robot with the ability to customize [KitKat's][2] according to users drawings. This sounded like a great challenge, but we were far from imagining what was in front of us.
 
-So, the storyboard for the installation was, a user approaches the KitKat's booth, draws on a tablet, then enters Toppi's room. The drawing is submitted to Toppi and it starts drawing. Easy task no?
+So, the storyboard for the installation is, a user approaches the KitKat's booth, draws on a tablet, then enters Toppi's room. The drawing is submitted to Toppi and it starts drawing. Easy task no?
 
-Well, this (not so) simple project consisted of many different front battles. 
+Well, this (not so) simple project consisted of many different battle fronts. 
 
 <b>Toppings:</b>
-It was supposed the robot to draw with flavoured toppings, white chocolate, dark chocolate, strawberry, pistachio, and caramel.
-We are known as sweet tooths, we love ice creams and Portuguese sweet cakery. But we are far from mastering toppings, and more, to master toppings in order to make them "printable". Our experience in 3D printers made us design a topping extrusor, using a stepper motor that would squeeze a syringe.
+The robot was supposed to draw with flavoured toppings: white chocolate, dark chocolate, strawberry, pistachio, and caramel.
+We are known as sweet tooths, we love ice creams and Portuguese sweet cakery. But we are far from mastering toppings, and more, to master toppings in order to make them "printable". Our experience in 3D printers made us design a topping extruder, using a stepper motor that would squeeze a syringe.
 
 ![](/assets/images/2018-10-11-kitkat_06.jpg)
 
 <b>Industrial robotic arm:</b>
-We have plenty of experience in robotics, but industrial devices are a complete different game.
+We have plenty of experience in robotics, but industrial devices are a completely different game. Our senior developer Tarquinio had to master the framework of the robotic arm. Robotic arms are totally prepared to be programmed on a task driven sequence. Our application was different, the arm had to be able to draw different paths every time. 
 
+![](/assets/images/2018-10-11-Robotic-Arm-Robot-GIF-source.gif)
 
+Here is Tarquinio and Eric taking measurements, and seeing how far the arm could reach.
+![](/assets/images/2018-10-11-kitkat_14.jpg)
 
-Here is Tarquinio and Eric taking measurements, and seeing how far the arm is able to reach.
-[IMG]
+<b>Machines should, and must be humanized:</b>
 
-Machines should, and must be humanized:
+An industrial robotic arm is something cold and lacking humanity.
 
-We wanted to bring some human characteristics to the robotic arm, and Jibo was a big candidate to bring some expressions, and some organic flavour to this project.
-We bought the Jibo, and only when we tried to download the developer SDK, we found that Jibo, Inc is going through big  layoff's.
-[link]
-We stablished contact with Jibo Inc, explaining the nature of the project and on the first hand they made us hope they would cooperate by giving access to the SDK, but weeks passed by and we started to panic about this. Until finally they told us that it would not be possible. We were on our own on this.
+But this little fellow have the cuteness one's can't find everywhere. Meet Jibo!!
+![](/assets/images/2018-10-11-jibo_time.jpg)
 
-Jibo had to suffer some serious modification. Basically, we replaced all the Jibo's original electronics by our own. This matter deserves a dedicated post in the near future.
+We wanted to give human characteristics to the robotic arm, and [Jibo][3] was a big candidate to bring some expressions and engage in interaction with the users. 
 
-[img]
+Here Eric is studying how Jibo and the arm will fit together.
 
-An industrial robotic arm is something cold and with lack of humanity, Jibo's organics shapes inspired us to creat what would be the body of the robotic arm.
-[img]
-Big spheres were 3D printed, polished and painted, and oh boy, they fitted really gave some organics to the arm.
+![](/assets/images/2018-10-11-kitkat_12.jpg)
 
-Interaction:
-This was another huge task. 
-[data flow]
-The drawing was made and submitted, the arm picks the extrusors following the drawing order, while Jibo (that now was called Toppi), displayed eyes animations, and performs movements and plays Toppi's sweet sounds. There are so many whistles, horns and bells envolved into this that deserve another dedicated post to explain everything in detail.
+So one Jibo was purchased, and only when we tried to download the developer SDK, we found that Jibo, Inc is going through a [layoff's][4] ??!! Bummer!!
 
-Transportation:
-The case to transport this monster was a bigger monster. Two main requirements for the case, everything had to fit nicely inside, it has to be able to pass through the door!
-The extrusors, the arm, the arm driver, the main computer, and a massive UPS were placed inside.
+We stablished contact with Jibo Inc, explaining the nature of the project and initially we were told they would cooperate by giving us access to the SDK, but as weeks went by we started to panic about this. Until finally they told us that it would not be possible for major reasons. We were on our own again in this!
 
-The Festival's:
-It was a marathon until the last minute, when finally everything was set, we looked like zombies, but in the end, there was that nice feeling of accomplishment. Toppi made 4 summer festival's, started in Rock in Rio, Sumol SummerFest, SuperBockSuperRock and finally Meo Sudoeste.
+In order to continue to use Jibo, it had to suffer some serious modifications. Basically, we replaced all of the Jibo's original electronics by our own. This matter deserves a dedicated post in the near future.
 
-Visit Kitkat portuguese facebook for more photos and videos.
+This is just a sneak peak of Jibo's major hack:
+![](/assets/images/2018-10-11-JIBO.gif)
 
+This was our electronics bench status around those days. It crossed our minds that we would never be able to put the thing back into one piece again, but we are known as the guys that never give up.
 
+![](/assets/images/2018-10-11-kitkat_11.jpg)
 
+<b>Decorations:</b>
+Big spheres were 3D printed, polished and painted, they fitted nicely and really gave some organics to the arm.
 
-In 2017 we were invited by [UAU][2] to participate in Popota's Christmas Show, that took place in [Campo Pequeno][7], Lisbon. 
+![](/assets/images/2018-10-11-kitkat_16.jpg)
+![](/assets/images/2018-10-11-kitkat_08.jpg)
 
-It was a big challenge due to the requirements of the performance:
-- Ultra-Large LED Wall
-- 40 minutes of continuous video
-- Videos triggered in sync with the actors/performers
-- Real-time interactive contents
+<b>Interaction:</b>
+This was another huge task. The drawing was made and submitted, then the arm picks the extruders following the drawing order, while the hacked Jibo displayed eye animations, performs movements and plays Toppi's sweet sounds. There are so many whistles, horns and bells involved in this that it deserves another dedicated post to explain everything in detail.
 
-![](/assets/images/2018-09-17-popota_showpopota_led_walls.JPG)
+<b>Transportation:</b>
+To transport this monster we needed... A bigger monster! Two main requirements for the case: everything had to fit nicely inside, and it had to be able to pass through the door!
+The extruders, the arm, the arm driver, the main computer, and a massive UPS were placed inside.
 
-Having this, we created all the visual contents plus the scene props. 
+![](/assets/images/2018-10-11-kitkat_05.jpg)
 
-The visuals were created 3D Max, edited and rendered in Unity 3D, then post processed. 
-Real-time interactive graphics generation was also developed in Unity 3D. 
+<b>The Festivals:</b>
+It was a marathon until the last minute, when finally everything was set, we looked like zombies, but in the end, there was that nice feeling of accomplishment. Toppi made 5 summer festivals, started in Rock in Rio, Sumol SummerFest, SuperBockSuperRock, NOS Alive and finally Meo Sudoeste.
 
-![](/assets/images/2018-09-17-popota_show-IMG_2488.JPG)
-![](/assets/images/2018-09-17-popota_show-IMG_2674.JPG)
-![](/assets/images/2018-09-17-popota_show-IMG_2827.JPG)
+{% include youtube.html id="yRL-4skP6tM" %}
 
-During the creative process we wanted to have a glimpse of the size relations between the screens and the stage, so we developed a VR stage.
+{% include youtube.html id="trh2k8VYCLE" %}
 
-![](/assets/images/2018-09-17-popota_show-vr.JPG)
+Visit [Kitkat's portuguese facebook][5] for more photos and videos.
 
-Our [Einstein VideoPlayer][1] had to be updated to run large video dimensions with high performance, to achieve this peak performance we used [HAP codec][3]. Einstein also received real-time video from a computer vision server running [Bonsai][4] linked to Unity, and finally connected to a [Spout][6]server (if you are a MAC user, [Syphon][5] does the same job), using HAP also allowed us to use multi-layered contents with alpha transparency videos. 
+<b>End Customer:</b><br>
+Nestlé Portugal
 
-This is an image of the two control screens, the left screen is showing an infra-red camera image being analysed in Bonsai, the right screen is our EinsteinVP. 
+<b>Agency</b><br>
+J. Walter Thompson Lisboa
 
-![](/assets/images/2018-09-17-popota_show-regie_2_cv.JPG)
+<b>Concept</b><br>
+J. Walter Thompson Lisboa
 
-We also created the props, this included a big school rubber, pencils, compass, pencil sharpener and a gramophone. 
+<b>Production</b><br>
+Artica Creative Computing, PT
 
-![](/assets/images/2018-09-17-popota_show-props_1.JPG)
-![](/assets/images/2018-09-17-popota_show-props_6.JPG)
-![](/assets/images/2018-09-17-popota_show-props_3.JPG)
+<b>Robot Modification and Extruder Design</b><br>
+Eric da Costa
 
+<b>Construction</b><br>
+Eric da Costa<br>
+José Pedro Noronha<br>
+João Ribeiro<br>
+André Almeida<br>
+Guilherme Martins<br>
 
-Popota is a SonaeSierra's brand.
+<b>Software Development</b><br>
+André Almeida<br>
+Tarquínio Mota<br>
+Ricardo Imperial<br>
 
-<b>Production:</b><br>
-UAU
+<b>Electronics</b><br>
+Tarquínio Mota<br>
+André Almeida<br>
+Guilherme Martins<br>
 
-<b>Artica's Cast:</b><br>
+<b>Interaction Design</b><br>
+Nuno Lourenço<br>
+André Almeida<br>
 
-<b>Visual Art Direction:</b><br>
-Guilherme Martins
+<b>Sound, Motion Graphics, Robot animations</b><br>
+Filipe Barbosa<br>
+Nuno Lourenço<br>
 
-<b>3D Modeling:</b><br>
-Filipe Barbosa
-
-<b>Video Editing:</b><br>
-Guilherme Martins, Filipe Barbosa, João Ribeiro
-
-<b>Software Development, Realtime Interaction:</b><br>
-André Almeida, Gonçalo Lopes, Ricardo Imperial 
-
-<b>Software Development, Einstein Video Player:</b><br>
-Guilherme Martins
-
-<b>Props Concept and Direction:</b><br>
-Eric Costa
-
-<b>Props Construction:</b><br>
-Eric Costa, José Noronha, Paula Espanha
-
-[1]: https://www.jwt.com/pt/portugal/trabalho
+[1]: https://www.jwt.com/pt/portugal
 [2]: https://www.kitkat.com/
-[3]: http://hap.video/
-[4]: https://bonsai-rx.org/
-[5]: http://syphon.v002.info/
-[6]: http://spout.zeal.co/
-[7]: http://www.campopequeno.com/espetaculoseeventos/
+[3]: https://www.jibo.com/
+[4]: https://www.bizjournals.com/boston/news/2018/06/11/more-layoffs-hit-jibo-and-this-time-they-re.html
+[5]: https://www.facebook.com/KitKatPT/
