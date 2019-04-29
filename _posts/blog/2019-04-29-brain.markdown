@@ -12,7 +12,6 @@ We had been quite busy in the last months, this was due to the deployment of 13 
 
 This is just sneak picks of our workshop, with bars on the roof to hold the neuron sculpture.
 
-[neuron_workshop1.jpeg]
 ![](/assets/images/2019-04-29-neuron_workshop1.JPG)
 
 This was a long journey, let me start by the neuron sculpture. This sculpture should be big, attract visitors attention, create space for curiosity and debate.
@@ -111,59 +110,59 @@ In the end, everything is working in full, but we couldn't end this post without
 
 Let me walk through every task each team member has made:
 
-<b>André Almeida</b>
-Project leader
-Interaction design
-Software development
-Neuron Sculpture detection and interaction
+<b>André Almeida</b><br>
+Project leader<br>
+Interaction design<br>
+Software development<br>
+Neuron Sculpture detection and interaction<br>
 
-<b>David Palma</b>
-Computer Rigging
-Electronics
-General Setup
+<b>David Palma</b><br>
+Computer Rigging<br>
+Electronics<br>
+General Setup<br>
 
-<b>Eric da Costa</b>
-Neuron Sculpture project leader
-Neuron Sculpture vision, concept, sculpture
+<b>Eric da Costa</b><br>
+Neuron Sculpture project leader<br>
+Neuron Sculpture vision, concept, sculpture<br>
 
-<b>Filipe Barbosa</b>
-Interactive applications art direction
-3D Models
-UI design
-Brain Orchestra Sound design 
-Neuron Sculpture Sound design
+<b>Filipe Barbosa</b><br>
+Interactive applications art direction<br>
+3D Models<br>
+UI design<br>
+Brain Orchestra Sound design<br>
+Neuron Sculpture Sound design<br>
 
-<b>Gonçalo Lopes</b> NeuroGears
-Software development
-Project Advisor
+<b>Gonçalo Lopes</b> NeuroGears<br>
+Software development<br>
+Project Advisor<br>
 
-<b>Guilherme Martins</b>
-Light equipment design and assembly
-Neuron sculpture interactive sound software
-Brain orchestra software developer
+<b>Guilherme Martins</b><br>
+Light equipment design and assembly<br>
+Neuron sculpture interactive sound software<br>
+Brain orchestra software developer<br>
 
-<b>João Ribeiro</b>
-Neuron Sculpture fiber glass
-Neuron Sculpture assembly
+<b>João Ribeiro</b><br>
+Neuron Sculpture fiber glass<br>
+Neuron Sculpture assembly<br>
 
-<b>João Frazão</b> NeuroGears
-Neuron Sculpture detection software
-Project Advisor
+<b>João Frazão</b> NeuroGears<br>
+Neuron Sculpture detection software<br>
+Project Advisor<br>
 
-<b>José Pedro Sousa</b>
-Neuron Sculpture fiber glass
-Neuron Sculpture assembly
+<b>José Pedro Sousa</b><br>
+Neuron Sculpture fiber glass<br>
+Neuron Sculpture assembly<br>
 
-<b>Ricardo Imperial</b>
-Interactive applications Software developer
+<b>Ricardo Imperial</b><br>
+Interactive applications Software developer<br>
 
-<b>Tarquínio Mota</b>
-Neuron Sculpture software development
-Neuron Sculpture light/electronics development
-Interactive applications software development
+<b>Tarquínio Mota</b><br>
+Neuron Sculpture software development<br>
+Neuron Sculpture light/electronics development<br>
+Interactive applications software development<br>
 
-Acknowledgements:
-Leonel Caldeira
-David Palma
-João Frazão
+Acknowledgements:<br>
+Leonel Caldeira<br>
+David Palma<br>
+João Frazão<br>
 
