@@ -1,0 +1,168 @@
+---
+layout: post
+date: 2019-04-29 11:00:00 UTC
+title: "Brain, wider than the sky"
+categories: blog
+excerpt: "Brain, wider than the sky"
+thumbnail: /assets/thumbs/2019-03-22-brain.jpg
+frontimage: /assets/images/2019-03-22-brain.jpg
+---
+
+We had been quite busy in the last months, this was due to the deployment of 13 interactive installations for the Brain exhibition in Fundação Calouste Gulbenkian in Lisbon, and also the constructions of a massive neuron sculpture. This occupied all our team members, and we had to change every space in our headquarters to be able to develop, test and assemble everything.
+
+This is just sneak picks of our workshop, with bars on the roof to hold the neuron sculpture.
+
+![](/assets/images/2019-04-29-neuron_workshop1.JPG)
+
+This was a long journey, let me start by the neuron sculpture. This sculpture should be big, attract visitors attention, create space for curiosity and debate.
+
+Eric da Costa, the mastermind behind this piece, did an in-depth research around many types of neurons, their behaviour and characteristics. A big sculpture needs light, and also needs to be interactive. For the lights, there were different needs, through the different parts of the neuron.
+
+I will try to describe the neuron anatomy, bare in mind that I am not a neuroscientist, so if any information does not match science facts, sorry about that.
+
+![](/assets/images/2019-04-29-neuron_3d_2.JPG) 
+
+Let's start with the dendrites, they are the branches that connect to neighbourhood neurons. 
+
+![](/assets/images/2019-04-29-neuronio1_dendrites.JPG)
+
+These branches "charge" the neuron nucleus, we call it "the core", it gathers energy until a certain point, when this point is achieved it triggers a spike to its neighbourhoods neurons.  
+
+![](/assets/images/2019-04-29-neuronio3_nucleo.JPG)
+
+This spike goes through the axon until the terminals.
+
+![](/assets/images/2019-04-29-neuronio_axon.JPG)
+
+These terminals connect to the next neuron.
+
+![](/assets/images/2019-04-29-neuronio2_terminals.JPG)
+
+Eric designed all the piece in 3D, planned how the piece should be sculpted, assembled, illuminated, transported and deployed.
+Eric also sculpted all the piece, while João Ribeiro and José Pedro aka 'Coias', did a masterwork with fiber glass, assembly, transportation and deployment.
+
+This sculpture deserves a dedicated post, there is so much more to show and tell.
+
+![](/assets/images/2019-04-29-neuronio3_sculpture.JPG)
+
+The neuron has 4 different types of light.
+
+The dendrites are filled with optical fibers and are driven by these DMX controllers, on total we have 6 of these controllers.
+
+![](/assets/images/2019-04-29-neuronio_dmxlightsource3.JPG)
+
+The core has a 3D printed sphere, filled with addressable LED strips. 
+
+![](/assets/images/2019-04-29-neuronio_core.JPG)
+![](/assets/images/2019-04-29-neuronio3_nucleo1.JPG)
+
+Soldering the strips
+
+![](/assets/images/2019-04-29-neuronio3_nucleo2.JPG)
+
+Tarquinio Mota developed these PCBs to drive LED strips through DMX.
+
+![](/assets/images/2019-04-29-neuronio_pcbs_ledstrips.JPG)
+
+The large dendrites are filled with large optical fibers, for these type of fibers, Tarquinio Mota developed another set of PCBs to handle high current LEDs.
+
+![](/assets/images/2019-04-29-neuronio_high_powerleds1.JPG)
+![](/assets/images/2019-04-29-neuronio_high_powerleds2.JPG)
+![](/assets/images/2019-04-29-neuronio_high_powerleds3.JPG)
+
+Large optical fibers.
+
+![](/assets/images/2019-04-29-neuronio_high_power_opticalfibers.JPG)
+
+The terminals are meant to flicker, for this, we are using adafruit LED matrix open source PCB, and we asked our supplier to use cold, warm, amber LED.
+
+![](/assets/images/2019-04-29-neuron_ledmatrix1.JPG)
+![](/assets/images/2019-04-29-neuron_ledmatrix2.JPG)
+
+Each of these fibers, went through one by one. In total, we are using two sets of 6 LED matrices.
+
+![](/assets/images/2019-04-29-neuron_ledmatrix3.JPG)
+![](/assets/images/2019-04-29-neuron_ledmatrix5.JPG)
+
+Testing randomness and different patterns.
+
+![](/assets/images/2019-04-29-fibers_optics.gif)
+![](/assets/images/2019-04-29-led_matrix.gif)
+
+Overall, the neuron is all filled with optical fibers, it sums all together 32 kilometres.
+
+![](/assets/images/2019-04-29-neuron_opticalfibers1.JPG)
+![](/assets/images/2019-04-29-neuron_opticalfibers2.JPG)
+
+Transportation was another challenge, it was separated in several different branches and parts, walkthrough Gulbenkian's garden by hand.
+
+![](/assets/images/2019-04-29-neuron_transport.gif)
+
+Every optical fiber had a specific role, here Tarquinio is programming all the piece. There is also an interaction side, where we are detecting persons near the dendrites, and person movement trigger the dendrites spikes. The detection is being made in Bonsai Framework, we are using 5 cameras for the motion detection. Big thanks to Gonçalo Lopes and João Frazão for the great help!
+
+Beside this interactive sculpture, we deployed 13 interactive installations, some more complex than others. Filipe Barbosa,  Ricardo Imperial, Tarquínio Mota and André Almeida were the guys that made all these applications possible.
+
+![](/assets/images/2019-04-29-fotos_instalacoes.jpg)
+
+We need to give other big thanks to our friend David Palma, he helped us rigging computers, routing cables, setting up computer settings, troubleshooting electronics and so much more. I don't have enough words to thank you David!!
+
+In the end, everything is working in full, but we couldn't end this post without mentioning one major mistake we have made. The credits are all messed up, and with so many installations and details to manage, we totally missed this non-less important thing.
+
+Let me walk through every task each team member has made:
+
+<b>André Almeida</b><br>
+Project leader<br>
+Interaction design<br>
+Software development<br>
+Neuron Sculpture detection and interaction<br>
+
+<b>David Palma</b><br>
+Computer Rigging<br>
+Electronics<br>
+General Setup<br>
+
+<b>Eric da Costa</b><br>
+Neuron Sculpture project leader<br>
+Neuron Sculpture vision, concept, sculpture<br>
+
+<b>Filipe Barbosa</b><br>
+Interactive applications art direction<br>
+3D Models<br>
+UI design<br>
+Brain Orchestra Sound design<br>
+Neuron Sculpture Sound design<br>
+
+<b>Gonçalo Lopes</b> NeuroGears<br>
+Software development<br>
+Project Advisor<br>
+
+<b>Guilherme Martins</b><br>
+Light equipment design and assembly<br>
+Neuron sculpture interactive sound software<br>
+Brain orchestra software developer<br>
+
+<b>João Ribeiro</b><br>
+Neuron Sculpture fiber glass<br>
+Neuron Sculpture assembly<br>
+
+<b>João Frazão</b> NeuroGears<br>
+Neuron Sculpture detection software<br>
+Project Advisor<br>
+
+<b>José Pedro Sousa</b><br>
+Neuron Sculpture fiber glass<br>
+Neuron Sculpture assembly<br>
+
+<b>Ricardo Imperial</b><br>
+Interactive applications Software developer<br>
+
+<b>Tarquínio Mota</b><br>
+Neuron Sculpture software development<br>
+Neuron Sculpture light/electronics development<br>
+Interactive applications software development<br>
+
+Acknowledgements:<br>
+Leonel Caldeira<br>
+David Palma<br>
+João Frazão<br>
+
