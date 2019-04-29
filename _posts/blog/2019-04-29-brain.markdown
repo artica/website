@@ -8,9 +8,9 @@ thumbnail: /assets/thumbs/2019-03-22-brain.jpg
 frontimage: /assets/images/2019-03-22-brain.jpg
 ---
 
-We had been quite busy in the last months, this was due to the deployment of 13 interactive installations for the Brain exhibition in Fundação Calouste Gulbenkian in Lisbon, and also the constructions of a massive neuron sculpture. This occupied all our team members, and we had to change every space in our headquarters to be able to develop, test and assemble everything.
+We had been quite busy in the last months, due to the deployment of 13 interactive installations for the Brain exhibition in Fundação Calouste Gulbenkian in Lisbon, and also the construction of a massive neuron sculpture. This project occupied all of our team members, and we had to change the configuration of all the rooms in our headquarters to be able to develop, test and assemble everything.
 
-This is just sneak picks of our workshop, with bars on the roof to hold the neuron sculpture.
+These are just some sneak pics of our workshop, with bars assembled on the roof to hold the neuron sculpture.
 
 ![](/assets/images/2019-04-29-neuron_workshop1.JPG)
 
@@ -18,15 +18,15 @@ This was a long journey, let me start by the neuron sculpture. This sculpture sh
 
 Eric da Costa, the mastermind behind this piece, did an in-depth research around many types of neurons, their behaviour and characteristics. A big sculpture needs light, and also needs to be interactive. For the lights, there were different needs, through the different parts of the neuron.
 
-I will try to describe the neuron anatomy, bare in mind that I am not a neuroscientist, so if any information does not match science facts, sorry about that.
+I will try to describe the neuron anatomy. Bear in mind that I am not a neuroscientist, so if any information does not match science facts, sorry about that.
 
 ![](/assets/images/2019-04-29-neuron_3d_2.JPG) 
 
-Let's start with the dendrites, they are the branches that connect to neighbourhood neurons. 
+Let's start with the dendrites, they are the branches that connect to other neurons. 
 
 ![](/assets/images/2019-04-29-neuronio1_dendrites.JPG)
 
-These branches "charge" the neuron nucleus, we call it "the core", it gathers energy until a certain point, when this point is achieved it triggers a spike to its neighbourhoods neurons.  
+These branches "charge" the neuron nucleus, we call it "the core". It gathers energy until a certain point, when this point is reached it triggers a spike that fires up the axon.  
 
 ![](/assets/images/2019-04-29-neuronio3_nucleo.JPG)
 
@@ -38,8 +38,8 @@ These terminals connect to the next neuron.
 
 ![](/assets/images/2019-04-29-neuronio2_terminals.JPG)
 
-Eric designed all the piece in 3D, planned how the piece should be sculpted, assembled, illuminated, transported and deployed.
-Eric also sculpted all the piece, while João Ribeiro and José Pedro aka 'Coias', did a masterwork with fiber glass, assembly, transportation and deployment.
+Eric designed the whole piece in 3D, planned how each section should be sculpted, assembled, illuminated, transported and deployed.
+Eric also sculpted the whole piece, while João Ribeiro and José Pedro aka 'Coias', did a masterwork with fiber glass, assembly, transportation and deployment.
 
 This sculpture deserves a dedicated post, there is so much more to show and tell.
 
@@ -56,7 +56,7 @@ The core has a 3D printed sphere, filled with addressable LED strips.
 ![](/assets/images/2019-04-29-neuronio_core.JPG)
 ![](/assets/images/2019-04-29-neuronio3_nucleo1.JPG)
 
-Soldering the strips
+Soldering the strips.
 
 ![](/assets/images/2019-04-29-neuronio3_nucleo2.JPG)
 
@@ -64,7 +64,7 @@ Tarquinio Mota developed these PCBs to drive LED strips through DMX.
 
 ![](/assets/images/2019-04-29-neuronio_pcbs_ledstrips.JPG)
 
-The large dendrites are filled with large optical fibers, for these type of fibers, Tarquinio Mota developed another set of PCBs to handle high current LEDs.
+The large dendrites are filled with large optical fibers. For these type of fibers, Tarquinio Mota developed another set of PCBs to handle high current LEDs.
 
 ![](/assets/images/2019-04-29-neuronio_high_powerleds1.JPG)
 ![](/assets/images/2019-04-29-neuronio_high_powerleds2.JPG)
@@ -74,12 +74,12 @@ Large optical fibers.
 
 ![](/assets/images/2019-04-29-neuronio_high_power_opticalfibers.JPG)
 
-The terminals are meant to flicker, for this, we are using adafruit LED matrix open source PCB, and we asked our supplier to use cold, warm, amber LED.
+The terminals are meant to flicker. For this, we are using adafruit LED matrix open source PCB, but we asked our supplier to use cold, warm, amber LEDS, instead of the normal red, green and blue.
 
 ![](/assets/images/2019-04-29-neuron_ledmatrix1.JPG)
 ![](/assets/images/2019-04-29-neuron_ledmatrix2.JPG)
 
-Each of these fibers, went through one by one. In total, we are using two sets of 6 LED matrices.
+Each of these fibers went through one by one. In total, we are using two sets of 6 LED matrices.
 
 ![](/assets/images/2019-04-29-neuron_ledmatrix3.JPG)
 ![](/assets/images/2019-04-29-neuron_ledmatrix5.JPG)
@@ -89,16 +89,16 @@ Testing randomness and different patterns.
 ![](/assets/images/2019-04-29-fibers_optics.gif)
 ![](/assets/images/2019-04-29-led_matrix.gif)
 
-Overall, the neuron is all filled with optical fibers, it sums all together 32 kilometres.
+Overall, the neuron is filled with optical fibers, adding up to a total of 32 kilometres.
 
 ![](/assets/images/2019-04-29-neuron_opticalfibers1.JPG)
 ![](/assets/images/2019-04-29-neuron_opticalfibers2.JPG)
 
-Transportation was another challenge, it was separated in several different branches and parts, walkthrough Gulbenkian's garden by hand.
+Transportation was another challenge, it was separated in several different branches and parts, and carried through Gulbenkian's garden by hand.
 
 ![](/assets/images/2019-04-29-neuron_transport.gif)
 
-Every optical fiber had a specific role, here Tarquinio is programming all the piece. There is also an interaction side, where we are detecting persons near the dendrites, and person movement trigger the dendrites spikes. The detection is being made in Bonsai Framework, we are using 5 cameras for the motion detection. Big thanks to Gonçalo Lopes and João Frazão for the great help!
+Every optical fiber had a specific role, here Tarquinio is programming the whole piece. There is also an interaction side, where we are detecting persons near the dendrites, and each person movement triggers nearby dendrite spikes. The detection is  made in the Bonsai Framework, using 5 cameras for the motion detection. Big thanks to Gonçalo Lopes and João Frazão for the great help!
 
 Beside this interactive sculpture, we deployed 13 interactive installations, some more complex than others. Filipe Barbosa,  Ricardo Imperial, Tarquínio Mota and André Almeida were the guys that made all these applications possible.
 
@@ -161,8 +161,11 @@ Neuron Sculpture software development<br>
 Neuron Sculpture light/electronics development<br>
 Interactive applications software development<br>
 
-Acknowledgements:<br>
+<b>Acknowledgements:</b><br>
 Leonel Caldeira<br>
 David Palma<br>
 João Frazão<br>
 
+
+Post author:<br>
+Guilherme Martins
