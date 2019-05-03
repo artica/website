@@ -10,6 +10,7 @@
     <meta property="fb:admins" content="celso.martinho"/>
     <meta property="og:title" content="{% if include.title %}{{ include.title }}{% else %}Artica{% endif %}" />
     <meta property="og:type" content="article" />
+    <meta property="og:published" content="{{ include.published }}" />
     <meta property="og:image" content="{% if include.thumbnail %}http://artica.cc/{{ include.thumbnail }}{% else %}http://artica.cc/assets/homepage/social.jpg{% endif %}" />
     <meta property="og:url" content="http://artica.cc{{ page.url }}" />
     <meta property="og:description" content="{% if include.description %}{{ include.description }}{% else %}Artica{% endif %}" />

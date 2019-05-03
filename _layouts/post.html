@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">    
-{% include header.html description=page.excerpt title=page.title thumbnail=page.frontimage lang="en" %}
+<html lang="en">
+    {% assign published = page.date | date: "%Y-%m-%d" %}
+    {% include header.html description=page.excerpt title=page.title thumbnail=page.frontimage lang="en" published=published %}
 <body>
 <div class="ink-grid">
     {% include navigation.html %}
