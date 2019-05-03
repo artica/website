@@ -25,7 +25,9 @@
         <div class="large-80 medium-80 small-100">
             <article class="shadows">
                 <h1>{{ page.title | replace: "\'", "'"}}</h1>
-                <p>Published in <time pubdate="pubdate">{{ page.date | date_to_string }}</time></p>
+                <div class="postmetadata">
+                    <p>Published in <time pubdate="pubdate">{{ page.date | date_to_string }}</time></p>
+                </div>
                 <p>{{ content }}</p>
             </article>
             {% if site.disqus_shortname %}
