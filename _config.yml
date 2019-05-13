@@ -2,7 +2,7 @@ name: Artica Website
 encoding: utf-8
 timezone: Europe/Lisbon
 disqus_shortname: "artica"
-url: "http://artica.cc/"
+url: "https://old.artica.cc/"
 use_leaflet: 1
 gems: [jekyll-paginate]
 description: "We aim to transform emerging technologies and art into impactful human experiences. Artica digs electronics, education, robots, digital fabrication, prototyping, and all things creative."
